@@ -1,7 +1,7 @@
 {
  "status": "ok",
  "month": "2026-11",
- "generated_at": "2026-11-10T00:39:16+09:00",
+ "generated_at": "2026-11-10T01:11:07+09:00",
  "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
  "items": [
   {
@@ -27,6 +27,12 @@
    "release_note": "3.8 버전 업데이트일",
    "status": "revealed",
    "illustration_url": "https://i.ytimg.com/vi/F64TLsomPyM/hqdefault.jpg",
+   "portrait_url": "https://i.ytimg.com/vi/F64TLsomPyM/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 28.0
+   },
+   "portrait_zoom": 2.1,
    "source_urls": [
     "https://www.youtube.com/watch?v=F64TLsomPyM",
     "https://www.youtube.com/watch?v=jQfuUUFPf8s",
@@ -39,14 +45,8 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:39:16+09:00",
-   "related_posts": [
-    {
-     "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
-     "url": "https://news84034.tistory.com/13",
-     "published": "Mon, 9 Nov 2026 18:39:39 +0900"
-    }
-   ],
+   "last_updated": "2026-11-10T01:11:07+09:00",
+   "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
   },
@@ -70,6 +70,12 @@
    "release_note": "출시 버전 미공지(공식 캐릭터 소개 공개)",
    "status": "revealed",
    "illustration_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/07/de0c87692b7a9e64d3d551a8c63e8a5a_6184742778360466163.jpg",
+   "portrait_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/07/de0c87692b7a9e64d3d551a8c63e8a5a_6184742778360466163.jpg",
+   "portrait_focus": {
+    "x": 60.0,
+    "y": 28.0
+   },
+   "portrait_zoom": 1.8,
    "source_urls": [
     "https://www.hoyolab.com/article/47351623",
     "https://www.youtube.com/watch?v=PqBu685Hx-k",
@@ -80,19 +86,8 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:39:16+09:00",
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    },
-    {
-     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-     "url": "https://news84034.tistory.com/5",
-     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-    }
-   ],
+   "last_updated": "2026-11-10T01:11:07+09:00",
+   "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
   },
@@ -116,6 +111,12 @@
    "release_note": "출시 버전 미공지(공식 캐릭터 소개 공개)",
    "status": "revealed",
    "illustration_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/06/34ac0a9e6113f374078f4bc27fb30a4d_6117020765778038875.jpg",
+   "portrait_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/06/34ac0a9e6113f374078f4bc27fb30a4d_6117020765778038875.jpg",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 32.0
+   },
+   "portrait_zoom": 1.7,
    "source_urls": [
     "https://www.hoyolab.com/article/47339559",
     "https://www.youtube.com/watch?v=fD7Lu8dPTko",
@@ -126,19 +127,8 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:39:16+09:00",
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    },
-    {
-     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-     "url": "https://news84034.tistory.com/5",
-     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-    }
-   ],
+   "last_updated": "2026-11-10T01:11:07+09:00",
+   "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
   },
@@ -161,7 +151,13 @@
    "release_date": "2026-11-05",
    "release_note": null,
    "status": "pickup_live",
-   "illustration_url": "https://nng-phinf.pstatic.net/MjAyNjExMDNfOTgg/MDAxNzkzNjkxODI0MDQz.i5T2WZ3fHnSfyCsLi5Q920KvrcGVWA88ITyq7j9xhOUg.kn17FjWCpwbLHKdBD7yb4-S2EiUi3aSoAI-mxtwd1dsg.PNG/3_3.png",
+   "illustration_url": "https://nng-phinf.pstatic.net/MjAyNjExMDNfMTg4/MDAxNzkzNjkxODYxMzU3.tnCuuZlsAYEn-mnrvpji-Cg5Ld3iFer2hZuaZD_egscg.B8ZpguY6TQnHDlLTqbg8tUyG98zd9Xv-e6WIVR4u-Ekg.GIF/3.gif",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu.png",
+   "portrait_focus": {
+    "x": 50,
+    "y": 48
+   },
+   "portrait_zoom": 1.15,
    "source_urls": [
     "https://game.naver.com/lounge/trickcal/board/detail/8404607"
    ],
@@ -179,7 +175,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:39:16+09:00",
+   "last_updated": "2026-11-10T01:11:07+09:00",
    "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
@@ -204,6 +200,12 @@
    "release_note": null,
    "status": "pickup_live",
    "illustration_url": "https://i.ytimg.com/vi/LGRJvchK9jg/hqdefault.jpg",
+   "portrait_url": "https://i.ytimg.com/vi/LGRJvchK9jg/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 38.0,
+    "y": 35.0
+   },
+   "portrait_zoom": 1.8,
    "source_urls": [
     "https://www.youtube.com/watch?v=LGRJvchK9jg",
     "https://game.naver.com/lounge/Arknights_Endfield/board/detail/8410148",
@@ -225,7 +227,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:39:16+09:00",
+   "last_updated": "2026-11-10T01:11:07+09:00",
    "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
@@ -254,6 +256,12 @@
    "release_note": "4.7 버전 업데이트일(워프 일정 공지는 업데이트 후 수집)",
    "status": "revealed",
    "illustration_url": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
+   "portrait_url": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 68.0,
+    "y": 38.0
+   },
+   "portrait_zoom": 1.7,
    "source_urls": [
     "https://www.youtube.com/watch?v=hcwRWe0UyKI",
     "https://www.hoyolab.com/article/47307963",
@@ -271,14 +279,8 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:39:16+09:00",
-   "related_posts": [
-    {
-     "title": "스타레일 4.7 아하 픽업 정리 | 11월 11일 시작, 황천&middot;음월&middot;경원은 12월 2일 후반 복각",
-     "url": "https://news84034.tistory.com/11",
-     "published": "Mon, 9 Nov 2026 12:00:55 +0900"
-    }
-   ],
+   "last_updated": "2026-11-10T01:11:07+09:00",
+   "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
   },
@@ -302,6 +304,12 @@
    "release_note": "1.5 버전 출시일",
    "status": "revealed",
    "illustration_url": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
+   "portrait_url": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 52.0,
+    "y": 38.0
+   },
+   "portrait_zoom": 1.7,
    "source_urls": [
     "https://www.youtube.com/watch?v=ioTHCpW4RSo",
     "https://www.youtube.com/watch?v=MK4bIOILTHM",
@@ -315,7 +323,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:39:16+09:00",
+   "last_updated": "2026-11-10T01:11:07+09:00",
    "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
@@ -343,6 +351,9 @@
    "release_note": "1.5 버전 출시일",
    "status": "revealed",
    "illustration_url": null,
+   "portrait_url": null,
+   "portrait_focus": null,
+   "portrait_zoom": null,
    "source_urls": [
     "https://www.youtube.com/watch?v=MK4bIOILTHM",
     "https://x.com/NTE_KO/status/2115644670399385795"
@@ -352,7 +363,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:39:16+09:00",
+   "last_updated": "2026-11-10T01:11:07+09:00",
    "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
@@ -380,6 +391,12 @@
    "release_note": null,
    "status": "pickup_live",
    "illustration_url": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
+   "portrait_url": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 65.0,
+    "y": 38.0
+   },
+   "portrait_zoom": 1.7,
    "source_urls": [
     "https://www.youtube.com/watch?v=6V0kctC2-Tg",
     "https://www.hoyolab.com/article/47296173",
@@ -400,19 +417,8 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-10T00:39:16+09:00",
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    },
-    {
-     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-     "url": "https://news84034.tistory.com/5",
-     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-    }
-   ],
+   "last_updated": "2026-11-10T01:11:07+09:00",
+   "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
   },
@@ -439,6 +445,12 @@
    "release_note": null,
    "status": "pickup_live",
    "illustration_url": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
+   "portrait_url": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 58.0,
+    "y": 35.0
+   },
+   "portrait_zoom": 1.7,
    "source_urls": [
     "https://www.youtube.com/watch?v=tCeXHmvg3ko",
     "https://www.hoyolab.com/article/47284161",
@@ -459,19 +471,8 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-10T00:39:16+09:00",
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    },
-    {
-     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-     "url": "https://news84034.tistory.com/5",
-     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-    }
-   ],
+   "last_updated": "2026-11-10T01:11:07+09:00",
+   "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
   },
@@ -496,6 +497,12 @@
    "release_note": null,
    "status": "revealed",
    "illustration_url": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
+   "portrait_url": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 62.0,
+    "y": 32.0
+   },
+   "portrait_zoom": 1.9,
    "source_urls": [
     "https://www.hoyolab.com/article/47375931",
     "https://www.youtube.com/watch?v=OcDcxORlzmY",
@@ -521,14 +528,8 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:39:16+09:00",
-   "related_posts": [
-    {
-     "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 11월 11일 시작, 노르마 복각",
-     "url": "https://news84034.tistory.com/12",
-     "published": "Mon, 9 Nov 2026 15:20:23 +0900"
-    }
-   ],
+   "last_updated": "2026-11-10T01:11:07+09:00",
+   "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
   }

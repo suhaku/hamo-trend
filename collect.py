@@ -137,6 +137,64 @@ def strip_html(h: str | None) -> str:
     return re.sub(r"\s+", " ", text).strip()[:2000]
 
 
+
+def lounge_character_image(contents: str | None, rep: str | None) -> str | None:
+    """Prefer official character intro/sprite images over wide event banners.
+
+    Trickcal (and other Naver lounges) put the event banner in repImageUrl while the
+    post body often includes cleaner character sprites (near-square, no '이벤트' strip).
+    """
+    imgs: list[str] = []
+    if contents:
+        try:
+            doc = json.loads(contents)
+        except Exception:
+            doc = None
+
+        def walk(o):
+            if isinstance(o, dict):
+                for v in o.values():
+                    walk(v)
+            elif isinstance(o, list):
+                for x in o:
+                    walk(x)
+            elif isinstance(o, str) and "nng-phinf.pstatic.net" in o:
+                imgs.append(o.split("?")[0].replace("\\/", "/"))
+
+        if doc is not None:
+            walk(doc)
+        for u in re.findall(r"https://nng-phinf\.pstatic\.net[^\"\\]+", contents):
+            imgs.append(u.replace("\\/", "/").split("?")[0])
+    seen, uniq = set(), []
+    for u in imgs:
+        if not u or u in seen:
+            continue
+        # require a real phinf object path (not host-only / truncated)
+        if not re.search(r"nng-phinf\.pstatic\.net/.+\.(?:png|jpe?g|gif|webp)(?:$|\?)", u, re.I):
+            continue
+        if len(u) < 60:
+            continue
+        seen.add(u)
+        uniq.append(u)
+
+    def is_bannerish(u: str) -> bool:
+        name = u.rsplit("/", 1)[-1].lower()
+        return bool(re.search(r"(banner|event|3_3|2_2|header)", name))
+
+    # Prefer non-banner body images; among those, prefer higher numeric stems (char sheets)
+    def score(u: str) -> tuple:
+        name = u.rsplit("/", 1)[-1].lower()
+        m = re.search(r"/(\d+)\.(?:gif|png|jpe?g)$", "/" + name)
+        idx = int(m.group(1)) if m else -1
+        return (1 if is_bannerish(u) else 0, -idx, len(u))
+
+    ranked = sorted(uniq, key=score)
+    for u in ranked:
+        if not is_bannerish(u):
+            return safe_url(u, for_output=True)
+    return safe_url((ranked[0] if ranked else None) or rep, for_output=True)
+
+
 def sanitize(obj):
     if obj is None or isinstance(obj, (bool, int, float)):
         return obj
@@ -150,7 +208,22 @@ def sanitize(obj):
         out = {}
         for k, v in obj.items():
             key = strip_html(str(k))[:80]
-            if key in ("source_url", "url", "image", "thumb", "link", "illustration_url") or key.endswith("_url"):
+            if key in ("portrait_focus",):
+                # {x,y} percents for object-position — keep numeric dict only
+                if isinstance(v, dict):
+                    try:
+                        out[key] = {"x": float(v.get("x")), "y": float(v.get("y"))}
+                    except Exception:
+                        out[key] = None
+                else:
+                    out[key] = None
+            elif key in ("portrait_zoom",):
+                try:
+                    z = float(v)
+                    out[key] = z if 0.5 <= z <= 5 else None
+                except Exception:
+                    out[key] = None
+            elif key in ("source_url", "url", "image", "thumb", "link", "illustration_url", "portrait_url") or key.endswith("_url"):
                 out[key] = safe_url(v, for_output=True) if isinstance(v, str) else None
             else:
                 out[key] = sanitize(v)
@@ -934,7 +1007,7 @@ def naver_lounge(g, cfg):
                 is_new=has_new,
                 is_rerun=is_rerun or (bool(rerun_chars) and not has_new),
                 type="복각" if (is_rerun and not has_new) else ("신규" if has_new else "기타"),
-                image=safe_url(f["feed"].get("repImageUrl"), for_output=True),
+                image=lounge_character_image(f["feed"].get("contents"), f["feed"].get("repImageUrl")),
                 confirmed=bool(start and end),
                 source="네이버 게임 라운지 공식 GM 공지",
                 source_label="네이버 게임 라운지 공식 공지",
@@ -1172,7 +1245,8 @@ def main():
         if c is None:
             c = dict(id=v["id"], game_id=gid)
             characters.append(c)
-        for k in ("name", "aliases", "reveal_date", "reveal_note", "release_date", "release_note", "illustration_url", "evidence"):
+        for k in ("name", "aliases", "reveal_date", "reveal_note", "release_date", "release_note",
+                  "illustration_url", "portrait_url", "portrait_focus", "portrait_zoom", "evidence"):
             if k in v:
                 c[k] = v[k]
         if v.get("pickup"):
@@ -1182,6 +1256,17 @@ def main():
         c["status"] = v.get("status") or c.get("status") or "revealed"
         c["is_new"], c["active"] = True, True
         c["verification"] = "manual_verified_official_source"
+
+    # portrait tuning map (manual focus/zoom; also covers auto-discovered ids like 미탸/발레리)
+    for cid, pm in (overrides.get("portrait_overrides") or {}).items():
+        if not isinstance(pm, dict):
+            continue
+        c = next((x for x in characters if x.get("id") == cid), None)
+        if not c:
+            continue
+        for k in ("portrait_url", "portrait_focus", "portrait_zoom", "illustration_url"):
+            if k in pm and pm[k] is not None:
+                c[k] = pm[k]
 
     # --- auto-discovery from official sources (future reveals, not only overrides) ---
     discovery_pending = []
@@ -1549,6 +1634,9 @@ def main():
             release_date=c.get("release_date"), release_note=c.get("release_note"),
             status=c.get("status"),
             illustration_url=safe_url(c.get("illustration_url"), for_output=True),
+            portrait_url=safe_url(c.get("portrait_url") or c.get("illustration_url"), for_output=True),
+            portrait_focus=c.get("portrait_focus"),
+            portrait_zoom=c.get("portrait_zoom"),
             source_urls=srcs,
             source_url=srcs[0] if srcs else None,
             source_label=None if srcs else "공식 공지",
@@ -1718,7 +1806,43 @@ def main():
         r["rank"] = i
     rising_top = rising_candidates[0] if rising_candidates else None
 
-    # Section 5: pickup_schedule — official confirmed; flag reruns but focus new
+    # Section 5: pickup_schedule — classify EACH banner by its FEATURED character
+    # 신규 only if the featured character is in this month's new_characters; else 복각.
+    new_month_ids = {c["id"] for c in new_this_month}
+    new_month_by_name: dict[tuple[str, str], dict] = {}
+    for c in new_this_month:
+        for a in alias_list(c):
+            new_month_by_name[(c["game_id"], norm_name(a))] = c
+    # also index all enriched chars for portrait lookup of reruns
+    all_by_name: dict[tuple[str, str], dict] = {}
+    for c in enriched:
+        for a in alias_list(c):
+            all_by_name.setdefault((c["game_id"], norm_name(a)), c)
+
+    def featured_name_from_pickup(p) -> str | None:
+        meta = p.get("character_meta") or []
+        feats = [m.get("name") for m in meta if isinstance(m, dict) and m.get("featured") and m.get("name")]
+        if feats:
+            return clean_char_token(feats[0]) or feats[0]
+        title = p.get("title") or ""
+        m = FEATURED_TITLE_RE.search(title)
+        if m:
+            tok = clean_char_token(m.group(1))
+            if tok:
+                return tok
+        # lounge / non-hoyo: first verified new, else first character
+        for lst in (p.get("new_characters"), p.get("characters")):
+            if lst:
+                tok = clean_char_token(lst[0]) or lst[0]
+                if tok:
+                    return tok
+        return None
+
+    def resolve_char(gid: str, nm: str | None):
+        if not nm:
+            return None
+        return new_month_by_name.get((gid, norm_name(nm))) or all_by_name.get((gid, norm_name(nm)))
+
     schedule_items = []
     for p in all_pickups_raw:
         url = p.get("source_url")
@@ -1727,13 +1851,13 @@ def main():
         confirmed = p.get("confirmed") or (url in approve_pickups)
         if not confirmed or not p.get("start") or not p.get("end"):
             continue
-        # month overlap
+        if p.get("type") == "무기" or WEAPON_BANNER_RE.search(p.get("title") or ""):
+            continue
         try:
             s = parse_dt(str(p["start"]))
             e = parse_dt(str(p["end"]))
         except Exception:
             s = e = None
-        # include only if it overlaps this month or is upcoming (drop long-ended / 10-year permanent)
         tzo = "+08:00" if p.get("tz") == "UTC+8" else "+09:00"
         s = s or parse_dt(str(p["start"]).replace(" ", "T") + ("T00:00:00" if len(str(p["start"])) == 10 else "") + tzo)
         e = e or parse_dt(str(p["end"]).replace(" ", "T") + ("T23:59:00" if len(str(p["end"])) == 10 else "") + tzo)
@@ -1741,47 +1865,96 @@ def main():
             continue
         if e and s and (e - s).days > 120:
             continue
+
+        feat = featured_name_from_pickup(p)
+        ch = resolve_char(p["game_id"], feat)
+        # 신규 iff featured character is in this month's new list
+        is_feat_new = bool(ch and ch.get("id") in new_month_ids)
+        # also accept if featured name is explicitly in this pickup's new_characters AND in month list
+        if not is_feat_new and feat:
+            for nm in (p.get("new_characters") or []):
+                if norm_name(nm) == norm_name(feat) and (p["game_id"], norm_name(nm)) in new_month_by_name:
+                    ch = new_month_by_name[(p["game_id"], norm_name(nm))]
+                    is_feat_new = True
+                    break
+        # roster-known featured → always 복각
+        if feat and in_known_roster(p["game_id"], feat):
+            is_feat_new = False
+
+        portrait_url = None
+        portrait_focus = None
+        portrait_zoom = None
+        featured_id = None
+        if ch:
+            featured_id = ch.get("id")
+            portrait_url = safe_url(ch.get("portrait_url") or ch.get("illustration_url"), for_output=True)
+            portrait_focus = ch.get("portrait_focus")
+            portrait_zoom = ch.get("portrait_zoom")
+        if not portrait_url:
+            portrait_url = safe_url(p.get("image"), for_output=True)
+
         schedule_items.append(dict(
             game_id=p["game_id"], game_name=p["game_name"],
             title=p.get("title"),
             characters=p.get("characters"),
             new_characters=p.get("new_characters"),
             rerun_characters=p.get("rerun_characters"),
+            featured_character=feat,
+            featured_character_id=featured_id,
+            portrait_url=portrait_url,
+            portrait_focus=portrait_focus,
+            portrait_zoom=portrait_zoom,
             start=p.get("start"), end=p.get("end"), tz=p.get("tz") or "KST",
-            is_new=p.get("is_new"), is_rerun=p.get("is_rerun"),
-            type=p.get("type"),
-            image=p.get("image"),
+            is_new=is_feat_new, is_rerun=not is_feat_new,
+            type="신규" if is_feat_new else "복각",
+            image=safe_url(p.get("image"), for_output=True),
             source=p.get("source"),
             source_label=p.get("source_label") or p.get("source"),
             source_url=None if is_api_url(url) else url,
             api_source=p.get("api_source") or (url if is_api_url(url) else None),
             last_updated=iso(NOW),
         ))
-    have = {norm_name(n) for i in schedule_items for n in (i.get("new_characters") or [])}
+
+    # Attach verified new-character pickups that aren't already represented as a featured banner
+    have_feat = {(i.get("game_id"), norm_name(i.get("featured_character") or "")) for i in schedule_items}
     for c in new_this_month:
         pk = c.get("pickup") or {}
         nm = (c.get("name") or {}).get("ko")
-        if not (pk.get("start") and pk.get("end") and nm) or norm_name(nm) in have:
+        if not (pk.get("start") and pk.get("end") and nm):
+            continue
+        if (c["game_id"], norm_name(nm)) in have_feat:
             continue
         surl = pk.get("source_url") if not is_api_url(pk.get("source_url")) else None
         if not surl:
             continue
-        same = [i for i in schedule_items if i.get("source_url") == surl]
-        if same:  # attach verified new character to the official notice it came from
-            for i in same:
-                i["new_characters"] = [nm]
-                i["characters"] = list(dict.fromkeys([nm] + (i.get("characters") or [])))
-                i["is_new"], i["is_rerun"], i["type"] = True, False, "신규"
-            continue
+        # If an existing schedule row shares this source but features someone else, keep both
         schedule_items.append(dict(
             game_id=c["game_id"], game_name=gname.get(c["game_id"]),
-            title=f"신규 캐릭터 「{nm}」 픽업", characters=[nm], new_characters=[nm], rerun_characters=None,
+            title=f"신규 캐릭터 「{nm}」 픽업",
+            characters=[nm], new_characters=[nm], rerun_characters=None,
+            featured_character=nm, featured_character_id=c["id"],
+            portrait_url=safe_url(c.get("portrait_url") or c.get("illustration_url"), for_output=True),
+            portrait_focus=c.get("portrait_focus"), portrait_zoom=c.get("portrait_zoom"),
             start=pk["start"], end=pk["end"], tz=pk.get("tz") or "KST",
-            is_new=True, is_rerun=False, type="신규", image=None,
+            is_new=True, is_rerun=False, type="신규",
+            image=safe_url(c.get("illustration_url"), for_output=True),
             source=pk.get("source"), source_label=pk.get("source_label") or pk.get("source"),
             source_url=surl, api_source=None, last_updated=iso(NOW),
         ))
-    schedule_items.sort(key=lambda x: x.get("start") or "")
+        have_feat.add((c["game_id"], norm_name(nm)))
+
+    # Drop noise: no featured character and no character list (e.g. spectacle-card events)
+    schedule_items = [
+        i for i in schedule_items
+        if i.get("featured_character") or i.get("featured_character_id") or i.get("characters") or i.get("new_characters")
+    ]
+    # If a featured row shares source_url with a characterless leftover, keep featured only
+    featured_urls = {i.get("source_url") for i in schedule_items if i.get("featured_character") and i.get("source_url")}
+    schedule_items = [
+        i for i in schedule_items
+        if i.get("featured_character") or i.get("source_url") not in featured_urls
+    ]
+    schedule_items.sort(key=lambda x: (x.get("start") or "", x.get("game_id") or ""))
 
     # Strip private working fields before saving registry
     save_chars = []

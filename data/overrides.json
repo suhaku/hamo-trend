@@ -1,5 +1,5 @@
 {
- "note": "Manual review. verified_new_characters = official-source-confirmed NEW (each needs official source_urls). hide_character_ids / hide_pickup_urls / approve_pickup_urls. No secrets.",
+ "note": "Manual review. verified_new_characters = official-source-confirmed NEW (each needs official source_urls). hide_character_ids / hide_pickup_urls / approve_pickup_urls. No secrets. portrait_url/portrait_focus/portrait_zoom: round-crop tuning. Trickcal prefers character intro sprites over event banners.",
  "hide_pickup_urls": [],
  "hide_character_ids": [],
  "approve_pickup_urls": [],
@@ -32,7 +32,13 @@
     "https://www.youtube.com/watch?v=2sUF2R9FtjE",
     "https://www.hoyolab.com/article/47375930"
    ],
-   "evidence": "공식 KR 유튜브 '캐릭터 프리뷰 | 에이언즈★아하'(11/04)·HoYoLAB '에이언즈 프리뷰'(환락•양자)·4.7 PV(10/30)·4.7 점검 공지(11/11)"
+   "evidence": "공식 KR 유튜브 '캐릭터 프리뷰 | 에이언즈★아하'(11/04)·HoYoLAB '에이언즈 프리뷰'(환락•양자)·4.7 PV(10/30)·4.7 점검 공지(11/11)",
+   "portrait_url": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 68,
+    "y": 38
+   },
+   "portrait_zoom": 1.7
   },
   {
    "id": "genshin-danika",
@@ -56,7 +62,13 @@
     "https://www.youtube.com/watch?v=PqBu685Hx-k",
     "https://x.com/genshinimpactkr/status/2118916353570570675"
    ],
-   "evidence": "HoYoLAB 공식 캐릭터 소개(별의 쐐기: 번개, 운명의 자리)·HoYoWiki 캐릭터 도감 등재·공식 X"
+   "evidence": "HoYoLAB 공식 캐릭터 소개(별의 쐐기: 번개, 운명의 자리)·HoYoWiki 캐릭터 도감 등재·공식 X",
+   "portrait_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/07/de0c87692b7a9e64d3d551a8c63e8a5a_6184742778360466163.jpg",
+   "portrait_focus": {
+    "x": 60,
+    "y": 28
+   },
+   "portrait_zoom": 1.8
   },
   {
    "id": "genshin-anastasia",
@@ -80,7 +92,13 @@
     "https://www.youtube.com/watch?v=fD7Lu8dPTko",
     "https://x.com/genshinimpactkr/status/2118553963008045180"
    ],
-   "evidence": "HoYoLAB 공식 캐릭터 소개(신의 심장: 얼음, 운명의 자리)·HoYoWiki 캐릭터 도감 등재·공식 X"
+   "evidence": "HoYoLAB 공식 캐릭터 소개(신의 심장: 얼음, 운명의 자리)·HoYoWiki 캐릭터 도감 등재·공식 X",
+   "portrait_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/06/34ac0a9e6113f374078f4bc27fb30a4d_6117020765778038875.jpg",
+   "portrait_focus": {
+    "x": 50,
+    "y": 32
+   },
+   "portrait_zoom": 1.7
   },
   {
    "id": "zzz-severian",
@@ -113,7 +131,13 @@
     "is_new": true,
     "is_rerun": false
    },
-   "evidence": "HoYoLAB 공식 공지: 한정 S급 에이전트 [세베리안(바람·강공)] 11/11 13:00~12/01 15:59 KST"
+   "evidence": "HoYoLAB 공식 공지: 한정 S급 에이전트 [세베리안(바람·강공)] 11/11 13:00~12/01 15:59 KST",
+   "portrait_url": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 62,
+    "y": 32
+   },
+   "portrait_zoom": 1.9
   },
   {
    "id": "wuwa-lily",
@@ -140,7 +164,13 @@
     "https://www.youtube.com/watch?v=3TU_i70R4S4",
     "https://x.com/WW_KR_Official/status/2119266156628586813"
    ],
-   "evidence": "공식 KR 유튜브 '공명자 화면 | 릴리'(11/07)·'공명자 전투 모션 | 릴리'·3.8 트레일러(11/12 업데이트)"
+   "evidence": "공식 KR 유튜브 '공명자 화면 | 릴리'(11/07)·'공명자 전투 모션 | 릴리'·3.8 트레일러(11/12 업데이트)",
+   "portrait_url": "https://i.ytimg.com/vi/F64TLsomPyM/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 50,
+    "y": 28
+   },
+   "portrait_zoom": 2.1
   },
   {
    "id": "nte-elim",
@@ -163,7 +193,13 @@
     "https://www.youtube.com/watch?v=MK4bIOILTHM",
     "https://x.com/NTE_KO/status/2115644670399385795"
    ],
-   "evidence": "공식: 1.5 버전 11/11 출시, 신규 한정 S급 캐릭터 「엘림」・「Exe」 등장"
+   "evidence": "공식: 1.5 버전 11/11 출시, 신규 한정 S급 캐릭터 「엘림」・「Exe」 등장",
+   "portrait_url": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 52,
+    "y": 38
+   },
+   "portrait_zoom": 1.7
   },
   {
    "id": "nte-exe",
@@ -220,7 +256,13 @@
     "is_new": true,
     "is_rerun": false
    },
-   "evidence": "공식 라운지: 「은하수를 부르는 불꽃」 특별 허가 헤드헌팅 6성 오퍼레이터 [명하] 11/05 13:00~"
+   "evidence": "공식 라운지: 「은하수를 부르는 불꽃」 특별 허가 헤드헌팅 6성 오퍼레이터 [명하] 11/05 13:00~",
+   "portrait_url": "https://i.ytimg.com/vi/LGRJvchK9jg/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 38,
+    "y": 35
+   },
+   "portrait_zoom": 1.8
   },
   {
    "id": "trickcal-dudu",
@@ -236,7 +278,7 @@
    },
    "reveal_date": "2026-11-03",
    "release_date": "2026-11-05",
-   "illustration_url": "https://nng-phinf.pstatic.net/MjAyNjExMDNfOTgg/MDAxNzkzNjkxODI0MDQz.i5T2WZ3fHnSfyCsLi5Q920KvrcGVWA88ITyq7j9xhOUg.kn17FjWCpwbLHKdBD7yb4-S2EiUi3aSoAI-mxtwd1dsg.PNG/3_3.png",
+   "illustration_url": "https://nng-phinf.pstatic.net/MjAyNjExMDNfMTg4/MDAxNzkzNjkxODYxMzU3.tnCuuZlsAYEn-mnrvpji-Cg5Ld3iFer2hZuaZD_egscg.B8ZpguY6TQnHDlLTqbg8tUyG98zd9Xv-e6WIVR4u-Ekg.GIF/3.gif",
    "source_urls": [
     "https://game.naver.com/lounge/trickcal/board/detail/8404607"
    ],
@@ -249,7 +291,97 @@
     "is_new": true,
     "is_rerun": false
    },
-   "evidence": "공식 라운지: 신규 사도 \"두두\" 픽업 11/05 정기점검 이후 ~ 11/19 10:59"
+   "evidence": "공식 라운지: 신규 사도 \"두두\" 픽업 11/05 정기점검 이후 ~ 11/19 10:59",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu.png",
+   "portrait_focus": {
+    "x": 50,
+    "y": 48
+   },
+   "portrait_zoom": 1.15,
+   "portrait_note": "공식 라운지 픽업 공지 본문 캐릭터 스프라이트(이벤트 배너 제외)"
   }
- ]
+ ],
+ "portrait_overrides": {
+  "trickcal-dudu": {
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu.png",
+   "portrait_focus": {
+    "x": 50,
+    "y": 48
+   },
+   "portrait_zoom": 1.15,
+   "illustration_url": "https://nng-phinf.pstatic.net/MjAyNjExMDNfMTg4/MDAxNzkzNjkxODYxMzU3.tnCuuZlsAYEn-mnrvpji-Cg5Ld3iFer2hZuaZD_egscg.B8ZpguY6TQnHDlLTqbg8tUyG98zd9Xv-e6WIVR4u-Ekg.GIF/3.gif"
+  },
+  "genshin-danika": {
+   "portrait_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/07/de0c87692b7a9e64d3d551a8c63e8a5a_6184742778360466163.jpg",
+   "portrait_focus": {
+    "x": 60,
+    "y": 28
+   },
+   "portrait_zoom": 1.8
+  },
+  "genshin-anastasia": {
+   "portrait_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/06/34ac0a9e6113f374078f4bc27fb30a4d_6117020765778038875.jpg",
+   "portrait_focus": {
+    "x": 50,
+    "y": 32
+   },
+   "portrait_zoom": 1.7
+  },
+  "wuwa-lily": {
+   "portrait_url": "https://i.ytimg.com/vi/F64TLsomPyM/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 50,
+    "y": 28
+   },
+   "portrait_zoom": 2.1
+  },
+  "endfield-mingha": {
+   "portrait_url": "https://i.ytimg.com/vi/LGRJvchK9jg/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 38,
+    "y": 35
+   },
+   "portrait_zoom": 1.8
+  },
+  "starrail-aha": {
+   "portrait_url": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 68,
+    "y": 38
+   },
+   "portrait_zoom": 1.7
+  },
+  "nte-elim": {
+   "portrait_url": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 52,
+    "y": 38
+   },
+   "portrait_zoom": 1.7
+  },
+  "genshin-a2fbc1b95d": {
+   "portrait_url": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 65,
+    "y": 38
+   },
+   "portrait_zoom": 1.7
+  },
+  "genshin-de1daf6f79": {
+   "portrait_url": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 58,
+    "y": 35
+   },
+   "portrait_zoom": 1.7
+  },
+  "zzz-severian": {
+   "portrait_url": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 62,
+    "y": 32
+   },
+   "portrait_zoom": 1.9
+  }
+ }
 }

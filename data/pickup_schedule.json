@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-10T00:39:16+09:00",
+ "generated_at": "2026-11-10T01:11:07+09:00",
  "month": "2026-11",
  "rule": "공식 공지만 · 시작/종료/출처 필수 · 신규 중심, 복각은 따로 표시",
  "items": [
@@ -22,6 +22,14 @@
     "샤를로트",
     "로자리아"
    ],
+   "featured_character": "미탸",
+   "featured_character_id": "genshin-a2fbc1b95d",
+   "portrait_url": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 65.0,
+    "y": 38.0
+   },
+   "portrait_zoom": 1.7,
    "start": "2026-11-02 12:00:00",
    "end": "2026-11-24 17:59:00",
    "tz": "UTC+8",
@@ -33,7 +41,203 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T00:39:16+09:00"
+   "last_updated": "2026-11-10T01:11:07+09:00"
+  },
+  {
+   "game_id": "genshin",
+   "game_name": "원신",
+   "title": "신규 캐릭터 「발레리」 픽업",
+   "characters": [
+    "발레리"
+   ],
+   "new_characters": [
+    "발레리"
+   ],
+   "rerun_characters": null,
+   "featured_character": "발레리",
+   "featured_character_id": "genshin-de1daf6f79",
+   "portrait_url": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 58.0,
+    "y": 35.0
+   },
+   "portrait_zoom": 1.7,
+   "start": "2026-11-02 12:00:00",
+   "end": "2026-11-24 17:59:00",
+   "tz": "UTC+8",
+   "is_new": true,
+   "is_rerun": false,
+   "type": "신규",
+   "image": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
+   "source": "호요버스 공식 인게임 공지",
+   "source_label": "호요버스 공식 인게임 공지",
+   "source_url": "https://www.hoyolab.com/article/47284168",
+   "api_source": null,
+   "last_updated": "2026-11-10T01:11:07+09:00"
+  },
+  {
+   "game_id": "trickcal",
+   "game_name": "트릭컬 리바이브",
+   "title": "신규 캐릭터 「두두」 픽업",
+   "characters": [
+    "두두"
+   ],
+   "new_characters": [
+    "두두"
+   ],
+   "rerun_characters": null,
+   "featured_character": "두두",
+   "featured_character_id": "trickcal-dudu",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu.png",
+   "portrait_focus": {
+    "x": 50,
+    "y": 48
+   },
+   "portrait_zoom": 1.15,
+   "start": "2026-11-05",
+   "end": "2026-11-19 10:59:00",
+   "tz": "KST",
+   "is_new": true,
+   "is_rerun": false,
+   "type": "신규",
+   "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfMTg4/MDAxNzkzNjkxODYxMzU3.tnCuuZlsAYEn-mnrvpji-Cg5Ld3iFer2hZuaZD_egscg.B8ZpguY6TQnHDlLTqbg8tUyG98zd9Xv-e6WIVR4u-Ekg.GIF/3.gif",
+   "source": "네이버 게임 라운지 공식 공지",
+   "source_label": "네이버 게임 라운지 공식 공지",
+   "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
+   "api_source": null,
+   "last_updated": "2026-11-10T01:11:07+09:00"
+  },
+  {
+   "game_id": "zzz",
+   "game_name": "젠레스 존 제로",
+   "title": "3.3 버전 기간 한정 채널(하반기)",
+   "characters": [
+    "세베리안",
+    "노르마"
+   ],
+   "new_characters": [
+    "세베리안"
+   ],
+   "rerun_characters": [
+    "노르마"
+   ],
+   "featured_character": "세베리안",
+   "featured_character_id": "zzz-severian",
+   "portrait_url": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 62.0,
+    "y": 32.0
+   },
+   "portrait_zoom": 1.9,
+   "start": "2026-11-11 13:00:00",
+   "end": "2026-12-01 15:59:00",
+   "tz": "KST",
+   "is_new": true,
+   "is_rerun": false,
+   "type": "신규",
+   "image": "https://upload-os-bbs.hoyolab.com/upload/2026/11/06/d8bc5387e15e9bad6f6aba1b5d255642_3884914029808351147.png",
+   "source": "HoYoLAB 공식 공지",
+   "source_label": "HoYoLAB 공식 공지",
+   "source_url": "https://www.hoyolab.com/article/47375931",
+   "api_source": null,
+   "last_updated": "2026-11-10T01:11:07+09:00"
+  }
+ ],
+ "reruns": [
+  {
+   "game_id": "zzz",
+   "game_name": "젠레스 존 제로",
+   "title": "3.3 버전 기간 한정 채널(상반기)",
+   "characters": [
+    "피닉스",
+    "벨리나"
+   ],
+   "new_characters": null,
+   "rerun_characters": [
+    "피닉스",
+    "벨리나"
+   ],
+   "featured_character": "피닉스",
+   "featured_character_id": null,
+   "portrait_url": "https://upload-os-bbs.hoyolab.com/upload/2026/10/18/60859ec205790ea19798a8ed471e00fa_8608141323383578977.png",
+   "portrait_focus": null,
+   "portrait_zoom": null,
+   "start": "2026-10-19 15:00:08",
+   "end": "2026-11-11 12:59:00",
+   "tz": "KST",
+   "is_new": false,
+   "is_rerun": true,
+   "type": "복각",
+   "image": "https://upload-os-bbs.hoyolab.com/upload/2026/10/18/60859ec205790ea19798a8ed471e00fa_8608141323383578977.png",
+   "source": "HoYoLAB 공식 공지",
+   "source_label": "HoYoLAB 공식 공지",
+   "source_url": "https://www.hoyolab.com/article/47131668",
+   "api_source": null,
+   "last_updated": "2026-11-10T01:11:07+09:00"
+  },
+  {
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "4.6 버전 이벤트 워프 (2)",
+   "characters": [
+    "청작",
+    "설의",
+    "미샤",
+    "천야•블레이드"
+   ],
+   "new_characters": null,
+   "rerun_characters": [
+    "청작",
+    "설의",
+    "미샤",
+    "천야•블레이드"
+   ],
+   "featured_character": "청작",
+   "featured_character_id": null,
+   "portrait_url": null,
+   "portrait_focus": null,
+   "portrait_zoom": null,
+   "start": "2026-10-20 07:00:00",
+   "end": "2026-11-10 15:00:00",
+   "tz": "UTC+8",
+   "is_new": false,
+   "is_rerun": true,
+   "type": "복각",
+   "image": null,
+   "source": "호요버스 공식 인게임 공지",
+   "source_label": "호요버스 공식 인게임 공지",
+   "source_url": "https://www.hoyolab.com/article/47142215",
+   "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "last_updated": "2026-11-10T01:11:07+09:00"
+  },
+  {
+   "game_id": "trickcal",
+   "game_name": "트릭컬 리바이브",
+   "title": "[이벤트]신규 픽업 사도 모집 진행 예정 안내(~11월 5일)",
+   "characters": [
+    "코페"
+   ],
+   "new_characters": null,
+   "rerun_characters": [
+    "코페"
+   ],
+   "featured_character": "코페",
+   "featured_character_id": null,
+   "portrait_url": "https://nng-phinf.pstatic.net/MjAyNjEwMjdfNTkg/MDAxNzkzMDg0OTYwMjU4.VU8FsHXlCxPAuI_QD-sbYBhxHyaL6MU34NrNjnVXfsAg.TQKzNFe4bjyVXYIp4d99g4P6zyJrDFSGUGwrB5OnNtcg.GIF/3.gif",
+   "portrait_focus": null,
+   "portrait_zoom": null,
+   "start": "2026-10-29",
+   "end": "2026-11-05",
+   "tz": "KST",
+   "is_new": false,
+   "is_rerun": true,
+   "type": "복각",
+   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjdfNTkg/MDAxNzkzMDg0OTYwMjU4.VU8FsHXlCxPAuI_QD-sbYBhxHyaL6MU34NrNjnVXfsAg.TQKzNFe4bjyVXYIp4d99g4P6zyJrDFSGUGwrB5OnNtcg.GIF/3.gif",
+   "source": "네이버 게임 라운지 공식 GM 공지",
+   "source_label": "네이버 게임 라운지 공식 공지",
+   "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
+   "api_source": null,
+   "last_updated": "2026-11-10T01:11:07+09:00"
   },
   {
    "game_id": "genshin",
@@ -53,151 +257,23 @@
     "샤를로트",
     "로자리아"
    ],
+   "featured_character": "푸리나",
+   "featured_character_id": null,
+   "portrait_url": null,
+   "portrait_focus": null,
+   "portrait_zoom": null,
    "start": "2026-11-02 12:00:00",
    "end": "2026-11-24 17:59:00",
    "tz": "UTC+8",
-   "is_new": true,
-   "is_rerun": false,
-   "type": "신규",
+   "is_new": false,
+   "is_rerun": true,
+   "type": "복각",
    "image": null,
    "source": "호요버스 공식 인게임 공지",
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T00:39:16+09:00"
-  },
-  {
-   "game_id": "trickcal",
-   "game_name": "트릭컬 리바이브",
-   "title": "[이벤트] 신규 픽업 사도 모집 진행 예정 안내(~11월 19일)",
-   "characters": [
-    "두두"
-   ],
-   "new_characters": [
-    "두두"
-   ],
-   "rerun_characters": null,
-   "start": "2026-11-05",
-   "end": "2026-11-19",
-   "tz": "KST",
-   "is_new": true,
-   "is_rerun": false,
-   "type": "신규",
-   "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfOTgg/MDAxNzkzNjkxODI0MDQz.i5T2WZ3fHnSfyCsLi5Q920KvrcGVWA88ITyq7j9xhOUg.kn17FjWCpwbLHKdBD7yb4-S2EiUi3aSoAI-mxtwd1dsg.PNG/3_3.png",
-   "source": "네이버 게임 라운지 공식 GM 공지",
-   "source_label": "네이버 게임 라운지 공식 공지",
-   "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
-   "api_source": null,
-   "last_updated": "2026-11-10T00:39:16+09:00"
-  },
-  {
-   "game_id": "zzz",
-   "game_name": "젠레스 존 제로",
-   "title": "3.3 버전 기간 한정 채널(하반기)",
-   "characters": [
-    "세베리안",
-    "노르마"
-   ],
-   "new_characters": [
-    "세베리안"
-   ],
-   "rerun_characters": [
-    "노르마"
-   ],
-   "start": "2026-11-11 13:00:00",
-   "end": "2026-12-01 15:59:00",
-   "tz": "KST",
-   "is_new": true,
-   "is_rerun": false,
-   "type": "신규",
-   "image": "https://upload-os-bbs.hoyolab.com/upload/2026/11/06/d8bc5387e15e9bad6f6aba1b5d255642_3884914029808351147.png",
-   "source": "HoYoLAB 공식 공지",
-   "source_label": "HoYoLAB 공식 공지",
-   "source_url": "https://www.hoyolab.com/article/47375931",
-   "api_source": null,
-   "last_updated": "2026-11-10T00:39:16+09:00"
-  }
- ],
- "reruns": [
-  {
-   "game_id": "zzz",
-   "game_name": "젠레스 존 제로",
-   "title": "3.3 버전 기간 한정 채널(상반기)",
-   "characters": [
-    "피닉스",
-    "벨리나"
-   ],
-   "new_characters": null,
-   "rerun_characters": [
-    "피닉스",
-    "벨리나"
-   ],
-   "start": "2026-10-19 15:00:08",
-   "end": "2026-11-11 12:59:00",
-   "tz": "KST",
-   "is_new": false,
-   "is_rerun": true,
-   "type": "복각",
-   "image": "https://upload-os-bbs.hoyolab.com/upload/2026/10/18/60859ec205790ea19798a8ed471e00fa_8608141323383578977.png",
-   "source": "HoYoLAB 공식 공지",
-   "source_label": "HoYoLAB 공식 공지",
-   "source_url": "https://www.hoyolab.com/article/47131668",
-   "api_source": null,
-   "last_updated": "2026-11-10T00:39:16+09:00"
-  },
-  {
-   "game_id": "starrail",
-   "game_name": "붕괴: 스타레일",
-   "title": "4.6 버전 이벤트 워프 (2)",
-   "characters": [
-    "청작",
-    "설의",
-    "미샤",
-    "천야•블레이드"
-   ],
-   "new_characters": null,
-   "rerun_characters": [
-    "청작",
-    "설의",
-    "미샤",
-    "천야•블레이드"
-   ],
-   "start": "2026-10-20 14:00:00",
-   "end": "2026-11-10 15:00:00",
-   "tz": "UTC+8",
-   "is_new": false,
-   "is_rerun": true,
-   "type": "복각",
-   "image": null,
-   "source": "호요버스 공식 인게임 공지",
-   "source_label": "호요버스 공식 인게임 공지",
-   "source_url": "https://www.hoyolab.com/article/47142215",
-   "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T00:39:16+09:00"
-  },
-  {
-   "game_id": "trickcal",
-   "game_name": "트릭컬 리바이브",
-   "title": "[이벤트]신규 픽업 사도 모집 진행 예정 안내(~11월 5일)",
-   "characters": [
-    "코페"
-   ],
-   "new_characters": null,
-   "rerun_characters": [
-    "코페"
-   ],
-   "start": "2026-10-29",
-   "end": "2026-11-05",
-   "tz": "KST",
-   "is_new": false,
-   "is_rerun": true,
-   "type": "기타",
-   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjdfMTcx/MDAxNzkzMDg0OTUzMjM4.5GTnx06Vfn8tsenjV7M9wVI4MZCwV2GiADQATSkOQbcg.hjMHCgxM1wkfXiFgFTwoOnrXywcGZls8DNCUVR0zQ_wg.PNG/3_3.png",
-   "source": "네이버 게임 라운지 공식 GM 공지",
-   "source_label": "네이버 게임 라운지 공식 공지",
-   "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
-   "api_source": null,
-   "last_updated": "2026-11-10T00:39:16+09:00"
+   "last_updated": "2026-11-10T01:11:07+09:00"
   },
   {
    "game_id": "nte",
@@ -214,6 +290,11 @@
     "동틀 녘",
     "홍염의 신기루"
    ],
+   "featured_character": "신쿠",
+   "featured_character_id": null,
+   "portrait_url": "https://nng-phinf.pstatic.net/MjAyNjExMDZfMjkg/MDAxNzkzOTU3MzAwMDk4.k6nCqRETzPOFIJRK9ccDN-oQ5QH8KeM56L-7LOHrotQg.eQ6Sl9gXor95NLwH5-3O43YU4LQmAWgUE_sHqj3jR9Ag.JPEG/1920x1080-KR.jpg",
+   "portrait_focus": null,
+   "portrait_zoom": null,
    "start": "2026-11-11",
    "end": "2026-12-02",
    "tz": "KST",
@@ -225,7 +306,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
    "api_source": null,
-   "last_updated": "2026-11-10T00:39:16+09:00"
+   "last_updated": "2026-11-10T01:11:07+09:00"
   }
  ],
  "all": [
@@ -242,6 +323,11 @@
     "피닉스",
     "벨리나"
    ],
+   "featured_character": "피닉스",
+   "featured_character_id": null,
+   "portrait_url": "https://upload-os-bbs.hoyolab.com/upload/2026/10/18/60859ec205790ea19798a8ed471e00fa_8608141323383578977.png",
+   "portrait_focus": null,
+   "portrait_zoom": null,
    "start": "2026-10-19 15:00:08",
    "end": "2026-11-11 12:59:00",
    "tz": "KST",
@@ -253,7 +339,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47131668",
    "api_source": null,
-   "last_updated": "2026-11-10T00:39:16+09:00"
+   "last_updated": "2026-11-10T01:11:07+09:00"
   },
   {
    "game_id": "starrail",
@@ -272,7 +358,12 @@
     "미샤",
     "천야•블레이드"
    ],
-   "start": "2026-10-20 14:00:00",
+   "featured_character": "청작",
+   "featured_character_id": null,
+   "portrait_url": null,
+   "portrait_focus": null,
+   "portrait_zoom": null,
+   "start": "2026-10-20 07:00:00",
    "end": "2026-11-10 15:00:00",
    "tz": "UTC+8",
    "is_new": false,
@@ -283,67 +374,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47142215",
    "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T00:39:16+09:00"
-  },
-  {
-   "game_id": "nte",
-   "game_name": "이환",
-   "title": "「해달별 특간」 아크 연구 모집 계획 오픈 예정",
-   "characters": null,
-   "new_characters": null,
-   "rerun_characters": null,
-   "start": "2026-10-21",
-   "end": "2026-11-11",
-   "tz": "KST",
-   "is_new": false,
-   "is_rerun": false,
-   "type": "기타",
-   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMjIz/MDAxNzkyMTM4ODU1ODQz.0v6JEHkwUD01yac8Kg0Fza9x6hlm5flOenKBNjDqoHsg.sy7FhfOr7bBPMhIVCvPaKQGh15Zd106DNeALh8eNuS0g.JPEG/1920x1080-kr.jpg",
-   "source": "네이버 게임 라운지 공식 GM 공지",
-   "source_label": "네이버 게임 라운지 공식 공지",
-   "source_url": "https://game.naver.com/lounge/NTE/board/detail/8339533",
-   "api_source": null,
-   "last_updated": "2026-11-10T00:39:16+09:00"
-  },
-  {
-   "game_id": "trickcal",
-   "game_name": "트릭컬 리바이브",
-   "title": "[이벤트] 신규 스펙타클 카드 뽑기 예정 안내(~11월 5일)",
-   "characters": null,
-   "new_characters": null,
-   "rerun_characters": null,
-   "start": "2026-10-22",
-   "end": "2026-11-05",
-   "tz": "KST",
-   "is_new": false,
-   "is_rerun": false,
-   "type": "기타",
-   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfNTUg/MDAxNzkyNDgwMzM4NjUw.4YK7NdicR0nA4aXTVV9sv7BZFgaOBgTjM03Y573itVUg.mB3NPEYd_Bhv8wDOFWmbW0rvWLe2mYHQOll1NYjNesQg.PNG/3_3.png",
-   "source": "네이버 게임 라운지 공식 GM 공지",
-   "source_label": "네이버 게임 라운지 공식 공지",
-   "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8343614",
-   "api_source": null,
-   "last_updated": "2026-11-10T00:39:16+09:00"
-  },
-  {
-   "game_id": "trickcal",
-   "game_name": "트릭컬 리바이브",
-   "title": "[이벤트] 신규 픽업 사도 모집 진행 예정 안내(~11월 5일)",
-   "characters": null,
-   "new_characters": null,
-   "rerun_characters": null,
-   "start": "2026-10-22",
-   "end": "2026-11-05",
-   "tz": "KST",
-   "is_new": false,
-   "is_rerun": false,
-   "type": "기타",
-   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfMjcz/MDAxNzkyNDgwMTc1ODI0.Nl2NbQ1OcX-1pati00707xBgPr7o88wWJKco6p92aqsg.DpiO0LURuSirInv_9vg7DWgtRiT6BNbkT8L5Kw9XSAsg.PNG/3_3.png",
-   "source": "네이버 게임 라운지 공식 GM 공지",
-   "source_label": "네이버 게임 라운지 공식 공지",
-   "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8343598",
-   "api_source": null,
-   "last_updated": "2026-11-10T00:39:16+09:00"
+   "last_updated": "2026-11-10T01:11:07+09:00"
   },
   {
    "game_id": "trickcal",
@@ -356,18 +387,23 @@
    "rerun_characters": [
     "코페"
    ],
+   "featured_character": "코페",
+   "featured_character_id": null,
+   "portrait_url": "https://nng-phinf.pstatic.net/MjAyNjEwMjdfNTkg/MDAxNzkzMDg0OTYwMjU4.VU8FsHXlCxPAuI_QD-sbYBhxHyaL6MU34NrNjnVXfsAg.TQKzNFe4bjyVXYIp4d99g4P6zyJrDFSGUGwrB5OnNtcg.GIF/3.gif",
+   "portrait_focus": null,
+   "portrait_zoom": null,
    "start": "2026-10-29",
    "end": "2026-11-05",
    "tz": "KST",
    "is_new": false,
    "is_rerun": true,
-   "type": "기타",
-   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjdfMTcx/MDAxNzkzMDg0OTUzMjM4.5GTnx06Vfn8tsenjV7M9wVI4MZCwV2GiADQATSkOQbcg.hjMHCgxM1wkfXiFgFTwoOnrXywcGZls8DNCUVR0zQ_wg.PNG/3_3.png",
+   "type": "복각",
+   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjdfNTkg/MDAxNzkzMDg0OTYwMjU4.VU8FsHXlCxPAuI_QD-sbYBhxHyaL6MU34NrNjnVXfsAg.TQKzNFe4bjyVXYIp4d99g4P6zyJrDFSGUGwrB5OnNtcg.GIF/3.gif",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
    "api_source": null,
-   "last_updated": "2026-11-10T00:39:16+09:00"
+   "last_updated": "2026-11-10T01:11:07+09:00"
   },
   {
    "game_id": "genshin",
@@ -387,6 +423,14 @@
     "샤를로트",
     "로자리아"
    ],
+   "featured_character": "미탸",
+   "featured_character_id": "genshin-a2fbc1b95d",
+   "portrait_url": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 65.0,
+    "y": 38.0
+   },
+   "portrait_zoom": 1.7,
    "start": "2026-11-02 12:00:00",
    "end": "2026-11-24 17:59:00",
    "tz": "UTC+8",
@@ -398,7 +442,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T00:39:16+09:00"
+   "last_updated": "2026-11-10T01:11:07+09:00"
   },
   {
    "game_id": "genshin",
@@ -418,63 +462,60 @@
     "샤를로트",
     "로자리아"
    ],
+   "featured_character": "푸리나",
+   "featured_character_id": null,
+   "portrait_url": null,
+   "portrait_focus": null,
+   "portrait_zoom": null,
+   "start": "2026-11-02 12:00:00",
+   "end": "2026-11-24 17:59:00",
+   "tz": "UTC+8",
+   "is_new": false,
+   "is_rerun": true,
+   "type": "복각",
+   "image": null,
+   "source": "호요버스 공식 인게임 공지",
+   "source_label": "호요버스 공식 인게임 공지",
+   "source_url": "https://www.hoyolab.com/article/47284168",
+   "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
+   "last_updated": "2026-11-10T01:11:07+09:00"
+  },
+  {
+   "game_id": "genshin",
+   "game_name": "원신",
+   "title": "신규 캐릭터 「발레리」 픽업",
+   "characters": [
+    "발레리"
+   ],
+   "new_characters": [
+    "발레리"
+   ],
+   "rerun_characters": null,
+   "featured_character": "발레리",
+   "featured_character_id": "genshin-de1daf6f79",
+   "portrait_url": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 58.0,
+    "y": 35.0
+   },
+   "portrait_zoom": 1.7,
    "start": "2026-11-02 12:00:00",
    "end": "2026-11-24 17:59:00",
    "tz": "UTC+8",
    "is_new": true,
    "is_rerun": false,
    "type": "신규",
-   "image": null,
+   "image": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
    "source": "호요버스 공식 인게임 공지",
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
-   "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T00:39:16+09:00"
-  },
-  {
-   "game_id": "genshin",
-   "game_name": "원신",
-   "title": "「신의 주조」 기원: 「법구·별빛 계시」, 「한손검·고요히 샘솟는 빛」 확률 UP!",
-   "characters": null,
-   "new_characters": null,
-   "rerun_characters": null,
-   "start": "2026-11-02 12:00:00",
-   "end": "2026-11-24 17:59:00",
-   "tz": "UTC+8",
-   "is_new": false,
-   "is_rerun": false,
-   "type": "무기",
-   "image": null,
-   "source": "호요버스 공식 인게임 공지",
-   "source_label": "호요버스 공식 인게임 공지",
-   "source_url": "https://www.hoyolab.com/article/47284168",
-   "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T00:39:16+09:00"
-  },
-  {
-   "game_id": "trickcal",
-   "game_name": "트릭컬 리바이브",
-   "title": "[이벤트] 신규 스펙타클 카드 뽑기 예정 안내(~11월 19일)",
-   "characters": null,
-   "new_characters": null,
-   "rerun_characters": null,
-   "start": "2026-11-05",
-   "end": "2026-11-19",
-   "tz": "KST",
-   "is_new": false,
-   "is_rerun": false,
-   "type": "기타",
-   "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfNjMg/MDAxNzkzNjkxOTIzMDMx.SeSpqWuHJisspcWsBbZYOSBjT2r6tXS0NRn61UnTVdEg.nZu2zHZcbcaMXRxO0iBcAbCTIBewZrBSHU7Bp0dtAC4g.PNG/3_3.png",
-   "source": "네이버 게임 라운지 공식 GM 공지",
-   "source_label": "네이버 게임 라운지 공식 공지",
-   "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404614",
    "api_source": null,
-   "last_updated": "2026-11-10T00:39:16+09:00"
+   "last_updated": "2026-11-10T01:11:07+09:00"
   },
   {
    "game_id": "trickcal",
    "game_name": "트릭컬 리바이브",
-   "title": "[이벤트] 신규 픽업 사도 모집 진행 예정 안내(~11월 19일)",
+   "title": "신규 캐릭터 「두두」 픽업",
    "characters": [
     "두두"
    ],
@@ -482,18 +523,26 @@
     "두두"
    ],
    "rerun_characters": null,
+   "featured_character": "두두",
+   "featured_character_id": "trickcal-dudu",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu.png",
+   "portrait_focus": {
+    "x": 50,
+    "y": 48
+   },
+   "portrait_zoom": 1.15,
    "start": "2026-11-05",
-   "end": "2026-11-19",
+   "end": "2026-11-19 10:59:00",
    "tz": "KST",
    "is_new": true,
    "is_rerun": false,
    "type": "신규",
-   "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfOTgg/MDAxNzkzNjkxODI0MDQz.i5T2WZ3fHnSfyCsLi5Q920KvrcGVWA88ITyq7j9xhOUg.kn17FjWCpwbLHKdBD7yb4-S2EiUi3aSoAI-mxtwd1dsg.PNG/3_3.png",
-   "source": "네이버 게임 라운지 공식 GM 공지",
+   "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfMTg4/MDAxNzkzNjkxODYxMzU3.tnCuuZlsAYEn-mnrvpji-Cg5Ld3iFer2hZuaZD_egscg.B8ZpguY6TQnHDlLTqbg8tUyG98zd9Xv-e6WIVR4u-Ekg.GIF/3.gif",
+   "source": "네이버 게임 라운지 공식 공지",
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
    "api_source": null,
-   "last_updated": "2026-11-10T00:39:16+09:00"
+   "last_updated": "2026-11-10T01:11:07+09:00"
   },
   {
    "game_id": "nte",
@@ -510,6 +559,11 @@
     "동틀 녘",
     "홍염의 신기루"
    ],
+   "featured_character": "신쿠",
+   "featured_character_id": null,
+   "portrait_url": "https://nng-phinf.pstatic.net/MjAyNjExMDZfMjkg/MDAxNzkzOTU3MzAwMDk4.k6nCqRETzPOFIJRK9ccDN-oQ5QH8KeM56L-7LOHrotQg.eQ6Sl9gXor95NLwH5-3O43YU4LQmAWgUE_sHqj3jR9Ag.JPEG/1920x1080-KR.jpg",
+   "portrait_focus": null,
+   "portrait_zoom": null,
    "start": "2026-11-11",
    "end": "2026-12-02",
    "tz": "KST",
@@ -521,27 +575,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
    "api_source": null,
-   "last_updated": "2026-11-10T00:39:16+09:00"
-  },
-  {
-   "game_id": "nte",
-   "game_name": "이환",
-   "title": "「에코 특간」 아크 연구 모집 계획 오픈 예정",
-   "characters": null,
-   "new_characters": null,
-   "rerun_characters": null,
-   "start": "2026-11-11",
-   "end": "2026-12-02",
-   "tz": "KST",
-   "is_new": false,
-   "is_rerun": false,
-   "type": "기타",
-   "image": "https://nng-phinf.pstatic.net/MjAyNjExMDVfMTg1/MDAxNzkzODY4NDYwNjky.zUT_AukznWFCUk8qZIhYu6gT2jfr4RefPm6dauXj-C4g.nPXpI4VbhEorkhdyVkn-wxIy-GsiKedbDValr6FdmFAg.JPEG/1920x1080-kr.jpg",
-   "source": "네이버 게임 라운지 공식 GM 공지",
-   "source_label": "네이버 게임 라운지 공식 공지",
-   "source_url": "https://game.naver.com/lounge/NTE/board/detail/8433786",
-   "api_source": null,
-   "last_updated": "2026-11-10T00:39:16+09:00"
+   "last_updated": "2026-11-10T01:11:07+09:00"
   },
   {
    "game_id": "zzz",
@@ -557,6 +591,14 @@
    "rerun_characters": [
     "노르마"
    ],
+   "featured_character": "세베리안",
+   "featured_character_id": "zzz-severian",
+   "portrait_url": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
+   "portrait_focus": {
+    "x": 62.0,
+    "y": 32.0
+   },
+   "portrait_zoom": 1.9,
    "start": "2026-11-11 13:00:00",
    "end": "2026-12-01 15:59:00",
    "tz": "KST",
@@ -568,7 +610,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47375931",
    "api_source": null,
-   "last_updated": "2026-11-10T00:39:16+09:00"
+   "last_updated": "2026-11-10T01:11:07+09:00"
   }
  ]
 }

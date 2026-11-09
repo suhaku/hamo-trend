@@ -10,7 +10,7 @@
  "is_rerun": false,
  "reveal_date": "2026-10-29",
  "first_seen_at": "2026-11-09T22:03:22+09:00",
- "last_seen_at": "2026-11-10T00:42:50+09:00",
+ "last_seen_at": "2026-11-10T01:11:32+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 135292.0,
  "peak_lift": 2.458,
@@ -85,6 +85,16 @@
    "at": "2026-11-10T00:42:50+09:00",
    "video_id": "6V0kctC2-Tg",
    "views": 135292.0
+  },
+  {
+   "at": "2026-11-10T01:10:23+09:00",
+   "video_id": "6V0kctC2-Tg",
+   "views": 134926.0
+  },
+  {
+   "at": "2026-11-10T01:11:32+09:00",
+   "video_id": "6V0kctC2-Tg",
+   "views": 134926.0
   }
  ],
  "pv_series_by_video": [
@@ -161,6 +171,14 @@
     {
      "at": "2026-11-10T00:42:50+09:00",
      "views": 135292.0
+    },
+    {
+     "at": "2026-11-10T01:10:23+09:00",
+     "views": 134926.0
+    },
+    {
+     "at": "2026-11-10T01:11:32+09:00",
+     "views": 134926.0
     }
    ]
   }
@@ -279,29 +297,18 @@
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
-  "score": 94.58,
-  "score_raw": 94.58,
+  "score": 94.7,
+  "score_raw": 94.7,
   "coverage": 0.5,
   "reliability": 0.5,
   "provisional": true,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 135292,
-  "lift_vs_game_baseline": 2.458,
+  "absolute_views": 134926,
+  "lift_vs_game_baseline": 2.454,
   "growth_rate_7d": null,
-  "related_posts": [
-   {
-    "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-    "url": "https://news84034.tistory.com/8",
-    "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-   },
-   {
-    "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-    "url": "https://news84034.tistory.com/5",
-    "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-   }
-  ],
-  "last_updated": "2026-11-10T00:42:50+09:00",
+  "related_posts": [],
+  "last_updated": "2026-11-10T01:11:32+09:00",
   "note": "current score does not include all-time records"
  }
 }
