@@ -16,6 +16,12 @@ Review: https://suhaku.github.io/hamo-trend/review.html
 Also: `data/alltime.json` + `data/alltime.sqlite` + `data/characters/{id}.json` (all-time **not** mixed into current score).  
 Optional `related_posts` from https://news84034.tistory.com/rss (read-only).
 
+## New vs rerun (verification)
+- Per-game known roster: `data/rosters/{game_id}.json` — names already playable are **never** auto-promoted to NEW.
+- A name becomes NEW only when an official notice marks it (featured debut not in roster, or explicit markers like 신규 / Character Demo / Genshin "세상 여행 일반 기원에 추가").
+- Unsure extractions go to `data/pending_review.json` (not shown on the main widget).
+- Weapon banners and junk tokens (열쇠, 상점, …) are skipped.
+
 ## Add a game
 One object in `games.json`. Character aliases in `data/new_characters.json`.
 

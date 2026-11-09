@@ -55,8 +55,24 @@
     },
     {
      "character_id": null,
+     "start": "2026-10-20 07:00:00",
+     "end": "2026-11-10 15:00:00",
+     "is_rerun": true,
+     "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+     "title": "4.6 버전 이벤트 워프 (2)"
+    },
+    {
+     "character_id": null,
      "start": "2026-07-03 20:55:00",
      "end": "2036-07-03 00:00:00",
+     "is_rerun": false,
+     "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+     "title": "Fate[UBW] 콜라보 워프 안내"
+    },
+    {
+     "character_id": null,
+     "start": "2026-07-03 13:55:00",
+     "end": "2036-07-02 17:00:00",
      "is_rerun": false,
      "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
      "title": "Fate[UBW] 콜라보 워프 안내"
@@ -76,7 +92,7 @@
      "is_new": true,
      "is_rerun": false,
      "reveal_date": "2026-11-02",
-     "peak_pv_views": 134819.0,
+     "peak_pv_views": 134926.0,
      "peak_lift": 2.454,
      "peak_trends": null,
      "recorded_delta_24h": null,
@@ -95,7 +111,7 @@
      "is_new": true,
      "is_rerun": false,
      "reveal_date": "2026-11-02",
-     "peak_pv_views": 70403.0,
+     "peak_pv_views": 70442.0,
      "peak_lift": 1.281,
      "peak_trends": null,
      "recorded_delta_24h": null,
@@ -248,7 +264,7 @@
     "is_new": true,
     "is_rerun": false,
     "reveal_date": "2026-11-02",
-    "peak_pv_views": 134819.0,
+    "peak_pv_views": 134926.0,
     "peak_lift": 2.454,
     "peak_trends": null,
     "recorded_delta_24h": null,

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T22:07:48+09:00",
+ "generated_at": "2026-11-09T22:54:45+09:00",
  "timezone": "Asia/Seoul",
  "product": "new-character reveals + PV popularity (no game ranking)",
  "sections": [
@@ -12,53 +12,9 @@
  "new_characters": {
   "status": "ok",
   "month": "2026-11",
-  "generated_at": "2026-11-09T22:04:52+09:00",
-  "rule": "이번 달 신캐 공개/진행만. 복각 제외.",
+  "generated_at": "2026-11-09T22:54:21+09:00",
+  "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
   "items": [
-   {
-    "id": "genshin-dc4099a6e8",
-    "game_id": "genshin",
-    "name": {
-     "ko": "로자리아",
-     "en": null,
-     "ja": null
-    },
-    "aliases": {
-     "ko": [
-      "로자리아"
-     ],
-     "en": [],
-     "ja": []
-    },
-    "reveal_date": "2026-11-02",
-    "status": "pickup_live",
-    "illustration_url": null,
-    "source_urls": [
-     "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList"
-    ],
-    "pickup": {
-     "start": "2026-11-02 12:00:00",
-     "end": "2026-11-24 17:59:00",
-     "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-     "source": "HoYoverse 공식 인게임 공지 API",
-     "is_rerun": false,
-     "is_new": true
-    },
-    "is_new": true,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
    {
     "id": "genshin-a2fbc1b95d",
     "game_id": "genshin",
@@ -90,19 +46,8 @@
      "is_new": true
     },
     "is_new": true,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
+    "last_updated": "2026-11-09T22:54:21+09:00",
+    "related_posts": []
    },
    {
     "id": "genshin-de1daf6f79",
@@ -135,358 +80,17 @@
      "is_new": true
     },
     "is_new": true,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "id": "genshin-89e07f95d7",
-    "game_id": "genshin",
-    "name": {
-     "ko": "샤를로트",
-     "en": null,
-     "ja": null
-    },
-    "aliases": {
-     "ko": [
-      "샤를로트"
-     ],
-     "en": [],
-     "ja": []
-    },
-    "reveal_date": "2026-11-02",
-    "status": "pickup_live",
-    "illustration_url": null,
-    "source_urls": [
-     "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList"
-    ],
-    "pickup": {
-     "start": "2026-11-02 12:00:00",
-     "end": "2026-11-24 17:59:00",
-     "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-     "source": "HoYoverse 공식 인게임 공지 API",
-     "is_rerun": false,
-     "is_new": true
-    },
-    "is_new": true,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "id": "genshin-6a6c4bcf62",
-    "game_id": "genshin",
-    "name": {
-     "ko": "푸리나",
-     "en": null,
-     "ja": null
-    },
-    "aliases": {
-     "ko": [
-      "푸리나"
-     ],
-     "en": [],
-     "ja": []
-    },
-    "reveal_date": "2026-11-02",
-    "status": "pickup_live",
-    "illustration_url": null,
-    "source_urls": [
-     "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList"
-    ],
-    "pickup": {
-     "start": "2026-11-02 12:00:00",
-     "end": "2026-11-24 17:59:00",
-     "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-     "source": "HoYoverse 공식 인게임 공지 API",
-     "is_rerun": false,
-     "is_new": true
-    },
-    "is_new": true,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "id": "genshin-4beb1f475c",
-    "game_id": "genshin",
-    "name": {
-     "ko": "별빛 계시",
-     "en": null,
-     "ja": null
-    },
-    "aliases": {
-     "ko": [
-      "별빛 계시"
-     ],
-     "en": [],
-     "ja": []
-    },
-    "reveal_date": "2026-11-02",
-    "status": "pickup_live",
-    "illustration_url": null,
-    "source_urls": [
-     "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList"
-    ],
-    "pickup": {
-     "start": "2026-11-02 12:00:00",
-     "end": "2026-11-24 17:59:00",
-     "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-     "source": "HoYoverse 공식 인게임 공지 API",
-     "is_rerun": false,
-     "is_new": true
-    },
-    "is_new": true,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "id": "nte-7a7f1be071",
-    "game_id": "nte",
-    "name": {
-     "ko": "연결음이 흐르는 동안",
-     "en": null,
-     "ja": null
-    },
-    "aliases": {
-     "ko": [
-      "연결음이 흐르는 동안"
-     ],
-     "en": [],
-     "ja": []
-    },
-    "reveal_date": "2026-11-11",
-    "status": "revealed",
-    "illustration_url": "https://nng-phinf.pstatic.net/MjAyNjExMDVfMTg1/MDAxNzkzODY4NDYwNjky.zUT_AukznWFCUk8qZIhYu6gT2jfr4RefPm6dauXj-C4g.nPXpI4VbhEorkhdyVkn-wxIy-GsiKedbDValr6FdmFAg.JPEG/1920x1080-kr.jpg",
-    "source_urls": [
-     "https://game.naver.com/lounge/NTE/board/detail/8433786"
-    ],
-    "pickup": {
-     "start": "2026-11-11",
-     "end": "2026-12-02",
-     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8433786",
-     "source": "네이버 게임 라운지 공식 GM 공지",
-     "is_rerun": false,
-     "is_new": true
-    },
-    "is_new": true,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": []
-   },
-   {
-    "id": "nte-b4a4bf2af6",
-    "game_id": "nte",
-    "name": {
-     "ko": "삼중 열쇠",
-     "en": null,
-     "ja": null
-    },
-    "aliases": {
-     "ko": [
-      "삼중 열쇠"
-     ],
-     "en": [],
-     "ja": []
-    },
-    "reveal_date": "2026-11-11",
-    "status": "revealed",
-    "illustration_url": "https://nng-phinf.pstatic.net/MjAyNjExMDVfMTg1/MDAxNzkzODY4NDYwNjky.zUT_AukznWFCUk8qZIhYu6gT2jfr4RefPm6dauXj-C4g.nPXpI4VbhEorkhdyVkn-wxIy-GsiKedbDValr6FdmFAg.JPEG/1920x1080-kr.jpg",
-    "source_urls": [
-     "https://game.naver.com/lounge/NTE/board/detail/8433786"
-    ],
-    "pickup": {
-     "start": "2026-11-11",
-     "end": "2026-12-02",
-     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8433786",
-     "source": "네이버 게임 라운지 공식 GM 공지",
-     "is_rerun": false,
-     "is_new": true
-    },
-    "is_new": true,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": []
-   },
-   {
-    "id": "nte-5f3dd532f3",
-    "game_id": "nte",
-    "name": {
-     "ko": "에코 열쇠",
-     "en": null,
-     "ja": null
-    },
-    "aliases": {
-     "ko": [
-      "에코 열쇠"
-     ],
-     "en": [],
-     "ja": []
-    },
-    "reveal_date": "2026-11-11",
-    "status": "revealed",
-    "illustration_url": "https://nng-phinf.pstatic.net/MjAyNjExMDVfMTg1/MDAxNzkzODY4NDYwNjky.zUT_AukznWFCUk8qZIhYu6gT2jfr4RefPm6dauXj-C4g.nPXpI4VbhEorkhdyVkn-wxIy-GsiKedbDValr6FdmFAg.JPEG/1920x1080-kr.jpg",
-    "source_urls": [
-     "https://game.naver.com/lounge/NTE/board/detail/8433786"
-    ],
-    "pickup": {
-     "start": "2026-11-11",
-     "end": "2026-12-02",
-     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8433786",
-     "source": "네이버 게임 라운지 공식 GM 공지",
-     "is_rerun": false,
-     "is_new": true
-    },
-    "is_new": true,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": []
-   },
-   {
-    "id": "nte-a2145afe84",
-    "game_id": "nte",
-    "name": {
-     "ko": "달의 대척점",
-     "en": null,
-     "ja": null
-    },
-    "aliases": {
-     "ko": [
-      "달의 대척점"
-     ],
-     "en": [],
-     "ja": []
-    },
-    "reveal_date": "2026-10-21",
-    "status": "pickup_live",
-    "illustration_url": "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMjIz/MDAxNzkyMTM4ODU1ODQz.0v6JEHkwUD01yac8Kg0Fza9x6hlm5flOenKBNjDqoHsg.sy7FhfOr7bBPMhIVCvPaKQGh15Zd106DNeALh8eNuS0g.JPEG/1920x1080-kr.jpg",
-    "source_urls": [
-     "https://game.naver.com/lounge/NTE/board/detail/8339533"
-    ],
-    "pickup": {
-     "start": "2026-10-21",
-     "end": "2026-11-11",
-     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8339533",
-     "source": "네이버 게임 라운지 공식 GM 공지",
-     "is_rerun": false,
-     "is_new": true
-    },
-    "is_new": true,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": []
-   },
-   {
-    "id": "nte-2c95a60728",
-    "game_id": "nte",
-    "name": {
-     "ko": "해달별 열쇠",
-     "en": null,
-     "ja": null
-    },
-    "aliases": {
-     "ko": [
-      "해달별 열쇠"
-     ],
-     "en": [],
-     "ja": []
-    },
-    "reveal_date": "2026-10-21",
-    "status": "pickup_live",
-    "illustration_url": "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMjIz/MDAxNzkyMTM4ODU1ODQz.0v6JEHkwUD01yac8Kg0Fza9x6hlm5flOenKBNjDqoHsg.sy7FhfOr7bBPMhIVCvPaKQGh15Zd106DNeALh8eNuS0g.JPEG/1920x1080-kr.jpg",
-    "source_urls": [
-     "https://game.naver.com/lounge/NTE/board/detail/8339533"
-    ],
-    "pickup": {
-     "start": "2026-10-21",
-     "end": "2026-11-11",
-     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8339533",
-     "source": "네이버 게임 라운지 공식 GM 공지",
-     "is_rerun": false,
-     "is_new": true
-    },
-    "is_new": true,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": []
-   },
-   {
-    "id": "nte-5fcb365f69",
-    "game_id": "nte",
-    "name": {
-     "ko": "누구를 위하여 기도를 올리나",
-     "en": null,
-     "ja": null
-    },
-    "aliases": {
-     "ko": [
-      "누구를 위하여 기도를 올리나"
-     ],
-     "en": [],
-     "ja": []
-    },
-    "reveal_date": "2026-10-21",
-    "status": "pickup_live",
-    "illustration_url": "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMjIz/MDAxNzkyMTM4ODU1ODQz.0v6JEHkwUD01yac8Kg0Fza9x6hlm5flOenKBNjDqoHsg.sy7FhfOr7bBPMhIVCvPaKQGh15Zd106DNeALh8eNuS0g.JPEG/1920x1080-kr.jpg",
-    "source_urls": [
-     "https://game.naver.com/lounge/NTE/board/detail/8339533"
-    ],
-    "pickup": {
-     "start": "2026-10-21",
-     "end": "2026-11-11",
-     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8339533",
-     "source": "네이버 게임 라운지 공식 GM 공지",
-     "is_rerun": false,
-     "is_new": true
-    },
-    "is_new": true,
-    "last_updated": "2026-11-09T22:04:52+09:00",
+    "last_updated": "2026-11-09T22:54:21+09:00",
     "related_posts": []
    }
   ],
-  "count": 12
+  "count": 2
  },
  "pv_ranking": {
   "status": "ok",
-  "generated_at": "2026-11-09T22:04:52+09:00",
-  "rule": "공식 채널 PV 실측 조회수만. 절대값 순위와 성장(델타) 순위 분리. 게임 크기 정규화는 lift_vs_game_baseline.",
-  "hold_policy": "PV<24h 또는 조회수 없음 → 순위 보류",
+  "generated_at": "2026-11-09T22:54:21+09:00",
+  "rule": "공식 채널 PV 실측 조회수 · 절대 조회수와 성장 순위 분리 · 같은 게임 과거 신캐 대비 보정",
+  "hold_policy": "PV 게시 후 24시간 미만이거나 조회수 없으면 순위 보류",
   "absolute_ranking": [
    {
     "character_id": "genshin-a2fbc1b95d",
@@ -501,8 +105,8 @@
     "rank_absolute": 1,
     "rank_growth": null,
     "absolute": {
-     "views": 134819,
-     "lift_vs_game_baseline": 2.453
+     "views": 134926,
+     "lift_vs_game_baseline": 2.454
     },
     "growth": {
      "delta_24h": null,
@@ -519,13 +123,13 @@
      "thumb": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T13:00:36+09:00",
-     "age_hours": 153.1,
-     "views_absolute": 134819,
+     "age_hours": 153.9,
+     "views_absolute": 134926,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 134819,
+      "views_now": 134926,
       "delta_24h": null,
       "delta_7d": null,
       "delta_30d": null,
@@ -533,12 +137,12 @@
       "since_publish_7d": null,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 54953.0,
-     "lift_vs_game_baseline": 2.453,
+     "game_baseline_median_views": 54990.0,
+     "lift_vs_game_baseline": 2.454,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-09T22:04:52+09:00"
+     "fetched_at": "2026-11-09T22:54:21+09:00"
     },
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "character_id": "genshin-de1daf6f79",
@@ -553,7 +157,7 @@
     "rank_absolute": 2,
     "rank_growth": null,
     "absolute": {
-     "views": 70403,
+     "views": 70442,
      "lift_vs_game_baseline": 1.281
     },
     "growth": {
@@ -571,13 +175,13 @@
      "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-02T13:00:00+09:00",
-     "age_hours": 177.1,
-     "views_absolute": 70403,
+     "age_hours": 177.9,
+     "views_absolute": 70442,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 70403,
+      "views_now": 70442,
       "delta_24h": null,
       "delta_7d": null,
       "delta_30d": null,
@@ -585,55 +189,16 @@
       "since_publish_7d": null,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 54953.0,
+     "game_baseline_median_views": 54990.0,
      "lift_vs_game_baseline": 1.281,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-09T22:04:52+09:00"
+     "fetched_at": "2026-11-09T22:54:21+09:00"
     },
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    }
   ],
   "growth_ranking": [],
   "all": [
-   {
-    "character_id": "genshin-dc4099a6e8",
-    "name": {
-     "ko": "로자리아",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "genshin",
-    "hold": true,
-    "hold_reason": "공식 PV 매칭 없음",
-    "rank_absolute": null,
-    "rank_growth": null,
-    "absolute": {
-     "views": null,
-     "lift_vs_game_baseline": null
-    },
-    "growth": {
-     "delta_24h": null,
-     "delta_7d": null,
-     "delta_30d": null,
-     "since_publish_24h": null,
-     "since_publish_7d": null,
-     "since_publish_30d": null
-    },
-    "pv": null,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
    {
     "character_id": "genshin-a2fbc1b95d",
     "name": {
@@ -647,8 +212,8 @@
     "rank_absolute": 1,
     "rank_growth": null,
     "absolute": {
-     "views": 134819,
-     "lift_vs_game_baseline": 2.453
+     "views": 134926,
+     "lift_vs_game_baseline": 2.454
     },
     "growth": {
      "delta_24h": null,
@@ -665,13 +230,13 @@
      "thumb": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T13:00:36+09:00",
-     "age_hours": 153.1,
-     "views_absolute": 134819,
+     "age_hours": 153.9,
+     "views_absolute": 134926,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 134819,
+      "views_now": 134926,
       "delta_24h": null,
       "delta_7d": null,
       "delta_30d": null,
@@ -679,24 +244,13 @@
       "since_publish_7d": null,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 54953.0,
-     "lift_vs_game_baseline": 2.453,
+     "game_baseline_median_views": 54990.0,
+     "lift_vs_game_baseline": 2.454,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-09T22:04:52+09:00"
+     "fetched_at": "2026-11-09T22:54:21+09:00"
     },
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
+    "last_updated": "2026-11-09T22:54:21+09:00",
+    "related_posts": []
    },
    {
     "character_id": "genshin-de1daf6f79",
@@ -711,7 +265,7 @@
     "rank_absolute": 2,
     "rank_growth": null,
     "absolute": {
-     "views": 70403,
+     "views": 70442,
      "lift_vs_game_baseline": 1.281
     },
     "growth": {
@@ -729,13 +283,13 @@
      "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-02T13:00:00+09:00",
-     "age_hours": 177.1,
-     "views_absolute": 70403,
+     "age_hours": 177.9,
+     "views_absolute": 70442,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 70403,
+      "views_now": 70442,
       "delta_24h": null,
       "delta_7d": null,
       "delta_30d": null,
@@ -743,308 +297,12 @@
       "since_publish_7d": null,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 54953.0,
+     "game_baseline_median_views": 54990.0,
      "lift_vs_game_baseline": 1.281,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-09T22:04:52+09:00"
+     "fetched_at": "2026-11-09T22:54:21+09:00"
     },
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "character_id": "genshin-89e07f95d7",
-    "name": {
-     "ko": "샤를로트",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "genshin",
-    "hold": true,
-    "hold_reason": "공식 PV 매칭 없음",
-    "rank_absolute": null,
-    "rank_growth": null,
-    "absolute": {
-     "views": null,
-     "lift_vs_game_baseline": null
-    },
-    "growth": {
-     "delta_24h": null,
-     "delta_7d": null,
-     "delta_30d": null,
-     "since_publish_24h": null,
-     "since_publish_7d": null,
-     "since_publish_30d": null
-    },
-    "pv": null,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "character_id": "genshin-6a6c4bcf62",
-    "name": {
-     "ko": "푸리나",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "genshin",
-    "hold": true,
-    "hold_reason": "공식 PV 매칭 없음",
-    "rank_absolute": null,
-    "rank_growth": null,
-    "absolute": {
-     "views": null,
-     "lift_vs_game_baseline": null
-    },
-    "growth": {
-     "delta_24h": null,
-     "delta_7d": null,
-     "delta_30d": null,
-     "since_publish_24h": null,
-     "since_publish_7d": null,
-     "since_publish_30d": null
-    },
-    "pv": null,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "character_id": "genshin-4beb1f475c",
-    "name": {
-     "ko": "별빛 계시",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "genshin",
-    "hold": true,
-    "hold_reason": "공식 PV 매칭 없음",
-    "rank_absolute": null,
-    "rank_growth": null,
-    "absolute": {
-     "views": null,
-     "lift_vs_game_baseline": null
-    },
-    "growth": {
-     "delta_24h": null,
-     "delta_7d": null,
-     "delta_30d": null,
-     "since_publish_24h": null,
-     "since_publish_7d": null,
-     "since_publish_30d": null
-    },
-    "pv": null,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "character_id": "nte-7a7f1be071",
-    "name": {
-     "ko": "연결음이 흐르는 동안",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "공식 PV 매칭 없음",
-    "rank_absolute": null,
-    "rank_growth": null,
-    "absolute": {
-     "views": null,
-     "lift_vs_game_baseline": null
-    },
-    "growth": {
-     "delta_24h": null,
-     "delta_7d": null,
-     "delta_30d": null,
-     "since_publish_24h": null,
-     "since_publish_7d": null,
-     "since_publish_30d": null
-    },
-    "pv": null,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": []
-   },
-   {
-    "character_id": "nte-b4a4bf2af6",
-    "name": {
-     "ko": "삼중 열쇠",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "공식 PV 매칭 없음",
-    "rank_absolute": null,
-    "rank_growth": null,
-    "absolute": {
-     "views": null,
-     "lift_vs_game_baseline": null
-    },
-    "growth": {
-     "delta_24h": null,
-     "delta_7d": null,
-     "delta_30d": null,
-     "since_publish_24h": null,
-     "since_publish_7d": null,
-     "since_publish_30d": null
-    },
-    "pv": null,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": []
-   },
-   {
-    "character_id": "nte-5f3dd532f3",
-    "name": {
-     "ko": "에코 열쇠",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "공식 PV 매칭 없음",
-    "rank_absolute": null,
-    "rank_growth": null,
-    "absolute": {
-     "views": null,
-     "lift_vs_game_baseline": null
-    },
-    "growth": {
-     "delta_24h": null,
-     "delta_7d": null,
-     "delta_30d": null,
-     "since_publish_24h": null,
-     "since_publish_7d": null,
-     "since_publish_30d": null
-    },
-    "pv": null,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": []
-   },
-   {
-    "character_id": "nte-a2145afe84",
-    "name": {
-     "ko": "달의 대척점",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "공식 PV 매칭 없음",
-    "rank_absolute": null,
-    "rank_growth": null,
-    "absolute": {
-     "views": null,
-     "lift_vs_game_baseline": null
-    },
-    "growth": {
-     "delta_24h": null,
-     "delta_7d": null,
-     "delta_30d": null,
-     "since_publish_24h": null,
-     "since_publish_7d": null,
-     "since_publish_30d": null
-    },
-    "pv": null,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": []
-   },
-   {
-    "character_id": "nte-2c95a60728",
-    "name": {
-     "ko": "해달별 열쇠",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "공식 PV 매칭 없음",
-    "rank_absolute": null,
-    "rank_growth": null,
-    "absolute": {
-     "views": null,
-     "lift_vs_game_baseline": null
-    },
-    "growth": {
-     "delta_24h": null,
-     "delta_7d": null,
-     "delta_30d": null,
-     "since_publish_24h": null,
-     "since_publish_7d": null,
-     "since_publish_30d": null
-    },
-    "pv": null,
-    "last_updated": "2026-11-09T22:04:52+09:00",
-    "related_posts": []
-   },
-   {
-    "character_id": "nte-5fcb365f69",
-    "name": {
-     "ko": "누구를 위하여 기도를 올리나",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "공식 PV 매칭 없음",
-    "rank_absolute": null,
-    "rank_growth": null,
-    "absolute": {
-     "views": null,
-     "lift_vs_game_baseline": null
-    },
-    "growth": {
-     "delta_24h": null,
-     "delta_7d": null,
-     "delta_30d": null,
-     "since_publish_24h": null,
-     "since_publish_7d": null,
-     "since_publish_30d": null
-    },
-    "pv": null,
-    "last_updated": "2026-11-09T22:04:52+09:00",
+    "last_updated": "2026-11-09T22:54:21+09:00",
     "related_posts": []
    }
   ],
@@ -1052,7 +310,7 @@
  },
  "character_ranking": {
   "status": "ok",
-  "generated_at": "2026-11-09T22:07:48+09:00",
+  "generated_at": "2026-11-09T22:54:45+09:00",
   "rule": "점수/100. 결측은 0 아님→재정규화. coverage=수집률. 낮으면 provisional/hold. reliability 별도. 복각 제외. all-time 미합산.",
   "weights": {
    "youtube_pv": 0.35,
@@ -1075,8 +333,8 @@
     "score": 100.0,
     "reliability": 0.5,
     "signals": {
-     "youtube_pv_views": 134819,
-     "youtube_pv_lift": 2.453,
+     "youtube_pv_views": 134926,
+     "youtube_pv_lift": 2.454,
      "google_trends": null,
      "google_trends_lift": null,
      "x": null,
@@ -1089,9 +347,9 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 134819,
+    "absolute_views": 134926,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
+    "last_updated": "2026-11-09T22:54:45+09:00",
     "score_raw": 100.0,
     "coverage": 0.5,
     "provisional": true,
@@ -1110,19 +368,8 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 2.453,
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
+    "lift_vs_game_baseline": 2.454,
+    "related_posts": []
    },
    {
     "character_id": "genshin-de1daf6f79",
@@ -1138,7 +385,7 @@
     "score": 94.5,
     "reliability": 0.5,
     "signals": {
-     "youtube_pv_views": 70403,
+     "youtube_pv_views": 70442,
      "youtube_pv_lift": 1.281,
      "google_trends": null,
      "google_trends_lift": null,
@@ -1152,9 +399,9 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 70403,
+    "absolute_views": 70442,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
+    "last_updated": "2026-11-09T22:54:45+09:00",
     "score_raw": 94.5,
     "coverage": 0.5,
     "provisional": true,
@@ -1174,584 +421,11 @@
      "community": 0.2
     },
     "lift_vs_game_baseline": 1.281,
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   }
-  ],
-  "held": [
-   {
-    "character_id": "genshin-dc4099a6e8",
-    "name": {
-     "ko": "로자리아",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "genshin",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "character_id": "genshin-89e07f95d7",
-    "name": {
-     "ko": "샤를로트",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "genshin",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "character_id": "genshin-6a6c4bcf62",
-    "name": {
-     "ko": "푸리나",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "genshin",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "character_id": "genshin-4beb1f475c",
-    "name": {
-     "ko": "별빛 계시",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "genshin",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "character_id": "nte-7a7f1be071",
-    "name": {
-     "ko": "연결음이 흐르는 동안",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": []
-   },
-   {
-    "character_id": "nte-b4a4bf2af6",
-    "name": {
-     "ko": "삼중 열쇠",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": []
-   },
-   {
-    "character_id": "nte-5f3dd532f3",
-    "name": {
-     "ko": "에코 열쇠",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": []
-   },
-   {
-    "character_id": "nte-a2145afe84",
-    "name": {
-     "ko": "달의 대척점",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": []
-   },
-   {
-    "character_id": "nte-2c95a60728",
-    "name": {
-     "ko": "해달별 열쇠",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": []
-   },
-   {
-    "character_id": "nte-5fcb365f69",
-    "name": {
-     "ko": "누구를 위하여 기도를 올리나",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
     "related_posts": []
    }
   ],
+  "held": [],
   "all": [
-   {
-    "character_id": "genshin-dc4099a6e8",
-    "name": {
-     "ko": "로자리아",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "genshin",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
    {
     "character_id": "genshin-a2fbc1b95d",
     "name": {
@@ -1766,8 +440,8 @@
     "score": 100.0,
     "reliability": 0.5,
     "signals": {
-     "youtube_pv_views": 134819,
-     "youtube_pv_lift": 2.453,
+     "youtube_pv_views": 134926,
+     "youtube_pv_lift": 2.454,
      "google_trends": null,
      "google_trends_lift": null,
      "x": null,
@@ -1780,9 +454,9 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 134819,
+    "absolute_views": 134926,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
+    "last_updated": "2026-11-09T22:54:45+09:00",
     "score_raw": 100.0,
     "coverage": 0.5,
     "provisional": true,
@@ -1801,19 +475,8 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 2.453,
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
+    "lift_vs_game_baseline": 2.454,
+    "related_posts": []
    },
    {
     "character_id": "genshin-de1daf6f79",
@@ -1829,7 +492,7 @@
     "score": 94.5,
     "reliability": 0.5,
     "signals": {
-     "youtube_pv_views": 70403,
+     "youtube_pv_views": 70442,
      "youtube_pv_lift": 1.281,
      "google_trends": null,
      "google_trends_lift": null,
@@ -1843,9 +506,9 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 70403,
+    "absolute_views": 70442,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
+    "last_updated": "2026-11-09T22:54:45+09:00",
     "score_raw": 94.5,
     "coverage": 0.5,
     "provisional": true,
@@ -1865,464 +528,6 @@
      "community": 0.2
     },
     "lift_vs_game_baseline": 1.281,
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "character_id": "genshin-89e07f95d7",
-    "name": {
-     "ko": "샤를로트",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "genshin",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "character_id": "genshin-6a6c4bcf62",
-    "name": {
-     "ko": "푸리나",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "genshin",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "character_id": "genshin-4beb1f475c",
-    "name": {
-     "ko": "별빛 계시",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "genshin",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": [
-     {
-      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-      "url": "https://news84034.tistory.com/8",
-      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-     }
-    ]
-   },
-   {
-    "character_id": "nte-7a7f1be071",
-    "name": {
-     "ko": "연결음이 흐르는 동안",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": []
-   },
-   {
-    "character_id": "nte-b4a4bf2af6",
-    "name": {
-     "ko": "삼중 열쇠",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": []
-   },
-   {
-    "character_id": "nte-5f3dd532f3",
-    "name": {
-     "ko": "에코 열쇠",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": []
-   },
-   {
-    "character_id": "nte-a2145afe84",
-    "name": {
-     "ko": "달의 대척점",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": []
-   },
-   {
-    "character_id": "nte-2c95a60728",
-    "name": {
-     "ko": "해달별 열쇠",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
-    "related_posts": []
-   },
-   {
-    "character_id": "nte-5fcb365f69",
-    "name": {
-     "ko": "누구를 위하여 기도를 올리나",
-     "en": null,
-     "ja": null
-    },
-    "game_id": "nte",
-    "hold": true,
-    "hold_reason": "실측 신호 0<1",
-    "rank": null,
-    "score": null,
-    "reliability": 0.0,
-    "signals": {
-     "youtube_pv_views": null,
-     "youtube_pv_lift": null,
-     "google_trends": null,
-     "google_trends_lift": null,
-     "x": null,
-     "community": null
-    },
-    "signals_status": {
-     "youtube_pv_views": "데이터 없음",
-     "google_trends": "미연동",
-     "x": "미연동",
-     "community": "데이터 없음",
-     "likes_comments": "미연동"
-    },
-    "absolute_views": null,
-    "growth_rate_7d": null,
-    "last_updated": "2026-11-09T22:07:48+09:00",
-    "score_raw": null,
-    "coverage": 0.0,
-    "provisional": false,
-    "used_weights": null,
-    "present_signals": [],
-    "signal_scores_0_100": {},
-    "weights_config": {
-     "youtube_pv": 0.35,
-     "google_trends": 0.25,
-     "x": 0.2,
-     "community": 0.2
-    },
-    "lift_vs_game_baseline": null,
     "related_posts": []
    }
   ],
@@ -2337,147 +542,26 @@
  },
  "rising_character": {
   "status": "데이터 없음",
-  "generated_at": "2026-11-09T22:04:52+09:00",
-  "rule": "최근 관심 성장 속도(주로 7d 조회수 델타). 복각 제외. 스냅샷 부족 시 데이터 없음.",
+  "generated_at": "2026-11-09T22:54:21+09:00",
+  "rule": "최근 관심 성장 속도(주로 7일 조회수 증가분) · 복각 제외 · 스냅샷 부족 시 데이터 없음",
   "top": null,
   "ranking": []
  },
  "pickup_schedule": {
   "status": "ok",
-  "generated_at": "2026-11-09T22:04:52+09:00",
+  "generated_at": "2026-11-09T22:54:21+09:00",
   "month": "2026-11",
-  "rule": "공식 공지만. start/end/source_url 필수. 신규 중심, 복각은 is_rerun=true로 표기.",
+  "rule": "공식 공지만 · 시작/종료/출처 필수 · 신규 중심, 복각은 따로 표시",
   "items": [
-   {
-    "game_id": "starrail",
-    "game_name": "붕괴: 스타레일",
-    "title": "Fate[UBW] 콜라보 워프 안내",
-    "characters": null,
-    "start": "2026-07-03 20:55:00",
-    "end": "2036-07-03 00:00:00",
-    "is_new": true,
-    "is_rerun": false,
-    "type": "신규",
-    "image": null,
-    "source": "HoYoverse 공식 인게임 공지 API",
-    "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-09T22:04:52+09:00"
-   },
-   {
-    "game_id": "nte",
-    "game_name": "이환",
-    "title": "「깃털 특간」 아크 연구 모집 계획 오픈 예정",
-    "characters": [
-     "죄와 벌",
-     "삼중 열쇠",
-     "깃털 열쇠",
-     "죄와 벌",
-     "죄와 벌",
-     "죄와 벌"
-    ],
-    "start": "2026-09-30",
-    "end": "2026-10-21",
-    "is_new": true,
-    "is_rerun": false,
-    "type": "신규",
-    "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMTI0/MDAxNzkwMjUwMzE4ODI3.WvOv27cJUzIV6YqNnRKJDaq3tN4NuA9Lw3iivYCdwUwg.Y6UaJL952fqsCXA4SG4X48hUcvgJCFbN6DZYOefbatUg.JPEG/1920x1080-kr.jpg",
-    "source": "네이버 게임 라운지 공식 GM 공지",
-    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8252406",
-    "last_updated": "2026-11-09T22:04:52+09:00"
-   },
-   {
-    "game_id": "trickcal",
-    "game_name": "트릭컬 리바이브",
-    "title": "[이벤트] 신규 픽업 엘다인 사도 모집 진행 예정 안내(~10월 15일)",
-    "characters": null,
-    "start": "2026-10-15",
-    "end": "2026-10-08",
-    "is_new": true,
-    "is_rerun": false,
-    "type": "신규",
-    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMzAw/MDAxNzkxMjcxOTQzODcy.lw4aSYjSTr0KlOWLKWOwLZcG0I_BRuPMGi0OGeN-leMg.tx_4RgVnIv-0Maix6amp_bYRasxLMew85m6MMWKL2-wg.PNG/3_3.png",
-    "source": "네이버 게임 라운지 공식 GM 공지",
-    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8293809",
-    "last_updated": "2026-11-09T22:04:52+09:00"
-   },
-   {
-    "game_id": "nte",
-    "game_name": "이환",
-    "title": "「해달별 특간」 아크 연구 모집 계획 오픈 예정",
-    "characters": [
-     "달의 대척점",
-     "삼중 열쇠",
-     "해달별 열쇠",
-     "달의 대척점",
-     "달의 대척점",
-     "달의 대척점",
-     "아크 상점",
-     "누구를 위하여 기도를 올리나"
-    ],
-    "start": "2026-10-21",
-    "end": "2026-11-11",
-    "is_new": true,
-    "is_rerun": false,
-    "type": "신규",
-    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMjIz/MDAxNzkyMTM4ODU1ODQz.0v6JEHkwUD01yac8Kg0Fza9x6hlm5flOenKBNjDqoHsg.sy7FhfOr7bBPMhIVCvPaKQGh15Zd106DNeALh8eNuS0g.JPEG/1920x1080-kr.jpg",
-    "source": "네이버 게임 라운지 공식 GM 공지",
-    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8339533",
-    "last_updated": "2026-11-09T22:04:52+09:00"
-   },
-   {
-    "game_id": "trickcal",
-    "game_name": "트릭컬 리바이브",
-    "title": "[이벤트] [테마 사복] 5종 할인&특별 픽업 사도 모집 진행 안내(~10월 22일)",
-    "characters": null,
-    "start": "2026-10-22",
-    "end": "2026-10-15",
-    "is_new": true,
-    "is_rerun": false,
-    "type": "신규",
-    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTNfMTM4/MDAxNzkxODc1NDc5NzAz.nvfKSt1OZZyOP703D9JCr4TceMqe0_maRPWZ3D-t-Ngg.BvxXFQ9C87I2oovfJZmo7y___Ku30IdqdjXlnTB6_zgg.PNG/3_3.png",
-    "source": "네이버 게임 라운지 공식 GM 공지",
-    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8321399",
-    "last_updated": "2026-11-09T22:04:52+09:00"
-   },
-   {
-    "game_id": "trickcal",
-    "game_name": "트릭컬 리바이브",
-    "title": "[이벤트] 신규 스펙타클 카드 뽑기 예정 안내(~10월 22일)",
-    "characters": null,
-    "start": "2026-10-22",
-    "end": "2026-10-08",
-    "is_new": true,
-    "is_rerun": false,
-    "type": "신규",
-    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMjky/MDAxNzkxMjcyMTE0NTU3.AnMuvecl3uxmFe6qCDNNaPKz6eA_3e5g1Lz2NcS3lkIg.tMQUkR37_-iJncaOkeEuWk_XHCc2kwU-4-pYdqpcUQwg.PNG/3_3.png",
-    "source": "네이버 게임 라운지 공식 GM 공지",
-    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8293813",
-    "last_updated": "2026-11-09T22:04:52+09:00"
-   },
-   {
-    "game_id": "trickcal",
-    "game_name": "트릭컬 리바이브",
-    "title": "[이벤트] 신규 픽업 엘다인 사도 모집 진행 예정 안내(~10월 22일)",
-    "characters": null,
-    "start": "2026-10-22",
-    "end": "2026-10-08",
-    "is_new": true,
-    "is_rerun": false,
-    "type": "신규",
-    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMTk2/MDAxNzkxMjcxODUyMDMz.pIRVGl5Z8uT79ErKjGbTPgfZUWZJaKw4B1BRTygvDdwg.p2bmBKflPiytTmOYhctB8ofBruMqWsicLwmw_wJ_7Vsg.PNG/3_3.png",
-    "source": "네이버 게임 라운지 공식 GM 공지",
-    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8293797",
-    "last_updated": "2026-11-09T22:04:52+09:00"
-   },
    {
     "game_id": "genshin",
     "game_name": "원신",
     "title": "「만물의 법칙」 기원: 「규칙 파괴자·미탸(번개)」 확률 UP!",
     "characters": [
-     "로자리아",
      "미탸",
      "발레리",
-     "샤를로트"
+     "샤를로트",
+     "로자리아"
     ],
     "start": "2026-11-02 12:00:00",
     "end": "2026-11-24 17:59:00",
@@ -2487,17 +571,17 @@
     "image": null,
     "source": "HoYoverse 공식 인게임 공지 API",
     "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "genshin",
     "game_name": "원신",
     "title": "「물들의 찬송시」 기원: 「멈추지 않는 독무·푸리나(물)」 확률 UP!",
     "characters": [
-     "로자리아",
      "발레리",
+     "푸리나",
      "샤를로트",
-     "푸리나"
+     "로자리아"
     ],
     "start": "2026-11-02 12:00:00",
     "end": "2026-11-24 17:59:00",
@@ -2507,122 +591,7 @@
     "image": null,
     "source": "HoYoverse 공식 인게임 공지 API",
     "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-09T22:04:52+09:00"
-   },
-   {
-    "game_id": "genshin",
-    "game_name": "원신",
-    "title": "「신의 주조」 기원: 「법구·별빛 계시」, 「한손검·고요히 샘솟는 빛」 확률 UP!",
-    "characters": [
-     "별빛 계시"
-    ],
-    "start": "2026-11-02 12:00:00",
-    "end": "2026-11-24 17:59:00",
-    "is_new": true,
-    "is_rerun": false,
-    "type": "신규",
-    "image": null,
-    "source": "HoYoverse 공식 인게임 공지 API",
-    "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-09T22:04:52+09:00"
-   },
-   {
-    "game_id": "trickcal",
-    "game_name": "트릭컬 리바이브",
-    "title": "[이벤트]신규 픽업 사도 모집 진행 예정 안내(~11월 5일)",
-    "characters": null,
-    "start": "2026-11-05",
-    "end": "2026-10-29",
-    "is_new": true,
-    "is_rerun": false,
-    "type": "신규",
-    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjdfMTcx/MDAxNzkzMDg0OTUzMjM4.5GTnx06Vfn8tsenjV7M9wVI4MZCwV2GiADQATSkOQbcg.hjMHCgxM1wkfXiFgFTwoOnrXywcGZls8DNCUVR0zQ_wg.PNG/3_3.png",
-    "source": "네이버 게임 라운지 공식 GM 공지",
-    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
-    "last_updated": "2026-11-09T22:04:52+09:00"
-   },
-   {
-    "game_id": "trickcal",
-    "game_name": "트릭컬 리바이브",
-    "title": "[이벤트] 신규 스펙타클 카드 뽑기 예정 안내(~11월 5일)",
-    "characters": null,
-    "start": "2026-11-05",
-    "end": "2026-10-22",
-    "is_new": true,
-    "is_rerun": false,
-    "type": "신규",
-    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfNTUg/MDAxNzkyNDgwMzM4NjUw.4YK7NdicR0nA4aXTVV9sv7BZFgaOBgTjM03Y573itVUg.mB3NPEYd_Bhv8wDOFWmbW0rvWLe2mYHQOll1NYjNesQg.PNG/3_3.png",
-    "source": "네이버 게임 라운지 공식 GM 공지",
-    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8343614",
-    "last_updated": "2026-11-09T22:04:52+09:00"
-   },
-   {
-    "game_id": "trickcal",
-    "game_name": "트릭컬 리바이브",
-    "title": "[이벤트] 신규 픽업 사도 모집 진행 예정 안내(~11월 5일)",
-    "characters": null,
-    "start": "2026-11-05",
-    "end": "2026-10-22",
-    "is_new": true,
-    "is_rerun": false,
-    "type": "신규",
-    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfMjcz/MDAxNzkyNDgwMTc1ODI0.Nl2NbQ1OcX-1pati00707xBgPr7o88wWJKco6p92aqsg.DpiO0LURuSirInv_9vg7DWgtRiT6BNbkT8L5Kw9XSAsg.PNG/3_3.png",
-    "source": "네이버 게임 라운지 공식 GM 공지",
-    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8343598",
-    "last_updated": "2026-11-09T22:04:52+09:00"
-   },
-   {
-    "game_id": "nte",
-    "game_name": "이환",
-    "title": "「에코 특간」 아크 연구 모집 계획 오픈 예정",
-    "characters": [
-     "연결음이 흐르는 동안",
-     "삼중 열쇠",
-     "에코 열쇠",
-     "연결음이 흐르는 동안",
-     "연결음이 흐르는 동안",
-     "연결음이 흐르는 동안",
-     "아크 상점"
-    ],
-    "start": "2026-11-11",
-    "end": "2026-12-02",
-    "is_new": true,
-    "is_rerun": false,
-    "type": "신규",
-    "image": "https://nng-phinf.pstatic.net/MjAyNjExMDVfMTg1/MDAxNzkzODY4NDYwNjky.zUT_AukznWFCUk8qZIhYu6gT2jfr4RefPm6dauXj-C4g.nPXpI4VbhEorkhdyVkn-wxIy-GsiKedbDValr6FdmFAg.JPEG/1920x1080-kr.jpg",
-    "source": "네이버 게임 라운지 공식 GM 공지",
-    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8433786",
-    "last_updated": "2026-11-09T22:04:52+09:00"
-   },
-   {
-    "game_id": "trickcal",
-    "game_name": "트릭컬 리바이브",
-    "title": "[이벤트] 신규 스펙타클 카드 뽑기 예정 안내(~11월 19일)",
-    "characters": null,
-    "start": "2026-11-19",
-    "end": "2026-11-05",
-    "is_new": true,
-    "is_rerun": false,
-    "type": "신규",
-    "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfNjMg/MDAxNzkzNjkxOTIzMDMx.SeSpqWuHJisspcWsBbZYOSBjT2r6tXS0NRn61UnTVdEg.nZu2zHZcbcaMXRxO0iBcAbCTIBewZrBSHU7Bp0dtAC4g.PNG/3_3.png",
-    "source": "네이버 게임 라운지 공식 GM 공지",
-    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404614",
-    "last_updated": "2026-11-09T22:04:52+09:00"
-   },
-   {
-    "game_id": "trickcal",
-    "game_name": "트릭컬 리바이브",
-    "title": "[이벤트] 신규 픽업 사도 모집 진행 예정 안내(~11월 19일)",
-    "characters": null,
-    "start": "2026-11-19",
-    "end": "2026-11-05",
-    "is_new": true,
-    "is_rerun": false,
-    "type": "신규",
-    "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfOTgg/MDAxNzkzNjkxODI0MDQz.i5T2WZ3fHnSfyCsLi5Q920KvrcGVWA88ITyq7j9xhOUg.kn17FjWCpwbLHKdBD7yb4-S2EiUi3aSoAI-mxtwd1dsg.PNG/3_3.png",
-    "source": "네이버 게임 라운지 공식 GM 공지",
-    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    }
   ],
   "reruns": [
@@ -2632,12 +601,7 @@
     "title": "한정 S급 캐릭터 「라크리모사」 복각 예정",
     "characters": [
      "라크리모사",
-     "단꿈에서 깨어날 때",
-     "단꿈 특전",
-     "라크리모사",
-     "한정 보드",
-     "스카버러 마켓",
-     "아크 상점"
+     "단꿈에서 깨어날 때"
     ],
     "start": "2026-09-30",
     "end": "2026-10-21",
@@ -2647,14 +611,14 @@
     "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMjI1/MDAxNzkwMjQ1NjA5ODIw.fl2abbSUcgBRjIPr8XxISE7qlHMtyp6zWx_mgGUiUmQg.vjkL6oMqwLwWwvzesoqoQSkzC3B6GOylkZ5zYo5fyV4g.JPEG/1920x1080-KR.jpg",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8252739",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "starrail",
     "game_name": "붕괴: 스타레일",
     "title": "4.6 버전 이벤트 워프 (2)",
     "characters": null,
-    "start": "2026-10-20 14:00:00",
+    "start": "2026-10-20 07:00:00",
     "end": "2026-11-10 15:00:00",
     "is_new": false,
     "is_rerun": true,
@@ -2662,7 +626,7 @@
     "image": null,
     "source": "HoYoverse 공식 인게임 공지 API",
     "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "nte",
@@ -2671,12 +635,7 @@
     "characters": [
      "신쿠",
      "동틀 녘",
-     "굳은 의지 특전",
-     "신쿠",
-     "홍염의 신기루",
-     "한정 보드",
-     "스카버러 마켓",
-     "아크 상점"
+     "홍염의 신기루"
     ],
     "start": "2026-11-11",
     "end": "2026-12-02",
@@ -2686,7 +645,7 @@
     "image": "https://nng-phinf.pstatic.net/MjAyNjExMDZfMjkg/MDAxNzkzOTU3MzAwMDk4.k6nCqRETzPOFIJRK9ccDN-oQ5QH8KeM56L-7LOHrotQg.eQ6Sl9gXor95NLwH5-3O43YU4LQmAWgUE_sHqj3jR9Ag.JPEG/1920x1080-KR.jpg",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    }
   ],
   "all": [
@@ -2695,15 +654,15 @@
     "game_name": "붕괴: 스타레일",
     "title": "Fate[UBW] 콜라보 워프 안내",
     "characters": null,
-    "start": "2026-07-03 20:55:00",
-    "end": "2036-07-03 00:00:00",
-    "is_new": true,
+    "start": "2026-07-03 13:55:00",
+    "end": "2036-07-02 17:00:00",
+    "is_new": false,
     "is_rerun": false,
-    "type": "신규",
+    "type": "혼합",
     "image": null,
     "source": "HoYoverse 공식 인게임 공지 API",
     "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "nte",
@@ -2711,12 +670,7 @@
     "title": "한정 S급 캐릭터 「라크리모사」 복각 예정",
     "characters": [
      "라크리모사",
-     "단꿈에서 깨어날 때",
-     "단꿈 특전",
-     "라크리모사",
-     "한정 보드",
-     "스카버러 마켓",
-     "아크 상점"
+     "단꿈에서 깨어날 때"
     ],
     "start": "2026-09-30",
     "end": "2026-10-21",
@@ -2726,29 +680,22 @@
     "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMjI1/MDAxNzkwMjQ1NjA5ODIw.fl2abbSUcgBRjIPr8XxISE7qlHMtyp6zWx_mgGUiUmQg.vjkL6oMqwLwWwvzesoqoQSkzC3B6GOylkZ5zYo5fyV4g.JPEG/1920x1080-KR.jpg",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8252739",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "nte",
     "game_name": "이환",
     "title": "「깃털 특간」 아크 연구 모집 계획 오픈 예정",
-    "characters": [
-     "죄와 벌",
-     "삼중 열쇠",
-     "깃털 열쇠",
-     "죄와 벌",
-     "죄와 벌",
-     "죄와 벌"
-    ],
+    "characters": null,
     "start": "2026-09-30",
     "end": "2026-10-21",
-    "is_new": true,
+    "is_new": false,
     "is_rerun": false,
-    "type": "신규",
+    "type": "기타",
     "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMTI0/MDAxNzkwMjUwMzE4ODI3.WvOv27cJUzIV6YqNnRKJDaq3tN4NuA9Lw3iivYCdwUwg.Y6UaJL952fqsCXA4SG4X48hUcvgJCFbN6DZYOefbatUg.JPEG/1920x1080-kr.jpg",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8252406",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "trickcal",
@@ -2757,20 +704,20 @@
     "characters": null,
     "start": "2026-10-15",
     "end": "2026-10-08",
-    "is_new": true,
+    "is_new": false,
     "is_rerun": false,
-    "type": "신규",
+    "type": "기타",
     "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMzAw/MDAxNzkxMjcxOTQzODcy.lw4aSYjSTr0KlOWLKWOwLZcG0I_BRuPMGi0OGeN-leMg.tx_4RgVnIv-0Maix6amp_bYRasxLMew85m6MMWKL2-wg.PNG/3_3.png",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8293809",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "starrail",
     "game_name": "붕괴: 스타레일",
     "title": "4.6 버전 이벤트 워프 (2)",
     "characters": null,
-    "start": "2026-10-20 14:00:00",
+    "start": "2026-10-20 07:00:00",
     "end": "2026-11-10 15:00:00",
     "is_new": false,
     "is_rerun": true,
@@ -2778,31 +725,22 @@
     "image": null,
     "source": "HoYoverse 공식 인게임 공지 API",
     "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "nte",
     "game_name": "이환",
     "title": "「해달별 특간」 아크 연구 모집 계획 오픈 예정",
-    "characters": [
-     "달의 대척점",
-     "삼중 열쇠",
-     "해달별 열쇠",
-     "달의 대척점",
-     "달의 대척점",
-     "달의 대척점",
-     "아크 상점",
-     "누구를 위하여 기도를 올리나"
-    ],
+    "characters": null,
     "start": "2026-10-21",
     "end": "2026-11-11",
-    "is_new": true,
+    "is_new": false,
     "is_rerun": false,
-    "type": "신규",
+    "type": "기타",
     "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMjIz/MDAxNzkyMTM4ODU1ODQz.0v6JEHkwUD01yac8Kg0Fza9x6hlm5flOenKBNjDqoHsg.sy7FhfOr7bBPMhIVCvPaKQGh15Zd106DNeALh8eNuS0g.JPEG/1920x1080-kr.jpg",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8339533",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "trickcal",
@@ -2811,13 +749,13 @@
     "characters": null,
     "start": "2026-10-22",
     "end": "2026-10-15",
-    "is_new": true,
+    "is_new": false,
     "is_rerun": false,
-    "type": "신규",
+    "type": "기타",
     "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTNfMTM4/MDAxNzkxODc1NDc5NzAz.nvfKSt1OZZyOP703D9JCr4TceMqe0_maRPWZ3D-t-Ngg.BvxXFQ9C87I2oovfJZmo7y___Ku30IdqdjXlnTB6_zgg.PNG/3_3.png",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8321399",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "trickcal",
@@ -2826,13 +764,13 @@
     "characters": null,
     "start": "2026-10-22",
     "end": "2026-10-08",
-    "is_new": true,
+    "is_new": false,
     "is_rerun": false,
-    "type": "신규",
+    "type": "기타",
     "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMjky/MDAxNzkxMjcyMTE0NTU3.AnMuvecl3uxmFe6qCDNNaPKz6eA_3e5g1Lz2NcS3lkIg.tMQUkR37_-iJncaOkeEuWk_XHCc2kwU-4-pYdqpcUQwg.PNG/3_3.png",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8293813",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "trickcal",
@@ -2841,23 +779,23 @@
     "characters": null,
     "start": "2026-10-22",
     "end": "2026-10-08",
-    "is_new": true,
+    "is_new": false,
     "is_rerun": false,
-    "type": "신규",
+    "type": "기타",
     "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMTk2/MDAxNzkxMjcxODUyMDMz.pIRVGl5Z8uT79ErKjGbTPgfZUWZJaKw4B1BRTygvDdwg.p2bmBKflPiytTmOYhctB8ofBruMqWsicLwmw_wJ_7Vsg.PNG/3_3.png",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8293797",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "genshin",
     "game_name": "원신",
     "title": "「만물의 법칙」 기원: 「규칙 파괴자·미탸(번개)」 확률 UP!",
     "characters": [
-     "로자리아",
      "미탸",
      "발레리",
-     "샤를로트"
+     "샤를로트",
+     "로자리아"
     ],
     "start": "2026-11-02 12:00:00",
     "end": "2026-11-24 17:59:00",
@@ -2867,17 +805,17 @@
     "image": null,
     "source": "HoYoverse 공식 인게임 공지 API",
     "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "genshin",
     "game_name": "원신",
     "title": "「물들의 찬송시」 기원: 「멈추지 않는 독무·푸리나(물)」 확률 UP!",
     "characters": [
-     "로자리아",
      "발레리",
+     "푸리나",
      "샤를로트",
-     "푸리나"
+     "로자리아"
     ],
     "start": "2026-11-02 12:00:00",
     "end": "2026-11-24 17:59:00",
@@ -2887,24 +825,22 @@
     "image": null,
     "source": "HoYoverse 공식 인게임 공지 API",
     "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "genshin",
     "game_name": "원신",
     "title": "「신의 주조」 기원: 「법구·별빛 계시」, 「한손검·고요히 샘솟는 빛」 확률 UP!",
-    "characters": [
-     "별빛 계시"
-    ],
+    "characters": null,
     "start": "2026-11-02 12:00:00",
     "end": "2026-11-24 17:59:00",
-    "is_new": true,
+    "is_new": false,
     "is_rerun": false,
-    "type": "신규",
+    "type": "무기",
     "image": null,
     "source": "HoYoverse 공식 인게임 공지 API",
     "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "trickcal",
@@ -2913,13 +849,13 @@
     "characters": null,
     "start": "2026-11-05",
     "end": "2026-10-29",
-    "is_new": true,
+    "is_new": false,
     "is_rerun": false,
-    "type": "신규",
+    "type": "기타",
     "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjdfMTcx/MDAxNzkzMDg0OTUzMjM4.5GTnx06Vfn8tsenjV7M9wVI4MZCwV2GiADQATSkOQbcg.hjMHCgxM1wkfXiFgFTwoOnrXywcGZls8DNCUVR0zQ_wg.PNG/3_3.png",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "trickcal",
@@ -2928,13 +864,13 @@
     "characters": null,
     "start": "2026-11-05",
     "end": "2026-10-22",
-    "is_new": true,
+    "is_new": false,
     "is_rerun": false,
-    "type": "신규",
+    "type": "기타",
     "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfNTUg/MDAxNzkyNDgwMzM4NjUw.4YK7NdicR0nA4aXTVV9sv7BZFgaOBgTjM03Y573itVUg.mB3NPEYd_Bhv8wDOFWmbW0rvWLe2mYHQOll1NYjNesQg.PNG/3_3.png",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8343614",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "trickcal",
@@ -2943,13 +879,13 @@
     "characters": null,
     "start": "2026-11-05",
     "end": "2026-10-22",
-    "is_new": true,
+    "is_new": false,
     "is_rerun": false,
-    "type": "신규",
+    "type": "기타",
     "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfMjcz/MDAxNzkyNDgwMTc1ODI0.Nl2NbQ1OcX-1pati00707xBgPr7o88wWJKco6p92aqsg.DpiO0LURuSirInv_9vg7DWgtRiT6BNbkT8L5Kw9XSAsg.PNG/3_3.png",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8343598",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "nte",
@@ -2958,12 +894,7 @@
     "characters": [
      "신쿠",
      "동틀 녘",
-     "굳은 의지 특전",
-     "신쿠",
-     "홍염의 신기루",
-     "한정 보드",
-     "스카버러 마켓",
-     "아크 상점"
+     "홍염의 신기루"
     ],
     "start": "2026-11-11",
     "end": "2026-12-02",
@@ -2973,30 +904,22 @@
     "image": "https://nng-phinf.pstatic.net/MjAyNjExMDZfMjkg/MDAxNzkzOTU3MzAwMDk4.k6nCqRETzPOFIJRK9ccDN-oQ5QH8KeM56L-7LOHrotQg.eQ6Sl9gXor95NLwH5-3O43YU4LQmAWgUE_sHqj3jR9Ag.JPEG/1920x1080-KR.jpg",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "nte",
     "game_name": "이환",
     "title": "「에코 특간」 아크 연구 모집 계획 오픈 예정",
-    "characters": [
-     "연결음이 흐르는 동안",
-     "삼중 열쇠",
-     "에코 열쇠",
-     "연결음이 흐르는 동안",
-     "연결음이 흐르는 동안",
-     "연결음이 흐르는 동안",
-     "아크 상점"
-    ],
+    "characters": null,
     "start": "2026-11-11",
     "end": "2026-12-02",
-    "is_new": true,
+    "is_new": false,
     "is_rerun": false,
-    "type": "신규",
+    "type": "기타",
     "image": "https://nng-phinf.pstatic.net/MjAyNjExMDVfMTg1/MDAxNzkzODY4NDYwNjky.zUT_AukznWFCUk8qZIhYu6gT2jfr4RefPm6dauXj-C4g.nPXpI4VbhEorkhdyVkn-wxIy-GsiKedbDValr6FdmFAg.JPEG/1920x1080-kr.jpg",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8433786",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "trickcal",
@@ -3005,13 +928,13 @@
     "characters": null,
     "start": "2026-11-19",
     "end": "2026-11-05",
-    "is_new": true,
+    "is_new": false,
     "is_rerun": false,
-    "type": "신규",
+    "type": "기타",
     "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfNjMg/MDAxNzkzNjkxOTIzMDMx.SeSpqWuHJisspcWsBbZYOSBjT2r6tXS0NRn61UnTVdEg.nZu2zHZcbcaMXRxO0iBcAbCTIBewZrBSHU7Bp0dtAC4g.PNG/3_3.png",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404614",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    },
    {
     "game_id": "trickcal",
@@ -3020,13 +943,13 @@
     "characters": null,
     "start": "2026-11-19",
     "end": "2026-11-05",
-    "is_new": true,
+    "is_new": false,
     "is_rerun": false,
-    "type": "신규",
+    "type": "기타",
     "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfOTgg/MDAxNzkzNjkxODI0MDQz.i5T2WZ3fHnSfyCsLi5Q920KvrcGVWA88ITyq7j9xhOUg.kn17FjWCpwbLHKdBD7yb4-S2EiUi3aSoAI-mxtwd1dsg.PNG/3_3.png",
     "source": "네이버 게임 라운지 공식 GM 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
-    "last_updated": "2026-11-09T22:04:52+09:00"
+    "last_updated": "2026-11-09T22:54:21+09:00"
    }
   ]
  },

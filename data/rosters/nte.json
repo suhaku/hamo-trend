@@ -1,0 +1,20 @@
+{
+  "game_id": "nte",
+  "note": "Existing Neverness characters; keys/items must not enter new.",
+  "updated": "2026-11-09",
+  "names": {
+    "ko": [],
+    "en": [],
+    "ja": []
+  },
+  "block_tokens": [
+    "열쇠",
+    "특간",
+    "상점",
+    "보드",
+    "마켓",
+    "특전",
+    "연구",
+    "모집"
+  ]
+}

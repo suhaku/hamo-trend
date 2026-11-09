@@ -1,0 +1,187 @@
+{
+ "note": "불확실 추출. 메인 위젯/순위 미표시. 사람 확인 후 overrides 또는 roster로 승격/제외.",
+ "generated_at": "2026-11-09T22:54:21+09:00",
+ "items": [
+  {
+   "name": "내일에 바치는 색채",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "4.6 버전 이벤트 워프 (2)",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "청작",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "4.6 버전 이벤트 워프 (2)",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "설의",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "4.6 버전 이벤트 워프 (2)",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "미샤",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "4.6 버전 이벤트 워프 (2)",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "수술 후의 대화",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "4.6 버전 이벤트 워프 (2)",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "행성과의 만남",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "4.6 버전 이벤트 워프 (2)",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "끝없는 춤",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "4.6 버전 이벤트 워프 (2)",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "천야•블레이드",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "4.6 버전 이벤트 워프 (2)",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "연옥을 불사른 새로운 몸",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "4.6 버전 이벤트 워프 (2)",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "토오사카 린",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "Fate[UBW] 콜라보 워프 안내",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "고요히 빛나는 불티",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "Fate[UBW] 콜라보 워프 안내",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "길가메시",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "Fate[UBW] 콜라보 워프 안내",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "보이는 것이 곧 나",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "Fate[UBW] 콜라보 워프 안내",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "세이버",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "Fate[UBW] 콜라보 워프 안내",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "보답 없는 왕관",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "Fate[UBW] 콜라보 워프 안내",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "아처",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "Fate[UBW] 콜라보 워프 안내",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "이상이 불타는 지옥",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "title": "Fate[UBW] 콜라보 워프 안내",
+   "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "연결음이 흐르는 동안",
+   "game_id": "nte",
+   "game_name": "이환",
+   "title": "「에코 특간」 아크 연구 모집 계획 오픈 예정",
+   "source_url": "https://game.naver.com/lounge/NTE/board/detail/8433786",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "달의 대척점",
+   "game_id": "nte",
+   "game_name": "이환",
+   "title": "「해달별 특간」 아크 연구 모집 계획 오픈 예정",
+   "source_url": "https://game.naver.com/lounge/NTE/board/detail/8339533",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  },
+  {
+   "name": "죄와 벌",
+   "game_id": "nte",
+   "game_name": "이환",
+   "title": "「깃털 특간」 아크 연구 모집 계획 오픈 예정",
+   "source_url": "https://game.naver.com/lounge/NTE/board/detail/8252406",
+   "reason": "이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+   "seen_at": "2026-11-09T22:54:21+09:00"
+  }
+ ],
+ "count": 20
+}

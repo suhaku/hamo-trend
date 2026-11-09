@@ -81,7 +81,27 @@ PV_TITLE_RE = re.compile(
 PICKUP_RE = re.compile(r"기원|워프|채널|픽업|모집|기간 한정|복각|뽑기|헤드헌팅|소환|공명|조달|ガチャ|확률 UP|UP!")
 DATE_RE = re.compile(r"(\d{4}[.\-/년]\s*)?(\d{1,2})\s*[월./]\s*(\d{1,2})\s*일?")
 RERUN_RE = re.compile(r"복각|재등장|rerun|返场|復刻", re.I)
-JUNK_NAME_RE = re.compile(r"열쇠|상점|특간|안내|모집|버전|무기|법구|한손검|양손검|장병기|활·|광추|원암|별빛 계시|고요히 샘솟는")
+JUNK_NAME_RE = re.compile(
+    r"열쇠|상점|특간|안내|모집|버전|무기|법구|한손검|양손검|장병기|활·|광추|원암|"
+    r"별빛 계시|고요히 샘솟는|확률|기원|워프|채널|이벤트|아크|보드|마켓|특전|"
+    r"연구|계획|오픈|기간|한정|복각|가챠|헤드헌팅"
+)
+NEW_MARK_RE = re.compile(
+    r"신규\s*(캐릭터|에이전트|사도|플레이어블)?|New\s*Character|"
+    r"Character\s*(Demo|Teaser|Trailer|PV)|캐릭터\s*(트레일러|티저|데모|예고)|"
+    r"합류|새로\s*등장|플레이어블\s*추가|"
+    r"세상\s*여행」\s*일반\s*기원에\s*추가|다음\s*버전\s*「세상\s*여행",
+    re.I,
+)
+WEAPON_BANNER_RE = re.compile(r"신의\s*주조|무기\s*기원|★5\s*무기|★4\s*무기|확률\s*UP\s*무기")
+FEATURED_TITLE_RE = re.compile(r"기원\s*:\s*「([^」]{2,40})」")
+NAME_IN_QUOTES_RE = re.compile(r"「([^」]*·\s*)?([^」·（(\n]{2,20})\s*[（(][^）)]+[）)]」")
+NEW4_STANDARD_RE = re.compile(
+    r"이벤트\s*종료\s*후\s*★?4\s*캐릭터\s*((?:「[^」]+」\s*,?\s*)+)가\s*다음\s*버전\s*「세상\s*여행",
+)
+ROSTERS_DIR = DATA / "rosters"
+OUT_PENDING = DATA / "pending_review.json"
+OUT_MONTH = DATA / "new_characters_month.json"
 
 
 def iso(t: dt.datetime) -> str:
@@ -190,6 +210,80 @@ def load_json(path: Path, default=None):
             errors.append(f"load {path.name}: {type(e).__name__}")
     return default
 
+
+
+
+# ---------- Known existing roster (rerun filter) ----------
+_roster_cache: dict[str, dict] = {}
+
+
+def load_roster(game_id: str) -> dict:
+    if game_id in _roster_cache:
+        return _roster_cache[game_id]
+    path = ROSTERS_DIR / f"{game_id}.json"
+    doc = load_json(path, {"names": {}, "block_tokens": []}) or {"names": {}, "block_tokens": []}
+    names = set()
+    for lang in ("ko", "en", "ja"):
+        for n in (doc.get("names") or {}).get(lang) or []:
+            if isinstance(n, str) and len(n) >= 2:
+                names.add(n.strip().lower())
+    _roster_cache[game_id] = {
+        "names": names,
+        "block_tokens": [t.lower() for t in (doc.get("block_tokens") or []) if t],
+        "raw": doc,
+    }
+    return _roster_cache[game_id]
+
+
+def in_known_roster(game_id: str, name: str) -> bool:
+    if not name:
+        return False
+    return name.strip().lower() in load_roster(game_id)["names"]
+
+
+def clean_char_token(tok: str) -> str | None:
+    if not tok:
+        return None
+    brackets = "「」『』" + "'" + '"'
+    tok = tok.strip().strip(brackets)
+    tok = re.sub(r"[（(][^）)]+[）)]", "", tok)
+    if "·" in tok:
+        # title·name → name
+        tok = tok.split("·")[-1]
+    tok = tok.strip().strip(brackets)
+    if len(tok) < 2 or len(tok) > 20:
+        return None
+    if JUNK_NAME_RE.search(tok):
+        return None
+    if re.search(r"[\d/\\]|확률|UP", tok, re.I):
+        return None
+    return tok
+
+
+def classify_name(game_id: str, name: str, *, explicit_new: bool, featured: bool, body_blob: str) -> str:
+    """Return 'new' | 'rerun' | 'pending' | 'skip'.
+    - known roster → rerun (never new)
+    - explicit new marker / new-4★-to-standard / featured debut not in roster → new
+    - otherwise → pending (not shown on main widget)
+    """
+    nm = clean_char_token(name) if name else None
+    if not nm:
+        return "skip"
+    roster = load_roster(game_id)
+    for bt in roster["block_tokens"]:
+        if bt and bt in nm.lower():
+            return "skip"
+    if in_known_roster(game_id, nm):
+        return "rerun"
+    if explicit_new:
+        return "new"
+    # Genshin/HSR: featured limited not in roster ≈ debut
+    if featured and NEW_MARK_RE.search(body_blob or "") is None:
+        # featured alone is ok for debut if absent from roster
+        return "new"
+    if featured:
+        return "new"
+    return "pending"
 
 def signal_status(key: str) -> str:
     meta = SIGNALS_META.get(key, {})
@@ -328,35 +422,101 @@ def hoyo_ann(g, cfg):
     anns = [a for grp in j.get("list", []) for a in grp.get("list", [])]
     anns += [a for grp in j.get("pic_list", []) for t in grp.get("type_list", []) for a in t.get("list", [])]
     out = []
+    game_id = "genshin" if cfg["game"] == "hk4e" else "starrail"
     for a in anns:
         title = strip_html(a.get("title") or a.get("subtitle"))
         if not re.search(r"기원|워프", title) or not re.search(r"확률|이벤트 워프|콜라보 워프", title):
             continue
         body = strip_html(content.get(a["ann_id"], {}).get("content", ""))
         blob = body + " " + title
-        # Genshin/HSR style: 「칭호·캐릭터명(속성)」
-        chars = []
-        for m in re.finditer(r"「[^」]*·\s*([^」·（(\n]{2,20})\s*[（(][^）)]+[）)]」", blob):
-            chars.append(m.group(1).strip())
-        # bare names in title after 기원:
-        for m in re.finditer(r"기원\s*:\s*「([^」]{2,20})」", title):
-            tok = m.group(1)
-            if "·" in tok:
-                tok = tok.split("·")[-1]
-            tok = re.sub(r"[（(][^）)]+[）)]", "", tok).strip()
+        # Weapon banners never yield characters
+        if WEAPON_BANNER_RE.search(title) or WEAPON_BANNER_RE.search(body[:300]):
+            start, end = a.get("start_time"), a.get("end_time")
+            if start and end:
+                out.append(dict(
+                    title=title[:200], start=start, end=end, tz="UTC+8",
+                    characters=None, character_meta=[],
+                    image=safe_url(a.get("banner") or a.get("img"), for_output=True),
+                    is_new=False, is_rerun=False, type="무기",
+                    confirmed=True,
+                    source="HoYoverse 공식 인게임 공지 API",
+                    source_url=lst.split("?")[0],
+                    note="무기 기원 — 캐릭터 신규 목록에서 제외",
+                ))
+            continue
+        # Featured name(s) from title 「칭호·이름(속성)」
+        featured = []
+        for m in FEATURED_TITLE_RE.finditer(title):
+            tok = clean_char_token(m.group(1))
             if tok:
-                chars.append(tok)
-        chars = sorted(set(c for c in chars if 1 < len(c) <= 20 and not re.search(r"무기|법구|원암|광추|활·|검", c)))
+                featured.append(tok)
+        # New 4★ marker: "이벤트 종료 후 ★4 캐릭터 「…」가 다음 버전 「세상 여행」 일반 기원에 추가"
+        new4 = []
+        for m in NEW4_STANDARD_RE.finditer(body):
+            for qm in re.finditer(r"「([^」]+)」", m.group(1)):
+                tok = clean_char_token(qm.group(1))
+                if tok:
+                    new4.append(tok)
+        # All rate-up names in body
+        all_names = []
+        for m in NAME_IN_QUOTES_RE.finditer(blob):
+            tok = clean_char_token(m.group(0))
+            if tok:
+                all_names.append(tok)
+        for f in featured:
+            if f not in all_names:
+                all_names.append(f)
+        # Dedup preserve order
+        seen, ordered = set(), []
+        for n in all_names + new4:
+            if n not in seen:
+                seen.add(n)
+                ordered.append(n)
+        banner_rerun_word = bool(RERUN_RE.search(title + " " + body[:400]))
+        meta = []
+        new_chars, rerun_chars, pending_chars = [], [], []
+        for nm in ordered:
+            explicit = nm in new4 or bool(NEW_MARK_RE.search(body) and nm in new4)
+            # featured debut OR explicit new-4★-to-standard
+            if nm in new4:
+                verdict = "new" if not in_known_roster(game_id, nm) else "rerun"
+            elif nm in featured:
+                verdict = classify_name(game_id, nm, explicit_new=False, featured=True, body_blob=body)
+                if banner_rerun_word and in_known_roster(game_id, nm):
+                    verdict = "rerun"
+            else:
+                # rate-up side characters: only new if explicit new4 marker; else roster→rerun, else pending
+                if in_known_roster(game_id, nm):
+                    verdict = "rerun"
+                elif nm in new4:
+                    verdict = "new"
+                else:
+                    verdict = "pending"
+            entry = dict(name=nm, verdict=verdict, featured=(nm in featured), explicit_new=(nm in new4))
+            meta.append(entry)
+            if verdict == "new":
+                new_chars.append(nm)
+            elif verdict == "rerun":
+                rerun_chars.append(nm)
+            elif verdict == "pending":
+                pending_chars.append(nm)
         start, end = a.get("start_time"), a.get("end_time")
         if not start or not end:
             continue
-        is_rerun = bool(RERUN_RE.search(title + " " + body[:400]))
+        # Banner-level flags: new if any verified new char; rerun if only known/rerun
+        has_new = bool(new_chars)
+        only_rerun = bool(rerun_chars) and not has_new and not pending_chars
         out.append(dict(
             title=title[:200], start=start, end=end, tz="UTC+8",
-            characters=chars or None,
+            characters=(new_chars + rerun_chars) or None,
+            new_characters=new_chars or None,
+            rerun_characters=rerun_chars or None,
+            pending_characters=pending_chars or None,
+            character_meta=meta,
             image=safe_url(a.get("banner") or a.get("img"), for_output=True),
-            is_new=not is_rerun, is_rerun=is_rerun,
-            type="복각" if is_rerun else "신규",
+            is_new=has_new,
+            is_rerun=only_rerun or (banner_rerun_word and not has_new),
+            type="신규" if has_new else ("복각" if (only_rerun or banner_rerun_word) else "혼합"),
             confirmed=True,
             source="HoYoverse 공식 인게임 공지 API",
             source_url=lst.split("?")[0],
@@ -435,16 +595,51 @@ def naver_lounge(g, cfg):
                 pass
             start, end = _parse_kr_dates(t + " " + body)
             is_rerun = bool(RERUN_RE.search(t + " " + body[:200]))
-            named = []
-            for c in re.findall(r"「([^」]{1,30})」", t + " " + body):
-                if re.search(r"특간|이벤트|안내|모집|버전", c):
+            blob = t + " " + body
+            explicit_new = bool(NEW_MARK_RE.search(blob)) and not is_rerun
+            named, new_chars, rerun_chars, pending_chars, meta = [], [], [], [], []
+            for raw in re.findall(r"「([^」]{1,30})」", blob):
+                nm = clean_char_token(raw)
+                if not nm:
                     continue
-                named.append(c.strip())
+                # Require 캐릭터/사도/에이전트 context OR explicit new mark; else pending/skip
+                near = False
+                for m in re.finditer(re.escape(raw), blob):
+                    window = blob[max(0, m.start()-12):m.end()+12]
+                    if re.search(r"캐릭터|사도|에이전트|플레이어블|S급|SSR|한정", window):
+                        near = True
+                        break
+                if is_rerun or in_known_roster(g["id"], nm):
+                    verdict = "rerun"
+                elif explicit_new and near:
+                    verdict = "new"
+                elif near and not in_known_roster(g["id"], nm) and explicit_new:
+                    verdict = "new"
+                elif near and not in_known_roster(g["id"], nm):
+                    verdict = "pending"
+                else:
+                    continue  # item/shop/key tokens
+                if nm in named:
+                    continue
+                named.append(nm)
+                meta.append(dict(name=nm, verdict=verdict))
+                if verdict == "new":
+                    new_chars.append(nm)
+                elif verdict == "rerun":
+                    rerun_chars.append(nm)
+                else:
+                    pending_chars.append(nm)
+            has_new = bool(new_chars)
             out.append(dict(
                 title=t[:200], posted=iso(created), start=start, end=end,
-                characters=named or None,
-                is_new=not is_rerun, is_rerun=is_rerun,
-                type="복각" if is_rerun else "신규",
+                characters=(new_chars + rerun_chars) or None,
+                new_characters=new_chars or None,
+                rerun_characters=rerun_chars or None,
+                pending_characters=pending_chars or None,
+                character_meta=meta,
+                is_new=has_new,
+                is_rerun=is_rerun or (bool(rerun_chars) and not has_new),
+                type="복각" if (is_rerun and not has_new) else ("신규" if has_new else "기타"),
                 image=safe_url(f["feed"].get("repImageUrl"), for_output=True),
                 confirmed=bool(start and end),
                 source="네이버 게임 라운지 공식 GM 공지",
@@ -617,22 +812,64 @@ def main():
             errors.append(f"{g['id']}.pickups: {type(e).__name__}: {e!s}"[:200])
         time.sleep(0.3)
 
-    # --- auto-register NEW characters named in confirmed official pickups ---
+    # --- purge registry entries that are known-roster / junk / weapons (never show as new) ---
+    kept_chars = []
+    purged = []
+    for c in characters:
+        nm = (c.get("name") or {}).get("ko") or ""
+        gid = c.get("game_id") or ""
+        if JUNK_NAME_RE.search(nm or "") or not nm:
+            purged.append(dict(id=c.get("id"), name=nm, reason="junk_or_empty"))
+            continue
+        if in_known_roster(gid, nm):
+            # demote: keep in registry as history but mark not-new / inactive for rankings
+            c = dict(c)
+            c["is_new"] = False
+            c["active"] = False
+            c["status"] = "rerun_or_existing"
+            c["note"] = (c.get("note") or "") + " | demoted: in known roster"
+            purged.append(dict(id=c.get("id"), name=nm, reason="known_roster_demoted"))
+            # do not keep demoted in active registry list used for new rankings
+            continue
+        kept_chars.append(c)
+    characters = kept_chars
+
+    # --- auto-register ONLY verified NEW characters; unsure → pending_review ---
     existing_ids = {c["id"] for c in characters}
     existing_alias = set()
     for c in characters:
         for a in alias_list(c):
             existing_alias.add(a.lower())
+    pending_review = []
     for p in all_pickups_raw:
-        if not p.get("confirmed") or p.get("is_rerun") or not p.get("is_new"):
+        if not p.get("confirmed"):
             continue
-        # skip weapon-only banners
-        if re.search(r"신의 주조|무기 기원|광추|무기 확률", p.get("title") or ""):
+        if p.get("type") == "무기" or WEAPON_BANNER_RE.search(p.get("title") or ""):
             continue
-        for nm in (p.get("characters") or []):
-            if not nm or len(nm) < 2 or JUNK_NAME_RE.search(nm):
+        # Prefer explicit new_characters list from classifier; fall back to nothing
+        verified_new = list(p.get("new_characters") or [])
+        pending_names = list(p.get("pending_characters") or [])
+        for nm in pending_names:
+            pending_review.append(dict(
+                name=nm, game_id=p["game_id"], game_name=p.get("game_name"),
+                title=p.get("title"), source_url=p.get("source_url"),
+                reason="이름 추출됐으나 신규 표기/로스터 대조 불확실 — 메인 미표시",
+                seen_at=iso(NOW),
+            ))
+        if not verified_new:
+            continue
+        for nm in verified_new:
+            nm = clean_char_token(nm) or nm
+            if not nm or JUNK_NAME_RE.search(nm):
+                continue
+            if in_known_roster(p["game_id"], nm):
                 continue
             if nm.lower() in existing_alias:
+                # refresh is_new on existing registry row
+                for c in characters:
+                    if nm.lower() in {a.lower() for a in alias_list(c)}:
+                        c["is_new"] = True
+                        c["active"] = True
                 continue
             ascii_slug = re.sub(r"[^a-z0-9]+", "-", nm.lower()).strip("-")[:40]
             if not ascii_slug:
@@ -651,7 +888,8 @@ def main():
                 pickup=dict(start=p.get("start"), end=p.get("end"), source_url=p.get("source_url"),
                             source=p.get("source"), is_rerun=False, is_new=True),
                 is_new=True, active=True,
-                note="auto from official pickup notice",
+                verification="official_new_marker_or_debut_featured",
+                note="auto from official pickup — verified new only",
             ))
             existing_ids.add(cid)
             existing_alias.add(nm.lower())
@@ -800,11 +1038,11 @@ def main():
         m = char_pv_metrics(c)
         hold_reason = None
         if c["id"] in force_hold:
-            hold_reason = "overrides.force_hold"
+            hold_reason = "수동 보류"
         elif not m:
             hold_reason = "공식 PV 매칭 없음"
         elif m.get("age_hours") is not None and m["age_hours"] < HOLD_PV_AGE_H:
-            hold_reason = f"PV 게시 후 {HOLD_PV_AGE_H}h 미만"
+            hold_reason = f"PV 게시 후 {HOLD_PV_AGE_H}시간 미만"
         elif m.get("views_absolute") is None:
             hold_reason = "조회수 데이터 없음"
         row = dict(
@@ -876,9 +1114,9 @@ def main():
         hold = present < MIN_SIGNALS_RANK or c["id"] in force_hold or (m and m.get("age_hours") is not None and m["age_hours"] < HOLD_PV_AGE_H)
         hold_reason = None
         if c["id"] in force_hold:
-            hold_reason = "overrides.force_hold"
+            hold_reason = "수동 보류"
         elif m and m.get("age_hours") is not None and m["age_hours"] < HOLD_PV_AGE_H:
-            hold_reason = f"PV 게시 후 {HOLD_PV_AGE_H}h 미만"
+            hold_reason = f"PV 게시 후 {HOLD_PV_AGE_H}시간 미만"
         elif present < MIN_SIGNALS_RANK:
             hold_reason = f"실측 신호 {present}<{MIN_SIGNALS_RANK}"
 
@@ -991,15 +1229,15 @@ def main():
         status="ok" if sec_new else "데이터 없음",
         month=MONTH_START.strftime("%Y-%m"),
         generated_at=iso(NOW),
-        rule="이번 달 신캐 공개/진행만. 복각 제외.",
+        rule="이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
         items=sec_new,
         count=len(sec_new),
     )
     payload_pv = dict(
         status="ok" if abs_sorted else "데이터 없음",
         generated_at=iso(NOW),
-        rule="공식 채널 PV 실측 조회수만. 절대값 순위와 성장(델타) 순위 분리. 게임 크기 정규화는 lift_vs_game_baseline.",
-        hold_policy=f"PV<{HOLD_PV_AGE_H}h 또는 조회수 없음 → 순위 보류",
+        rule="공식 채널 PV 실측 조회수 · 절대 조회수와 성장 순위 분리 · 같은 게임 과거 신캐 대비 보정",
+        hold_policy=f"PV 게시 후 {HOLD_PV_AGE_H}시간 미만이거나 조회수 없으면 순위 보류",
         absolute_ranking=abs_sorted,
         growth_ranking=growth_sorted,
         all=pv_rows,
@@ -1008,7 +1246,7 @@ def main():
     payload_crank = dict(
         status="ok" if ranked else "데이터 없음",
         generated_at=iso(NOW),
-        rule=f"복각 제외. 실측 신호 {MIN_SIGNALS_RANK}개 미만이면 순위 보류. 절대 조회수와 성장률 필드 분리.",
+        rule=f"복각 제외 · 실측 신호 {MIN_SIGNALS_RANK}개 미만이면 순위 보류 · 절대 조회수와 성장 속도 분리",
         ranking=ranked,
         held=[r for r in crank_rows if r["hold"]],
         all=crank_rows,
@@ -1018,7 +1256,7 @@ def main():
     payload_rising = dict(
         status="ok" if rising_top else "데이터 없음",
         generated_at=iso(NOW),
-        rule="최근 관심 성장 속도(주로 7d 조회수 델타). 복각 제외. 스냅샷 부족 시 데이터 없음.",
+        rule="최근 관심 성장 속도(주로 7일 조회수 증가분) · 복각 제외 · 스냅샷 부족 시 데이터 없음",
         top=rising_top,
         ranking=rising_candidates[:20],
     )
@@ -1026,7 +1264,7 @@ def main():
         status="ok" if schedule_items else "데이터 없음",
         generated_at=iso(NOW),
         month=MONTH_START.strftime("%Y-%m"),
-        rule="공식 공지만. start/end/source_url 필수. 신규 중심, 복각은 is_rerun=true로 표기.",
+        rule="공식 공지만 · 시작/종료/출처 필수 · 신규 중심, 복각은 따로 표시",
         items=[i for i in schedule_items if i.get("is_new")],
         reruns=[i for i in schedule_items if i.get("is_rerun")],
         all=schedule_items,
@@ -1096,9 +1334,23 @@ def main():
     )
 
     DATA.mkdir(parents=True, exist_ok=True)
-    # registry save
-    OUT_NEW.write_text(json.dumps(sanitize(dict(note=registry.get("note"), characters=save_chars, last_updated=iso(NOW))),
-                                  ensure_ascii=False, indent=1), encoding="utf-8")
+    # registry save (active + verified only; demoted roster hits dropped from new pool)
+    OUT_NEW.write_text(json.dumps(sanitize(dict(
+        note="Verified NEW characters only. Known-roster / junk purged each run.",
+        characters=save_chars, last_updated=iso(NOW),
+        purged_this_run=purged[:50],
+    )), ensure_ascii=False, indent=1), encoding="utf-8")
+    # pending review — NEVER included in trend.json main sections
+    pending_path = OUT_PENDING
+    pending_doc = dict(
+        note="불확실 추출. 메인 위젯/순위 미표시. 사람 확인 후 overrides 또는 roster로 승격/제외.",
+        generated_at=iso(NOW),
+        items=pending_review[:200],
+        count=len(pending_review),
+    )
+    pending_path.write_text(json.dumps(sanitize(pending_doc), ensure_ascii=False, indent=1), encoding="utf-8")
+    # month snapshot for review UI
+    OUT_MONTH.write_text(json.dumps(sanitize(payload_new), ensure_ascii=False, indent=1), encoding="utf-8")
     for path, doc in (
         (OUT_TREND, trend),
         (OUT_META, meta),
@@ -1116,7 +1368,7 @@ def main():
     except Exception as e:
         errors.append(f"integrate_extras: {type(e).__name__}: {e!s}"[:200])
 
-    print("wrote sections:", ", ".join(trend["sections"]), "errors:", len(errors), "trends:", args.trends)
+    print("wrote sections:", ", ".join(trend["sections"]), "new:", len(sec_new), "pending:", len(pending_review), "purged:", len(purged), "errors:", len(errors), "trends:", args.trends)
     for e in errors:
         print("  ", e)
 

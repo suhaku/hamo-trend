@@ -59,10 +59,12 @@ jobs:
             data/pv_ranking.json \
             data/character_ranking.json \
             data/rising_character.json \
+            data/pending_review.json \
             data/alltime.json \
             data/alltime.sqlite \
             data/characters/ \
             data/pv_history/ \
+            data/rosters/ \
             data/overrides.json \
             data/history/ || true
           if git diff --staged --quiet; then
