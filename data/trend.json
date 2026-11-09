@@ -1,0 +1,1936 @@
+{
+ "generated_at": "2026-11-09T21:25:07+09:00",
+ "timezone": "Asia/Seoul",
+ "weights": {
+  "youtube": 0.3,
+  "x": 0.25,
+  "community": 0.2,
+  "search": 0.15,
+  "momentum": 0.1
+ },
+ "signals_available": {
+  "youtube": true,
+  "x": false,
+  "community": true,
+  "search": true,
+  "momentum": true
+ },
+ "missing_note": "X(트위터) 반응량: API 키 없음 -> 데이터 없음. 가중치는 사용 가능한 신호로 재정규화.",
+ "trends_dates": [
+  "2026-10-09",
+  "2026-10-10",
+  "2026-10-11",
+  "2026-10-12",
+  "2026-10-13",
+  "2026-10-14",
+  "2026-10-15",
+  "2026-10-16",
+  "2026-10-17",
+  "2026-10-18",
+  "2026-10-19",
+  "2026-10-20",
+  "2026-10-21",
+  "2026-10-22",
+  "2026-10-23",
+  "2026-10-24",
+  "2026-10-25",
+  "2026-10-26",
+  "2026-10-27",
+  "2026-10-28",
+  "2026-10-29",
+  "2026-10-30",
+  "2026-10-31",
+  "2026-11-01",
+  "2026-11-02",
+  "2026-11-03",
+  "2026-11-04",
+  "2026-11-05",
+  "2026-11-06",
+  "2026-11-07",
+  "2026-11-08",
+  "2026-11-09"
+ ],
+ "top5": [
+  "genshin",
+  "wuwa",
+  "trickcal",
+  "starrail",
+  "endfield"
+ ],
+ "rising": "nikke",
+ "character_ranking": {
+  "status": "데이터 없음",
+  "reason": "캐릭터별 신호(X 언급량/트렌드 캐릭터명 검색) 미구현 단계"
+ },
+ "games": [
+  {
+   "id": "starrail",
+   "name": "붕괴: 스타레일",
+   "score": 78,
+   "change_vs_prev_day_pct": null,
+   "signals": {
+    "youtube": 100.0,
+    "x": null,
+    "community": 88.3,
+    "search": 14.4,
+    "momentum": 83.3
+   },
+   "used_weights": {
+    "youtube": 0.4,
+    "community": 0.267,
+    "search": 0.2,
+    "momentum": 0.133
+   },
+   "youtube": {
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "channel": "붕괴: 스타레일",
+    "views_7d_new_videos": 1259472,
+    "new_videos_7d": 10,
+    "latest": [
+     {
+      "id": "M1raptEyktQ",
+      "title": "아삿 프라마드는 대체 누구…?",
+      "published": "2026-11-09T11:00:11+09:00",
+      "views": 21179,
+      "thumb": "https://i.ytimg.com/vi/M1raptEyktQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/M1raptEyktQ"
+     },
+     {
+      "id": "HlTwjTz3NPs",
+      "title": "캐릭터 PV 에이언즈★아하——「주사위를 날려라」 (발췌 2) |〈붕괴: 스타레일〉",
+      "published": "2026-11-08T13:30:10+09:00",
+      "views": 54108,
+      "thumb": "https://i.ytimg.com/vi/HlTwjTz3NPs/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/HlTwjTz3NPs"
+     },
+     {
+      "id": "ipfNqwKOGXQ",
+      "title": "에이언즈★아하 캐릭터 PV——「주사위를 날려라」 (발췌 1) |〈붕괴: 스타레일〉",
+      "published": "2026-11-08T13:15:00+09:00",
+      "views": 98825,
+      "thumb": "https://i.ytimg.com/vi/ipfNqwKOGXQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/ipfNqwKOGXQ"
+     },
+     {
+      "id": "T1d3GwCDG8w",
+      "title": "캐릭터 PV 에이언즈★아하——「주사위를 날려라」|〈붕괴: 스타레일〉",
+      "published": "2026-11-08T13:00:19+09:00",
+      "views": 255928,
+      "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=T1d3GwCDG8w"
+     },
+     {
+      "id": "kiMv-KEsjEg",
+      "title": "이상 낙원은 대체 뭘까?",
+      "published": "2026-11-08T11:00:08+09:00",
+      "views": 48229,
+      "thumb": "https://i.ytimg.com/vi/kiMv-KEsjEg/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/kiMv-KEsjEg"
+     }
+    ],
+    "character_videos": [
+     {
+      "id": "HlTwjTz3NPs",
+      "title": "캐릭터 PV 에이언즈★아하——「주사위를 날려라」 (발췌 2) |〈붕괴: 스타레일〉",
+      "published": "2026-11-08T13:30:10+09:00",
+      "views": 54108,
+      "thumb": "https://i.ytimg.com/vi/HlTwjTz3NPs/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/HlTwjTz3NPs"
+     },
+     {
+      "id": "ipfNqwKOGXQ",
+      "title": "에이언즈★아하 캐릭터 PV——「주사위를 날려라」 (발췌 1) |〈붕괴: 스타레일〉",
+      "published": "2026-11-08T13:15:00+09:00",
+      "views": 98825,
+      "thumb": "https://i.ytimg.com/vi/ipfNqwKOGXQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/ipfNqwKOGXQ"
+     },
+     {
+      "id": "T1d3GwCDG8w",
+      "title": "캐릭터 PV 에이언즈★아하——「주사위를 날려라」|〈붕괴: 스타레일〉",
+      "published": "2026-11-08T13:00:19+09:00",
+      "views": 255928,
+      "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=T1d3GwCDG8w"
+     },
+     {
+      "id": "rRIQoO5WEiU",
+      "title": "즉흥 순회공연 PV——「아하가 문을 두드릴 때」 (발췌 1) |〈붕괴: 스타레일〉",
+      "published": "2026-11-04T13:15:36+09:00",
+      "views": 39516,
+      "thumb": "https://i.ytimg.com/vi/rRIQoO5WEiU/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/rRIQoO5WEiU"
+     },
+     {
+      "id": "OzL48iFuq8E",
+      "title": "즉흥 순회공연 PV——「아하가 문을 두드릴 때」|〈붕괴: 스타레일〉",
+      "published": "2026-11-04T13:00:27+09:00",
+      "views": 300258,
+      "thumb": "https://i.ytimg.com/vi/OzL48iFuq8E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OzL48iFuq8E"
+     },
+     {
+      "id": "hcwRWe0UyKI",
+      "title": "캐릭터 프리뷰 | 에이언즈★아하",
+      "published": "2026-11-04T12:00:27+09:00",
+      "views": 59914,
+      "thumb": "https://i.ytimg.com/vi/hcwRWe0UyKI/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/hcwRWe0UyKI"
+     },
+     {
+      "id": "2sUF2R9FtjE",
+      "title": "4.7 버전 PV: 「지금, 뭇별을 웃음으로」|〈붕괴: 스타레일〉",
+      "published": "2026-10-30T21:15:23+09:00",
+      "views": 169487,
+      "thumb": "https://i.ytimg.com/vi/2sUF2R9FtjE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2sUF2R9FtjE"
+     }
+    ],
+    "note": "RSS는 최신 15개 영상만 제공. 조회수는 수집 시점 누적값."
+   },
+   "community": {
+    "source": "https://arca.live/b/hkstarrail",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "posts_per_hour": 158.29,
+    "sample": 39,
+    "note": "아카라이브 채널 첫 페이지(공지 제외) 글 작성 속도"
+   },
+   "pickups": {
+    "status": "ok",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "items": [
+     {
+      "title": "4.6 버전 이벤트 워프 (2)",
+      "start": "2026-10-20 14:00:00",
+      "end": "2026-11-10 15:00:00",
+      "tz": "UTC+8 (HoYoverse 서버 공지 기준)",
+      "characters": null,
+      "image": null,
+      "type": "복각",
+      "source": "HoYoverse 공식 인게임 공지 API ann_id=1360",
+      "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList?game=hkrpg&game_biz=hkrpg_global&lang=ko-kr&bundle_id=hkrpg_global&platform=pc&region=prod_official_asia&level=60&uid=800000000&channel_id=1"
+     },
+     {
+      "title": "Fate[UBW] 콜라보 워프 안내",
+      "start": "2026-07-03 20:55:00",
+      "end": "2036-07-03 00:00:00",
+      "tz": "UTC+8 (HoYoverse 서버 공지 기준)",
+      "characters": null,
+      "image": null,
+      "type": null,
+      "source": "HoYoverse 공식 인게임 공지 API ann_id=1339",
+      "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList?game=hkrpg&game_biz=hkrpg_global&lang=ko-kr&bundle_id=hkrpg_global&platform=pc&region=prod_official_asia&level=60&uid=800000000&channel_id=1"
+     }
+    ]
+   },
+   "trends_series": [
+    1.0,
+    0.0,
+    1.0,
+    0.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    1.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.0,
+    1.0,
+    0.0,
+    1.0,
+    1.0,
+    1.0,
+    0.0
+   ]
+  },
+  {
+   "id": "genshin",
+   "name": "원신",
+   "score": 86,
+   "change_vs_prev_day_pct": null,
+   "signals": {
+    "youtube": 95.9,
+    "x": null,
+    "community": 85.6,
+    "search": 71.5,
+    "momentum": 76.6
+   },
+   "used_weights": {
+    "youtube": 0.4,
+    "community": 0.267,
+    "search": 0.2,
+    "momentum": 0.133
+   },
+   "youtube": {
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "channel": "원신",
+    "views_7d_new_videos": 703440,
+    "new_videos_7d": 12,
+    "latest": [
+     {
+      "id": "PqBu685Hx-k",
+      "title": "다니카‧여왕의 그림자 #원신 #다니카",
+      "published": "2026-11-07T13:00:16+09:00",
+      "views": 126171,
+      "thumb": "https://i.ytimg.com/vi/PqBu685Hx-k/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/PqBu685Hx-k"
+     },
+     {
+      "id": "8tVMD0MGLCM",
+      "title": "신고합니다. 제1근위군 척탄병단, 「특수임무대」 대장 발레리입니다 #원신 #발레리",
+      "published": "2026-11-06T19:00:38+09:00",
+      "views": 18946,
+      "thumb": "https://i.ytimg.com/vi/8tVMD0MGLCM/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/8tVMD0MGLCM"
+     },
+     {
+      "id": "fD7Lu8dPTko",
+      "title": "아나스타샤 · 부활한 얼음 왕관 #원신 #아나스타샤",
+      "published": "2026-11-06T13:00:10+09:00",
+      "views": 146833,
+      "thumb": "https://i.ytimg.com/vi/fD7Lu8dPTko/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/fD7Lu8dPTko"
+     },
+     {
+      "id": "QvBn2nuiVoQ",
+      "title": "부탁 하나만 들어줘. 반나절 정도만 발레리 씨를 붙잡아둘래? #원신",
+      "published": "2026-11-04T19:00:12+09:00",
+      "views": 26906,
+      "thumb": "https://i.ytimg.com/vi/QvBn2nuiVoQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/QvBn2nuiVoQ"
+     },
+     {
+      "id": "-OIyEt7UKC0",
+      "title": "원신 | 7.2 버전 오픈 #원신 #종말의서막",
+      "published": "2026-11-04T12:30:32+09:00",
+      "views": 16612,
+      "thumb": "https://i.ytimg.com/vi/-OIyEt7UKC0/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/-OIyEt7UKC0"
+     }
+    ],
+    "character_videos": [
+     {
+      "id": "Gh8mhHe4aXU",
+      "title": "원신 | 캐릭터 트레일러-미탸(No.4) #원신 #미탸 #원신스네즈나야",
+      "published": "2026-11-03T13:04:08+09:00",
+      "views": 39457,
+      "thumb": "https://i.ytimg.com/vi/Gh8mhHe4aXU/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/Gh8mhHe4aXU"
+     },
+     {
+      "id": "VzjSQ5VY2Os",
+      "title": "원신 | 캐릭터 트레일러-미탸(No.3) #원신 #미탸 #원신스네즈나야",
+      "published": "2026-11-03T13:03:36+09:00",
+      "views": 86196,
+      "thumb": "https://i.ytimg.com/vi/VzjSQ5VY2Os/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/VzjSQ5VY2Os"
+     },
+     {
+      "id": "s4UCOEG61yo",
+      "title": "원신 | 캐릭터 트레일러-미탸(No.2) #원신 #미탸 #원신스네즈나야",
+      "published": "2026-11-03T13:02:05+09:00",
+      "views": 38131,
+      "thumb": "https://i.ytimg.com/vi/s4UCOEG61yo/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/s4UCOEG61yo"
+     },
+     {
+      "id": "AADl4XS9yZM",
+      "title": "원신 | 캐릭터 트레일러-미탸(No.1) #원신 #미탸 #원신스네즈나야",
+      "published": "2026-11-03T13:01:11+09:00",
+      "views": 33194,
+      "thumb": "https://i.ytimg.com/vi/AADl4XS9yZM/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/AADl4XS9yZM"
+     },
+     {
+      "id": "6V0kctC2-Tg",
+      "title": "원신 | 캐릭터 트레일러-「미탸: 모든 것은 계획대로」",
+      "published": "2026-11-03T13:00:36+09:00",
+      "views": 134663,
+      "thumb": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6V0kctC2-Tg"
+     },
+     {
+      "id": "tCeXHmvg3ko",
+      "title": "원신 | 캐릭터 트레일러-「발레리: 규율의 집행자」",
+      "published": "2026-11-02T13:00:00+09:00",
+      "views": 70350,
+      "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tCeXHmvg3ko"
+     }
+    ],
+    "note": "RSS는 최신 15개 영상만 제공. 조회수는 수집 시점 누적값."
+   },
+   "community": {
+    "source": "https://arca.live/b/genshin",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "posts_per_hour": 135.23,
+    "sample": 45,
+    "note": "아카라이브 채널 첫 페이지(공지 제외) 글 작성 속도"
+   },
+   "pickups": {
+    "status": "ok",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "items": [
+     {
+      "title": "「만물의 법칙」 기원: 「규칙 파괴자·미탸(번개)」 확률 UP!",
+      "start": "2026-11-02 12:00:00",
+      "end": "2026-11-24 17:59:00",
+      "tz": "UTC+8 (HoYoverse 서버 공지 기준)",
+      "characters": null,
+      "image": null,
+      "type": null,
+      "source": "HoYoverse 공식 인게임 공지 API ann_id=21997",
+      "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList?game=hk4e&game_biz=hk4e_global&lang=ko-kr&bundle_id=hk4e_global&platform=pc&region=os_asia&level=60&uid=100000000&channel_id=1"
+     },
+     {
+      "title": "「물들의 찬송시」 기원: 「멈추지 않는 독무·푸리나(물)」 확률 UP!",
+      "start": "2026-11-02 12:00:00",
+      "end": "2026-11-24 17:59:00",
+      "tz": "UTC+8 (HoYoverse 서버 공지 기준)",
+      "characters": null,
+      "image": null,
+      "type": null,
+      "source": "HoYoverse 공식 인게임 공지 API ann_id=21998",
+      "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList?game=hk4e&game_biz=hk4e_global&lang=ko-kr&bundle_id=hk4e_global&platform=pc&region=os_asia&level=60&uid=100000000&channel_id=1"
+     },
+     {
+      "title": "「신의 주조」 기원: 「법구·별빛 계시」, 「한손검·고요히 샘솟는 빛」 확률 UP!",
+      "start": "2026-11-02 12:00:00",
+      "end": "2026-11-24 17:59:00",
+      "tz": "UTC+8 (HoYoverse 서버 공지 기준)",
+      "characters": null,
+      "image": null,
+      "type": null,
+      "source": "HoYoverse 공식 인게임 공지 API ann_id=21977",
+      "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList?game=hk4e&game_biz=hk4e_global&lang=ko-kr&bundle_id=hk4e_global&platform=pc&region=os_asia&level=60&uid=100000000&channel_id=1"
+     }
+    ]
+   },
+   "trends_series": [
+    12,
+    11,
+    13,
+    10,
+    10,
+    8,
+    8,
+    8,
+    11,
+    12,
+    9,
+    7,
+    8,
+    7,
+    12,
+    13,
+    12,
+    8,
+    8,
+    8,
+    7,
+    8,
+    11,
+    12,
+    9,
+    10,
+    18,
+    13,
+    14,
+    16,
+    15,
+    7
+   ]
+  },
+  {
+   "id": "zzz",
+   "name": "젠레스 존 제로",
+   "score": 68,
+   "change_vs_prev_day_pct": null,
+   "signals": {
+    "youtube": 93.6,
+    "x": null,
+    "community": 87.4,
+    "search": 3.6,
+    "momentum": 50.0
+   },
+   "used_weights": {
+    "youtube": 0.4,
+    "community": 0.267,
+    "search": 0.2,
+    "momentum": 0.133
+   },
+   "youtube": {
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "channel": "젠레스 존 제로",
+    "views_7d_new_videos": 512071,
+    "new_videos_7d": 8,
+    "latest": [
+     {
+      "id": "h2OJlxye9Fo",
+      "title": "세베리안 EP 「Gambit」 | 젠레스 존 제로",
+      "published": "2026-11-09T12:59:59+09:00",
+      "views": 33717,
+      "thumb": "https://i.ytimg.com/vi/h2OJlxye9Fo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=h2OJlxye9Fo"
+     },
+     {
+      "id": "_TV7UOf9xP0",
+      "title": "코스튬 [세베리안 • 범접할 수 없는 위엄], 11월 11일 출시 예정!",
+      "published": "2026-11-08T13:00:33+09:00",
+      "views": 19192,
+      "thumb": "https://i.ytimg.com/vi/_TV7UOf9xP0/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/_TV7UOf9xP0"
+     },
+     {
+      "id": "P-vCCz0ar9Q",
+      "title": "별의별 리두 | 대마왕, 냥냥!",
+      "published": "2026-11-07T19:00:29+09:00",
+      "views": 47937,
+      "thumb": "https://i.ytimg.com/vi/P-vCCz0ar9Q/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/P-vCCz0ar9Q"
+     },
+     {
+      "id": "xIykIL_9Z5w",
+      "title": "「금단의 감옥」 W-엔진 프리뷰 영상",
+      "published": "2026-11-07T14:00:05+09:00",
+      "views": 25419,
+      "thumb": "https://i.ytimg.com/vi/xIykIL_9Z5w/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/xIykIL_9Z5w"
+     },
+     {
+      "id": "FTaKjEBx3zA",
+      "title": "로빈 & 카프카 「미지의 통신」 | 젠레스 존 제로",
+      "published": "2026-11-07T13:00:02+09:00",
+      "views": 213483,
+      "thumb": "https://i.ytimg.com/vi/FTaKjEBx3zA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FTaKjEBx3zA"
+     }
+    ],
+    "character_videos": [
+     {
+      "id": "OcDcxORlzmY",
+      "title": "세베리안 캐릭터 플레이 「감찰관은 어떻게 단련되었는가」 | 젠레스 존 제로",
+      "published": "2026-11-06T12:59:56+09:00",
+      "views": 106107,
+      "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OcDcxORlzmY"
+     }
+    ],
+    "note": "RSS는 최신 15개 영상만 제공. 조회수는 수집 시점 누적값."
+   },
+   "community": {
+    "source": "https://arca.live/b/zenlesszonezero",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "posts_per_hour": 150.43,
+    "sample": 44,
+    "note": "아카라이브 채널 첫 페이지(공지 제외) 글 작성 속도"
+   },
+   "pickups": {
+    "status": "ok",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "items": [
+     {
+      "title": "3.3 버전 기간 한정 채널(상반기)",
+      "start": null,
+      "end": null,
+      "characters": null,
+      "image": "https://upload-os-bbs.hoyolab.com/upload/2026/10/18/0/3120845e380893efb80280b1664f535f_8274782342755421142.jpeg",
+      "posted": "2026-10-19T15:00:08+09:00",
+      "source": "HoYoLAB 공식 계정 공지",
+      "source_url": "https://www.hoyolab.com/article/47131668"
+     },
+     {
+      "title": "3.2 버전 기간 한정 채널(하반기)",
+      "start": null,
+      "end": null,
+      "characters": null,
+      "image": "https://upload-os-bbs.hoyolab.com/upload/2026/09/25/0/23241107e85624805aaf054bc08f04ce_8049297257271638528.jpeg",
+      "posted": "2026-09-28T13:15:07+09:00",
+      "source": "HoYoLAB 공식 계정 공지",
+      "source_url": "https://www.hoyolab.com/article/46863847"
+     }
+    ]
+   },
+   "trends_series": [
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    1.0,
+    2.0,
+    1.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  {
+   "id": "wuwa",
+   "name": "명조: 워더링 웨이브",
+   "score": 83,
+   "change_vs_prev_day_pct": null,
+   "signals": {
+    "youtube": 91.3,
+    "x": null,
+    "community": 100.0,
+    "search": 64.0,
+    "momentum": 54.7
+   },
+   "used_weights": {
+    "youtube": 0.4,
+    "community": 0.267,
+    "search": 0.2,
+    "momentum": 0.133
+   },
+   "youtube": {
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "channel": "명조:워더링 웨이브",
+    "views_7d_new_videos": 369913,
+    "new_videos_7d": 9,
+    "latest": [
+     {
+      "id": "i0SvRYaDC1s",
+      "title": "『명조:워더링 웨이브』 선약 방송국 EP3.8——릴리 「Lily Grace」",
+      "published": "2026-11-09T15:00:10+09:00",
+      "views": 22341,
+      "thumb": "https://i.ytimg.com/vi/i0SvRYaDC1s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=i0SvRYaDC1s"
+     },
+     {
+      "id": "8IIg-HWA-OM",
+      "title": "신규 5성 무기 「럴러바이」가 곧 출시됩니다!",
+      "published": "2026-11-08T19:30:07+09:00",
+      "views": 14179,
+      "thumb": "https://i.ytimg.com/vi/8IIg-HWA-OM/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/8IIg-HWA-OM"
+     },
+     {
+      "id": "jQfuUUFPf8s",
+      "title": "공명자 전투 모션 | 릴리",
+      "published": "2026-11-08T12:00:24+09:00",
+      "views": 54805,
+      "thumb": "https://i.ytimg.com/vi/jQfuUUFPf8s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jQfuUUFPf8s"
+     },
+     {
+      "id": "NLUEGTIWjtY",
+      "title": "[4K] 🎬 [명조 X 롯데시네마 콜라보] 명조 시네마 위크 스케치 영상",
+      "published": "2026-11-07T19:30:34+09:00",
+      "views": 21233,
+      "thumb": "https://i.ytimg.com/vi/NLUEGTIWjtY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NLUEGTIWjtY"
+     },
+     {
+      "id": "F64TLsomPyM",
+      "title": "공명자 화면 | 릴리 #명조 #명조워더링웨이브 #릴리",
+      "published": "2026-11-07T19:00:08+09:00",
+      "views": 33690,
+      "thumb": "https://i.ytimg.com/vi/F64TLsomPyM/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/F64TLsomPyM"
+     }
+    ],
+    "character_videos": [
+     {
+      "id": "3DK6XYB7icE",
+      "title": "『명조:워더링 웨이브』 세계관 PV | TRANSCENDO",
+      "published": "2026-10-25T12:00:02+09:00",
+      "views": 142703,
+      "thumb": "https://i.ytimg.com/vi/3DK6XYB7icE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3DK6XYB7icE"
+     }
+    ],
+    "note": "RSS는 최신 15개 영상만 제공. 조회수는 수집 시점 누적값."
+   },
+   "community": {
+    "source": "https://arca.live/b/wutheringwaves",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "posts_per_hour": 310.59,
+    "sample": 44,
+    "note": "아카라이브 채널 첫 페이지(공지 제외) 글 작성 속도"
+   },
+   "pickups": {
+    "status": "ok",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "items": []
+   },
+   "trends_series": [
+    15.0,
+    14.0,
+    15.0,
+    10.0,
+    11.0,
+    9.0,
+    9.0,
+    10.0,
+    11.0,
+    12.0,
+    9.0,
+    9.0,
+    8.0,
+    14.0,
+    12.0,
+    13.0,
+    13.0,
+    10.0,
+    9.0,
+    8.0,
+    8.0,
+    9.0,
+    10.0,
+    10.0,
+    8.0,
+    7.0,
+    9.0,
+    8.0,
+    13.0,
+    14.0,
+    11.0,
+    6.0
+   ]
+  },
+  {
+   "id": "nikke",
+   "name": "승리의 여신: 니케",
+   "score": 58,
+   "change_vs_prev_day_pct": null,
+   "signals": {
+    "youtube": 0.0,
+    "x": null,
+    "community": 96.4,
+    "search": 100.0,
+    "momentum": 95.1
+   },
+   "used_weights": {
+    "youtube": 0.4,
+    "community": 0.267,
+    "search": 0.2,
+    "momentum": 0.133
+   },
+   "youtube": {
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzoVPjV8FF2om0Zj3XRPwVw",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "channel": "승리의 여신: 니케",
+    "views_7d_new_videos": 0,
+    "new_videos_7d": 0,
+    "latest": [
+     {
+      "id": "i8vqxhiSqBI",
+      "title": "4주년 특집 성우 토크쇼 (Full ver.) | 승리의 여신: 니케",
+      "published": "2026-11-02T20:10:36+09:00",
+      "views": 98152,
+      "thumb": "https://i.ytimg.com/vi/i8vqxhiSqBI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=i8vqxhiSqBI"
+     },
+     {
+      "id": "BeMzXfmbXRs",
+      "title": "NIKKE 코스튬 모션 VIEW - 스노우 화이트 : 헤비암즈(Snow White: Heavy Arms) | 승리의 여신: 니케",
+      "published": "2026-11-02T16:00:16+09:00",
+      "views": 14799,
+      "thumb": "https://i.ytimg.com/vi/BeMzXfmbXRs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BeMzXfmbXRs"
+     },
+     {
+      "id": "GLPvcMbcZtQ",
+      "title": "4주년 특집 성우 토크쇼 예고편 3편 – 두 성우님이 보여주는 「MARIA-n」의 명대사 | 승리의 여신: 니케",
+      "published": "2026-11-01T17:00:32+09:00",
+      "views": 77342,
+      "thumb": "https://i.ytimg.com/vi/GLPvcMbcZtQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/GLPvcMbcZtQ"
+     },
+     {
+      "id": "y3-3jbNYxgM",
+      "title": "4주년 특집 성우 토크쇼 예고편 2편 - 베테랑 성우가 전하는 니케를 향한 진심 | 승리의 여신: 니케",
+      "published": "2026-10-31T17:00:00+09:00",
+      "views": 85825,
+      "thumb": "https://i.ytimg.com/vi/y3-3jbNYxgM/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/y3-3jbNYxgM"
+     },
+     {
+      "id": "cqMqazSbW_I",
+      "title": "NIKKE 코스튬 소개 - 네온 : 비전 아이(Neon: Vision Eye) | 승리의 여신: 니케",
+      "published": "2026-10-31T12:00:23+09:00",
+      "views": 103690,
+      "thumb": "https://i.ytimg.com/vi/cqMqazSbW_I/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/cqMqazSbW_I"
+     }
+    ],
+    "character_videos": [
+     {
+      "id": "GLPvcMbcZtQ",
+      "title": "4주년 특집 성우 토크쇼 예고편 3편 – 두 성우님이 보여주는 「MARIA-n」의 명대사 | 승리의 여신: 니케",
+      "published": "2026-11-01T17:00:32+09:00",
+      "views": 77342,
+      "thumb": "https://i.ytimg.com/vi/GLPvcMbcZtQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/GLPvcMbcZtQ"
+     },
+     {
+      "id": "y3-3jbNYxgM",
+      "title": "4주년 특집 성우 토크쇼 예고편 2편 - 베테랑 성우가 전하는 니케를 향한 진심 | 승리의 여신: 니케",
+      "published": "2026-10-31T17:00:00+09:00",
+      "views": 85825,
+      "thumb": "https://i.ytimg.com/vi/y3-3jbNYxgM/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/y3-3jbNYxgM"
+     },
+     {
+      "id": "80wcJIiSGLY",
+      "title": "4주년 특집 성우 토크쇼 예고편 1편 - 100년의 시간을 넘어, 다시 마주한 두 사람의 이야기 | 승리의 여신: 니케",
+      "published": "2026-10-30T20:30:08+09:00",
+      "views": 134163,
+      "thumb": "https://i.ytimg.com/vi/80wcJIiSGLY/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/80wcJIiSGLY"
+     },
+     {
+      "id": "9AGnBKvPLAg",
+      "title": "PV - 결전을 앞두고 | 승리의 여신: 니케",
+      "published": "2026-10-29T00:20:42+09:00",
+      "views": 45716,
+      "thumb": "https://i.ytimg.com/vi/9AGnBKvPLAg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9AGnBKvPLAg"
+     },
+     {
+      "id": "dtALO-xVrug",
+      "title": "4주년 메인 시나리오 애니메이션 예고 | 승리의 여신: 니케",
+      "published": "2026-10-28T21:05:41+09:00",
+      "views": 53604,
+      "thumb": "https://i.ytimg.com/vi/dtALO-xVrug/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dtALO-xVrug"
+     }
+    ],
+    "note": "RSS는 최신 15개 영상만 제공. 조회수는 수집 시점 누적값."
+   },
+   "community": {
+    "source": "https://arca.live/b/nikketgv",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "posts_per_hour": 252.73,
+    "sample": 45,
+    "note": "아카라이브 채널 첫 페이지(공지 제외) 글 작성 속도"
+   },
+   "pickups": {
+    "status": "ok",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "items": []
+   },
+   "trends_series": [
+    10.0,
+    8.0,
+    8.0,
+    6.0,
+    7.0,
+    6.0,
+    6.0,
+    5.0,
+    7.0,
+    8.0,
+    6.0,
+    7.0,
+    10.0,
+    9.0,
+    9.0,
+    18.0,
+    22.0,
+    13.0,
+    11.0,
+    16.0,
+    30.0,
+    29.0,
+    29.0,
+    24.0,
+    19.0,
+    22.0,
+    100.0,
+    54.0,
+    33.0,
+    35.0,
+    26.0,
+    14.0
+   ]
+  },
+  {
+   "id": "trickcal",
+   "name": "트릭컬 리바이브",
+   "score": 79,
+   "change_vs_prev_day_pct": null,
+   "signals": {
+    "youtube": 93.4,
+    "x": null,
+    "community": 80.6,
+    "search": 46.1,
+    "momentum": 81.6
+   },
+   "used_weights": {
+    "youtube": 0.4,
+    "community": 0.267,
+    "search": 0.2,
+    "momentum": 0.133
+   },
+   "youtube": {
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI37oS0O5OlmQNeiyIywEAQ",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "channel": "EPIDGames",
+    "views_7d_new_videos": 500287,
+    "new_videos_7d": 3,
+    "latest": [
+     {
+      "id": "SsSkuhuahpM",
+      "title": "[주말특집] 모방 #트릭컬 #주말특집",
+      "published": "2026-11-07T14:17:48+09:00",
+      "views": 256458,
+      "thumb": "https://i.ytimg.com/vi/SsSkuhuahpM/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/SsSkuhuahpM"
+     },
+     {
+      "id": "N8I6ELlP3Nk",
+      "title": "[업데이트] 11월 5일(목) 신규 업데이트 내역 안내",
+      "published": "2026-11-05T13:00:25+09:00",
+      "views": 68424,
+      "thumb": "https://i.ytimg.com/vi/N8I6ELlP3Nk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=N8I6ELlP3Nk"
+     },
+     {
+      "id": "AKQ0d37XvhQ",
+      "title": "[트릭컬 리바이브 🎬 테마극장] 공룡 대침공! 대폭망의 도시!",
+      "published": "2026-11-03T17:05:21+09:00",
+      "views": 175405,
+      "thumb": "https://i.ytimg.com/vi/AKQ0d37XvhQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AKQ0d37XvhQ"
+     },
+     {
+      "id": "Ujyg-nPcvvk",
+      "title": "[트릭컬 리바이브] 엘리아스 프론티어 - '죽음' TEASER PV",
+      "published": "2026-11-02T16:59:57+09:00",
+      "views": 110699,
+      "thumb": "https://i.ytimg.com/vi/Ujyg-nPcvvk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ujyg-nPcvvk"
+     },
+     {
+      "id": "x8EPh2fdSKs",
+      "title": "[특별영상] 트릭컬 리바이브 3주년 MV - 마음 닿은 봄(Full ver.)",
+      "published": "2026-11-01T14:00:03+09:00",
+      "views": 132057,
+      "thumb": "https://i.ytimg.com/vi/x8EPh2fdSKs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=x8EPh2fdSKs"
+     }
+    ],
+    "character_videos": [
+     {
+      "id": "Ujyg-nPcvvk",
+      "title": "[트릭컬 리바이브] 엘리아스 프론티어 - '죽음' TEASER PV",
+      "published": "2026-11-02T16:59:57+09:00",
+      "views": 110699,
+      "thumb": "https://i.ytimg.com/vi/Ujyg-nPcvvk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ujyg-nPcvvk"
+     },
+     {
+      "id": "1oOHZughI3g",
+      "title": "[특별영상] 3주년 기념 특별 방송 '죄와 볼' (부대표's 컷) 예고편",
+      "published": "2026-10-24T14:22:51+09:00",
+      "views": 75426,
+      "thumb": "https://i.ytimg.com/vi/1oOHZughI3g/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1oOHZughI3g"
+     }
+    ],
+    "note": "RSS는 최신 15개 영상만 제공. 조회수는 수집 시점 누적값."
+   },
+   "community": {
+    "source": "https://arca.live/b/trickcal",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "posts_per_hour": 101.04,
+    "sample": 43,
+    "note": "아카라이브 채널 첫 페이지(공지 제외) 글 작성 속도"
+   },
+   "pickups": {
+    "status": "ok",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "items": [
+     {
+      "title": "[이벤트] 신규 스펙타클 카드 뽑기 예정 안내(~11월 19일)",
+      "posted": "2026-11-03T17:01:03+09:00",
+      "dates_found": [
+       "11월 19일",
+       "11/05",
+       "11/19"
+      ],
+      "start": null,
+      "end": null,
+      "type": "신규",
+      "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfNjMg/MDAxNzkzNjkxOTIzMDMx.SeSpqWuHJisspcWsBbZYOSBjT2r6tXS0NRn61UnTVdEg.nZu2zHZcbcaMXRxO0iBcAbCTIBewZrBSHU7Bp0dtAC4g.PNG/3_3.png",
+      "board": "🎁진행 이벤트",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404614"
+     },
+     {
+      "title": "[이벤트] 신규 픽업 사도 모집 진행 예정 안내(~11월 19일)",
+      "posted": "2026-11-03T17:00:32+09:00",
+      "dates_found": [
+       "11월 19일",
+       "11/05",
+       "11/19"
+      ],
+      "start": null,
+      "end": null,
+      "type": "신규",
+      "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfOTgg/MDAxNzkzNjkxODI0MDQz.i5T2WZ3fHnSfyCsLi5Q920KvrcGVWA88ITyq7j9xhOUg.kn17FjWCpwbLHKdBD7yb4-S2EiUi3aSoAI-mxtwd1dsg.PNG/3_3.png",
+      "board": "🎁진행 이벤트",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607"
+     },
+     {
+      "title": "[이벤트]신규 픽업 사도 모집 진행 예정 안내(~11월 5일)",
+      "posted": "2026-10-27T17:00:02+09:00",
+      "dates_found": [
+       "11월 5일",
+       "10/29",
+       "11/05"
+      ],
+      "start": null,
+      "end": null,
+      "type": "신규",
+      "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjdfMTcx/MDAxNzkzMDg0OTUzMjM4.5GTnx06Vfn8tsenjV7M9wVI4MZCwV2GiADQATSkOQbcg.hjMHCgxM1wkfXiFgFTwoOnrXywcGZls8DNCUVR0zQ_wg.PNG/3_3.png",
+      "board": "🎁진행 이벤트",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555"
+     },
+     {
+      "title": "[이벤트] 신규 스펙타클 카드 뽑기 예정 안내(~11월 5일)",
+      "posted": "2026-10-20T17:01:02+09:00",
+      "dates_found": [
+       "11월 5일",
+       "10/22",
+       "11/05"
+      ],
+      "start": null,
+      "end": null,
+      "type": "신규",
+      "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfNTUg/MDAxNzkyNDgwMzM4NjUw.4YK7NdicR0nA4aXTVV9sv7BZFgaOBgTjM03Y573itVUg.mB3NPEYd_Bhv8wDOFWmbW0rvWLe2mYHQOll1NYjNesQg.PNG/3_3.png",
+      "board": "🎁진행 이벤트",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8343614"
+     },
+     {
+      "title": "[이벤트] 신규 픽업 사도 모집 진행 예정 안내(~11월 5일)",
+      "posted": "2026-10-20T17:00:32+09:00",
+      "dates_found": [
+       "11월 5일",
+       "10/22",
+       "11/05"
+      ],
+      "start": null,
+      "end": null,
+      "type": "신규",
+      "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfMjcz/MDAxNzkyNDgwMTc1ODI0.Nl2NbQ1OcX-1pati00707xBgPr7o88wWJKco6p92aqsg.DpiO0LURuSirInv_9vg7DWgtRiT6BNbkT8L5Kw9XSAsg.PNG/3_3.png",
+      "board": "🎁진행 이벤트",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8343598"
+     },
+     {
+      "title": "[이벤트] [테마 사복] 5종 할인&특별 픽업 사도 모집 진행 안내(~10월 22일)",
+      "posted": "2026-10-13T17:00:01+09:00",
+      "dates_found": [
+       "10월 22일",
+       "10/15",
+       "10/22",
+       "10월 15일"
+      ],
+      "start": null,
+      "end": null,
+      "type": null,
+      "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTNfMTM4/MDAxNzkxODc1NDc5NzAz.nvfKSt1OZZyOP703D9JCr4TceMqe0_maRPWZ3D-t-Ngg.BvxXFQ9C87I2oovfJZmo7y___Ku30IdqdjXlnTB6_zgg.PNG/3_3.png",
+      "board": "🎁진행 이벤트",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8321399"
+     },
+     {
+      "title": "[이벤트] 신규 스펙타클 카드 뽑기 예정 안내(~10월 22일)",
+      "posted": "2026-10-06T17:01:33+09:00",
+      "dates_found": [
+       "10월 22일",
+       "10/08",
+       "10/22"
+      ],
+      "start": null,
+      "end": null,
+      "type": "신규",
+      "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMjky/MDAxNzkxMjcyMTE0NTU3.AnMuvecl3uxmFe6qCDNNaPKz6eA_3e5g1Lz2NcS3lkIg.tMQUkR37_-iJncaOkeEuWk_XHCc2kwU-4-pYdqpcUQwg.PNG/3_3.png",
+      "board": "🎁진행 이벤트",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8293813"
+     },
+     {
+      "title": "[이벤트] 신규 픽업 엘다인 사도 모집 진행 예정 안내(~10월 15일)",
+      "posted": "2026-10-06T17:01:03+09:00",
+      "dates_found": [
+       "10월 15일",
+       "10/08",
+       "10/15",
+       "0.6"
+      ],
+      "start": null,
+      "end": null,
+      "type": "신규",
+      "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMzAw/MDAxNzkxMjcxOTQzODcy.lw4aSYjSTr0KlOWLKWOwLZcG0I_BRuPMGi0OGeN-leMg.tx_4RgVnIv-0Maix6amp_bYRasxLMew85m6MMWKL2-wg.PNG/3_3.png",
+      "board": "🎁진행 이벤트",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8293809"
+     },
+     {
+      "title": "[이벤트] 신규 픽업 엘다인 사도 모집 진행 예정 안내(~10월 22일)",
+      "posted": "2026-10-06T17:00:33+09:00",
+      "dates_found": [
+       "10월 22일",
+       "10/08",
+       "10/22",
+       "0.6"
+      ],
+      "start": null,
+      "end": null,
+      "type": "신규",
+      "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMTk2/MDAxNzkxMjcxODUyMDMz.pIRVGl5Z8uT79ErKjGbTPgfZUWZJaKw4B1BRTygvDdwg.p2bmBKflPiytTmOYhctB8ofBruMqWsicLwmw_wJ_7Vsg.PNG/3_3.png",
+      "board": "🎁진행 이벤트",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8293797"
+     }
+    ]
+   },
+   "trends_series": [
+    6.44,
+    4.83,
+    5.01,
+    3.76,
+    3.94,
+    3.4,
+    3.94,
+    4.47,
+    4.12,
+    4.83,
+    2.86,
+    3.4,
+    4.12,
+    3.22,
+    3.04,
+    3.4,
+    3.04,
+    2.68,
+    2.68,
+    2.33,
+    2.68,
+    2.86,
+    3.04,
+    3.58,
+    6.08,
+    4.65,
+    4.65,
+    4.65,
+    3.94,
+    4.12,
+    4.29,
+    2.15
+   ]
+  },
+  {
+   "id": "nte",
+   "name": "이환",
+   "score": 53,
+   "change_vs_prev_day_pct": null,
+   "signals": {
+    "youtube": 82.7,
+    "x": null,
+    "community": 75.6,
+    "search": 0.0,
+    "momentum": 0
+   },
+   "used_weights": {
+    "youtube": 0.4,
+    "community": 0.267,
+    "search": 0.2,
+    "momentum": 0.133
+   },
+   "youtube": {
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "channel": "이환",
+    "views_7d_new_videos": 111044,
+    "new_videos_7d": 7,
+    "latest": [
+     {
+      "id": "jVxR-Xj_CtY",
+      "title": "「이환」 엘림 캐릭터 PV (Short Ver.3)",
+      "published": "2026-11-08T17:10:00+09:00",
+      "views": 3246,
+      "thumb": "https://i.ytimg.com/vi/jVxR-Xj_CtY/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/jVxR-Xj_CtY"
+     },
+     {
+      "id": "bYtIdD8_Kq8",
+      "title": "「이환」 엘림 캐릭터 PV (Short Ver.2)",
+      "published": "2026-11-08T17:05:15+09:00",
+      "views": 1990,
+      "thumb": "https://i.ytimg.com/vi/bYtIdD8_Kq8/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/bYtIdD8_Kq8"
+     },
+     {
+      "id": "jO_C38oKEs8",
+      "title": "「이환」 엘림 캐릭터 PV (Short Ver.1)",
+      "published": "2026-11-08T17:00:08+09:00",
+      "views": 2319,
+      "thumb": "https://i.ytimg.com/vi/jO_C38oKEs8/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/jO_C38oKEs8"
+     },
+     {
+      "id": "ioTHCpW4RSo",
+      "title": "「이환」 엘림 캐릭터 PV | 우리 다시 사이좋게 지내자",
+      "published": "2026-11-08T12:00:21+09:00",
+      "views": 35760,
+      "thumb": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ioTHCpW4RSo"
+     },
+     {
+      "id": "06kzx6f_2O8",
+      "title": "수용 훈련丨엘림",
+      "published": "2026-11-06T15:00:28+09:00",
+      "views": 5688,
+      "thumb": "https://i.ytimg.com/vi/06kzx6f_2O8/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/06kzx6f_2O8"
+     }
+    ],
+    "character_videos": [
+     {
+      "id": "jVxR-Xj_CtY",
+      "title": "「이환」 엘림 캐릭터 PV (Short Ver.3)",
+      "published": "2026-11-08T17:10:00+09:00",
+      "views": 3246,
+      "thumb": "https://i.ytimg.com/vi/jVxR-Xj_CtY/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/jVxR-Xj_CtY"
+     },
+     {
+      "id": "bYtIdD8_Kq8",
+      "title": "「이환」 엘림 캐릭터 PV (Short Ver.2)",
+      "published": "2026-11-08T17:05:15+09:00",
+      "views": 1990,
+      "thumb": "https://i.ytimg.com/vi/bYtIdD8_Kq8/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/bYtIdD8_Kq8"
+     },
+     {
+      "id": "jO_C38oKEs8",
+      "title": "「이환」 엘림 캐릭터 PV (Short Ver.1)",
+      "published": "2026-11-08T17:00:08+09:00",
+      "views": 2319,
+      "thumb": "https://i.ytimg.com/vi/jO_C38oKEs8/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/jO_C38oKEs8"
+     },
+     {
+      "id": "ioTHCpW4RSo",
+      "title": "「이환」 엘림 캐릭터 PV | 우리 다시 사이좋게 지내자",
+      "published": "2026-11-08T12:00:21+09:00",
+      "views": 35760,
+      "thumb": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ioTHCpW4RSo"
+     },
+     {
+      "id": "MK4bIOILTHM",
+      "title": "이환 캐릭터 쇼케이스丨엘림",
+      "published": "2026-11-05T12:00:30+09:00",
+      "views": 52843,
+      "thumb": "https://i.ytimg.com/vi/MK4bIOILTHM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MK4bIOILTHM"
+     },
+     {
+      "id": "iF5hxpmEPsk",
+      "title": "이환 | 1.5 버전 PV 「지금 거신 번호는」",
+      "published": "2026-10-29T12:00:00+09:00",
+      "views": 31202,
+      "thumb": "https://i.ytimg.com/vi/iF5hxpmEPsk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iF5hxpmEPsk"
+     },
+     {
+      "id": "_SgFxHs0Z_Q",
+      "title": "「이환」 아카네린 캐릭터 PV (Short Ver.3)",
+      "published": "2026-10-20T17:10:39+09:00",
+      "views": 5434,
+      "thumb": "https://i.ytimg.com/vi/_SgFxHs0Z_Q/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/_SgFxHs0Z_Q"
+     },
+     {
+      "id": "6_LcHejXAvI",
+      "title": "「이환」 아카네린 캐릭터 PV (Short Ver.2)",
+      "published": "2026-10-20T17:05:32+09:00",
+      "views": 3678,
+      "thumb": "https://i.ytimg.com/vi/6_LcHejXAvI/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/6_LcHejXAvI"
+     }
+    ],
+    "note": "RSS는 최신 15개 영상만 제공. 조회수는 수집 시점 누적값."
+   },
+   "community": {
+    "source": "https://arca.live/b/nevernesstoeverness",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "posts_per_hour": 75.77,
+    "sample": 45,
+    "note": "아카라이브 채널 첫 페이지(공지 제외) 글 작성 속도"
+   },
+   "pickups": {
+    "status": "ok",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "items": [
+     {
+      "title": "한정 S급 캐릭터 「신쿠」 기간 한정 복각!",
+      "posted": "2026-11-09T13:00:35+09:00",
+      "dates_found": [
+       "2026/11/11",
+       "2026/12/02"
+      ],
+      "start": null,
+      "end": null,
+      "type": "복각",
+      "image": "https://nng-phinf.pstatic.net/MjAyNjExMDZfMjkg/MDAxNzkzOTU3MzAwMDk4.k6nCqRETzPOFIJRK9ccDN-oQ5QH8KeM56L-7LOHrotQg.eQ6Sl9gXor95NLwH5-3O43YU4LQmAWgUE_sHqj3jR9Ag.JPEG/1920x1080-KR.jpg",
+      "board": "📅인게임 콘텐츠",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668"
+     },
+     {
+      "title": "「에코 특간」 아크 연구 모집 계획 오픈 예정",
+      "posted": "2026-11-09T11:10:29+09:00",
+      "dates_found": [
+       "2026/11/11",
+       "2026/12/02"
+      ],
+      "start": null,
+      "end": null,
+      "type": null,
+      "image": "https://nng-phinf.pstatic.net/MjAyNjExMDVfMTg1/MDAxNzkzODY4NDYwNjky.zUT_AukznWFCUk8qZIhYu6gT2jfr4RefPm6dauXj-C4g.nPXpI4VbhEorkhdyVkn-wxIy-GsiKedbDValr6FdmFAg.JPEG/1920x1080-kr.jpg",
+      "board": "📅인게임 콘텐츠",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/NTE/board/detail/8433786"
+     },
+     {
+      "title": "「해달별 특간」 아크 연구 모집 계획 오픈 예정",
+      "posted": "2026-10-19T11:20:29+09:00",
+      "dates_found": [
+       "2026/10/21",
+       "2026/11/11",
+       "1.4",
+       "76/00"
+      ],
+      "start": null,
+      "end": null,
+      "type": null,
+      "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMjIz/MDAxNzkyMTM4ODU1ODQz.0v6JEHkwUD01yac8Kg0Fza9x6hlm5flOenKBNjDqoHsg.sy7FhfOr7bBPMhIVCvPaKQGh15Zd106DNeALh8eNuS0g.JPEG/1920x1080-kr.jpg",
+      "board": "📅인게임 콘텐츠",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/NTE/board/detail/8339533"
+     },
+     {
+      "title": "한정 S급 캐릭터 「라크리모사」 복각 예정",
+      "posted": "2026-09-28T13:00:37+09:00",
+      "dates_found": [
+       "2026/9/30",
+       "2026/10/21"
+      ],
+      "start": null,
+      "end": null,
+      "type": "복각",
+      "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMjI1/MDAxNzkwMjQ1NjA5ODIw.fl2abbSUcgBRjIPr8XxISE7qlHMtyp6zWx_mgGUiUmQg.vjkL6oMqwLwWwvzesoqoQSkzC3B6GOylkZ5zYo5fyV4g.JPEG/1920x1080-KR.jpg",
+      "board": "📅인게임 콘텐츠",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/NTE/board/detail/8252739"
+     },
+     {
+      "title": "「깃털 특간」 아크 연구 모집 계획 오픈 예정",
+      "posted": "2026-09-28T11:20:28+09:00",
+      "dates_found": [
+       "2026/9/30",
+       "2026/10/21"
+      ],
+      "start": null,
+      "end": null,
+      "type": null,
+      "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMTI0/MDAxNzkwMjUwMzE4ODI3.WvOv27cJUzIV6YqNnRKJDaq3tN4NuA9Lw3iivYCdwUwg.Y6UaJL952fqsCXA4SG4X48hUcvgJCFbN6DZYOefbatUg.JPEG/1920x1080-kr.jpg",
+      "board": "📅인게임 콘텐츠",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/NTE/board/detail/8252406"
+     }
+    ]
+   },
+   "trends_series": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.18,
+    0.0,
+    0.18,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  {
+   "id": "endfield",
+   "name": "명일방주: 엔드필드",
+   "score": 71,
+   "change_vs_prev_day_pct": null,
+   "signals": {
+    "youtube": 96.4,
+    "x": null,
+    "community": null,
+    "search": 29.8,
+    "momentum": 56.4
+   },
+   "used_weights": {
+    "youtube": 0.545,
+    "search": 0.273,
+    "momentum": 0.182
+   },
+   "youtube": {
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "channel": "명일방주: 엔드필드",
+    "views_7d_new_videos": 762344,
+    "new_videos_7d": 14,
+    "latest": [
+     {
+      "id": "Q77meJFj5vQ",
+      "title": "놀라게 해 드린 건 아니겠지요, 관리자님? #명일방주엔드필드 #엔드필드 #단청도",
+      "published": "2026-11-09T19:00:17+09:00",
+      "views": 747,
+      "thumb": "https://i.ytimg.com/vi/Q77meJFj5vQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/Q77meJFj5vQ"
+     },
+     {
+      "id": "oJm8N2doDpU",
+      "title": "「명일방주: 엔드필드」 컷신 - 꺼지지 않는 빛",
+      "published": "2026-11-09T12:00:15+09:00",
+      "views": 3145,
+      "thumb": "https://i.ytimg.com/vi/oJm8N2doDpU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oJm8N2doDpU"
+     },
+     {
+      "id": "Hub35IaCY6I",
+      "title": "끝없는 폭풍을 지나도 이 불꽃만은 꺼뜨리지 않으리라 #명일방주엔드필드 #엔드필드 #단청도",
+      "published": "2026-11-08T19:00:31+09:00",
+      "views": 3467,
+      "thumb": "https://i.ytimg.com/vi/Hub35IaCY6I/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/Hub35IaCY6I"
+     },
+     {
+      "id": "1wrMRHhD40U",
+      "title": "스승님, 무슨 일을 하세요? #명일방주엔드필드 #엔드필드 #단청도",
+      "published": "2026-11-07T19:00:05+09:00",
+      "views": 7881,
+      "thumb": "https://i.ytimg.com/vi/1wrMRHhD40U/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/1wrMRHhD40U"
+     },
+     {
+      "id": "hy5OgKH-S20",
+      "title": "오랜 세월을 떠돌며 검과 함께 흥망성쇠를 지나, 다행히 마침내 다시 만났군요. #명일방주엔드필드 #엔드필드 #단청도",
+      "published": "2026-11-06T19:00:10+09:00",
+      "views": 4715,
+      "thumb": "https://i.ytimg.com/vi/hy5OgKH-S20/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/hy5OgKH-S20"
+     }
+    ],
+    "character_videos": [],
+    "note": "RSS는 최신 15개 영상만 제공. 조회수는 수집 시점 누적값."
+   },
+   "community": {
+    "source": "https://arca.live/b/endfield",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "posts_per_hour": null,
+    "note": "글 수 부족"
+   },
+   "pickups": {
+    "status": "ok",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "items": [
+     {
+      "title": "「은하수를 부르는 불꽃」 특별 허가 헤드헌팅 개방!",
+      "posted": "2026-11-05T13:00:35+09:00",
+      "dates_found": null,
+      "start": null,
+      "end": null,
+      "type": null,
+      "image": "https://nng-phinf.pstatic.net/MjAyNjExMDRfMjE4/MDAxNzkzNzg1OTMwNzcz.NSiNv2OIuIEvd53Nw4p1NCc3jKyRgP5gl_O-FkTOh_Qg._iPZCpmi-wxjXB67sOnB2C3MWPl_RhR0GHu_ihUGgVQg.JPEG/%E9%9F%A9%E8%AF%AD.jpg",
+      "board": "📢공지사항",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/Arknights_Endfield/board/detail/8413813"
+     },
+     {
+      "title": "「은하수를 부르는 불꽃」특별 허가 헤드헌팅",
+      "posted": "2026-11-04T19:00:34+09:00",
+      "dates_found": [
+       "2026/11/05"
+      ],
+      "start": null,
+      "end": null,
+      "type": null,
+      "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfMTA0/MDAxNzkzNjg5MDA3NDA2.BgPhMxfTQFEsLztmhrwAMRsAp_YC6P6zJYpcIjEkaasg.I21SoWIkYiD8IzVvTACL240aAXHVljVArzvq_c8Adfcg.JPEG/%E5%A4%9C%E6%98%8E%E6%B2%B3UP%E6%B1%A0%E5%85%AC%E5%91%8A1600x900_KR.jpg",
+      "board": "📢공지사항",
+      "source": "네이버 게임 라운지 공식 GM 공지",
+      "source_url": "https://game.naver.com/lounge/Arknights_Endfield/board/detail/8410148"
+     }
+    ]
+   },
+   "trends_series": [
+    2.68,
+    2.15,
+    2.15,
+    1.61,
+    2.15,
+    1.79,
+    6.26,
+    4.83,
+    5.73,
+    4.65,
+    2.51,
+    2.51,
+    2.15,
+    2.51,
+    2.33,
+    2.68,
+    2.68,
+    1.79,
+    1.61,
+    1.61,
+    1.61,
+    1.61,
+    2.33,
+    2.15,
+    1.61,
+    1.61,
+    1.97,
+    2.51,
+    2.15,
+    2.51,
+    1.97,
+    1.07
+   ]
+  },
+  {
+   "id": "priconne",
+   "name": "프린세스 커넥트! Re:Dive",
+   "score": 7,
+   "change_vs_prev_day_pct": null,
+   "signals": {
+    "youtube": 0.0,
+    "x": null,
+    "community": 1.5,
+    "search": 4.4,
+    "momentum": 43.7
+   },
+   "used_weights": {
+    "youtube": 0.4,
+    "community": 0.267,
+    "search": 0.2,
+    "momentum": 0.133
+   },
+   "youtube": {
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCF8zvIqu8LyXVfo6yHyqShA",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "channel": "프린세스 커넥트! Re:Dive",
+    "views_7d_new_videos": 0,
+    "new_videos_7d": 0,
+    "latest": [
+     {
+      "id": "rVJ3xkJtetM",
+      "title": "[프린세스 커넥트! Re:Dive] 스토리 이벤트 「안단테 위드 유 기도의 쌍창이 울려 퍼질 때」 PV",
+      "published": "2026-03-25T16:00:00+09:00",
+      "views": 690,
+      "thumb": "https://i.ytimg.com/vi/rVJ3xkJtetM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rVJ3xkJtetM"
+     },
+     {
+      "id": "qbtZJ39WSeI",
+      "title": "[프린세스 커넥트! Re:Dive] 스토리 이벤트 「다이브 아스트룸 일곱 개의 소원과 창세의 잔향」 PV",
+      "published": "2026-02-19T15:00:52+09:00",
+      "views": 1114,
+      "thumb": "https://i.ytimg.com/vi/qbtZJ39WSeI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qbtZJ39WSeI"
+     },
+     {
+      "id": "XJIM2UO0xtg",
+      "title": "[프린세스 커넥트! Re:Dive] 특별 이벤트「연옥의 리벨리온」PV",
+      "published": "2025-09-12T18:29:11+09:00",
+      "views": 2661,
+      "thumb": "https://i.ytimg.com/vi/XJIM2UO0xtg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XJIM2UO0xtg"
+     },
+     {
+      "id": "TuAKpilOzM8",
+      "title": "[프린세스 커넥트! Re:Dive] 「캬루&장난 아니벌」 스토리 영상",
+      "published": "2025-04-01T00:00:39+09:00",
+      "views": 1870,
+      "thumb": "https://i.ytimg.com/vi/TuAKpilOzM8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TuAKpilOzM8"
+     },
+     {
+      "id": "SjzjdrABKVg",
+      "title": "[프린세스 커넥트! Re:Dive] 기무라 유이토 PD 6주년 축하 영상",
+      "published": "2025-03-28T15:00:18+09:00",
+      "views": 3936,
+      "thumb": "https://i.ytimg.com/vi/SjzjdrABKVg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SjzjdrABKVg"
+     }
+    ],
+    "character_videos": [
+     {
+      "id": "rVJ3xkJtetM",
+      "title": "[프린세스 커넥트! Re:Dive] 스토리 이벤트 「안단테 위드 유 기도의 쌍창이 울려 퍼질 때」 PV",
+      "published": "2026-03-25T16:00:00+09:00",
+      "views": 690,
+      "thumb": "https://i.ytimg.com/vi/rVJ3xkJtetM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rVJ3xkJtetM"
+     },
+     {
+      "id": "qbtZJ39WSeI",
+      "title": "[프린세스 커넥트! Re:Dive] 스토리 이벤트 「다이브 아스트룸 일곱 개의 소원과 창세의 잔향」 PV",
+      "published": "2026-02-19T15:00:52+09:00",
+      "views": 1114,
+      "thumb": "https://i.ytimg.com/vi/qbtZJ39WSeI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qbtZJ39WSeI"
+     },
+     {
+      "id": "XJIM2UO0xtg",
+      "title": "[프린세스 커넥트! Re:Dive] 특별 이벤트「연옥의 리벨리온」PV",
+      "published": "2025-09-12T18:29:11+09:00",
+      "views": 2661,
+      "thumb": "https://i.ytimg.com/vi/XJIM2UO0xtg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XJIM2UO0xtg"
+     },
+     {
+      "id": "zZYeheX_gz4",
+      "title": "[프린세스 커넥트! Re:Dive] 특별 이벤트 「종염의 엘리시온」 PV",
+      "published": "2024-01-08T14:01:13+09:00",
+      "views": 3801,
+      "thumb": "https://i.ytimg.com/vi/zZYeheX_gz4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zZYeheX_gz4"
+     },
+     {
+      "id": "D9ZSxvbbwvA",
+      "title": "｢프리코네! 그랜드 마스터즈｣ 게임 플레이 PV",
+      "published": "2023-06-28T12:32:39+09:00",
+      "views": 4270,
+      "thumb": "https://i.ytimg.com/vi/D9ZSxvbbwvA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=D9ZSxvbbwvA"
+     }
+    ],
+    "note": "RSS는 최신 15개 영상만 제공. 조회수는 수집 시점 누적값."
+   },
+   "community": {
+    "source": "https://arca.live/b/priconne",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "posts_per_hour": 0.09,
+    "sample": 6,
+    "note": "아카라이브 채널 첫 페이지(공지 제외) 글 작성 속도"
+   },
+   "pickups": {
+    "status": "데이터 없음",
+    "note": "KR 공식 공지 소스 미확인. JP 공식 X(@priconne_redive)/게임 내 공지뿐 -> 데이터 없음",
+    "items": []
+   },
+   "trends_series": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.36,
+    0.0,
+    0.0,
+    0.0,
+    0.54,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.36,
+    0.18,
+    0.18,
+    0.18,
+    0.36,
+    0.18,
+    0.18,
+    0.18,
+    0.18,
+    0.18,
+    0.18,
+    0.18,
+    0.18,
+    0.18,
+    0.18,
+    0.18
+   ]
+  },
+  {
+   "id": "bangdream",
+   "name": "뱅드림! 걸즈 밴드 파티!",
+   "score": 46,
+   "change_vs_prev_day_pct": null,
+   "signals": {
+    "youtube": 91.7,
+    "x": null,
+    "community": 7.2,
+    "search": 10.2,
+    "momentum": 42.9
+   },
+   "used_weights": {
+    "youtube": 0.4,
+    "community": 0.267,
+    "search": 0.2,
+    "momentum": 0.133
+   },
+   "youtube": {
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN-bFIdJM0gQlgX7h6LKcZA",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "channel": "バンドリちゃんねる☆",
+    "views_7d_new_videos": 391953,
+    "new_videos_7d": 10,
+    "latest": [
+     {
+      "id": "5S6-5Lf1f8o",
+      "title": "🎧RAISE A SUILEN「I AM WHO I AM」MV🎧 #バンドリ #RAS",
+      "published": "2026-11-07T19:00:02+09:00",
+      "views": 8594,
+      "thumb": "https://i.ytimg.com/vi/5S6-5Lf1f8o/hqdefault.jpg",
+      "url": "https://www.youtube.com/shorts/5S6-5Lf1f8o"
+     },
+     {
+      "id": "HGD4K9dgp0A",
+      "title": "『ふたつの月 ~Deep Into The Forest~』Ave Mujica(難易度：EXPERT)【アワーノーツ プレイ動画】",
+      "published": "2026-11-07T18:02:08+09:00",
+      "views": 21269,
+      "thumb": "https://i.ytimg.com/vi/HGD4K9dgp0A/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HGD4K9dgp0A"
+     },
+     {
+      "id": "hdNEAhkerQE",
+      "title": "【バンドリ！アワーノーツ】イベント「移ろう月のサルタティオ」ストーリー予告トレーラー",
+      "published": "2026-11-07T18:00:37+09:00",
+      "views": 69919,
+      "thumb": "https://i.ytimg.com/vi/hdNEAhkerQE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hdNEAhkerQE"
+     },
+     {
+      "id": "dOamc5ehG2c",
+      "title": "Morfonica『LaVI-Bavellabion』楽曲MV(フルサイズver)",
+      "published": "2026-11-06T20:00:11+09:00",
+      "views": 113974,
+      "thumb": "https://i.ytimg.com/vi/dOamc5ehG2c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dOamc5ehG2c"
+     },
+     {
+      "id": "aPS-oAVx8Dw",
+      "title": "ガルパ×魔法少女ノ魔女裁判 コラボCM第1弾",
+      "published": "2026-11-06T15:01:32+09:00",
+      "views": 21315,
+      "thumb": "https://i.ytimg.com/vi/aPS-oAVx8Dw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aPS-oAVx8Dw"
+     }
+    ],
+    "character_videos": [],
+    "note": "RSS는 최신 15개 영상만 제공. 조회수는 수집 시점 누적값."
+   },
+   "community": {
+    "source": "https://arca.live/b/bangdream",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "posts_per_hour": 0.51,
+    "sample": 30,
+    "note": "아카라이브 채널 첫 페이지(공지 제외) 글 작성 속도"
+   },
+   "pickups": {
+    "status": "ok",
+    "fetched_at": "2026-11-09T21:25:07+09:00",
+    "items": [
+     {
+      "title": "11月6日（金）より「ガルパ×魔法少女ノ魔女裁判コラボ」開催！",
+      "posted": "2026-11-05T12:30:31+09:00",
+      "start": null,
+      "end": null,
+      "characters": null,
+      "source": "BanG Dream! GBP 일본 공식 사이트 뉴스",
+      "source_url": "https://bang-dream.bushimo.jp/news/20261105/post-360"
+     },
+     {
+      "title": "9月3日配信の「バンドリ！TV LIVE 2026」の中で発表された新情報やアップデート情報まとめ！",
+      "posted": "2026-09-04T12:00:26+09:00",
+      "start": null,
+      "end": null,
+      "characters": null,
+      "source": "BanG Dream! GBP 일본 공식 사이트 뉴스",
+      "source_url": "https://bang-dream.bushimo.jp/news/20260904/post-359"
+     },
+     {
+      "title": "2月26日配信の「バンドリ！TV LIVE 2026」の中で発表された新情報まとめ！",
+      "posted": "2026-02-27T12:00:03+09:00",
+      "start": null,
+      "end": null,
+      "characters": null,
+      "source": "BanG Dream! GBP 일본 공식 사이트 뉴스",
+      "source_url": "https://bang-dream.bushimo.jp/news/20260227/post-353"
+     },
+     {
+      "title": "2月10日（火）より「ガルパ×アークナイツコラボ」開催！",
+      "posted": "2026-02-09T12:30:40+09:00",
+      "start": null,
+      "end": null,
+      "characters": null,
+      "source": "BanG Dream! GBP 일본 공식 사이트 뉴스",
+      "source_url": "https://bang-dream.bushimo.jp/news/20260209/post-351"
+     },
+     {
+      "title": "11月20日（木）より「ガルパ×サンリオキャラクターズコラボ」Part2開催！",
+      "posted": "2025-11-19T12:30:22+09:00",
+      "start": null,
+      "end": null,
+      "characters": null,
+      "source": "BanG Dream! GBP 일본 공식 사이트 뉴스",
+      "source_url": "https://bang-dream.bushimo.jp/news/20251119/post-347"
+     },
+     {
+      "title": "11月10日（月）より「ガルパ×サンリオキャラクターズコラボ」Part1開催！",
+      "posted": "2025-11-09T12:30:15+09:00",
+      "start": null,
+      "end": null,
+      "characters": null,
+      "source": "BanG Dream! GBP 일본 공식 사이트 뉴스",
+      "source_url": "https://bang-dream.bushimo.jp/news/20251109/post-346"
+     },
+     {
+      "title": "9月4日配信の「バンドリ！TV LIVE 2025」の中で発表された新情報やアップデート情報まとめ！",
+      "posted": "2025-09-05T12:00:39+09:00",
+      "start": null,
+      "end": null,
+      "characters": null,
+      "source": "BanG Dream! GBP 일본 공식 사이트 뉴스",
+      "source_url": "https://bang-dream.bushimo.jp/news/20250905/post-343"
+     },
+     {
+      "title": "8月14日（木）より「ゾンビランドサガ リベンジ」コラボ再開催！",
+      "posted": "2025-08-13T12:30:53+09:00",
+      "start": null,
+      "end": null,
+      "characters": null,
+      "source": "BanG Dream! GBP 일본 공식 사이트 뉴스",
+      "source_url": "https://bang-dream.bushimo.jp/news/20250813/post-340"
+     },
+     {
+      "title": "「バンドリ！10周年記念特番！」の中で発表された新情報まとめ！",
+      "posted": "2025-03-01T12:00:12+09:00",
+      "start": null,
+      "end": null,
+      "characters": null,
+      "source": "BanG Dream! GBP 일본 공식 사이트 뉴스",
+      "source_url": "https://bang-dream.bushimo.jp/news/20250301/post-336"
+     },
+     {
+      "title": "10月18日（金）より「ガルパ×【推しの子】コラボ」Part2開催！",
+      "posted": "2024-10-17T12:30:49+09:00",
+      "start": null,
+      "end": null,
+      "characters": null,
+      "source": "BanG Dream! GBP 일본 공식 사이트 뉴스",
+      "source_url": "https://bang-dream.bushimo.jp/news/20241017/post-334"
+     }
+    ]
+   },
+   "trends_series": [
+    1.43,
+    1.25,
+    0.89,
+    0.54,
+    0.54,
+    0.72,
+    0.72,
+    0.54,
+    0.89,
+    0.72,
+    0.72,
+    0.72,
+    0.36,
+    0.72,
+    0.72,
+    0.72,
+    0.36,
+    0.54,
+    0.54,
+    0.54,
+    0.54,
+    0.54,
+    0.54,
+    0.54,
+    0.36,
+    0.36,
+    0.54,
+    0.36,
+    0.54,
+    0.54,
+    0.54,
+    0.36
+   ]
+  }
+ ],
+ "errors": []
+}

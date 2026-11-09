@@ -1,0 +1,58 @@
+# Hamo trend collector — every 3h. Trends once/day at 00:00 UTC.
+# Security: contents:write only; actions pinned by full SHA; no secrets in repo.
+name: Collect trend data
+
+on:
+  schedule:
+    # every 3 hours
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-trend
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      - name: Setup Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install deps
+        run: pip install --require-hashes=false -r requirements.txt
+
+      - name: Collect
+        run: |
+          set -euo pipefail
+          HOUR="$(date -u +%H)"
+          if [ "$HOUR" = "00" ]; then
+            echo "Running with --trends (UTC hour=$HOUR)"
+            python collect.py --trends
+          else
+            echo "Running without Trends (UTC hour=$HOUR); reuse cache if present"
+            python collect.py
+          fi
+
+      - name: Commit data if changed
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/trend.json data/history/
+          if git diff --staged --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "chore: update trend data $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
