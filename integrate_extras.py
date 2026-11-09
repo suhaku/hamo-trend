@@ -76,6 +76,61 @@ def related_for(name_obj, aliases, game_name, posts):
     return out[:5]
 
 
+X_STATUS_OK = "연동(일 1회)"
+_XURL = re.compile(r"^https://(?:x|twitter)\.com/[A-Za-z0-9_]{1,15}/status/\d{5,25}$")
+
+
+def _num(v):
+    try:
+        f = float(v)
+        return f if f >= 0 and f == f else None
+    except Exception:
+        return None
+
+
+def load_x_signals():
+    """Read-only. data/x_signals.json is written by a separate daily job; never written here."""
+    path = DATA / "x_signals.json"
+    if not path.exists():
+        return None
+    try:
+        doc = json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+    chars = doc.get("characters") if isinstance(doc, dict) else None
+    if not isinstance(chars, dict):
+        return None
+    out = {}
+    for cid, e in chars.items():
+        if not isinstance(e, dict):
+            continue
+        t = e.get("totals") or {}
+        likes, reposts, replies = _num(t.get("likes")), _num(t.get("reposts")), _num(t.get("replies"))
+        if likes is None and reposts is None and replies is None:
+            continue
+        posts = [p for p in (e.get("posts") or []) if isinstance(p, dict) and isinstance(p.get("url"), str) and _XURL.match(p["url"])]
+        top = max(posts, key=lambda p: (_num(p.get("likes")) or 0) + 2 * (_num(p.get("reposts")) or 0), default=None)
+        out[str(cid)[:80]] = dict(
+            engagement=(likes or 0) + 2 * (reposts or 0) + (replies or 0),
+            totals=dict(likes=likes, reposts=reposts, replies=replies, views=_num(t.get("views"))),
+            post_count=len(posts),
+            top_post_url=top["url"] if top else None,
+            status=str(e.get("status") or "ok")[:40],
+        )
+    return dict(generated_at=str(doc.get("generated_at") or "")[:40], source=str(doc.get("source") or "")[:120], chars=out)
+
+
+def x_peer_pool(db, game_id: str, cid: str, current: dict) -> tuple[list[float], str]:
+    """Same game's past new characters (recorded x_engagement); fall back to this month's peers."""
+    rows = db.conn.execute(
+        "SELECT character_id, MAX(value) FROM snapshots WHERE game_id=? AND kind='x_engagement' "
+        "AND character_id<>? GROUP BY character_id", (game_id, cid)).fetchall()
+    hist = [float(v) for _c, v in rows if v is not None]
+    if len(hist) >= 2:
+        return hist, "same_game_history"
+    return [v["engagement"] for v in current.values()], "month_peers"
+
+
 def run():
     trend_path = DATA / "trend.json"
     if not trend_path.exists():
@@ -100,6 +155,15 @@ def run():
 
     db = AllTimeDB(DATA / "alltime.sqlite")
     at = now_iso()
+    xs = load_x_signals()
+    month_ids = {r["character_id"] for r in crank}
+    x_cur = {k: v for k, v in ((xs or {}).get("chars") or {}).items() if k in month_ids}
+    ss_all = trend.setdefault("signals_status", {})
+    if xs is not None:
+        ss_all["x_api"] = X_STATUS_OK
+        ss_all["x_generated_at"] = xs["generated_at"]
+    else:
+        ss_all.setdefault("x_api", "데이터 없음")
 
     # Build new character_ranking with composite /100
     new_crank_all = []
@@ -109,9 +173,10 @@ def run():
         sig_raw = {
             "youtube_pv": (r.get("signals") or {}).get("youtube_pv_views"),
             "google_trends": (r.get("signals") or {}).get("google_trends"),
-            "x": None,  # 미연동 — omitted, not 0
+            "x": (x_cur.get(cid) or {}).get("engagement"),  # missing → None (not 0)
             "community": None,
         }
+        xinfo = x_cur.get(cid)
         # also try lift as youtube_pv alternative peer-normalized already
         lift = (r.get("signals") or {}).get("youtube_pv_lift")
         # prefer absolute views in peer log-norm; lift stored separately
@@ -119,8 +184,11 @@ def run():
         available = ["youtube_pv"]
         if ss.get("google_trends") != "미연동":
             available.append("google_trends")
-        if ss.get("x_api") == "ok":
+        if xinfo is not None:
             available.append("x")
+        x_pool, x_basis = (x_peer_pool(db, gid, cid, x_cur) if xinfo else ([], None))
+        if xinfo and x_pool and xinfo["engagement"] not in x_pool:
+            x_pool = x_pool + [xinfo["engagement"]]
         if ss.get("community_arca") == "ok" and sig_raw.get("community") is not None:
             available.append("community")
         scored = composite_score(
@@ -128,6 +196,7 @@ def run():
             peer_pools={
                 "youtube_pv": peer_views,
                 "google_trends": peer_trends if peer_trends else ([sig_raw["google_trends"]] if sig_raw["google_trends"] is not None else []),
+                "x": x_pool,
             },
             available=available,
         )
@@ -163,7 +232,19 @@ def run():
             related_posts=rel,
             last_updated=at,
         ))
+        sigs = dict(row.get("signals") or {})
+        sigs["x"] = xinfo["totals"] if xinfo else None
+        row["signals"] = sigs
+        sst = dict(row.get("signals_status") or {})
+        sst["x"] = X_STATUS_OK if xinfo else "데이터 없음"
+        row["signals_status"] = sst
+        row["x"] = dict(status=X_STATUS_OK, generated_at=xs["generated_at"], engagement=xinfo["engagement"],
+                        normalized_against=x_basis, post_count=xinfo["post_count"],
+                        top_post_url=xinfo["top_post_url"]) if xinfo else dict(status="데이터 없음")
         new_crank_all.append(row)
+        if xinfo:
+            db.add_snapshot(at, cid, gid, "x_engagement", "now", xinfo["engagement"],
+                            meta={"source": "x_signals.json", "generated_at": xs["generated_at"]})
 
         # all-time snapshots (never into current score)
         is_rerun = False
@@ -196,6 +277,9 @@ def run():
         ch = next((c for c in (json.loads((DATA/"new_characters.json").read_text(encoding="utf-8")).get("characters") or [])
                    if c.get("id") == item.get("id")), {})
         item["related_posts"] = related_for(item.get("name"), ch.get("aliases"), game_name.get(item.get("game_id")), posts)
+        xi = x_cur.get(item.get("id"))
+        item["x_top_post_url"] = xi["top_post_url"] if xi else None
+        item["x_status"] = X_STATUS_OK if xi else "데이터 없음"
 
     for r in pv_all:
         ch = next((c for c in (json.loads((DATA/"new_characters.json").read_text(encoding="utf-8")).get("characters") or [])

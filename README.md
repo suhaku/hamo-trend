@@ -29,6 +29,9 @@ Optional `related_posts` from https://news84034.tistory.com/rss (read-only).
 - Month rule: revealed this month OR released / debut pickup this month.
 - Manual: `overrides.json → verified_new_characters` (each must carry official `source_urls`).
 
+## X signal (daily file, read-only here)
+`data/x_signals.json` is written by a separate daily job. The collector only reads it: X weight 20% from `totals` (likes + 2×reposts + replies), log-normalized against the same game's past new characters (`x_engagement` in alltime.sqlite) or this month's peers when history < 2. Status `연동(일 1회)` + `x_generated_at`. Missing file/entry → `데이터 없음`, weights renormalized. The 3-hourly Action never stages or deletes it.
+
 ## Source links
 `source_url` is always a reader page (HoYoLAB article, Naver lounge post, official YouTube/X). Raw APIs go to `api_source` and are never linked; `source_label` is shown as text when no page exists.
 

@@ -67,9 +67,12 @@ jobs:
             data/rosters/ \
             data/overrides.json \
             data/history/ || true
+          # data/x_signals.json is owned by the separate daily X job: never staged, edited or removed here
+          git reset -q -- data/x_signals.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No data changes"
           else
             git commit -m "chore: update trend data $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase --autostash origin main
             git push
           fi

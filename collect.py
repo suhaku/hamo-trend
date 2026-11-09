@@ -1071,7 +1071,7 @@ def main():
     signals_status = {
         "youtube_rss": signal_status("youtube_rss"),
         "youtube_data_api": signal_status("youtube_data_api"),
-        "x_api": signal_status("x_api"),
+        "x_api": ("연동(일 1회)" if (DATA / "x_signals.json").exists() else signal_status("x_api")),
         "community_arca": signal_status("community_arca"),
         "google_trends": signal_status("google_trends"),
         "pickups_official": signal_status("pickups_official"),
