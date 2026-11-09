@@ -247,7 +247,7 @@ def run():
     trend["character_ranking"] = dict(
         status="ok" if ranked else "데이터 없음",
         generated_at=at,
-        rule="점수/100. 결측은 0 아님→재정규화. coverage=수집률. 낮으면 provisional/hold. reliability 별도. 복각 제외. all-time 미합산.",
+        rule="100점 만점 · 없는 지표는 0점 처리 없이 나머지로 다시 계산 · 수집률이 낮으면 잠정 또는 보류 · 신뢰도 따로 표시 · 복각 제외 · 역대 기록은 점수에 안 넣음",
         weights=WEIGHTS,
         ranking=ranked,
         held=[r for r in new_crank_all if r.get("hold")],
