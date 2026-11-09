@@ -9,7 +9,7 @@
  "is_rerun": false,
  "reveal_date": "2026-10-30",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-10T01:11:32+09:00",
+ "last_seen_at": "2026-11-10T01:21:26+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 303329.0,
  "peak_lift": 3.799,
@@ -74,6 +74,11 @@
    "at": "2026-11-10T01:11:32+09:00",
    "video_id": "T1d3GwCDG8w",
    "views": 261267.0
+  },
+  {
+   "at": "2026-11-10T01:21:26+09:00",
+   "video_id": "T1d3GwCDG8w",
+   "views": 268246.0
   }
  ],
  "pv_series_by_video": [
@@ -142,6 +147,10 @@
     {
      "at": "2026-11-10T01:11:32+09:00",
      "views": 261267.0
+    },
+    {
+     "at": "2026-11-10T01:21:26+09:00",
+     "views": 268246.0
     }
    ]
   }
@@ -188,11 +197,17 @@
   "provisional": true,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 261267,
-  "lift_vs_game_baseline": 3.272,
+  "absolute_views": 268246,
+  "lift_vs_game_baseline": 3.338,
   "growth_rate_7d": null,
-  "related_posts": [],
-  "last_updated": "2026-11-10T01:11:32+09:00",
+  "related_posts": [
+   {
+    "title": "스타레일 4.7 아하 픽업 정리 | 11월 11일 시작, 황천&middot;음월&middot;경원은 12월 2일 후반 복각",
+    "url": "https://news84034.tistory.com/11",
+    "published": "Mon, 9 Nov 2026 12:00:55 +0900"
+   }
+  ],
+  "last_updated": "2026-11-10T01:21:26+09:00",
   "note": "current score does not include all-time records"
  }
 }

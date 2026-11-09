@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-10T01:11:07+09:00",
+ "generated_at": "2026-11-10T01:17:25+09:00",
  "month": "2026-11",
  "rule": "공식 공지만 · 시작/종료/출처 필수 · 신규 중심, 복각은 따로 표시",
  "items": [
@@ -41,7 +41,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   },
   {
    "game_id": "genshin",
@@ -73,7 +73,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": null,
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   },
   {
    "game_id": "trickcal",
@@ -88,10 +88,10 @@
    "rerun_characters": null,
    "featured_character": "두두",
    "featured_character_id": "trickcal-dudu",
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu.png",
+   "portrait_url": null,
    "portrait_focus": {
-    "x": 50,
-    "y": 48
+    "x": 50.0,
+    "y": 48.0
    },
    "portrait_zoom": 1.15,
    "start": "2026-11-05",
@@ -105,7 +105,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
    "api_source": null,
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   },
   {
    "game_id": "zzz",
@@ -140,7 +140,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47375931",
    "api_source": null,
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   }
  ],
  "reruns": [
@@ -173,7 +173,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47131668",
    "api_source": null,
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   },
   {
    "game_id": "starrail",
@@ -197,7 +197,7 @@
    "portrait_url": null,
    "portrait_focus": null,
    "portrait_zoom": null,
-   "start": "2026-10-20 07:00:00",
+   "start": "2026-10-20 14:00:00",
    "end": "2026-11-10 15:00:00",
    "tz": "UTC+8",
    "is_new": false,
@@ -208,7 +208,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47142215",
    "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   },
   {
    "game_id": "trickcal",
@@ -237,7 +237,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
    "api_source": null,
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   },
   {
    "game_id": "genshin",
@@ -273,7 +273,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   },
   {
    "game_id": "nte",
@@ -306,7 +306,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
    "api_source": null,
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   }
  ],
  "all": [
@@ -339,7 +339,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47131668",
    "api_source": null,
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   },
   {
    "game_id": "starrail",
@@ -363,7 +363,7 @@
    "portrait_url": null,
    "portrait_focus": null,
    "portrait_zoom": null,
-   "start": "2026-10-20 07:00:00",
+   "start": "2026-10-20 14:00:00",
    "end": "2026-11-10 15:00:00",
    "tz": "UTC+8",
    "is_new": false,
@@ -374,7 +374,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47142215",
    "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   },
   {
    "game_id": "trickcal",
@@ -403,7 +403,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
    "api_source": null,
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   },
   {
    "game_id": "genshin",
@@ -442,7 +442,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   },
   {
    "game_id": "genshin",
@@ -478,7 +478,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   },
   {
    "game_id": "genshin",
@@ -510,7 +510,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": null,
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   },
   {
    "game_id": "trickcal",
@@ -525,10 +525,10 @@
    "rerun_characters": null,
    "featured_character": "두두",
    "featured_character_id": "trickcal-dudu",
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu.png",
+   "portrait_url": null,
    "portrait_focus": {
-    "x": 50,
-    "y": 48
+    "x": 50.0,
+    "y": 48.0
    },
    "portrait_zoom": 1.15,
    "start": "2026-11-05",
@@ -542,7 +542,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
    "api_source": null,
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   },
   {
    "game_id": "nte",
@@ -575,7 +575,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
    "api_source": null,
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   },
   {
    "game_id": "zzz",
@@ -610,7 +610,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47375931",
    "api_source": null,
-   "last_updated": "2026-11-10T01:11:07+09:00"
+   "last_updated": "2026-11-10T01:17:25+09:00"
   }
  ]
 }
