@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-09T22:03:42+09:00",
+ "generated_at": "2026-11-09T22:04:52+09:00",
  "rule": "공식 채널 PV 실측 조회수만. 절대값 순위와 성장(델타) 순위 분리. 게임 크기 정규화는 lift_vs_game_baseline.",
  "hold_policy": "PV<24h 또는 조회수 없음 → 순위 보류",
  "absolute_ranking": [
@@ -17,8 +17,8 @@
    "rank_absolute": 1,
    "rank_growth": null,
    "absolute": {
-    "views": 134765,
-    "lift_vs_game_baseline": 2.454
+    "views": 134819,
+    "lift_vs_game_baseline": 2.453
    },
    "growth": {
     "delta_24h": null,
@@ -36,12 +36,12 @@
     "channel_region": "Global",
     "published": "2026-11-03T13:00:36+09:00",
     "age_hours": 153.1,
-    "views_absolute": 134765,
+    "views_absolute": 134819,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 134765,
+     "views_now": 134819,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -49,12 +49,12 @@
      "since_publish_7d": null,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 54908.5,
-    "lift_vs_game_baseline": 2.454,
+    "game_baseline_median_views": 54953.0,
+    "lift_vs_game_baseline": 2.453,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-09T22:03:42+09:00"
+    "fetched_at": "2026-11-09T22:04:52+09:00"
    },
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -69,7 +69,7 @@
    "rank_absolute": 2,
    "rank_growth": null,
    "absolute": {
-    "views": 70360,
+    "views": 70403,
     "lift_vs_game_baseline": 1.281
    },
    "growth": {
@@ -88,12 +88,12 @@
     "channel_region": "Global",
     "published": "2026-11-02T13:00:00+09:00",
     "age_hours": 177.1,
-    "views_absolute": 70360,
+    "views_absolute": 70403,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 70360,
+     "views_now": 70403,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -101,12 +101,12 @@
      "since_publish_7d": null,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 54908.5,
+    "game_baseline_median_views": 54953.0,
     "lift_vs_game_baseline": 1.281,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-09T22:03:42+09:00"
+    "fetched_at": "2026-11-09T22:04:52+09:00"
    },
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   }
  ],
  "growth_ranking": [],
@@ -136,8 +136,19 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-09T22:03:42+09:00",
-   "related_posts": []
+   "last_updated": "2026-11-09T22:04:52+09:00",
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-a2fbc1b95d",
@@ -152,8 +163,8 @@
    "rank_absolute": 1,
    "rank_growth": null,
    "absolute": {
-    "views": 134765,
-    "lift_vs_game_baseline": 2.454
+    "views": 134819,
+    "lift_vs_game_baseline": 2.453
    },
    "growth": {
     "delta_24h": null,
@@ -171,12 +182,12 @@
     "channel_region": "Global",
     "published": "2026-11-03T13:00:36+09:00",
     "age_hours": 153.1,
-    "views_absolute": 134765,
+    "views_absolute": 134819,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 134765,
+     "views_now": 134819,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -184,13 +195,24 @@
      "since_publish_7d": null,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 54908.5,
-    "lift_vs_game_baseline": 2.454,
+    "game_baseline_median_views": 54953.0,
+    "lift_vs_game_baseline": 2.453,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-09T22:03:42+09:00"
+    "fetched_at": "2026-11-09T22:04:52+09:00"
    },
-   "last_updated": "2026-11-09T22:03:42+09:00",
-   "related_posts": []
+   "last_updated": "2026-11-09T22:04:52+09:00",
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -205,7 +227,7 @@
    "rank_absolute": 2,
    "rank_growth": null,
    "absolute": {
-    "views": 70360,
+    "views": 70403,
     "lift_vs_game_baseline": 1.281
    },
    "growth": {
@@ -224,12 +246,12 @@
     "channel_region": "Global",
     "published": "2026-11-02T13:00:00+09:00",
     "age_hours": 177.1,
-    "views_absolute": 70360,
+    "views_absolute": 70403,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 70360,
+     "views_now": 70403,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -237,13 +259,24 @@
      "since_publish_7d": null,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 54908.5,
+    "game_baseline_median_views": 54953.0,
     "lift_vs_game_baseline": 1.281,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-09T22:03:42+09:00"
+    "fetched_at": "2026-11-09T22:04:52+09:00"
    },
-   "last_updated": "2026-11-09T22:03:42+09:00",
-   "related_posts": []
+   "last_updated": "2026-11-09T22:04:52+09:00",
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-89e07f95d7",
@@ -270,8 +303,19 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-09T22:03:42+09:00",
-   "related_posts": []
+   "last_updated": "2026-11-09T22:04:52+09:00",
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-6a6c4bcf62",
@@ -298,8 +342,19 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-09T22:03:42+09:00",
-   "related_posts": []
+   "last_updated": "2026-11-09T22:04:52+09:00",
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-4beb1f475c",
@@ -326,8 +381,19 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-09T22:03:42+09:00",
-   "related_posts": []
+   "last_updated": "2026-11-09T22:04:52+09:00",
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "nte-7a7f1be071",
@@ -354,7 +420,7 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-09T22:03:42+09:00",
+   "last_updated": "2026-11-09T22:04:52+09:00",
    "related_posts": []
   },
   {
@@ -382,7 +448,7 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-09T22:03:42+09:00",
+   "last_updated": "2026-11-09T22:04:52+09:00",
    "related_posts": []
   },
   {
@@ -410,7 +476,7 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-09T22:03:42+09:00",
+   "last_updated": "2026-11-09T22:04:52+09:00",
    "related_posts": []
   },
   {
@@ -438,7 +504,7 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-09T22:03:42+09:00",
+   "last_updated": "2026-11-09T22:04:52+09:00",
    "related_posts": []
   },
   {
@@ -466,7 +532,7 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-09T22:03:42+09:00",
+   "last_updated": "2026-11-09T22:04:52+09:00",
    "related_posts": []
   },
   {
@@ -494,7 +560,7 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-09T22:03:42+09:00",
+   "last_updated": "2026-11-09T22:04:52+09:00",
    "related_posts": []
   }
  ],

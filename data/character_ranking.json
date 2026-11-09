@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-09T22:04:06+09:00",
+ "generated_at": "2026-11-09T22:07:48+09:00",
  "rule": "점수/100. 결측은 0 아님→재정규화. coverage=수집률. 낮으면 provisional/hold. reliability 별도. 복각 제외. all-time 미합산.",
  "weights": {
   "youtube_pv": 0.35,
@@ -23,8 +23,8 @@
    "score": 100.0,
    "reliability": 0.5,
    "signals": {
-    "youtube_pv_views": 134765,
-    "youtube_pv_lift": 2.454,
+    "youtube_pv_views": 134819,
+    "youtube_pv_lift": 2.453,
     "google_trends": null,
     "google_trends_lift": null,
     "x": null,
@@ -37,9 +37,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 134765,
+   "absolute_views": 134819,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": 100.0,
    "coverage": 0.5,
    "provisional": true,
@@ -58,8 +58,19 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 2.454,
-   "related_posts": []
+   "lift_vs_game_baseline": 2.453,
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -75,7 +86,7 @@
    "score": 94.5,
    "reliability": 0.5,
    "signals": {
-    "youtube_pv_views": 70360,
+    "youtube_pv_views": 70403,
     "youtube_pv_lift": 1.281,
     "google_trends": null,
     "google_trends_lift": null,
@@ -89,9 +100,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 70360,
+   "absolute_views": 70403,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": 94.5,
    "coverage": 0.5,
    "provisional": true,
@@ -111,7 +122,18 @@
     "community": 0.2
    },
    "lift_vs_game_baseline": 1.281,
-   "related_posts": []
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   }
  ],
  "held": [
@@ -145,7 +167,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -159,7 +181,18 @@
     "community": 0.2
    },
    "lift_vs_game_baseline": null,
-   "related_posts": []
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-89e07f95d7",
@@ -191,7 +224,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -205,7 +238,18 @@
     "community": 0.2
    },
    "lift_vs_game_baseline": null,
-   "related_posts": []
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-6a6c4bcf62",
@@ -237,7 +281,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -251,7 +295,18 @@
     "community": 0.2
    },
    "lift_vs_game_baseline": null,
-   "related_posts": []
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-4beb1f475c",
@@ -283,7 +338,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -297,7 +352,18 @@
     "community": 0.2
    },
    "lift_vs_game_baseline": null,
-   "related_posts": []
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "nte-7a7f1be071",
@@ -329,7 +395,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -375,7 +441,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -421,7 +487,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -467,7 +533,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -513,7 +579,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -559,7 +625,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -607,7 +673,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -621,7 +687,18 @@
     "community": 0.2
    },
    "lift_vs_game_baseline": null,
-   "related_posts": []
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-a2fbc1b95d",
@@ -637,8 +714,8 @@
    "score": 100.0,
    "reliability": 0.5,
    "signals": {
-    "youtube_pv_views": 134765,
-    "youtube_pv_lift": 2.454,
+    "youtube_pv_views": 134819,
+    "youtube_pv_lift": 2.453,
     "google_trends": null,
     "google_trends_lift": null,
     "x": null,
@@ -651,9 +728,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 134765,
+   "absolute_views": 134819,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": 100.0,
    "coverage": 0.5,
    "provisional": true,
@@ -672,8 +749,19 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 2.454,
-   "related_posts": []
+   "lift_vs_game_baseline": 2.453,
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -689,7 +777,7 @@
    "score": 94.5,
    "reliability": 0.5,
    "signals": {
-    "youtube_pv_views": 70360,
+    "youtube_pv_views": 70403,
     "youtube_pv_lift": 1.281,
     "google_trends": null,
     "google_trends_lift": null,
@@ -703,9 +791,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 70360,
+   "absolute_views": 70403,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": 94.5,
    "coverage": 0.5,
    "provisional": true,
@@ -725,7 +813,18 @@
     "community": 0.2
    },
    "lift_vs_game_baseline": 1.281,
-   "related_posts": []
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-89e07f95d7",
@@ -757,7 +856,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -771,7 +870,18 @@
     "community": 0.2
    },
    "lift_vs_game_baseline": null,
-   "related_posts": []
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-6a6c4bcf62",
@@ -803,7 +913,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -817,7 +927,18 @@
     "community": 0.2
    },
    "lift_vs_game_baseline": null,
-   "related_posts": []
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-4beb1f475c",
@@ -849,7 +970,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -863,7 +984,18 @@
     "community": 0.2
    },
    "lift_vs_game_baseline": null,
-   "related_posts": []
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "nte-7a7f1be071",
@@ -895,7 +1027,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -941,7 +1073,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -987,7 +1119,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -1033,7 +1165,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -1079,7 +1211,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,
@@ -1125,7 +1257,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:04:06+09:00",
+   "last_updated": "2026-11-09T22:07:48+09:00",
    "score_raw": null,
    "coverage": 0.0,
    "provisional": false,

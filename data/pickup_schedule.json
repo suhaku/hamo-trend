@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-09T22:03:42+09:00",
+ "generated_at": "2026-11-09T22:04:52+09:00",
  "month": "2026-11",
  "rule": "공식 공지만. start/end/source_url 필수. 신규 중심, 복각은 is_rerun=true로 표기.",
  "items": [
@@ -17,7 +17,7 @@
    "image": null,
    "source": "HoYoverse 공식 인게임 공지 API",
    "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "nte",
@@ -39,7 +39,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMTI0/MDAxNzkwMjUwMzE4ODI3.WvOv27cJUzIV6YqNnRKJDaq3tN4NuA9Lw3iivYCdwUwg.Y6UaJL952fqsCXA4SG4X48hUcvgJCFbN6DZYOefbatUg.JPEG/1920x1080-kr.jpg",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8252406",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -54,7 +54,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMzAw/MDAxNzkxMjcxOTQzODcy.lw4aSYjSTr0KlOWLKWOwLZcG0I_BRuPMGi0OGeN-leMg.tx_4RgVnIv-0Maix6amp_bYRasxLMew85m6MMWKL2-wg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8293809",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "nte",
@@ -78,7 +78,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMjIz/MDAxNzkyMTM4ODU1ODQz.0v6JEHkwUD01yac8Kg0Fza9x6hlm5flOenKBNjDqoHsg.sy7FhfOr7bBPMhIVCvPaKQGh15Zd106DNeALh8eNuS0g.JPEG/1920x1080-kr.jpg",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8339533",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -93,7 +93,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTNfMTM4/MDAxNzkxODc1NDc5NzAz.nvfKSt1OZZyOP703D9JCr4TceMqe0_maRPWZ3D-t-Ngg.BvxXFQ9C87I2oovfJZmo7y___Ku30IdqdjXlnTB6_zgg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8321399",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -108,7 +108,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMjky/MDAxNzkxMjcyMTE0NTU3.AnMuvecl3uxmFe6qCDNNaPKz6eA_3e5g1Lz2NcS3lkIg.tMQUkR37_-iJncaOkeEuWk_XHCc2kwU-4-pYdqpcUQwg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8293813",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -123,7 +123,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMTk2/MDAxNzkxMjcxODUyMDMz.pIRVGl5Z8uT79ErKjGbTPgfZUWZJaKw4B1BRTygvDdwg.p2bmBKflPiytTmOYhctB8ofBruMqWsicLwmw_wJ_7Vsg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8293797",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "genshin",
@@ -143,7 +143,7 @@
    "image": null,
    "source": "HoYoverse 공식 인게임 공지 API",
    "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "genshin",
@@ -163,7 +163,7 @@
    "image": null,
    "source": "HoYoverse 공식 인게임 공지 API",
    "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "genshin",
@@ -180,7 +180,7 @@
    "image": null,
    "source": "HoYoverse 공식 인게임 공지 API",
    "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -195,7 +195,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjdfMTcx/MDAxNzkzMDg0OTUzMjM4.5GTnx06Vfn8tsenjV7M9wVI4MZCwV2GiADQATSkOQbcg.hjMHCgxM1wkfXiFgFTwoOnrXywcGZls8DNCUVR0zQ_wg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -210,7 +210,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfNTUg/MDAxNzkyNDgwMzM4NjUw.4YK7NdicR0nA4aXTVV9sv7BZFgaOBgTjM03Y573itVUg.mB3NPEYd_Bhv8wDOFWmbW0rvWLe2mYHQOll1NYjNesQg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8343614",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -225,7 +225,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfMjcz/MDAxNzkyNDgwMTc1ODI0.Nl2NbQ1OcX-1pati00707xBgPr7o88wWJKco6p92aqsg.DpiO0LURuSirInv_9vg7DWgtRiT6BNbkT8L5Kw9XSAsg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8343598",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "nte",
@@ -248,7 +248,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjExMDVfMTg1/MDAxNzkzODY4NDYwNjky.zUT_AukznWFCUk8qZIhYu6gT2jfr4RefPm6dauXj-C4g.nPXpI4VbhEorkhdyVkn-wxIy-GsiKedbDValr6FdmFAg.JPEG/1920x1080-kr.jpg",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8433786",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -263,7 +263,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfNjMg/MDAxNzkzNjkxOTIzMDMx.SeSpqWuHJisspcWsBbZYOSBjT2r6tXS0NRn61UnTVdEg.nZu2zHZcbcaMXRxO0iBcAbCTIBewZrBSHU7Bp0dtAC4g.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404614",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -278,7 +278,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfOTgg/MDAxNzkzNjkxODI0MDQz.i5T2WZ3fHnSfyCsLi5Q920KvrcGVWA88ITyq7j9xhOUg.kn17FjWCpwbLHKdBD7yb4-S2EiUi3aSoAI-mxtwd1dsg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   }
  ],
  "reruns": [
@@ -303,7 +303,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMjI1/MDAxNzkwMjQ1NjA5ODIw.fl2abbSUcgBRjIPr8XxISE7qlHMtyp6zWx_mgGUiUmQg.vjkL6oMqwLwWwvzesoqoQSkzC3B6GOylkZ5zYo5fyV4g.JPEG/1920x1080-KR.jpg",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8252739",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "starrail",
@@ -318,7 +318,7 @@
    "image": null,
    "source": "HoYoverse 공식 인게임 공지 API",
    "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "nte",
@@ -342,7 +342,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjExMDZfMjkg/MDAxNzkzOTU3MzAwMDk4.k6nCqRETzPOFIJRK9ccDN-oQ5QH8KeM56L-7LOHrotQg.eQ6Sl9gXor95NLwH5-3O43YU4LQmAWgUE_sHqj3jR9Ag.JPEG/1920x1080-KR.jpg",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   }
  ],
  "all": [
@@ -359,7 +359,7 @@
    "image": null,
    "source": "HoYoverse 공식 인게임 공지 API",
    "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "nte",
@@ -382,7 +382,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMjI1/MDAxNzkwMjQ1NjA5ODIw.fl2abbSUcgBRjIPr8XxISE7qlHMtyp6zWx_mgGUiUmQg.vjkL6oMqwLwWwvzesoqoQSkzC3B6GOylkZ5zYo5fyV4g.JPEG/1920x1080-KR.jpg",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8252739",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "nte",
@@ -404,7 +404,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMTI0/MDAxNzkwMjUwMzE4ODI3.WvOv27cJUzIV6YqNnRKJDaq3tN4NuA9Lw3iivYCdwUwg.Y6UaJL952fqsCXA4SG4X48hUcvgJCFbN6DZYOefbatUg.JPEG/1920x1080-kr.jpg",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8252406",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -419,7 +419,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMzAw/MDAxNzkxMjcxOTQzODcy.lw4aSYjSTr0KlOWLKWOwLZcG0I_BRuPMGi0OGeN-leMg.tx_4RgVnIv-0Maix6amp_bYRasxLMew85m6MMWKL2-wg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8293809",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "starrail",
@@ -434,7 +434,7 @@
    "image": null,
    "source": "HoYoverse 공식 인게임 공지 API",
    "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "nte",
@@ -458,7 +458,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMjIz/MDAxNzkyMTM4ODU1ODQz.0v6JEHkwUD01yac8Kg0Fza9x6hlm5flOenKBNjDqoHsg.sy7FhfOr7bBPMhIVCvPaKQGh15Zd106DNeALh8eNuS0g.JPEG/1920x1080-kr.jpg",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8339533",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -473,7 +473,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTNfMTM4/MDAxNzkxODc1NDc5NzAz.nvfKSt1OZZyOP703D9JCr4TceMqe0_maRPWZ3D-t-Ngg.BvxXFQ9C87I2oovfJZmo7y___Ku30IdqdjXlnTB6_zgg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8321399",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -488,7 +488,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMjky/MDAxNzkxMjcyMTE0NTU3.AnMuvecl3uxmFe6qCDNNaPKz6eA_3e5g1Lz2NcS3lkIg.tMQUkR37_-iJncaOkeEuWk_XHCc2kwU-4-pYdqpcUQwg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8293813",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -503,7 +503,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMTk2/MDAxNzkxMjcxODUyMDMz.pIRVGl5Z8uT79ErKjGbTPgfZUWZJaKw4B1BRTygvDdwg.p2bmBKflPiytTmOYhctB8ofBruMqWsicLwmw_wJ_7Vsg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8293797",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "genshin",
@@ -523,7 +523,7 @@
    "image": null,
    "source": "HoYoverse 공식 인게임 공지 API",
    "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "genshin",
@@ -543,7 +543,7 @@
    "image": null,
    "source": "HoYoverse 공식 인게임 공지 API",
    "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "genshin",
@@ -560,7 +560,7 @@
    "image": null,
    "source": "HoYoverse 공식 인게임 공지 API",
    "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -575,7 +575,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjdfMTcx/MDAxNzkzMDg0OTUzMjM4.5GTnx06Vfn8tsenjV7M9wVI4MZCwV2GiADQATSkOQbcg.hjMHCgxM1wkfXiFgFTwoOnrXywcGZls8DNCUVR0zQ_wg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -590,7 +590,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfNTUg/MDAxNzkyNDgwMzM4NjUw.4YK7NdicR0nA4aXTVV9sv7BZFgaOBgTjM03Y573itVUg.mB3NPEYd_Bhv8wDOFWmbW0rvWLe2mYHQOll1NYjNesQg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8343614",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -605,7 +605,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfMjcz/MDAxNzkyNDgwMTc1ODI0.Nl2NbQ1OcX-1pati00707xBgPr7o88wWJKco6p92aqsg.DpiO0LURuSirInv_9vg7DWgtRiT6BNbkT8L5Kw9XSAsg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8343598",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "nte",
@@ -629,7 +629,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjExMDZfMjkg/MDAxNzkzOTU3MzAwMDk4.k6nCqRETzPOFIJRK9ccDN-oQ5QH8KeM56L-7LOHrotQg.eQ6Sl9gXor95NLwH5-3O43YU4LQmAWgUE_sHqj3jR9Ag.JPEG/1920x1080-KR.jpg",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "nte",
@@ -652,7 +652,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjExMDVfMTg1/MDAxNzkzODY4NDYwNjky.zUT_AukznWFCUk8qZIhYu6gT2jfr4RefPm6dauXj-C4g.nPXpI4VbhEorkhdyVkn-wxIy-GsiKedbDValr6FdmFAg.JPEG/1920x1080-kr.jpg",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8433786",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -667,7 +667,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfNjMg/MDAxNzkzNjkxOTIzMDMx.SeSpqWuHJisspcWsBbZYOSBjT2r6tXS0NRn61UnTVdEg.nZu2zHZcbcaMXRxO0iBcAbCTIBewZrBSHU7Bp0dtAC4g.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404614",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   },
   {
    "game_id": "trickcal",
@@ -682,7 +682,7 @@
    "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfOTgg/MDAxNzkzNjkxODI0MDQz.i5T2WZ3fHnSfyCsLi5Q920KvrcGVWA88ITyq7j9xhOUg.kn17FjWCpwbLHKdBD7yb4-S2EiUi3aSoAI-mxtwd1dsg.PNG/3_3.png",
    "source": "네이버 게임 라운지 공식 GM 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
-   "last_updated": "2026-11-09T22:03:42+09:00"
+   "last_updated": "2026-11-09T22:04:52+09:00"
   }
  ]
 }
