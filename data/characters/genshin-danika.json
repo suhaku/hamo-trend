@@ -9,7 +9,7 @@
  "is_rerun": false,
  "reveal_date": "2026-11-07",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-10T01:21:26+09:00",
+ "last_seen_at": "2026-11-10T04:14:03+09:00",
  "alltime_rank": null,
  "peak_pv_views": null,
  "peak_lift": null,
@@ -31,7 +31,7 @@
     "en": null,
     "ja": null
    },
-   "peak_pv_views": 135427.0,
+   "peak_pv_views": 135940.0,
    "alltime_rank": 1
   },
   {
@@ -41,7 +41,7 @@
     "en": null,
     "ja": null
    },
-   "peak_pv_views": 70522.0,
+   "peak_pv_views": 70600.0,
    "alltime_rank": 2
   },
   {
@@ -157,7 +157,7 @@
     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
    }
   ],
-  "last_updated": "2026-11-10T01:21:26+09:00",
+  "last_updated": "2026-11-10T04:14:03+09:00",
   "note": "current score does not include all-time records"
  }
 }
