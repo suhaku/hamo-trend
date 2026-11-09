@@ -494,7 +494,7 @@ def snapshot_pv(video: dict):
     PV_HIST.mkdir(parents=True, exist_ok=True)
     path = PV_HIST / f"{video['id']}.json"
     hist = load_json(path, {"video_id": video["id"], "snapshots": []}) or {"video_id": video["id"], "snapshots": []}
-    snap = dict(at=iso(NOW), views=video["views"])
+    snap = dict(at=iso(NOW), video_id=video["id"], views=video["views"])
     # avoid duplicate within 2h
     snaps = hist.get("snapshots") or []
     if snaps:
@@ -1445,8 +1445,10 @@ def main():
         enriched.append(ch)
 
     # month rule: revealed this month OR released / debut pickup this month. Reruns never.
+    NEXT_MONTH = (MONTH_START + dt.timedelta(days=32)).replace(day=1)
+
     def _in_month(d):
-        return bool(d and d >= MONTH_START)
+        return bool(d and MONTH_START <= d < NEXT_MONTH)
 
     def revealed_this_month(ch):
         rd = ch.get("reveal_date")
@@ -1466,10 +1468,24 @@ def main():
             return True
         return bool((ch.get("pickup") or {}).get("is_rerun"))
 
+    def month_reason(c):
+        """M rule: official reveal date OR official pickup/debut start date falls in this month."""
+        if revealed_this_month(c):
+            return "이달 공개"
+        pk = c.get("pickup") or {}
+        s_d = pk_dt(pk.get("start"), pk.get("tz")) if not pk.get("is_rerun") else None
+        if s_d and _in_month(s_d) and s_d < NEXT_MONTH:
+            return "이달 픽업"
+        # version debut date (banner opens with the update) when the pickup notice isn't posted yet
+        r_d = pk_dt(c.get("release_date"))
+        if r_d and _in_month(r_d) and r_d < NEXT_MONTH:
+            return "이달 픽업"
+        return None
+
     def month_member(c):
         return (c.get("active", True) and not is_rerun_char(c)
                 and not in_known_roster(c["game_id"], (c.get("name") or {}).get("ko") or "")
-                and (revealed_this_month(c) or released_this_month(c)))
+                and month_reason(c) is not None)
 
     new_this_month = [c for c in enriched if month_member(c)]
     rank_pool = list(new_this_month)
@@ -1529,6 +1545,7 @@ def main():
             id=c["id"], game_id=c["game_id"], game_name=gname.get(c["game_id"]),
             name=c.get("name"), aliases=c.get("aliases"),
             reveal_date=c.get("reveal_date"), reveal_note=c.get("reveal_note"),
+            month_reason=month_reason(c),
             release_date=c.get("release_date"), release_note=c.get("release_note"),
             status=c.get("status"),
             illustration_url=safe_url(c.get("illustration_url"), for_output=True),
@@ -1557,6 +1574,7 @@ def main():
             hold_reason = "조회수 데이터 없음"
         row = dict(
             character_id=c["id"], name=c.get("name"), game_id=c["game_id"],
+            video_id=(m or {}).get("video_id"),
             hold=bool(hold_reason), hold_reason=hold_reason,
             rank_absolute=None, rank_growth=None,
             absolute=dict(views=m["views_absolute"] if m else None,

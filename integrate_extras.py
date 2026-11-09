@@ -170,6 +170,9 @@ def run():
     for r in crank:
         cid = r["character_id"]
         gid = r["game_id"]
+        pv_row = next((p for p in pv_all if p.get("character_id") == cid), None)
+        vid = ((pv_row or {}).get("pv") or {}).get("video_id")
+        vmeta = {"video_id": vid} if vid else None
         sig_raw = {
             "youtube_pv": (r.get("signals") or {}).get("youtube_pv_views"),
             "google_trends": (r.get("signals") or {}).get("google_trends"),
@@ -229,6 +232,7 @@ def run():
             weights_config=WEIGHTS,
             lift_vs_game_baseline=lift,
             absolute_views=sig_raw["youtube_pv"],
+            pv_video_id=vid,
             related_posts=rel,
             last_updated=at,
         ))
@@ -255,19 +259,18 @@ def run():
             is_new = False
         db.upsert_character(cid, gid, name or ch.get("name"), is_new, is_rerun, ch.get("reveal_date"), at)
         if sig_raw["youtube_pv"] is not None:
-            db.add_snapshot(at, cid, gid, "pv_views", "now", sig_raw["youtube_pv"])
+            db.add_snapshot(at, cid, gid, "pv_views", "now", sig_raw["youtube_pv"], meta=vmeta)
         if lift is not None:
             db.add_snapshot(at, cid, gid, "lift", "now", lift)
         if sig_raw["google_trends"] is not None:
             db.add_snapshot(at, cid, gid, "trends", "now", sig_raw["google_trends"])
             db.add_snapshot(at, cid, gid, "trends", "peak", sig_raw["google_trends"])
         # recorded deltas if present on pv row
-        pv_row = next((p for p in pv_all if p.get("character_id") == cid), None)
         if pv_row:
             g = pv_row.get("growth") or {}
             for win, key in (("delta_24h", "delta_24h"), ("delta_7d", "delta_7d"), ("delta_30d", "delta_30d")):
                 if g.get(key) is not None:
-                    db.add_snapshot(at, cid, gid, "pv_views", win, g[key])
+                    db.add_snapshot(at, cid, gid, "pv_views", win, g[key], meta=vmeta)
         if scored.get("score_raw") is not None:
             db.add_snapshot(at, cid, gid, "score", "now", scored["score_raw"],
                             meta={"coverage": scored.get("coverage"), "not_in_alltime_mix": True})

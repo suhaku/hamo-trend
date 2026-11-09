@@ -9,7 +9,7 @@
  "is_rerun": false,
  "reveal_date": "2026-11-02",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-10T00:35:09+09:00",
+ "last_seen_at": "2026-11-10T00:38:40+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 27065.0,
  "peak_lift": 1.36,
@@ -22,25 +22,98 @@
  "pv_growth_series": [
   {
    "at": "2026-11-10T00:24:08+09:00",
+   "video_id": "HWsEtcPe1d4",
    "views": 26620.0
   },
   {
    "at": "2026-11-10T00:25:08+09:00",
+   "video_id": "HWsEtcPe1d4",
    "views": 26620.0
   },
   {
    "at": "2026-11-10T00:26:11+09:00",
+   "video_id": "HWsEtcPe1d4",
    "views": 26620.0
   },
   {
    "at": "2026-11-10T00:30:39+09:00",
+   "video_id": null,
    "views": 27043.0
   },
   {
    "at": "2026-11-10T00:35:09+09:00",
+   "video_id": null,
    "views": 27065.0
+  },
+  {
+   "at": "2026-11-10T00:38:05+09:00",
+   "video_id": "HWsEtcPe1d4",
+   "views": 26620.0
+  },
+  {
+   "at": "2026-11-10T00:38:24+09:00",
+   "video_id": "HWsEtcPe1d4",
+   "views": 26620.0
+  },
+  {
+   "at": "2026-11-10T00:38:40+09:00",
+   "video_id": "HWsEtcPe1d4",
+   "views": 26620.0
   }
  ],
+ "pv_series_by_video": [
+  {
+   "video_id": "HWsEtcPe1d4",
+   "started_at": "2026-11-10T00:24:08+09:00",
+   "points": [
+    {
+     "at": "2026-11-10T00:24:08+09:00",
+     "views": 26620.0
+    },
+    {
+     "at": "2026-11-10T00:25:08+09:00",
+     "views": 26620.0
+    },
+    {
+     "at": "2026-11-10T00:26:11+09:00",
+     "views": 26620.0
+    }
+   ]
+  },
+  {
+   "video_id": null,
+   "started_at": "2026-11-10T00:30:39+09:00",
+   "points": [
+    {
+     "at": "2026-11-10T00:30:39+09:00",
+     "views": 27043.0
+    },
+    {
+     "at": "2026-11-10T00:35:09+09:00",
+     "views": 27065.0
+    }
+   ]
+  },
+  {
+   "video_id": "HWsEtcPe1d4",
+   "started_at": "2026-11-10T00:38:05+09:00",
+   "points": [
+    {
+     "at": "2026-11-10T00:38:05+09:00",
+     "views": 26620.0
+    },
+    {
+     "at": "2026-11-10T00:38:24+09:00",
+     "views": 26620.0
+    },
+    {
+     "at": "2026-11-10T00:38:40+09:00",
+     "views": 26620.0
+    }
+   ]
+  }
+ ],
+ "pv_series_note": "video_id가 바뀌면 새 시리즈. video_id=null은 video_id 기록 이전 스냅샷(다른 PV와 섞어 그리지 말 것).",
  "trends_series": [],
  "comparison_to_past_new_chars": [
   {
@@ -55,18 +128,18 @@
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
-  "score": 81.71,
-  "score_raw": 81.71,
+  "score": 81.69,
+  "score_raw": 81.69,
   "coverage": 0.5,
   "reliability": 0.5,
   "provisional": true,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 27065,
-  "lift_vs_game_baseline": 1.36,
+  "absolute_views": 26620,
+  "lift_vs_game_baseline": 1.344,
   "growth_rate_7d": null,
   "related_posts": [],
-  "last_updated": "2026-11-10T00:35:09+09:00",
+  "last_updated": "2026-11-10T00:38:40+09:00",
   "note": "current score does not include all-time records"
  }
 }

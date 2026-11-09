@@ -167,11 +167,24 @@ class AllTimeDB:
         if not meta:
             return dict(character_id=character_id, status="데이터 없음")
         game_id = meta[0]
-        snaps = self.conn.execute(
-            "SELECT at,kind,window,value FROM snapshots WHERE character_id=? ORDER BY at",
+        rows = self.conn.execute(
+            "SELECT at,kind,window,value,meta_json FROM snapshots WHERE character_id=? ORDER BY at",
             (character_id,),
         ).fetchall()
-        pv_series = [dict(at=a, views=v) for a, k, w, v in snaps if k == "pv_views" and w == "now"]
+        snaps = [(a, k, w, v) for a, k, w, v, _m in rows]
+
+        def _vid(m):
+            try:
+                return (json.loads(m) or {}).get("video_id") if m else None
+            except Exception:
+                return None
+        # every PV point carries its video_id; a change of tracked PV starts a new series
+        pv_series = [dict(at=a, video_id=_vid(m), views=v) for a, k, w, v, m in rows if k == "pv_views" and w == "now"]
+        pv_series_by_video = []
+        for pt in pv_series:
+            if not pv_series_by_video or pv_series_by_video[-1]["video_id"] != pt["video_id"]:
+                pv_series_by_video.append(dict(video_id=pt["video_id"], started_at=pt["at"], points=[]))
+            pv_series_by_video[-1]["points"].append(dict(at=pt["at"], views=pt["views"]))
         trends_series = [dict(at=a, value=v) for a, k, w, v in snaps if k == "trends" and w in ("now", "peak")]
         # past chars comparison: same game, peak views
         peers = self.alltime_for_game(game_id)["alltime_new_character_ranking"]
@@ -192,6 +205,8 @@ class AllTimeDB:
                 d30d=me.get("recorded_delta_30d") if me else None,
             ),
             pv_growth_series=pv_series,
+            pv_series_by_video=pv_series_by_video,
+            pv_series_note="video_id가 바뀌면 새 시리즈. video_id=null은 video_id 기록 이전 스냅샷(다른 PV와 섞어 그리지 말 것).",
             trends_series=trends_series,
             comparison_to_past_new_chars=[
                 dict(character_id=p["character_id"], name=p["name"], peak_pv_views=p["peak_pv_views"],

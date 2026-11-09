@@ -1,7 +1,7 @@
 {
  "status": "ok",
  "month": "2026-11",
- "generated_at": "2026-11-10T00:31:23+09:00",
+ "generated_at": "2026-11-10T00:37:47+09:00",
  "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
  "items": [
   {
@@ -22,6 +22,7 @@
    },
    "reveal_date": "2026-11-07",
    "reveal_note": null,
+   "month_reason": "이달 공개",
    "release_date": "2026-11-12",
    "release_note": "3.8 버전 업데이트일",
    "status": "revealed",
@@ -38,14 +39,8 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:31:23+09:00",
-   "related_posts": [
-    {
-     "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
-     "url": "https://news84034.tistory.com/13",
-     "published": "Mon, 9 Nov 2026 18:39:39 +0900"
-    }
-   ],
+   "last_updated": "2026-11-10T00:37:47+09:00",
+   "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
   },
@@ -64,6 +59,7 @@
    },
    "reveal_date": "2026-11-07",
    "reveal_note": null,
+   "month_reason": "이달 공개",
    "release_date": null,
    "release_note": "출시 버전 미공지(공식 캐릭터 소개 공개)",
    "status": "revealed",
@@ -78,19 +74,8 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:31:23+09:00",
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    },
-    {
-     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-     "url": "https://news84034.tistory.com/5",
-     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-    }
-   ],
+   "last_updated": "2026-11-10T00:37:47+09:00",
+   "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
   },
@@ -109,6 +94,7 @@
    },
    "reveal_date": "2026-11-06",
    "reveal_note": null,
+   "month_reason": "이달 공개",
    "release_date": null,
    "release_note": "출시 버전 미공지(공식 캐릭터 소개 공개)",
    "status": "revealed",
@@ -123,19 +109,8 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:31:23+09:00",
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    },
-    {
-     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-     "url": "https://news84034.tistory.com/5",
-     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-    }
-   ],
+   "last_updated": "2026-11-10T00:37:47+09:00",
+   "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
   },
@@ -154,6 +129,7 @@
    },
    "reveal_date": "2026-11-03",
    "reveal_note": null,
+   "month_reason": "이달 공개",
    "release_date": "2026-11-05",
    "release_note": null,
    "status": "pickup_live",
@@ -175,7 +151,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:31:23+09:00",
+   "last_updated": "2026-11-10T00:37:47+09:00",
    "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
@@ -195,6 +171,7 @@
    },
    "reveal_date": "2026-11-02",
    "reveal_note": "공식 KR 채널에서 확인된 가장 이른 캐릭터 영상",
+   "month_reason": "이달 공개",
    "release_date": "2026-11-05",
    "release_note": null,
    "status": "pickup_live",
@@ -220,7 +197,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:31:23+09:00",
+   "last_updated": "2026-11-10T00:37:47+09:00",
    "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
@@ -244,6 +221,7 @@
    },
    "reveal_date": "2026-10-30",
    "reveal_note": null,
+   "month_reason": "이달 픽업",
    "release_date": "2026-11-11",
    "release_note": "4.7 버전 업데이트일(워프 일정 공지는 업데이트 후 수집)",
    "status": "revealed",
@@ -265,14 +243,8 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:31:23+09:00",
-   "related_posts": [
-    {
-     "title": "스타레일 4.7 아하 픽업 정리 | 11월 11일 시작, 황천&middot;음월&middot;경원은 12월 2일 후반 복각",
-     "url": "https://news84034.tistory.com/11",
-     "published": "Mon, 9 Nov 2026 12:00:55 +0900"
-    }
-   ],
+   "last_updated": "2026-11-10T00:37:47+09:00",
+   "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
   },
@@ -291,6 +263,7 @@
    },
    "reveal_date": "2026-10-29",
    "reveal_note": null,
+   "month_reason": "이달 픽업",
    "release_date": "2026-11-11",
    "release_note": "1.5 버전 출시일",
    "status": "revealed",
@@ -308,7 +281,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:31:23+09:00",
+   "last_updated": "2026-11-10T00:37:47+09:00",
    "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
@@ -331,6 +304,7 @@
    },
    "reveal_date": "2026-10-29",
    "reveal_note": null,
+   "month_reason": "이달 픽업",
    "release_date": "2026-11-11",
    "release_note": "1.5 버전 출시일",
    "status": "revealed",
@@ -344,7 +318,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:31:23+09:00",
+   "last_updated": "2026-11-10T00:37:47+09:00",
    "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
@@ -367,6 +341,7 @@
    },
    "reveal_date": "2026-10-29",
    "reveal_note": null,
+   "month_reason": "이달 픽업",
    "release_date": null,
    "release_note": null,
    "status": "pickup_live",
@@ -391,19 +366,8 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-10T00:31:23+09:00",
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    },
-    {
-     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-     "url": "https://news84034.tistory.com/5",
-     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-    }
-   ],
+   "last_updated": "2026-11-10T00:37:47+09:00",
+   "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
   },
@@ -425,6 +389,7 @@
    },
    "reveal_date": "2026-10-28",
    "reveal_note": null,
+   "month_reason": "이달 픽업",
    "release_date": null,
    "release_note": null,
    "status": "pickup_live",
@@ -449,19 +414,8 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-10T00:31:23+09:00",
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    },
-    {
-     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-     "url": "https://news84034.tistory.com/5",
-     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
-    }
-   ],
+   "last_updated": "2026-11-10T00:37:47+09:00",
+   "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
   },
@@ -481,6 +435,7 @@
    },
    "reveal_date": "2026-10-23",
    "reveal_note": "확인된 가장 이른 공식 언급(3.3 캐릭터 아이콘)",
+   "month_reason": "이달 픽업",
    "release_date": "2026-11-11",
    "release_note": null,
    "status": "revealed",
@@ -510,14 +465,8 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T00:31:23+09:00",
-   "related_posts": [
-    {
-     "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 11월 11일 시작, 노르마 복각",
-     "url": "https://news84034.tistory.com/12",
-     "published": "Mon, 9 Nov 2026 15:20:23 +0900"
-    }
-   ],
+   "last_updated": "2026-11-10T00:37:47+09:00",
+   "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
   }
