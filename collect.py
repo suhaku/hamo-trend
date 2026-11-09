@@ -58,6 +58,7 @@ ALLOWED_FETCH_HOSTS = frozenset({
     "sg-hk4e-api.hoyoverse.com", "sg-hkrpg-api.hoyoverse.com",
     "bbs-api-os.hoyolab.com", "comm-api.game.naver.com",
     "bang-dream.bushimo.jp", "trends.google.com",
+    "sg-wiki-api-static.hoyolab.com",  # official HoYoWiki character catalog (read-only)
 })
 ALLOWED_OUTPUT_HOSTS = frozenset({
     "www.youtube.com", "youtu.be", "i.ytimg.com", "arca.live",
@@ -68,6 +69,7 @@ ALLOWED_OUTPUT_HOSTS = frozenset({
     "upload-os-bbs.hoyolab.com", "img-os-bbs.hoyolab.com",
     "act-webstatic.hoyoverse.com", "fastcdn.hoyoverse.com",
     "ssl.pstatic.net", "phinf.pstatic.net", "nng-phinf.pstatic.net",
+    "wiki.hoyolab.com", "act-upload.hoyoverse.com", "x.com",
 })
 SCRIPTISH = re.compile(
     r"(?is)<\s*(script|iframe|object|embed|link|meta|style|svg|math)[^>]*>.*?</\s*\1\s*>|"
@@ -75,12 +77,15 @@ SCRIPTISH = re.compile(
     r"javascript\s*:|data\s*:|on[a-z]+\s*="
 )
 PV_TITLE_RE = re.compile(
-    r"캐릭터|PV|티저|예고|Trailer|Teaser|Character\s*(PV|Trailer|Demo)|アニメPV|キャラクター",
+    r"캐릭터|PV|티저|예고|트레일러|Trailer|Teaser|Character\s*(PV|Trailer|Demo)|アニメPV|キャラクター|"
+    r"공명자\s*(화면|전투)|오퍼레이터\s*(전투|쇼케이스|시연)|에이전트\s*(파일|메커니즘)|홀로그램 훈련|쇼케이스|모션\s*VIEW|프리뷰\s*\|",
     re.I,
 )
+# never a character PV even if it mentions a name (costume / weapon / music / broadcast)
+PV_EXCLUDE_RE = re.compile(r"코스튬|W-엔진|무기|광추|OST|\bEP\b|방송국|선약|스페셜 프로그램|특별 방송|버전 PV|세계관", re.I)
 PICKUP_RE = re.compile(r"기원|워프|채널|픽업|모집|기간 한정|복각|뽑기|헤드헌팅|소환|공명|조달|ガチャ|확률 UP|UP!")
 DATE_RE = re.compile(r"(\d{4}[.\-/년]\s*)?(\d{1,2})\s*[월./]\s*(\d{1,2})\s*일?")
-RERUN_RE = re.compile(r"복각|재등장|rerun|返场|復刻", re.I)
+RERUN_RE = re.compile(r"복각|재등장|재구축|rerun|返场|復刻", re.I)
 JUNK_NAME_RE = re.compile(
     r"열쇠|상점|특간|안내|모집|버전|무기|법구|한손검|양손검|장병기|활·|광추|원암|"
     r"별빛 계시|고요히 샘솟는|확률|기원|워프|채널|이벤트|아크|보드|마켓|특전|"
@@ -215,6 +220,21 @@ def load_json(path: Path, default=None):
 
 # ---------- Known existing roster (rerun filter) ----------
 _roster_cache: dict[str, dict] = {}
+_NORM_SEP = re.compile(r"[•·‧・]")
+
+
+def norm_name(n: str | None) -> str:
+    if not n:
+        return ""
+    n = html.unescape(str(n)).strip().strip("「」『』[]\"'“”")
+    n = _NORM_SEP.sub("·", n)
+    return re.sub(r"\s+", "", n).lower()
+
+
+def _first_token(n: str) -> str:
+    n = html.unescape(str(n)).strip()
+    tok = re.split(r"\s+|·|•|:", n)[0]
+    return norm_name(tok)
 
 
 def load_roster(game_id: str) -> dict:
@@ -222,23 +242,148 @@ def load_roster(game_id: str) -> dict:
         return _roster_cache[game_id]
     path = ROSTERS_DIR / f"{game_id}.json"
     doc = load_json(path, {"names": {}, "block_tokens": []}) or {"names": {}, "block_tokens": []}
-    names = set()
+    names, first = set(), set()
+    all_names = []
     for lang in ("ko", "en", "ja"):
-        for n in (doc.get("names") or {}).get(lang) or []:
-            if isinstance(n, str) and len(n) >= 2:
-                names.add(n.strip().lower())
+        all_names += [n for n in ((doc.get("names") or {}).get(lang) or []) if isinstance(n, str)]
+    all_names += [n for n in (doc.get("auto_added") or []) if isinstance(n, str)]
+    for n in all_names:
+        nn = norm_name(n)
+        if len(nn) >= 2:
+            names.add(nn)
+            ft = _first_token(n)
+            if len(ft) >= 2 and ft != nn:
+                first.add(ft)  # "노르마 할로웰" → "노르마" (short in-game label)
+    unrel = {norm_name(n) for n in (doc.get("revealed_unreleased") or []) if isinstance(n, str)}
+    aliases = {norm_name(k): v for k, v in (doc.get("aliases") or {}).items()}
     _roster_cache[game_id] = {
-        "names": names,
+        "names": names, "first": first, "unreleased": unrel, "aliases": aliases,
         "block_tokens": [t.lower() for t in (doc.get("block_tokens") or []) if t],
-        "raw": doc,
+        "raw": doc, "path": path,
     }
     return _roster_cache[game_id]
 
 
 def in_known_roster(game_id: str, name: str) -> bool:
+    """Released before this month → never NEW. Exact or short label of a full roster name."""
     if not name:
         return False
-    return name.strip().lower() in load_roster(game_id)["names"]
+    r = load_roster(game_id)
+    n = norm_name(name)
+    if n in r["unreleased"]:
+        return False
+    return n in r["names"] or n in r["first"]
+
+
+def roster_auto_add(game_id: str, name: str) -> bool:
+    r = load_roster(game_id)
+    doc = r["raw"]
+    n = norm_name(name)
+    if not n or n in r["names"]:
+        return False
+    doc.setdefault("auto_added", []).append(name)
+    doc["revealed_unreleased"] = [x for x in (doc.get("revealed_unreleased") or []) if norm_name(x) != n]
+    doc["updated"] = NOW.date().isoformat()
+    r["names"].add(n)
+    r["unreleased"].discard(n)
+    r["dirty"] = True
+    return True
+
+
+def save_rosters():
+    for gid, r in _roster_cache.items():
+        if r.get("dirty"):
+            r["path"].write_text(json.dumps(r["raw"], ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+# ---------- Official HoYoWiki character catalog (HoYo games) ----------
+HOYOWIKI = {"genshin": ("genshin", "2"), "starrail": ("hsr", "104"), "zzz": ("zzz", "8")}
+WIKI_SEEN_DIR = ROSTERS_DIR / "wiki_seen"
+
+
+def post_json(url: str, body: dict, headers: dict | None = None):
+    clean = safe_url(url, for_output=False)
+    if not clean:
+        raise ValueError(f"blocked URL: {url[:120]}")
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    key = hashlib.sha256((clean + json.dumps(body, sort_keys=True)).encode()).hexdigest()[:40]
+    cp = CACHE_DIR / f"{key}.bin"
+    if cp.exists() and (time.time() - cp.stat().st_mtime) < CACHE_TTL:
+        return json.loads(cp.read_bytes())
+    time.sleep(RATE_SLEEP)
+    r = requests.post(clean, json=body, headers={**UA, **(headers or {})}, timeout=20)
+    r.raise_for_status()
+    if len(r.content) > MAX_BYTES:
+        raise ValueError("response too large")
+    cp.write_bytes(r.content)
+    return r.json()
+
+
+def hoyowiki_characters(game_id: str) -> list[dict]:
+    """Official HoYoWiki playable-character catalog (ko-kr). Public read-only, no login."""
+    app, menu = HOYOWIKI[game_id]
+    url = f"https://sg-wiki-api-static.hoyolab.com/hoyowiki/{app}/wapi/get_entry_page_list"
+    out = []
+    for page in range(1, 8):
+        j = post_json(url, {"filters": [], "menu_id": menu, "page_num": page, "page_size": 50, "use_es": True},
+                      headers={"x-rpc-language": "ko-kr", "x-rpc-wiki_app": app, "Referer": "https://wiki.hoyolab.com/"})
+        L = ((j or {}).get("data") or {}).get("list") or []
+        for x in L:
+            eid = str(x.get("entry_page_id") or "")
+            if not eid.isdigit():
+                continue
+            out.append(dict(name=strip_html(x.get("name"))[:40], entry_page_id=eid,
+                            icon_url=safe_url(x.get("icon_url"), for_output=True),
+                            url=f"https://wiki.hoyolab.com/pc/{app}/entry/{eid}"))
+        if len(L) < 50:
+            break
+    return out
+
+
+def wiki_snapshot(game_id: str, entries: list[dict]) -> dict:
+    """first_seen per entry. First run = baseline (first_seen None → never auto-NEW)."""
+    WIKI_SEEN_DIR.mkdir(parents=True, exist_ok=True)
+    path = WIKI_SEEN_DIR / f"{game_id}.json"
+    doc = load_json(path, None)
+    baseline = doc is None
+    doc = doc or {"game_id": game_id, "entries": {}}
+    for e in entries:
+        k = norm_name(e["name"])
+        if k not in doc["entries"]:
+            doc["entries"][k] = dict(name=e["name"], entry_page_id=e["entry_page_id"],
+                                     first_seen=None if baseline else iso(NOW))
+    doc["updated"] = iso(NOW)
+    path.write_text(json.dumps(doc, ensure_ascii=False, indent=1), encoding="utf-8")
+    return doc
+
+
+# ---------- Official reveal-title patterns (YouTube / HoYoLAB / Naver lounge titles) ----------
+REVEAL_PATTERNS = {
+    "genshin": [r"캐릭터 트레일러-「([^:：」]+)", r"\|\s*([^|#]+?) 캐릭터 PV", r"캐릭터 소개 & 스킬 쇼케이스——「[^」]*」·(.+)$"],
+    "starrail": [r"캐릭터 프리뷰\s*\|\s*(.+)$", r"캐릭터 PV\s+(.+?)——", r"^(.+?) 캐릭터 PV——", r"에이언즈 프리뷰\s*\|\s*(.+)$"],
+    "zzz": [r"에이전트 (?:파일|메커니즘 소개|미수록 영상)\s*\|\s*(.+?)(?:\s*편)?\s*$", r"홀로그램 훈련\s*-\s*(.+)$",
+            r"^(\S+) 캐릭터 플레이"],
+    "wuwa": [r"공명자 (?:화면|전투 모션)\s*\|\s*([^#|]+)", r"프로필 공개\s*\|[^—]*——\s*(.+)$"],
+    "nte": [r"「이환」\s*(\S+)\s*캐릭터 PV", r"캐릭터 (?:쇼케이스|파일 소개)\s*丨\s*(.+)$"],
+    "endfield": [r"오퍼레이터 (?:전투 시연|쇼케이스 영상)\s*-\s*([^#]+)", r"^//(.+?) - 오퍼레이터 시연"],
+    "nikke": [r"【NIKKE 소개】\s*(.+?)\s*\(", r"^NIKKE 모션 VIEW - (.+?)\s*\("],
+    "trickcal": [r"신규\s*사도\s*[\"“「\[]?([가-힣A-Za-z]{1,10})"],
+}
+REVEAL_EXCLUDE_RE = re.compile(r"코스튬|W-엔진|무기|광추|OST|복각|재구축|생일", re.I)
+
+
+def reveal_names_from_title(game_id: str, title: str) -> list[str]:
+    if not title or REVEAL_EXCLUDE_RE.search(title):
+        return []
+    out = []
+    for pat in REVEAL_PATTERNS.get(game_id, []):
+        for m in re.finditer(pat, title):
+            nm = re.sub(r"\s*#.*$", "", m.group(1))
+            nm = re.sub(r"〈[^〉]*〉|<[^>]*>|≪[^≫]*≫", "", nm).strip().strip("「」『』[]")
+            nm = re.sub(r"[（(][^）)]*[）)]", "", nm).strip()
+            if 1 < len(nm) <= 20 and not JUNK_NAME_RE.search(nm) and nm not in out:
+                out.append(nm)
+    return out
 
 
 def clean_char_token(tok: str) -> str | None:
@@ -338,7 +483,7 @@ def fetch_channel_videos(g):
             channel_id=cid,
             channel_region=region,
             channel_title=strip_html(f.feed.get("title"))[:120],
-            is_pv=bool(PV_TITLE_RE.search(e.title or "")),
+            is_pv=bool(PV_TITLE_RE.search(e.title or "")) and not PV_EXCLUDE_RE.search(e.title or ""),
             source=url,
         ))
     return dict(status="ok", fetched_at=iso(NOW), source=url, region=region, videos=vids)
@@ -406,6 +551,96 @@ def deltas_from_history(hist: dict, published: dt.datetime | None):
     return out
 
 
+# ---------- Reader-facing source links (never link raw APIs) ----------
+API_HOSTS = frozenset({
+    "sg-hk4e-api.hoyoverse.com", "sg-hkrpg-api.hoyoverse.com", "bbs-api-os.hoyolab.com",
+    "comm-api.game.naver.com", "sg-wiki-api-static.hoyolab.com",
+})
+
+
+def is_api_url(u: str | None) -> bool:
+    if not u:
+        return False
+    try:
+        p = urlparse(u)
+    except Exception:
+        return True
+    return (p.hostname or "").lower() in API_HOSTS or "/api/" in (p.path or "") or "/wapi/" in (p.path or "")
+
+
+def reader_urls(urls) -> list[str]:
+    out = []
+    for u in urls or []:
+        su = safe_url(u, for_output=True)
+        if su and not is_api_url(su) and su not in out:
+            out.append(su)
+    # prefer links the widget already trusts (YouTube / HoYoLAB / Naver) before x.com / wiki
+    pri = lambda u: 0 if re.search(r"youtube\.com|hoyolab\.com/article|game\.naver\.com", u) and "wiki." not in u else 1
+    return sorted(out, key=pri)
+
+
+_hoyolab_news_cache: dict = {}
+
+
+def hoyolab_news_list(gid: int) -> list[dict]:
+    """Official HoYoLAB KR posts (notices type=1, info type=3). Human-readable article URLs."""
+    if gid in _hoyolab_news_cache:
+        return _hoyolab_news_cache[gid]
+    out = []
+    for t in (1, 3):
+        try:
+            url = f"https://bbs-api-os.hoyolab.com/community/post/wapi/getNewsList?gids={gid}&type={t}&page_size=50"
+            for p in get(url, headers={"x-rpc-language": "ko-kr"}).json()["data"]["list"]:
+                pid = str(p["post"]["post_id"])
+                if not pid.isdigit():
+                    continue
+                cov = (p.get("cover_list") or p.get("image_list") or [{}])
+                out.append(dict(post_id=pid, subject=strip_html(p["post"]["subject"])[:200],
+                                created=dt.datetime.fromtimestamp(int(p["post"]["created_at"]), KST),
+                                url=f"https://www.hoyolab.com/article/{pid}",
+                                image=safe_url((cov[0] or {}).get("url"), for_output=True)))
+        except Exception as e:
+            errors.append(f"hoyolab_news gid={gid}: {type(e).__name__}"[:120])
+    _hoyolab_news_cache[gid] = out
+    return out
+
+
+def hoyolab_post_text(pid: str) -> str:
+    if not str(pid).isdigit():
+        return ""
+    j = get(f"https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id={pid}",
+            headers={"x-rpc-language": "ko-kr"}).json()
+    p = j["data"]["post"]["post"]
+    txt = ""
+    try:
+        ops = json.loads(p.get("structured_content") or "[]")
+        txt = "".join(o["insert"] for o in ops if isinstance(o.get("insert"), str))
+    except Exception:
+        pass
+    return strip_html(txt or p.get("content") or "")
+
+
+HOYOLAB_GID = {"hk4e": 2, "hkrpg": 6}
+
+
+def hoyolab_warp_article(game: str, start: str | None, title: str) -> str | None:
+    """Find the official HoYoLAB notice for an in-game banner (same week, 기원/워프 subject)."""
+    gid = HOYOLAB_GID.get(game)
+    s = parse_dt(str(start).replace(" ", "T") + "+08:00") if start and "T" not in str(start) else parse_dt(start)
+    if not gid or not s:
+        return None
+    best = None
+    for p in hoyolab_news_list(gid):
+        if not re.search(r"기원 알림|이벤트 워프|워프 안내|콜라보 워프|기원 안내", p["subject"]):
+            continue
+        if p["subject"] and p["subject"][:12] in title:
+            return p["url"]
+        d = abs((p["created"] - s).total_seconds())
+        if d <= 4 * 86400 and (best is None or d < best[0]):
+            best = (d, p["url"])
+    return best[1] if best else None
+
+
 # ---------- Official pickups ----------
 def hoyo_ann(g, cfg):
     base = {
@@ -439,8 +674,10 @@ def hoyo_ann(g, cfg):
                     image=safe_url(a.get("banner") or a.get("img"), for_output=True),
                     is_new=False, is_rerun=False, type="무기",
                     confirmed=True,
-                    source="HoYoverse 공식 인게임 공지 API",
-                    source_url=lst.split("?")[0],
+                    source="호요버스 공식 인게임 공지",
+                    source_label="호요버스 공식 인게임 공지",
+                    api_source=lst.split("?")[0],
+                    source_url=hoyolab_warp_article(cfg["game"], start, title),
                     note="무기 기원 — 캐릭터 신규 목록에서 제외",
                 ))
             continue
@@ -518,39 +755,91 @@ def hoyo_ann(g, cfg):
             is_rerun=only_rerun or (banner_rerun_word and not has_new),
             type="신규" if has_new else ("복각" if (only_rerun or banner_rerun_word) else "혼합"),
             confirmed=True,
-            source="HoYoverse 공식 인게임 공지 API",
-            source_url=lst.split("?")[0],
+            source="호요버스 공식 인게임 공지",
+            source_label="호요버스 공식 인게임 공지",
+            api_source=lst.split("?")[0],
+            source_url=hoyolab_warp_article(cfg["game"], start, title),
         ))
     return out
 
 
 def hoyolab_news(g, cfg):
+    """ZZZ etc.: official HoYoLAB channel notices → dates + S-rank agents from post body."""
     gid = int(cfg["gid"])
-    url = f"https://bbs-api-os.hoyolab.com/community/post/wapi/getNewsList?gids={gid}&type=1&page_size=30"
-    L = get(url, headers={"x-rpc-language": "ko-kr"}).json()["data"]["list"]
     out = []
-    for p in L:
-        t = strip_html(p["post"]["subject"])
-        if not re.search(r"채널|신규 에이전트|확률 UP|독점", t):
+    for p in hoyolab_news_list(gid):
+        t = p["subject"]
+        if not re.search(r"기간 한정 채널|신규 에이전트|독점 채널", t):
             continue
-        pid = str(p["post"]["post_id"])
-        if not pid.isdigit():
+        if NOW - p["created"] > dt.timedelta(days=60):
             continue
-        is_rerun = bool(RERUN_RE.search(t))
+        body = ""
+        try:
+            body = hoyolab_post_text(p["post_id"])
+        except Exception as e:
+            errors.append(f"{g['id']}.hoyolab_post: {type(e).__name__}"[:120])
+        m = re.search(r"(\d{4}/\d{2}/\d{2} \d{2}:\d{2})\(KST\)\s*~\s*(\d{4}/\d{2}/\d{2} \d{2}:\d{2})", body)
+        start = end = None
+        if m:
+            start = m.group(1).replace("/", "-") + ":00"
+            end = m.group(2).replace("/", "-") + ":00"
+        elif re.search(r"업데이트 이후\s*~\s*(\d{4}/\d{2}/\d{2} \d{2}:\d{2})", body):
+            m2 = re.search(r"업데이트 이후\s*~\s*(\d{4}/\d{2}/\d{2} \d{2}:\d{2})", body)
+            start = p["created"].strftime("%Y-%m-%d %H:%M:%S")
+            end = m2.group(1).replace("/", "-") + ":00"
+        names = []
+        for nm in re.findall(r"한정 S급 에이전트 \[([^\](（]+)[（(]", body):
+            nm = nm.strip()
+            if nm and nm not in names:
+                names.append(nm)
+        new_c = [n for n in names if not in_known_roster(g["id"], n)]
+        rer_c = [n for n in names if in_known_roster(g["id"], n)]
+        is_rerun = bool(RERUN_RE.search(t)) or (bool(rer_c) and not new_c)
         out.append(dict(
-            title=t[:200], start=None, end=None, characters=None,
-            image=safe_url((p.get("image_list") or [{}])[0].get("url"), for_output=True),
-            posted=iso(dt.datetime.fromtimestamp(int(p["post"]["created_at"]), KST)),
-            is_new=not is_rerun, is_rerun=is_rerun, type="복각" if is_rerun else "신규",
-            confirmed=False,
-            source="HoYoLAB 공식 계정 공지",
-            source_url=f"https://www.hoyolab.com/article/{pid}",
-            note="시작/종료일 본문 파서 미완 → schedule 제외",
+            title=t[:200], start=start, end=end, tz="KST",
+            characters=names or None,
+            new_characters=None,  # promoted only via verified registry (wiki/official reveal)
+            rerun_characters=rer_c or None,
+            pending_characters=new_c or None,
+            character_meta=[dict(name=n, verdict="rerun" if n in rer_c else "pending") for n in names],
+            image=p.get("image"),
+            posted=iso(p["created"]),
+            is_new=False, is_rerun=is_rerun, type="복각" if is_rerun else "혼합",
+            confirmed=bool(start and end),
+            source="HoYoLAB 공식 공지", source_label="HoYoLAB 공식 공지",
+            source_url=p["url"],
+            note=None if (start and end) else "기간 미확정 → schedule 제외",
         ))
     return out
 
 
+RANGE_RE = re.compile(
+    r"(?:(\d{4})[./년-]\s*)?(\d{1,2})\s*[./월]\s*(\d{1,2})\s*일?[^~\n]{0,30}?~\s*"
+    r"(?:(\d{4})[./년-]\s*)?(\d{1,2})\s*[./월]\s*(\d{1,2})"
+)
+
+
 def _parse_kr_dates(text: str):
+    """Prefer an explicit 'A ~ B' range in the body; start must be <= end."""
+    for m in RANGE_RE.finditer(text or ""):
+        try:
+            y1 = int(m.group(1) or NOW.year)
+            y2 = int(m.group(4) or y1)
+            a = dt.date(y1, int(m.group(2)), int(m.group(3)))
+            b = dt.date(y2, int(m.group(5)), int(m.group(6)))
+        except ValueError:
+            continue
+        if b < a and not m.group(4):
+            try:
+                b = b.replace(year=b.year + 1)
+            except ValueError:
+                continue
+        if a <= b and (b - a).days <= 120:
+            return a.isoformat(), b.isoformat()
+    return None, None
+
+
+def _parse_kr_dates_loose(text: str):
     ms = list(DATE_RE.finditer(text))
     if len(ms) < 2:
         return None, None
@@ -593,20 +882,25 @@ def naver_lounge(g, cfg):
                 body = strip_html(" ".join(re.findall(r'"value"\s*:\s*"([^"]*)"', json.dumps(doc, ensure_ascii=False))))
             except Exception:
                 pass
-            start, end = _parse_kr_dates(t + " " + body)
+            start, end = _parse_kr_dates(body) if body else (None, None)
+            if not start:
+                start, end = _parse_kr_dates(t + " " + body)
             is_rerun = bool(RERUN_RE.search(t + " " + body[:200]))
             blob = t + " " + body
             explicit_new = bool(NEW_MARK_RE.search(blob)) and not is_rerun
             named, new_chars, rerun_chars, pending_chars, meta = [], [], [], [], []
-            for raw in re.findall(r"「([^」]{1,30})」", blob):
+            raws = re.findall(r"「([^」]{1,30})」", blob)
+            raws += re.findall(r"(?:사도|오퍼레이터|캐릭터|에이전트|니케)\s*\[([^\]\n]{1,15})\]", blob)
+            raws += re.findall(r"신규\s*(?:사도|캐릭터|오퍼레이터)\s*[\"“]([^\"”]{1,12})[\"”]", blob)
+            for raw in raws:
                 nm = clean_char_token(raw)
                 if not nm:
                     continue
                 # Require 캐릭터/사도/에이전트 context OR explicit new mark; else pending/skip
                 near = False
                 for m in re.finditer(re.escape(raw), blob):
-                    window = blob[max(0, m.start()-12):m.end()+12]
-                    if re.search(r"캐릭터|사도|에이전트|플레이어블|S급|SSR|한정", window):
+                    window = blob[max(0, m.start()-14):m.end()+12]
+                    if re.search(r"캐릭터|사도|에이전트|오퍼레이터|플레이어블|S급|SSR|한정|6성|5성", window):
                         near = True
                         break
                 if is_rerun or in_known_roster(g["id"], nm):
@@ -643,6 +937,7 @@ def naver_lounge(g, cfg):
                 image=safe_url(f["feed"].get("repImageUrl"), for_output=True),
                 confirmed=bool(start and end),
                 source="네이버 게임 라운지 공식 GM 공지",
+                source_label="네이버 게임 라운지 공식 공지",
                 source_url=safe_url((f.get("feedLink") or {}).get("pc"), for_output=True),
                 note=None if (start and end) else "기간 미확정 → schedule 제외",
             ))
@@ -664,7 +959,7 @@ def wp_json(g, cfg):
         title=strip_html(p["title"]["rendered"])[:200],
         posted=p["date"] + "+09:00", start=None, end=None, characters=None,
         is_new=True, is_rerun=False, confirmed=False, type="신규",
-        source="BanG Dream! GBP 일본 공식 사이트 뉴스",
+        source="BanG Dream! GBP 일본 공식 사이트 뉴스", source_label="뱅드림 공식 사이트 뉴스",
         source_url=safe_url(p["link"], for_output=True),
         note="기간 미확정 → schedule 제외",
     ) for p in get(url).json()]
@@ -734,8 +1029,12 @@ def match_pvs_for_character(ch, game_videos: list[dict]):
         if any(a.lower() in title.lower() for a in aliases):
             if v.get("is_pv") or True:  # alias match on official channel is enough; prefer PV titles
                 hits.append(v)
-    # prefer PV-tagged
-    hits.sort(key=lambda x: (0 if x.get("is_pv") else 1, -(x.get("views") or 0)))
+    # prefer character-specific official demo titles, then PV-tagged, then views
+    gid = ch.get("game_id")
+    keys = {a.lower() for a in aliases}
+    def specific(v):
+        return any(n.lower() in keys for n in reveal_names_from_title(gid, v.get("title") or "")) or "캐릭터" in (v.get("title") or "")
+    hits.sort(key=lambda x: (0 if specific(x) else 1, 0 if x.get("is_pv") else 1, -(x.get("views") or 0)))
     return hits
 
 
@@ -834,6 +1133,171 @@ def main():
         kept_chars.append(c)
     characters = kept_chars
 
+    # --- age out last month's debuts → roster (so next month they count as reruns) ---
+    still = []
+    for c in characters:
+        rel = parse_dt((c.get("release_date") or "") + "T00:00:00+09:00") if c.get("release_date") else None
+        pk = c.get("pickup") or {}
+        pk_end = parse_dt(str(pk.get("end")).replace(" ", "T") + ("" if "+" in str(pk.get("end")) else "+09:00")) if pk.get("end") else None
+        released_before = (rel and rel < MONTH_START) or (pk_end and pk_end < MONTH_START)
+        ongoing = pk_end and pk_end >= NOW
+        if c.get("is_new") and released_before and not ongoing:
+            nm = (c.get("name") or {}).get("ko")
+            if nm and roster_auto_add(c["game_id"], nm):
+                purged.append(dict(id=c.get("id"), name=nm, reason="aged_out_to_roster"))
+            continue
+        still.append(c)
+    characters = still
+
+    def find_char(gid, names):
+        keys = {norm_name(n) for n in names if n}
+        for c in characters:
+            if c.get("game_id") != gid:
+                continue
+            if keys & {norm_name(a) for a in alias_list(c)}:
+                return c
+        return None
+
+    # --- manual verified overrides (each MUST carry an official reader-facing source) ---
+    for v in overrides.get("verified_new_characters") or []:
+        srcs = reader_urls(v.get("source_urls"))
+        gid = v.get("game_id")
+        if not srcs or not gid or not v.get("id") or not (v.get("name") or {}).get("ko"):
+            errors.append(f"override skipped (no official source): {v.get('id')}")
+            continue
+        if in_known_roster(gid, v["name"]["ko"]):
+            errors.append(f"override skipped (in roster): {v.get('id')}")
+            continue
+        c = next((x for x in characters if x.get("id") == v["id"]), None) or find_char(gid, alias_list(v))
+        if c is None:
+            c = dict(id=v["id"], game_id=gid)
+            characters.append(c)
+        for k in ("name", "aliases", "reveal_date", "reveal_note", "release_date", "release_note", "illustration_url", "evidence"):
+            if k in v:
+                c[k] = v[k]
+        if v.get("pickup"):
+            c["pickup"] = v["pickup"]
+            c["pickup_locked"] = True
+        c["source_urls"] = list(dict.fromkeys(srcs + [u for u in (c.get("source_urls") or []) if u not in srcs]))
+        c["status"] = v.get("status") or c.get("status") or "revealed"
+        c["is_new"], c["active"] = True, True
+        c["verification"] = "manual_verified_official_source"
+
+    # --- auto-discovery from official sources (future reveals, not only overrides) ---
+    discovery_pending = []
+    wiki_by_game: dict[str, dict] = {}
+    for gid in HOYOWIKI:
+        if not any(g["id"] == gid for g in GAMES):
+            continue
+        try:
+            entries = hoyowiki_characters(gid)
+            snap = wiki_snapshot(gid, entries)
+            m = {}
+            for e in entries:
+                e = dict(e, first_seen=(snap["entries"].get(norm_name(e["name"])) or {}).get("first_seen"))
+                m[norm_name(e["name"])] = e
+                ft = _first_token(e["name"])
+                if len(ft) >= 2:
+                    m.setdefault(ft, e)
+            wiki_by_game[gid] = m
+        except Exception as ex:
+            errors.append(f"{gid}.hoyowiki: {type(ex).__name__}: {ex!s}"[:160])
+
+    cands: dict[tuple, dict] = {}
+
+    def add_cand(gid, name, when, url, thumb, how):
+        canon = name
+        w = wiki_by_game.get(gid)
+        if w is not None:
+            e = w.get(norm_name(name)) or w.get(_first_token(name))
+            if not e:
+                discovery_pending.append(dict(name=name, game_id=gid, title=how, source_url=url,
+                                              reason="공식 공개 영상/공지에서 발견, 공식 도감 미등재 — 확인 대기", seen_at=iso(NOW)))
+                return
+            canon = name if norm_name(name) == norm_name(e["name"]) else name
+            full = e["name"]
+        else:
+            full = name
+        if in_known_roster(gid, name) or in_known_roster(gid, full):
+            return
+        k = (gid, norm_name(full))
+        d = cands.setdefault(k, dict(game_id=gid, name=canon, full=full, dates=[], urls=[], thumb=None, how=set()))
+        if when:
+            d["dates"].append(when)
+        if url and url not in d["urls"]:
+            d["urls"].append(url)
+        if thumb and not d["thumb"]:
+            d["thumb"] = thumb
+        d["how"].add(how)
+
+    for g in GAMES:
+        gid = g["id"]
+        for v in game_videos.get(gid) or []:
+            for nm in reveal_names_from_title(gid, v.get("title") or ""):
+                add_cand(gid, nm, v.get("published_dt"), v.get("url"), v.get("thumb"), "공식 유튜브 캐릭터 공개 영상")
+        gidnum = {"genshin": 2, "starrail": 6, "zzz": 8}.get(gid)
+        if gidnum:
+            for p in hoyolab_news_list(gidnum):
+                for nm in reveal_names_from_title(gid, p["subject"]):
+                    add_cand(gid, nm, p["created"], p["url"], p.get("image"), "HoYoLAB 공식 캐릭터 소개")
+        for e in (wiki_by_game.get(gid) or {}).values():
+            if e.get("first_seen") and not in_known_roster(gid, e["name"]):
+                fs = parse_dt(e["first_seen"])
+                add_cand(gid, e["name"], fs, e["url"], e.get("icon_url"), "HoYoWiki 공식 도감 신규 등재")
+    for p in all_pickups_raw:
+        for nm in p.get("new_characters") or []:
+            if p["game_id"] not in wiki_by_game:
+                add_cand(p["game_id"], nm, parse_dt(str(p.get("posted") or "")) or NOW, p.get("source_url"), p.get("image"), "공식 픽업 공지 신규 표기")
+
+    for (gid, _k), d in cands.items():
+        when = min(d["dates"]) if d["dates"] else NOW
+        c = find_char(gid, [d["name"], d["full"]])
+        if c is None:
+            slug = re.sub(r"[^a-z0-9]+", "-", d["full"].lower()).strip("-")[:40] or hashlib.sha1(d["full"].encode()).hexdigest()[:10]
+            c = dict(id=f"{gid}-{slug}", game_id=gid,
+                     name={"ko": d["name"], "en": None, "ja": None},
+                     aliases={"ko": list(dict.fromkeys([d["name"], d["full"]])), "en": [], "ja": []},
+                     reveal_date=when.date().isoformat(), status="revealed",
+                     illustration_url=d["thumb"], source_urls=[], is_new=True, active=True,
+                     verification="auto_official_reveal: " + ", ".join(sorted(d["how"])))
+            characters.append(c)
+        else:
+            if c.get("verification") != "manual_verified_official_source":
+                rd = c.get("reveal_date")
+                if not rd or when.date().isoformat() < rd:
+                    c["reveal_date"] = when.date().isoformat()
+            if not c.get("illustration_url"):
+                c["illustration_url"] = d["thumb"]
+        c["source_urls"] = list(dict.fromkeys((c.get("source_urls") or []) + d["urls"]))
+
+    # --- promote pickup names that match verified NEW registry chars; drop non-characters ---
+    new_keys = {}
+    for c in characters:
+        if c.get("is_new") is not False and c.get("active", True):
+            for a in alias_list(c):
+                new_keys[(c["game_id"], norm_name(a))] = c
+    for p in all_pickups_raw:
+        gid = p["game_id"]
+        w = wiki_by_game.get(gid)
+        pend, newc = [], list(p.get("new_characters") or [])
+        for nm in p.get("pending_characters") or []:
+            if (gid, norm_name(nm)) in new_keys:
+                newc.append(nm)
+            elif w is not None and not (w.get(norm_name(nm)) or w.get(_first_token(nm))):
+                continue  # light cone / W-engine / item — not a character
+            else:
+                pend.append(nm)
+        rer = []
+        for nm in p.get("rerun_characters") or []:
+            (newc if (gid, norm_name(nm)) in new_keys and not in_known_roster(gid, nm) else rer).append(nm)
+        p["new_characters"] = list(dict.fromkeys(newc)) or None
+        p["pending_characters"] = pend or None
+        p["rerun_characters"] = rer or None
+        if p.get("type") != "무기":
+            p["characters"] = (list(dict.fromkeys(newc)) + rer) or None
+            if newc:
+                p["is_new"], p["is_rerun"], p["type"] = True, False, "신규"
+
     # --- auto-register ONLY verified NEW characters; unsure → pending_review ---
     existing_ids = {c["id"] for c in characters}
     existing_alias = set()
@@ -841,6 +1305,7 @@ def main():
         for a in alias_list(c):
             existing_alias.add(a.lower())
     pending_review = []
+    pending_review.extend(discovery_pending)
     for p in all_pickups_raw:
         if not p.get("confirmed"):
             continue
@@ -895,55 +1360,78 @@ def main():
             existing_alias.add(nm.lower())
 
     # --- enrich characters from PV matches + pickups ---
+    def pk_dt(v, tz=None):
+        if not v:
+            return None
+        v = str(v)
+        if "T" in v or "+" in v:
+            return parse_dt(v)
+        off = "+08:00" if tz == "UTC+8" else "+09:00"
+        if len(v) == 10:
+            return parse_dt(v + "T00:00:00" + off)
+        return parse_dt(v.replace(" ", "T") + off)
+
     enriched = []
     for ch in characters:
         if ch["id"] in hide_chars:
             continue
         gid = ch["game_id"]
         vids = game_videos.get(gid) or []
-        pvs = match_pvs_for_character(ch, vids)
+        pvs = [v for v in match_pvs_for_character(ch, vids) if v.get("is_pv")]
         primary = pvs[0] if pvs else None
+        if primary:
+            ch["pv_cache"] = {k: primary[k] for k in ("id", "title", "url", "thumb", "published", "views", "channel_region", "source") if k in primary}
+        elif ch.get("pv_cache") and ch["pv_cache"].get("id"):
+            # PV dropped out of the 15-item RSS: reuse last real snapshot (marked stale)
+            pc = dict(ch["pv_cache"])
+            hist = load_json(PV_HIST / f"{pc['id']}.json", {}) or {}
+            snaps = hist.get("snapshots") or []
+            if snaps:
+                pc["views"] = snaps[-1].get("views")
+                pc["views_as_of"] = snaps[-1].get("at")
+            pc["stale"] = True
+            pc["is_pv"] = True
+            pc["published_dt"] = parse_dt(pc.get("published"))
+            primary = pc
+            pvs = [pc]
         reveal = ch.get("reveal_date")
         if not reveal and primary and primary.get("published"):
             reveal = primary["published"][:10]
             ch["reveal_date"] = reveal
-        # status inference
         status = ch.get("status") or "upcoming"
-        # link pickups by alias overlap in title
-        aliases = alias_list(ch)
-        linked_pickup = None
+        keys = {norm_name(a) for a in alias_list(ch)}
+        linked_pickup, link_verdict = None, None
         for p in all_pickups_raw:
-            if p["game_id"] != gid:
+            if p["game_id"] != gid or p.get("type") == "무기":
                 continue
-            blob = (p.get("title") or "") + " " + " ".join(p.get("characters") or [])
-            if aliases and any(a in blob for a in aliases):
-                linked_pickup = p
+            if keys & {norm_name(n) for n in (p.get("new_characters") or [])}:
+                linked_pickup, link_verdict = p, "new"
                 break
-            if p.get("characters") and any(a in (p.get("characters") or []) for a in aliases):
-                linked_pickup = p
-                break
-        if linked_pickup and linked_pickup.get("confirmed"):
+            if keys & {norm_name(n) for n in (p.get("rerun_characters") or [])}:
+                linked_pickup, link_verdict = p, "rerun"
+            elif not linked_pickup and any(len(a) >= 2 and f"「{a}」" in (p.get("title") or "") or (len(a) >= 3 and a in (p.get("title") or "")) for a in alias_list(ch)):
+                linked_pickup, link_verdict = p, "title"
+        if linked_pickup and linked_pickup.get("confirmed") and linked_pickup.get("start") and linked_pickup.get("end"):
             ch["pickup"] = dict(
-                start=linked_pickup.get("start"), end=linked_pickup.get("end"),
-                source_url=linked_pickup.get("source_url"), source=linked_pickup.get("source"),
-                is_rerun=linked_pickup.get("is_rerun"), is_new=linked_pickup.get("is_new"),
+                start=linked_pickup.get("start"), end=linked_pickup.get("end"), tz=linked_pickup.get("tz"),
+                source_url=linked_pickup.get("source_url") if not is_api_url(linked_pickup.get("source_url")) else None,
+                source_label=linked_pickup.get("source_label") or linked_pickup.get("source"),
+                api_source=linked_pickup.get("api_source"),
+                source=linked_pickup.get("source"),
+                is_rerun=(link_verdict == "rerun"), is_new=(link_verdict != "rerun"),
             )
-            if linked_pickup.get("is_rerun"):
+            if link_verdict == "rerun" and ch.get("verification") != "manual_verified_official_source":
                 ch["is_new"] = False
-                status = "ended" if parse_dt(str(linked_pickup.get("end"))) and parse_dt(str(linked_pickup.get("end"))) < NOW else "pickup_live"
-            else:
-                ch["is_new"] = True
-                end_d = parse_dt(str(linked_pickup.get("end")))
-                start_d = parse_dt(str(linked_pickup.get("start")))
-                if start_d and end_d:
-                    if NOW < start_d:
-                        status = "revealed"
-                    elif NOW <= end_d:
-                        status = "pickup_live"
-                    else:
-                        status = "ended"
-        elif reveal:
-            status = "revealed" if status == "upcoming" else status
+        pk = ch.get("pickup") or {}
+        s_d, e_d = pk_dt(pk.get("start"), pk.get("tz")), pk_dt(pk.get("end"), pk.get("tz"))
+        if s_d and NOW < s_d:
+            status = "revealed"
+        elif s_d and (e_d is None or NOW <= e_d):
+            status = "pickup_live"
+        elif s_d and e_d and NOW > e_d:
+            status = "ended"
+        elif reveal and status in ("upcoming", None):
+            status = "revealed"
         ch["status"] = status
         if primary:
             srcs = list(ch.get("source_urls") or [])
@@ -951,31 +1439,40 @@ def main():
                 srcs.append(primary["url"])
             ch["source_urls"] = srcs
             if not ch.get("illustration_url"):
-                # official yt thumb only as placeholder illustration (allowlisted)
-                ch["illustration_url"] = primary.get("thumb")
+                ch["illustration_url"] = primary.get("thumb")  # official PV thumbnail
         ch["_pvs"] = pvs
         ch["_primary_pv"] = primary
         enriched.append(ch)
 
-    # month filter: revealed this month OR pickup overlapping this month; NEW only for rankings
+    # month rule: revealed this month OR released / debut pickup this month. Reruns never.
+    def _in_month(d):
+        return bool(d and d >= MONTH_START)
+
     def revealed_this_month(ch):
         rd = ch.get("reveal_date")
-        if not rd:
+        return _in_month(pk_dt(rd)) if rd else False
+
+    def released_this_month(ch):
+        if _in_month(pk_dt(ch.get("release_date"))):
+            return True
+        pk = ch.get("pickup") or {}
+        if pk.get("is_rerun"):
             return False
-        d = parse_dt(rd + "T00:00:00+09:00") if len(rd) == 10 else parse_dt(rd)
-        return bool(d and d >= MONTH_START)
+        s_d, e_d = pk_dt(pk.get("start")), pk_dt(pk.get("end"))
+        return bool(s_d and (s_d >= MONTH_START or (e_d and e_d >= MONTH_START)))
 
     def is_rerun_char(ch):
         if ch.get("is_new") is False:
             return True
-        pk = ch.get("pickup") or {}
-        return bool(pk.get("is_rerun"))
+        return bool((ch.get("pickup") or {}).get("is_rerun"))
 
-    new_this_month = [c for c in enriched if (revealed_this_month(c) or (c.get("status") in ("revealed", "pickup_live", "upcoming") and c.get("is_new") is not False))
-                      and not is_rerun_char(c) and c.get("active", True)]
-    # stricter for ranking pools: must be is_new and not rerun; prefer reveal this month or active pickup
-    rank_pool = [c for c in enriched if c.get("active", True) and not is_rerun_char(c) and c.get("is_new", True)
-                 and (revealed_this_month(c) or c.get("status") in ("revealed", "pickup_live", "upcoming"))]
+    def month_member(c):
+        return (c.get("active", True) and not is_rerun_char(c)
+                and not in_known_roster(c["game_id"], (c.get("name") or {}).get("ko") or "")
+                and (revealed_this_month(c) or released_this_month(c)))
+
+    new_this_month = [c for c in enriched if month_member(c)]
+    rank_pool = list(new_this_month)
 
     # Trends
     tr = None
@@ -1019,18 +1516,31 @@ def main():
 
     # Section 1: new_characters
     sec_new = []
+    gname = {g["id"]: g["name"] for g in GAMES}
     for c in new_this_month:
+        pk = dict(c.get("pickup") or {}) or None
+        if pk:
+            if is_api_url(pk.get("source_url")):
+                pk["api_source"] = pk.get("api_source") or pk.get("source_url")
+                pk["source_url"] = None
+            pk.setdefault("source_label", pk.get("source"))
+        srcs = reader_urls(c.get("source_urls"))
         sec_new.append(dict(
-            id=c["id"], game_id=c["game_id"],
+            id=c["id"], game_id=c["game_id"], game_name=gname.get(c["game_id"]),
             name=c.get("name"), aliases=c.get("aliases"),
-            reveal_date=c.get("reveal_date"),
+            reveal_date=c.get("reveal_date"), reveal_note=c.get("reveal_note"),
+            release_date=c.get("release_date"), release_note=c.get("release_note"),
             status=c.get("status"),
             illustration_url=safe_url(c.get("illustration_url"), for_output=True),
-            source_urls=[u for u in (c.get("source_urls") or []) if safe_url(u, for_output=True)],
-            pickup=c.get("pickup"),
+            source_urls=srcs,
+            source_url=srcs[0] if srcs else None,
+            source_label=None if srcs else "공식 공지",
+            pickup=pk,
+            verification=c.get("verification"),
             is_new=True,
             last_updated=iso(NOW),
         ))
+    sec_new.sort(key=lambda x: (x.get("reveal_date") or "", x["game_id"]), reverse=True)
 
     # Section 2: pv_ranking (absolute and growth SEPARATE lists; hold if insufficient)
     pv_rows = []
@@ -1205,17 +1715,53 @@ def main():
             e = parse_dt(str(p["end"]))
         except Exception:
             s = e = None
-        # include if overlaps this month or upcoming
+        # include only if it overlaps this month or is upcoming (drop long-ended / 10-year permanent)
+        tzo = "+08:00" if p.get("tz") == "UTC+8" else "+09:00"
+        s = s or parse_dt(str(p["start"]).replace(" ", "T") + ("T00:00:00" if len(str(p["start"])) == 10 else "") + tzo)
+        e = e or parse_dt(str(p["end"]).replace(" ", "T") + ("T23:59:00" if len(str(p["end"])) == 10 else "") + tzo)
+        if e and e < MONTH_START:
+            continue
+        if e and s and (e - s).days > 120:
+            continue
         schedule_items.append(dict(
             game_id=p["game_id"], game_name=p["game_name"],
             title=p.get("title"),
             characters=p.get("characters"),
-            start=p.get("start"), end=p.get("end"),
+            new_characters=p.get("new_characters"),
+            rerun_characters=p.get("rerun_characters"),
+            start=p.get("start"), end=p.get("end"), tz=p.get("tz") or "KST",
             is_new=p.get("is_new"), is_rerun=p.get("is_rerun"),
             type=p.get("type"),
             image=p.get("image"),
-            source=p.get("source"), source_url=url,
+            source=p.get("source"),
+            source_label=p.get("source_label") or p.get("source"),
+            source_url=None if is_api_url(url) else url,
+            api_source=p.get("api_source") or (url if is_api_url(url) else None),
             last_updated=iso(NOW),
+        ))
+    have = {norm_name(n) for i in schedule_items for n in (i.get("new_characters") or [])}
+    for c in new_this_month:
+        pk = c.get("pickup") or {}
+        nm = (c.get("name") or {}).get("ko")
+        if not (pk.get("start") and pk.get("end") and nm) or norm_name(nm) in have:
+            continue
+        surl = pk.get("source_url") if not is_api_url(pk.get("source_url")) else None
+        if not surl:
+            continue
+        same = [i for i in schedule_items if i.get("source_url") == surl]
+        if same:  # attach verified new character to the official notice it came from
+            for i in same:
+                i["new_characters"] = [nm]
+                i["characters"] = list(dict.fromkeys([nm] + (i.get("characters") or [])))
+                i["is_new"], i["is_rerun"], i["type"] = True, False, "신규"
+            continue
+        schedule_items.append(dict(
+            game_id=c["game_id"], game_name=gname.get(c["game_id"]),
+            title=f"신규 캐릭터 「{nm}」 픽업", characters=[nm], new_characters=[nm], rerun_characters=None,
+            start=pk["start"], end=pk["end"], tz=pk.get("tz") or "KST",
+            is_new=True, is_rerun=False, type="신규", image=None,
+            source=pk.get("source"), source_label=pk.get("source_label") or pk.get("source"),
+            source_url=surl, api_source=None, last_updated=iso(NOW),
         ))
     schedule_items.sort(key=lambda x: x.get("start") or "")
 
@@ -1320,13 +1866,17 @@ def main():
             "official pickup schedule with start/end/source",
             "HTTPS allowlist + sanitize + cache",
             "keep previous on error (partial)",
+            "auto-discovery: HoYoWiki new entries + official YouTube/HoYoLAB/lounge character-demo titles",
+            "overrides.verified_new_characters (official source_url required)",
+            "reader-facing source_url (no raw API links; api_source kept separately)",
         ],
         not_done=[
             "YouTube Data API likes/comments (YOUTUBE_API_KEY) → 미연동",
             "X API (X_BEARER_TOKEN) → 미연동",
             "arca community mention signal for new chars",
             "ZZZ/Naver/BangDream pickup date body parser (unconfirmed excluded)",
-            "Auto-discover brand-new characters not yet in new_characters.json",
+            "Genshin/HSR in-game banner → HoYoLAB article match is by date window (may be null → source_label only)",
+            "Non-HoYo rosters are partial seeds (auto-grow after each debut month)",
             "KR/JP regional channel split beyond single configured region tag",
             "Tistory skin wiring",
         ],
@@ -1360,6 +1910,8 @@ def main():
         (OUT_RISING, payload_rising),
     ):
         path.write_text(json.dumps(sanitize(doc), ensure_ascii=False, indent=1), encoding="utf-8")
+
+    save_rosters()
 
     # scoring / all-time / related_posts (separate module; all-time never mixed into score)
     try:

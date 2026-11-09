@@ -1,12 +1,342 @@
 {
  "status": "ok",
  "month": "2026-11",
- "generated_at": "2026-11-09T22:54:21+09:00",
+ "generated_at": "2026-11-10T00:25:54+09:00",
  "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
  "items": [
   {
+   "id": "wuwa-lily",
+   "game_id": "wuwa",
+   "game_name": "명조: 워더링 웨이브",
+   "name": {
+    "ko": "릴리",
+    "en": "Lily"
+   },
+   "aliases": {
+    "ko": [
+     "릴리"
+    ],
+    "en": [
+     "Lily"
+    ]
+   },
+   "reveal_date": "2026-11-07",
+   "reveal_note": null,
+   "release_date": "2026-11-12",
+   "release_note": "3.8 버전 업데이트일",
+   "status": "revealed",
+   "illustration_url": "https://i.ytimg.com/vi/F64TLsomPyM/hqdefault.jpg",
+   "source_urls": [
+    "https://www.youtube.com/watch?v=F64TLsomPyM",
+    "https://www.youtube.com/watch?v=jQfuUUFPf8s",
+    "https://www.youtube.com/watch?v=3TU_i70R4S4",
+    "https://www.youtube.com/shorts/F64TLsomPyM",
+    "https://x.com/WW_KR_Official/status/2119266156628586813"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=F64TLsomPyM",
+   "source_label": null,
+   "pickup": null,
+   "verification": "manual_verified_official_source",
+   "is_new": true,
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": [
+    {
+     "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
+     "url": "https://news84034.tistory.com/13",
+     "published": "Mon, 9 Nov 2026 18:39:39 +0900"
+    }
+   ]
+  },
+  {
+   "id": "genshin-danika",
+   "game_id": "genshin",
+   "game_name": "원신",
+   "name": {
+    "ko": "다니카",
+    "en": null
+   },
+   "aliases": {
+    "ko": [
+     "다니카"
+    ]
+   },
+   "reveal_date": "2026-11-07",
+   "reveal_note": null,
+   "release_date": null,
+   "release_note": "출시 버전 미공지(공식 캐릭터 소개 공개)",
+   "status": "revealed",
+   "illustration_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/07/de0c87692b7a9e64d3d551a8c63e8a5a_6184742778360466163.jpg",
+   "source_urls": [
+    "https://www.hoyolab.com/article/47351623",
+    "https://www.youtube.com/watch?v=PqBu685Hx-k",
+    "https://x.com/genshinimpactkr/status/2118916353570570675"
+   ],
+   "source_url": "https://www.hoyolab.com/article/47351623",
+   "source_label": null,
+   "pickup": null,
+   "verification": "manual_verified_official_source",
+   "is_new": true,
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
+  },
+  {
+   "id": "genshin-anastasia",
+   "game_id": "genshin",
+   "game_name": "원신",
+   "name": {
+    "ko": "아나스타샤",
+    "en": null
+   },
+   "aliases": {
+    "ko": [
+     "아나스타샤"
+    ]
+   },
+   "reveal_date": "2026-11-06",
+   "reveal_note": null,
+   "release_date": null,
+   "release_note": "출시 버전 미공지(공식 캐릭터 소개 공개)",
+   "status": "revealed",
+   "illustration_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/06/34ac0a9e6113f374078f4bc27fb30a4d_6117020765778038875.jpg",
+   "source_urls": [
+    "https://www.hoyolab.com/article/47339559",
+    "https://www.youtube.com/watch?v=fD7Lu8dPTko",
+    "https://x.com/genshinimpactkr/status/2118553963008045180"
+   ],
+   "source_url": "https://www.hoyolab.com/article/47339559",
+   "source_label": null,
+   "pickup": null,
+   "verification": "manual_verified_official_source",
+   "is_new": true,
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
+  },
+  {
+   "id": "trickcal-dudu",
+   "game_id": "trickcal",
+   "game_name": "트릭컬 리바이브",
+   "name": {
+    "ko": "두두",
+    "en": null
+   },
+   "aliases": {
+    "ko": [
+     "두두"
+    ]
+   },
+   "reveal_date": "2026-11-03",
+   "reveal_note": null,
+   "release_date": "2026-11-05",
+   "release_note": null,
+   "status": "pickup_live",
+   "illustration_url": "https://nng-phinf.pstatic.net/MjAyNjExMDNfOTgg/MDAxNzkzNjkxODI0MDQz.i5T2WZ3fHnSfyCsLi5Q920KvrcGVWA88ITyq7j9xhOUg.kn17FjWCpwbLHKdBD7yb4-S2EiUi3aSoAI-mxtwd1dsg.PNG/3_3.png",
+   "source_urls": [
+    "https://game.naver.com/lounge/trickcal/board/detail/8404607"
+   ],
+   "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
+   "source_label": null,
+   "pickup": {
+    "start": "2026-11-05",
+    "end": "2026-11-19 10:59:00",
+    "tz": "KST",
+    "source": "네이버 게임 라운지 공식 공지",
+    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
+    "is_new": true,
+    "is_rerun": false,
+    "source_label": "네이버 게임 라운지 공식 공지"
+   },
+   "verification": "manual_verified_official_source",
+   "is_new": true,
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": []
+  },
+  {
+   "id": "endfield-mingha",
+   "game_id": "endfield",
+   "game_name": "명일방주: 엔드필드",
+   "name": {
+    "ko": "명하",
+    "en": null
+   },
+   "aliases": {
+    "ko": [
+     "명하"
+    ]
+   },
+   "reveal_date": "2026-11-02",
+   "reveal_note": "공식 KR 채널에서 확인된 가장 이른 캐릭터 영상",
+   "release_date": "2026-11-05",
+   "release_note": null,
+   "status": "pickup_live",
+   "illustration_url": "https://i.ytimg.com/vi/LGRJvchK9jg/hqdefault.jpg",
+   "source_urls": [
+    "https://www.youtube.com/watch?v=LGRJvchK9jg",
+    "https://game.naver.com/lounge/Arknights_Endfield/board/detail/8410148",
+    "https://www.youtube.com/shorts/HWsEtcPe1d4",
+    "https://www.youtube.com/shorts/VAvaeY5sC0I"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=LGRJvchK9jg",
+   "source_label": null,
+   "pickup": {
+    "start": "2026-11-05 13:00:00",
+    "end": null,
+    "end_note": "버전 업데이트 점검 전",
+    "tz": "KST",
+    "source": "네이버 게임 라운지 공식 공지",
+    "source_url": "https://game.naver.com/lounge/Arknights_Endfield/board/detail/8410148",
+    "is_new": true,
+    "is_rerun": false,
+    "source_label": "네이버 게임 라운지 공식 공지"
+   },
+   "verification": "manual_verified_official_source",
+   "is_new": true,
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": []
+  },
+  {
+   "id": "starrail-aha",
+   "game_id": "starrail",
+   "game_name": "붕괴: 스타레일",
+   "name": {
+    "ko": "에이언즈★아하",
+    "en": "Aha"
+   },
+   "aliases": {
+    "ko": [
+     "에이언즈★아하",
+     "아하"
+    ],
+    "en": [
+     "Aha"
+    ]
+   },
+   "reveal_date": "2026-10-30",
+   "reveal_note": null,
+   "release_date": "2026-11-11",
+   "release_note": "4.7 버전 업데이트일(워프 일정 공지는 업데이트 후 수집)",
+   "status": "revealed",
+   "illustration_url": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
+   "source_urls": [
+    "https://www.youtube.com/watch?v=hcwRWe0UyKI",
+    "https://www.hoyolab.com/article/47307963",
+    "https://www.youtube.com/watch?v=2sUF2R9FtjE",
+    "https://www.hoyolab.com/article/47375930",
+    "https://www.youtube.com/shorts/HlTwjTz3NPs",
+    "https://www.youtube.com/shorts/ipfNqwKOGXQ",
+    "https://www.youtube.com/watch?v=T1d3GwCDG8w",
+    "https://www.youtube.com/shorts/hcwRWe0UyKI",
+    "https://www.hoyolab.com/article/47363694",
+    "https://www.youtube.com/watch?v=OzL48iFuq8E"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=hcwRWe0UyKI",
+   "source_label": null,
+   "pickup": null,
+   "verification": "manual_verified_official_source",
+   "is_new": true,
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": [
+    {
+     "title": "스타레일 4.7 아하 픽업 정리 | 11월 11일 시작, 황천&middot;음월&middot;경원은 12월 2일 후반 복각",
+     "url": "https://news84034.tistory.com/11",
+     "published": "Mon, 9 Nov 2026 12:00:55 +0900"
+    }
+   ]
+  },
+  {
+   "id": "nte-elim",
+   "game_id": "nte",
+   "game_name": "이환",
+   "name": {
+    "ko": "엘림",
+    "en": null
+   },
+   "aliases": {
+    "ko": [
+     "엘림"
+    ]
+   },
+   "reveal_date": "2026-10-29",
+   "reveal_note": null,
+   "release_date": "2026-11-11",
+   "release_note": "1.5 버전 출시일",
+   "status": "revealed",
+   "illustration_url": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
+   "source_urls": [
+    "https://www.youtube.com/watch?v=ioTHCpW4RSo",
+    "https://www.youtube.com/watch?v=MK4bIOILTHM",
+    "https://www.youtube.com/shorts/jVxR-Xj_CtY",
+    "https://www.youtube.com/shorts/bYtIdD8_Kq8",
+    "https://www.youtube.com/shorts/jO_C38oKEs8",
+    "https://x.com/NTE_KO/status/2115644670399385795"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=ioTHCpW4RSo",
+   "source_label": null,
+   "pickup": null,
+   "verification": "manual_verified_official_source",
+   "is_new": true,
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": []
+  },
+  {
+   "id": "nte-exe",
+   "game_id": "nte",
+   "game_name": "이환",
+   "name": {
+    "ko": "Exe",
+    "en": "Exe"
+   },
+   "aliases": {
+    "ko": [
+     "Exe"
+    ],
+    "en": [
+     "Exe"
+    ]
+   },
+   "reveal_date": "2026-10-29",
+   "reveal_note": null,
+   "release_date": "2026-11-11",
+   "release_note": "1.5 버전 출시일",
+   "status": "revealed",
+   "illustration_url": null,
+   "source_urls": [
+    "https://www.youtube.com/watch?v=MK4bIOILTHM",
+    "https://x.com/NTE_KO/status/2115644670399385795"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=MK4bIOILTHM",
+   "source_label": null,
+   "pickup": null,
+   "verification": "manual_verified_official_source",
+   "is_new": true,
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": []
+  },
+  {
    "id": "genshin-a2fbc1b95d",
    "game_id": "genshin",
+   "game_name": "원신",
    "name": {
     "ko": "미탸",
     "en": null,
@@ -19,28 +349,50 @@
     "en": [],
     "ja": []
    },
-   "reveal_date": "2026-11-02",
+   "reveal_date": "2026-10-29",
+   "reveal_note": null,
+   "release_date": null,
+   "release_note": null,
    "status": "pickup_live",
    "illustration_url": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
    "source_urls": [
-    "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "https://www.youtube.com/watch?v=6V0kctC2-Tg"
+    "https://www.youtube.com/watch?v=6V0kctC2-Tg",
+    "https://www.hoyolab.com/article/47296173",
+    "https://www.hoyolab.com/article/47238346"
    ],
+   "source_url": "https://www.youtube.com/watch?v=6V0kctC2-Tg",
+   "source_label": null,
    "pickup": {
     "start": "2026-11-02 12:00:00",
     "end": "2026-11-24 17:59:00",
-    "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "source": "HoYoverse 공식 인게임 공지 API",
+    "tz": "UTC+8",
+    "source_url": "https://www.hoyolab.com/article/47284168",
+    "source_label": "호요버스 공식 인게임 공지",
+    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
+    "source": "호요버스 공식 인게임 공지",
     "is_rerun": false,
     "is_new": true
    },
+   "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-09T22:54:21+09:00",
-   "related_posts": []
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "id": "genshin-de1daf6f79",
    "game_id": "genshin",
+   "game_name": "원신",
    "name": {
     "ko": "발레리",
     "en": null,
@@ -53,25 +405,100 @@
     "en": [],
     "ja": []
    },
-   "reveal_date": "2026-11-02",
+   "reveal_date": "2026-10-28",
+   "reveal_note": null,
+   "release_date": null,
+   "release_note": null,
    "status": "pickup_live",
    "illustration_url": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
    "source_urls": [
-    "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "https://www.youtube.com/watch?v=tCeXHmvg3ko"
+    "https://www.youtube.com/watch?v=tCeXHmvg3ko",
+    "https://www.hoyolab.com/article/47284161",
+    "https://www.hoyolab.com/article/47228525"
    ],
+   "source_url": "https://www.youtube.com/watch?v=tCeXHmvg3ko",
+   "source_label": null,
    "pickup": {
     "start": "2026-11-02 12:00:00",
     "end": "2026-11-24 17:59:00",
-    "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "source": "HoYoverse 공식 인게임 공지 API",
+    "tz": "UTC+8",
+    "source_url": "https://www.hoyolab.com/article/47284168",
+    "source_label": "호요버스 공식 인게임 공지",
+    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
+    "source": "호요버스 공식 인게임 공지",
     "is_rerun": false,
     "is_new": true
    },
+   "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-09T22:54:21+09:00",
-   "related_posts": []
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
+  },
+  {
+   "id": "zzz-severian",
+   "game_id": "zzz",
+   "game_name": "젠레스 존 제로",
+   "name": {
+    "ko": "세베리안",
+    "en": null
+   },
+   "aliases": {
+    "ko": [
+     "세베리안",
+     "세베리안 로웰"
+    ]
+   },
+   "reveal_date": "2026-10-23",
+   "reveal_note": "확인된 가장 이른 공식 언급(3.3 캐릭터 아이콘)",
+   "release_date": "2026-11-11",
+   "release_note": null,
+   "status": "revealed",
+   "illustration_url": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
+   "source_urls": [
+    "https://www.hoyolab.com/article/47375931",
+    "https://www.youtube.com/watch?v=OcDcxORlzmY",
+    "https://www.youtube.com/shorts/sREOoWdCEAI",
+    "https://www.hoyolab.com/article/47339558",
+    "https://www.hoyolab.com/article/47327352",
+    "https://www.hoyolab.com/article/47309557",
+    "https://www.hoyolab.com/article/47309009",
+    "https://x.com/ZZZ_KO/status/2113488084692017547"
+   ],
+   "source_url": "https://www.hoyolab.com/article/47375931",
+   "source_label": null,
+   "pickup": {
+    "start": "2026-11-11 13:00:00",
+    "end": "2026-12-01 15:59:00",
+    "tz": "KST",
+    "source_url": "https://www.hoyolab.com/article/47375931",
+    "source_label": "HoYoLAB 공식 공지",
+    "api_source": null,
+    "source": "HoYoLAB 공식 공지",
+    "is_rerun": false,
+    "is_new": true
+   },
+   "verification": "manual_verified_official_source",
+   "is_new": true,
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": [
+    {
+     "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 11월 11일 시작, 노르마 복각",
+     "url": "https://news84034.tistory.com/12",
+     "published": "Mon, 9 Nov 2026 15:20:23 +0900"
+    }
+   ]
   }
  ],
- "count": 2
+ "count": 11
 }

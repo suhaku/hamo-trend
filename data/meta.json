@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-09T22:54:45+09:00",
+ "last_updated": "2026-11-10T00:26:11+09:00",
  "timezone": "Asia/Seoul",
  "sources": [
   {
@@ -57,6 +57,9 @@
   "official pickup schedule with start/end/source",
   "HTTPS allowlist + sanitize + cache",
   "keep previous on error (partial)",
+  "auto-discovery: HoYoWiki new entries + official YouTube/HoYoLAB/lounge character-demo titles",
+  "overrides.verified_new_characters (official source_url required)",
+  "reader-facing source_url (no raw API links; api_source kept separately)",
   "composite score /100 with renormalized weights",
   "coverage % + provisional/hold + separate reliability",
   "all-time SQLite append-only (not in current score)",
@@ -68,7 +71,8 @@
   "X API (X_BEARER_TOKEN) → 미연동",
   "arca community mention signal for new chars",
   "ZZZ/Naver/BangDream pickup date body parser (unconfirmed excluded)",
-  "Auto-discover brand-new characters not yet in new_characters.json",
+  "Genshin/HSR in-game banner → HoYoLAB article match is by date window (may be null → source_label only)",
+  "Non-HoYo rosters are partial seeds (auto-grow after each debut month)",
   "KR/JP regional channel split beyond single configured region tag",
   "Tistory skin wiring",
   "X/community signals still 미연동 → coverage lower until secrets/impl",

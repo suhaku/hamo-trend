@@ -1,0 +1,486 @@
+{
+ "game_id": "starrail",
+ "entries": {
+  "아스트라야오": {
+   "name": "아스트라 야오",
+   "entry_page_id": "10631",
+   "first_seen": null
+  },
+  "엘렌": {
+   "name": "엘렌",
+   "entry_page_id": "10630",
+   "first_seen": null
+  },
+  "에이언즈★아하": {
+   "name": "에이언즈★아하",
+   "entry_page_id": "10393",
+   "first_seen": null
+  },
+  "펄": {
+   "name": "펄",
+   "entry_page_id": "10192",
+   "first_seen": null
+  },
+  "어벤츄린·웨이브": {
+   "name": "어벤츄린 • 웨이브",
+   "entry_page_id": "6566",
+   "first_seen": null
+  },
+  "로빈·서머레토": {
+   "name": "로빈 • 서머레토",
+   "entry_page_id": "6565",
+   "first_seen": null
+  },
+  "토오사카린": {
+   "name": "토오사카 린",
+   "entry_page_id": "5339",
+   "first_seen": null
+  },
+  "길가메시": {
+   "name": "길가메시",
+   "entry_page_id": "5338",
+   "first_seen": null
+  },
+  "히메코·노바": {
+   "name": "히메코 • 노바",
+   "entry_page_id": "5335",
+   "first_seen": null
+  },
+  "천야·블레이드": {
+   "name": "천야 • 블레이드",
+   "entry_page_id": "5217",
+   "first_seen": null
+  },
+  "개척자·환락": {
+   "name": "개척자 • 환락",
+   "entry_page_id": "5006",
+   "first_seen": null
+  },
+  "에바네시아": {
+   "name": "에바네시아",
+   "entry_page_id": "5005",
+   "first_seen": null
+  },
+  "은랑lv.999": {
+   "name": "은랑 LV.999",
+   "entry_page_id": "4997",
+   "first_seen": null
+  },
+  "애쉬베일": {
+   "name": "애쉬베일",
+   "entry_page_id": "4781",
+   "first_seen": null
+  },
+  "스파키": {
+   "name": "스파키",
+   "entry_page_id": "4737",
+   "first_seen": null
+  },
+  "효광": {
+   "name": "효광",
+   "entry_page_id": "4736",
+   "first_seen": null
+  },
+  "달리아": {
+   "name": "달리아",
+   "entry_page_id": "4060",
+   "first_seen": null
+  },
+  "키레네": {
+   "name": "키레네",
+   "entry_page_id": "4003",
+   "first_seen": null
+  },
+  "단항·등황": {
+   "name": "단항 • 등황",
+   "entry_page_id": "3957",
+   "first_seen": null
+  },
+  "에버나이트": {
+   "name": "에버나이트",
+   "entry_page_id": "3956",
+   "first_seen": null
+  },
+  "케리드라": {
+   "name": "케리드라",
+   "entry_page_id": "3886",
+   "first_seen": null
+  },
+  "히실렌스": {
+   "name": "히실렌스",
+   "entry_page_id": "3885",
+   "first_seen": null
+  },
+  "파이논": {
+   "name": "파이논",
+   "entry_page_id": "3769",
+   "first_seen": null
+  },
+  "아처": {
+   "name": "아처",
+   "entry_page_id": "3768",
+   "first_seen": null
+  },
+  "세이버": {
+   "name": "세이버",
+   "entry_page_id": "3767",
+   "first_seen": null
+  },
+  "사이퍼": {
+   "name": "사이퍼",
+   "entry_page_id": "3691",
+   "first_seen": null
+  },
+  "히아킨": {
+   "name": "히아킨",
+   "entry_page_id": "3688",
+   "first_seen": null
+  },
+  "아낙사": {
+   "name": "아낙사",
+   "entry_page_id": "3561",
+   "first_seen": null
+  },
+  "카스토리스": {
+   "name": "카스토리스",
+   "entry_page_id": "3560",
+   "first_seen": null
+  },
+  "마이데이": {
+   "name": "마이데이",
+   "entry_page_id": "3324",
+   "first_seen": null
+  },
+  "트리비": {
+   "name": "트리비",
+   "entry_page_id": "3322",
+   "first_seen": null
+  },
+  "개척자·기억": {
+   "name": "개척자 • 기억",
+   "entry_page_id": "3287",
+   "first_seen": null
+  },
+  "아글라이아": {
+   "name": "아글라이아",
+   "entry_page_id": "3286",
+   "first_seen": null
+  },
+  "더헤르타": {
+   "name": "더 헤르타",
+   "entry_page_id": "3285",
+   "first_seen": null
+  },
+  "망귀인": {
+   "name": "망귀인",
+   "entry_page_id": "3151",
+   "first_seen": null
+  },
+  "선데이": {
+   "name": "선데이",
+   "entry_page_id": "3150",
+   "first_seen": null
+  },
+  "라파": {
+   "name": "라파",
+   "entry_page_id": "3057",
+   "first_seen": null
+  },
+  "맥택": {
+   "name": "맥택",
+   "entry_page_id": "2949",
+   "first_seen": null
+  },
+  "영사": {
+   "name": "영사",
+   "entry_page_id": "2948",
+   "first_seen": null
+  },
+  "비소": {
+   "name": "비소",
+   "entry_page_id": "2947",
+   "first_seen": null
+  },
+  "mar.7th·수렵": {
+   "name": "Mar. 7th•수렵",
+   "entry_page_id": "2657",
+   "first_seen": null
+  },
+  "초구": {
+   "name": "초구",
+   "entry_page_id": "2643",
+   "first_seen": null
+  },
+  "운리": {
+   "name": "운리",
+   "entry_page_id": "2642",
+   "first_seen": null
+  },
+  "개척자·화합": {
+   "name": "개척자 • 화합",
+   "entry_page_id": "2511",
+   "first_seen": null
+  },
+  "제이드": {
+   "name": "제이드",
+   "entry_page_id": "2495",
+   "first_seen": null
+  },
+  "반디": {
+   "name": "반디",
+   "entry_page_id": "2494",
+   "first_seen": null
+  },
+  "부트힐": {
+   "name": "부트힐",
+   "entry_page_id": "2367",
+   "first_seen": null
+  },
+  "로빈": {
+   "name": "로빈",
+   "entry_page_id": "2366",
+   "first_seen": null
+  },
+  "갤러거": {
+   "name": "갤러거",
+   "entry_page_id": "1924",
+   "first_seen": null
+  },
+  "어벤츄린": {
+   "name": "어벤츄린",
+   "entry_page_id": "1920",
+   "first_seen": null
+  },
+  "아케론": {
+   "name": "아케론",
+   "entry_page_id": "1919",
+   "first_seen": null
+  },
+  "미샤": {
+   "name": "미샤",
+   "entry_page_id": "1808",
+   "first_seen": null
+  },
+  "스파클": {
+   "name": "스파클",
+   "entry_page_id": "1807",
+   "first_seen": null
+  },
+  "블랙스완": {
+   "name": "블랙 스완",
+   "entry_page_id": "1806",
+   "first_seen": null
+  },
+  "설의": {
+   "name": "설의",
+   "entry_page_id": "1640",
+   "first_seen": null
+  },
+  "dr.레이시오": {
+   "name": "Dr. 레이시오",
+   "entry_page_id": "1639",
+   "first_seen": null
+  },
+  "완·매": {
+   "name": "완•매",
+   "entry_page_id": "1638",
+   "first_seen": null
+  },
+  "한아": {
+   "name": "한아",
+   "entry_page_id": "1537",
+   "first_seen": null
+  },
+  "아젠티": {
+   "name": "아젠티",
+   "entry_page_id": "1535",
+   "first_seen": null
+  },
+  "곽향": {
+   "name": "곽향",
+   "entry_page_id": "1533",
+   "first_seen": null
+  },
+  "계네빈": {
+   "name": "계네빈",
+   "entry_page_id": "1392",
+   "first_seen": null
+  },
+  "토파즈&복순이": {
+   "name": "토파즈&복순이",
+   "entry_page_id": "1389",
+   "first_seen": null
+  },
+  "경류": {
+   "name": "경류",
+   "entry_page_id": "1387",
+   "first_seen": null
+  },
+  "링스": {
+   "name": "링스",
+   "entry_page_id": "1228",
+   "first_seen": null
+  },
+  "단항·음월": {
+   "name": "단항•음월",
+   "entry_page_id": "1226",
+   "first_seen": null
+  },
+  "부현": {
+   "name": "부현",
+   "entry_page_id": "804",
+   "first_seen": null
+  },
+  "루카": {
+   "name": "루카",
+   "entry_page_id": "801",
+   "first_seen": null
+  },
+  "카프카": {
+   "name": "카프카",
+   "entry_page_id": "791",
+   "first_seen": null
+  },
+  "블레이드": {
+   "name": "블레이드",
+   "entry_page_id": "789",
+   "first_seen": null
+  },
+  "어공": {
+   "name": "어공",
+   "entry_page_id": "712",
+   "first_seen": null
+  },
+  "나찰": {
+   "name": "나찰",
+   "entry_page_id": "711",
+   "first_seen": null
+  },
+  "은랑": {
+   "name": "은랑",
+   "entry_page_id": "710",
+   "first_seen": null
+  },
+  "백로": {
+   "name": "백로",
+   "entry_page_id": "29",
+   "first_seen": null
+  },
+  "연경": {
+   "name": "연경",
+   "entry_page_id": "28",
+   "first_seen": null
+  },
+  "소상": {
+   "name": "소상",
+   "entry_page_id": "27",
+   "first_seen": null
+  },
+  "경원": {
+   "name": "경원",
+   "entry_page_id": "26",
+   "first_seen": null
+  },
+  "정운": {
+   "name": "정운",
+   "entry_page_id": "25",
+   "first_seen": null
+  },
+  "청작": {
+   "name": "청작",
+   "entry_page_id": "24",
+   "first_seen": null
+  },
+  "개척자·보존": {
+   "name": "개척자 • 보존",
+   "entry_page_id": "23",
+   "first_seen": null
+  },
+  "후크": {
+   "name": "후크",
+   "entry_page_id": "22",
+   "first_seen": null
+  },
+  "삼포": {
+   "name": "삼포",
+   "entry_page_id": "21",
+   "first_seen": null
+  },
+  "클라라": {
+   "name": "클라라",
+   "entry_page_id": "20",
+   "first_seen": null
+  },
+  "페라": {
+   "name": "페라",
+   "entry_page_id": "19",
+   "first_seen": null
+  },
+  "나타샤": {
+   "name": "나타샤",
+   "entry_page_id": "18",
+   "first_seen": null
+  },
+  "게파드": {
+   "name": "게파드",
+   "entry_page_id": "17",
+   "first_seen": null
+  },
+  "서벌": {
+   "name": "서벌",
+   "entry_page_id": "16",
+   "first_seen": null
+  },
+  "제레": {
+   "name": "제레",
+   "entry_page_id": "15",
+   "first_seen": null
+  },
+  "브로냐": {
+   "name": "브로냐",
+   "entry_page_id": "14",
+   "first_seen": null
+  },
+  "헤르타": {
+   "name": "헤르타",
+   "entry_page_id": "13",
+   "first_seen": null
+  },
+  "아스타": {
+   "name": "아스타",
+   "entry_page_id": "12",
+   "first_seen": null
+  },
+  "아를란": {
+   "name": "아를란",
+   "entry_page_id": "11",
+   "first_seen": null
+  },
+  "웰트": {
+   "name": "웰트",
+   "entry_page_id": "10",
+   "first_seen": null
+  },
+  "히메코": {
+   "name": "히메코",
+   "entry_page_id": "9",
+   "first_seen": null
+  },
+  "단항": {
+   "name": "단항",
+   "entry_page_id": "8",
+   "first_seen": null
+  },
+  "mar.7th": {
+   "name": "Mar. 7th",
+   "entry_page_id": "7",
+   "first_seen": null
+  },
+  "개척자·파멸": {
+   "name": "개척자 • 파멸",
+   "entry_page_id": "6",
+   "first_seen": null
+  }
+ },
+ "updated": "2026-11-10T00:25:54+09:00"
+}

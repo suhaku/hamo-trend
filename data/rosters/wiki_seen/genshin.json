@@ -1,0 +1,676 @@
+{
+ "game_id": "genshin",
+ "entries": {
+  "다니카": {
+   "name": "다니카",
+   "entry_page_id": "13836",
+   "first_seen": null
+  },
+  "아나스타샤": {
+   "name": "아나스타샤",
+   "entry_page_id": "13830",
+   "first_seen": null
+  },
+  "발레리": {
+   "name": "발레리",
+   "entry_page_id": "11828",
+   "first_seen": null
+  },
+  "미탸": {
+   "name": "미탸",
+   "entry_page_id": "11827",
+   "first_seen": null
+  },
+  "보댜니차": {
+   "name": "보댜니차",
+   "entry_page_id": "11702",
+   "first_seen": null
+  },
+  "베스나": {
+   "name": "베스나",
+   "entry_page_id": "11661",
+   "first_seen": null
+  },
+  "여행자(얼음)": {
+   "name": "여행자(얼음)",
+   "entry_page_id": "11609",
+   "first_seen": null
+  },
+  "알료샤": {
+   "name": "알료샤",
+   "entry_page_id": "11163",
+   "first_seen": null
+  },
+  "오데트": {
+   "name": "오데트",
+   "entry_page_id": "11162",
+   "first_seen": null
+  },
+  "산드로네": {
+   "name": "산드로네",
+   "entry_page_id": "10920",
+   "first_seen": null
+  },
+  "프루네": {
+   "name": "프루네",
+   "entry_page_id": "10624",
+   "first_seen": null
+  },
+  "로엔": {
+   "name": "로엔",
+   "entry_page_id": "10623",
+   "first_seen": null
+  },
+  "니콜": {
+   "name": "니콜",
+   "entry_page_id": "10622",
+   "first_seen": null
+  },
+  "린네아": {
+   "name": "린네아",
+   "entry_page_id": "10412",
+   "first_seen": null
+  },
+  "바르카": {
+   "name": "바르카",
+   "entry_page_id": "9342",
+   "first_seen": null
+  },
+  "일루가": {
+   "name": "일루가",
+   "entry_page_id": "9123",
+   "first_seen": null
+  },
+  "자백": {
+   "name": "자백",
+   "entry_page_id": "9122",
+   "first_seen": null
+  },
+  "콜롬비나": {
+   "name": "콜롬비나",
+   "entry_page_id": "9121",
+   "first_seen": null
+  },
+  "별인형·여성": {
+   "name": "별인형·여성",
+   "entry_page_id": "9021",
+   "first_seen": null
+  },
+  "별인형·남성": {
+   "name": "별인형·남성",
+   "entry_page_id": "9020",
+   "first_seen": null
+  },
+  "야호다": {
+   "name": "야호다",
+   "entry_page_id": "9018",
+   "first_seen": null
+  },
+  "두린": {
+   "name": "두린",
+   "entry_page_id": "9017",
+   "first_seen": null
+  },
+  "네페르": {
+   "name": "네페르",
+   "entry_page_id": "8894",
+   "first_seen": null
+  },
+  "플린스": {
+   "name": "플린스",
+   "entry_page_id": "8398",
+   "first_seen": null
+  },
+  "아이노": {
+   "name": "아이노",
+   "entry_page_id": "8397",
+   "first_seen": null
+  },
+  "라우마": {
+   "name": "라우마",
+   "entry_page_id": "8396",
+   "first_seen": null
+  },
+  "이네파": {
+   "name": "이네파",
+   "entry_page_id": "7852",
+   "first_seen": null
+  },
+  "달리아": {
+   "name": "달리아",
+   "entry_page_id": "7707",
+   "first_seen": null
+  },
+  "스커크": {
+   "name": "스커크",
+   "entry_page_id": "7706",
+   "first_seen": null
+  },
+  "이파": {
+   "name": "이파",
+   "entry_page_id": "7627",
+   "first_seen": null
+  },
+  "에스코피에": {
+   "name": "에스코피에",
+   "entry_page_id": "7624",
+   "first_seen": null
+  },
+  "얀사": {
+   "name": "얀사",
+   "entry_page_id": "7502",
+   "first_seen": null
+  },
+  "바레사": {
+   "name": "바레사",
+   "entry_page_id": "7488",
+   "first_seen": null
+  },
+  "유메미즈키미즈키": {
+   "name": "유메미즈키 미즈키",
+   "entry_page_id": "7420",
+   "first_seen": null
+  },
+  "여행자(불)": {
+   "name": "여행자(불)",
+   "entry_page_id": "7306",
+   "first_seen": null
+  },
+  "남연": {
+   "name": "남연",
+   "entry_page_id": "7301",
+   "first_seen": null
+  },
+  "시틀라리": {
+   "name": "시틀라리",
+   "entry_page_id": "7300",
+   "first_seen": null
+  },
+  "마비카": {
+   "name": "마비카",
+   "entry_page_id": "7299",
+   "first_seen": null
+  },
+  "차스카": {
+   "name": "차스카",
+   "entry_page_id": "7080",
+   "first_seen": null
+  },
+  "올로룬": {
+   "name": "올로룬",
+   "entry_page_id": "7079",
+   "first_seen": null
+  },
+  "실로닌": {
+   "name": "실로닌",
+   "entry_page_id": "6924",
+   "first_seen": null
+  },
+  "말라니": {
+   "name": "말라니",
+   "entry_page_id": "6319",
+   "first_seen": null
+  },
+  "카치나": {
+   "name": "카치나",
+   "entry_page_id": "6318",
+   "first_seen": null
+  },
+  "키니치": {
+   "name": "키니치",
+   "entry_page_id": "6317",
+   "first_seen": null
+  },
+  "에밀리": {
+   "name": "에밀리",
+   "entry_page_id": "5714",
+   "first_seen": null
+  },
+  "세토스": {
+   "name": "세토스",
+   "entry_page_id": "5598",
+   "first_seen": null
+  },
+  "시그윈": {
+   "name": "시그윈",
+   "entry_page_id": "5597",
+   "first_seen": null
+  },
+  "클로린드": {
+   "name": "클로린드",
+   "entry_page_id": "5596",
+   "first_seen": null
+  },
+  "아를레키노": {
+   "name": "아를레키노",
+   "entry_page_id": "5149",
+   "first_seen": null
+  },
+  "치오리": {
+   "name": "치오리",
+   "entry_page_id": "4946",
+   "first_seen": null
+  },
+  "가명": {
+   "name": "가명",
+   "entry_page_id": "4775",
+   "first_seen": null
+  },
+  "한운": {
+   "name": "한운",
+   "entry_page_id": "4774",
+   "first_seen": null
+  },
+  "슈브르즈": {
+   "name": "슈브르즈",
+   "entry_page_id": "4577",
+   "first_seen": null
+  },
+  "나비아": {
+   "name": "나비아",
+   "entry_page_id": "4576",
+   "first_seen": null
+  },
+  "샤를로트": {
+   "name": "샤를로트",
+   "entry_page_id": "4377",
+   "first_seen": null
+  },
+  "푸리나": {
+   "name": "푸리나",
+   "entry_page_id": "4376",
+   "first_seen": null
+  },
+  "느비예트": {
+   "name": "느비예트",
+   "entry_page_id": "4023",
+   "first_seen": null
+  },
+  "라이오슬리": {
+   "name": "라이오슬리",
+   "entry_page_id": "4022",
+   "first_seen": null
+  },
+  "여행자(물)": {
+   "name": "여행자(물)",
+   "entry_page_id": "3997",
+   "first_seen": null
+  },
+  "프레미네": {
+   "name": "프레미네",
+   "entry_page_id": "3964",
+   "first_seen": null
+  },
+  "리니": {
+   "name": "리니",
+   "entry_page_id": "3963",
+   "first_seen": null
+  },
+  "리넷": {
+   "name": "리넷",
+   "entry_page_id": "3962",
+   "first_seen": null
+  },
+  "키라라": {
+   "name": "키라라",
+   "entry_page_id": "3719",
+   "first_seen": null
+  },
+  "백출": {
+   "name": "백출",
+   "entry_page_id": "3609",
+   "first_seen": null
+  },
+  "카베": {
+   "name": "카베",
+   "entry_page_id": "3608",
+   "first_seen": null
+  },
+  "데히야": {
+   "name": "데히야",
+   "entry_page_id": "3463",
+   "first_seen": null
+  },
+  "미카": {
+   "name": "미카",
+   "entry_page_id": "3462",
+   "first_seen": null
+  },
+  "알하이탐": {
+   "name": "알하이탐",
+   "entry_page_id": "3336",
+   "first_seen": null
+  },
+  "요요": {
+   "name": "요요",
+   "entry_page_id": "3335",
+   "first_seen": null
+  },
+  "방랑자": {
+   "name": "방랑자",
+   "entry_page_id": "2968",
+   "first_seen": null
+  },
+  "파루잔": {
+   "name": "파루잔",
+   "entry_page_id": "2967",
+   "first_seen": null
+  },
+  "레일라": {
+   "name": "레일라",
+   "entry_page_id": "2859",
+   "first_seen": null
+  },
+  "나히다": {
+   "name": "나히다",
+   "entry_page_id": "2850",
+   "first_seen": null
+  },
+  "캔디스": {
+   "name": "캔디스",
+   "entry_page_id": "2815",
+   "first_seen": null
+  },
+  "사이노": {
+   "name": "사이노",
+   "entry_page_id": "2813",
+   "first_seen": null
+  },
+  "닐루": {
+   "name": "닐루",
+   "entry_page_id": "2812",
+   "first_seen": null
+  },
+  "여행자(풀)": {
+   "name": "여행자(풀)",
+   "entry_page_id": "2674",
+   "first_seen": null
+  },
+  "도리": {
+   "name": "도리",
+   "entry_page_id": "2269",
+   "first_seen": null
+  },
+  "콜레이": {
+   "name": "콜레이",
+   "entry_page_id": "2268",
+   "first_seen": null
+  },
+  "타이나리": {
+   "name": "타이나리",
+   "entry_page_id": "2265",
+   "first_seen": null
+  },
+  "시카노인헤이조": {
+   "name": "시카노인 헤이조",
+   "entry_page_id": "2263",
+   "first_seen": null
+  },
+  "쿠키시노부": {
+   "name": "쿠키 시노부",
+   "entry_page_id": "2256",
+   "first_seen": null
+  },
+  "야란": {
+   "name": "야란",
+   "entry_page_id": "2252",
+   "first_seen": null
+  },
+  "소": {
+   "name": "소",
+   "entry_page_id": "51",
+   "first_seen": null
+  },
+  "향릉": {
+   "name": "향릉",
+   "entry_page_id": "50",
+   "first_seen": null
+  },
+  "라이덴쇼군": {
+   "name": "라이덴 쇼군",
+   "entry_page_id": "49",
+   "first_seen": null
+  },
+  "레이저": {
+   "name": "레이저",
+   "entry_page_id": "48",
+   "first_seen": null
+  },
+  "알베도": {
+   "name": "알베도",
+   "entry_page_id": "47",
+   "first_seen": null
+  },
+  "종려": {
+   "name": "종려",
+   "entry_page_id": "46",
+   "first_seen": null
+  },
+  "중운": {
+   "name": "중운",
+   "entry_page_id": "45",
+   "first_seen": null
+  },
+  "디오나": {
+   "name": "디오나",
+   "entry_page_id": "44",
+   "first_seen": null
+  },
+  "다이루크": {
+   "name": "다이루크",
+   "entry_page_id": "43",
+   "first_seen": null
+  },
+  "타르탈리아": {
+   "name": "타르탈리아",
+   "entry_page_id": "42",
+   "first_seen": null
+  },
+  "신염": {
+   "name": "신염",
+   "entry_page_id": "41",
+   "first_seen": null
+  },
+  "노엘": {
+   "name": "노엘",
+   "entry_page_id": "40",
+   "first_seen": null
+  },
+  "행추": {
+   "name": "행추",
+   "entry_page_id": "39",
+   "first_seen": null
+  },
+  "피슬": {
+   "name": "피슬",
+   "entry_page_id": "38",
+   "first_seen": null
+  },
+  "모나": {
+   "name": "모나",
+   "entry_page_id": "37",
+   "first_seen": null
+  },
+  "아라타키이토": {
+   "name": "아라타키 이토",
+   "entry_page_id": "36",
+   "first_seen": null
+  },
+  "바바라": {
+   "name": "바바라",
+   "entry_page_id": "35",
+   "first_seen": null
+  },
+  "호두": {
+   "name": "호두",
+   "entry_page_id": "34",
+   "first_seen": null
+  },
+  "로자리아": {
+   "name": "로자리아",
+   "entry_page_id": "33",
+   "first_seen": null
+  },
+  "카미사토아야카": {
+   "name": "카미사토 아야카",
+   "entry_page_id": "32",
+   "first_seen": null
+  },
+  "카미사토아야토": {
+   "name": "카미사토 아야토",
+   "entry_page_id": "31",
+   "first_seen": null
+  },
+  "설탕": {
+   "name": "설탕",
+   "entry_page_id": "30",
+   "first_seen": null
+  },
+  "신학": {
+   "name": "신학",
+   "entry_page_id": "29",
+   "first_seen": null
+  },
+  "감우": {
+   "name": "감우",
+   "entry_page_id": "28",
+   "first_seen": null
+  },
+  "진": {
+   "name": "진",
+   "entry_page_id": "27",
+   "first_seen": null
+  },
+  "베넷": {
+   "name": "베넷",
+   "entry_page_id": "26",
+   "first_seen": null
+  },
+  "산고노미야코코미": {
+   "name": "산고노미야 코코미",
+   "entry_page_id": "25",
+   "first_seen": null
+  },
+  "연비": {
+   "name": "연비",
+   "entry_page_id": "24",
+   "first_seen": null
+  },
+  "벤티": {
+   "name": "벤티",
+   "entry_page_id": "23",
+   "first_seen": null
+  },
+  "카에데하라카즈하": {
+   "name": "카에데하라 카즈하",
+   "entry_page_id": "22",
+   "first_seen": null
+  },
+  "사유": {
+   "name": "사유",
+   "entry_page_id": "21",
+   "first_seen": null
+  },
+  "여행자": {
+   "name": "여행자",
+   "entry_page_id": "20",
+   "first_seen": null
+  },
+  "여행자(바람)": {
+   "name": "여행자(바람)",
+   "entry_page_id": "19",
+   "first_seen": null
+  },
+  "여행자(번개)": {
+   "name": "여행자(번개)",
+   "entry_page_id": "18",
+   "first_seen": null
+  },
+  "여행자(바위)": {
+   "name": "여행자(바위)",
+   "entry_page_id": "17",
+   "first_seen": null
+  },
+  "토마": {
+   "name": "토마",
+   "entry_page_id": "16",
+   "first_seen": null
+  },
+  "요이미야": {
+   "name": "요이미야",
+   "entry_page_id": "15",
+   "first_seen": null
+  },
+  "엠버": {
+   "name": "엠버",
+   "entry_page_id": "14",
+   "first_seen": null
+  },
+  "에일로이": {
+   "name": "에일로이",
+   "entry_page_id": "13",
+   "first_seen": null
+  },
+  "클레": {
+   "name": "클레",
+   "entry_page_id": "12",
+   "first_seen": null
+  },
+  "북두": {
+   "name": "북두",
+   "entry_page_id": "11",
+   "first_seen": null
+  },
+  "각청": {
+   "name": "각청",
+   "entry_page_id": "10",
+   "first_seen": null
+  },
+  "케이아": {
+   "name": "케이아",
+   "entry_page_id": "9",
+   "first_seen": null
+  },
+  "응광": {
+   "name": "응광",
+   "entry_page_id": "8",
+   "first_seen": null
+  },
+  "야에미코": {
+   "name": "야에 미코",
+   "entry_page_id": "7",
+   "first_seen": null
+  },
+  "유라": {
+   "name": "유라",
+   "entry_page_id": "6",
+   "first_seen": null
+  },
+  "고로": {
+   "name": "고로",
+   "entry_page_id": "5",
+   "first_seen": null
+  },
+  "운근": {
+   "name": "운근",
+   "entry_page_id": "4",
+   "first_seen": null
+  },
+  "쿠죠사라": {
+   "name": "쿠죠 사라",
+   "entry_page_id": "3",
+   "first_seen": null
+  },
+  "리사": {
+   "name": "리사",
+   "entry_page_id": "2",
+   "first_seen": null
+  },
+  "치치": {
+   "name": "치치",
+   "entry_page_id": "1",
+   "first_seen": null
+  }
+ },
+ "updated": "2026-11-10T00:25:54+09:00"
+}

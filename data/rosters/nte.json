@@ -1,20 +1,28 @@
 {
-  "game_id": "nte",
-  "note": "Existing Neverness characters; keys/items must not enter new.",
-  "updated": "2026-11-09",
-  "names": {
-    "ko": [],
-    "en": [],
-    "ja": []
-  },
-  "block_tokens": [
-    "열쇠",
-    "특간",
-    "상점",
-    "보드",
-    "마켓",
-    "특전",
-    "연구",
-    "모집"
-  ]
+ "game_id": "nte",
+ "note": "Partial seed: characters seen in official KR channel/lounge before 2026-11 (아카네 린 1.4, 라크리모사·신쿠 rerun). Auto-grows. Names here are never NEW.",
+ "updated": "2026-11-10",
+ "names": {
+  "ko": [
+   "아카네 린",
+   "아카네린",
+   "라크리모사",
+   "신쿠"
+  ],
+  "en": [],
+  "ja": []
+ },
+ "block_tokens": [
+  "열쇠",
+  "특간",
+  "상점",
+  "보드",
+  "마켓",
+  "특전",
+  "연구",
+  "모집"
+ ],
+ "revealed_unreleased": [],
+ "aliases": {},
+ "auto_added": []
 }

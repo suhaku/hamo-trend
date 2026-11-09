@@ -1,8 +1,255 @@
 {
-  "note": "Manual review. hide_character_ids / hide_pickup_urls / approve_pickup_urls. No secrets.",
-  "hide_pickup_urls": [],
-  "hide_character_ids": [],
-  "approve_pickup_urls": [],
-  "force_hold_character_ids": [],
-  "notes": []
+ "note": "Manual review. verified_new_characters = official-source-confirmed NEW (each needs official source_urls). hide_character_ids / hide_pickup_urls / approve_pickup_urls. No secrets.",
+ "hide_pickup_urls": [],
+ "hide_character_ids": [],
+ "approve_pickup_urls": [],
+ "force_hold_character_ids": [],
+ "notes": [],
+ "verified_new_characters": [
+  {
+   "id": "starrail-aha",
+   "game_id": "starrail",
+   "name": {
+    "ko": "에이언즈★아하",
+    "en": "Aha"
+   },
+   "aliases": {
+    "ko": [
+     "에이언즈★아하",
+     "아하"
+    ],
+    "en": [
+     "Aha"
+    ]
+   },
+   "reveal_date": "2026-10-30",
+   "release_date": "2026-11-11",
+   "release_note": "4.7 버전 업데이트일(워프 일정 공지는 업데이트 후 수집)",
+   "illustration_url": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
+   "source_urls": [
+    "https://www.youtube.com/watch?v=hcwRWe0UyKI",
+    "https://www.hoyolab.com/article/47307963",
+    "https://www.youtube.com/watch?v=2sUF2R9FtjE",
+    "https://www.hoyolab.com/article/47375930"
+   ],
+   "evidence": "공식 KR 유튜브 '캐릭터 프리뷰 | 에이언즈★아하'(11/04)·HoYoLAB '에이언즈 프리뷰'(환락•양자)·4.7 PV(10/30)·4.7 점검 공지(11/11)"
+  },
+  {
+   "id": "genshin-danika",
+   "game_id": "genshin",
+   "name": {
+    "ko": "다니카",
+    "en": null
+   },
+   "aliases": {
+    "ko": [
+     "다니카"
+    ]
+   },
+   "reveal_date": "2026-11-07",
+   "release_date": null,
+   "release_note": "출시 버전 미공지(공식 캐릭터 소개 공개)",
+   "status": "revealed",
+   "illustration_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/07/de0c87692b7a9e64d3d551a8c63e8a5a_6184742778360466163.jpg",
+   "source_urls": [
+    "https://www.hoyolab.com/article/47351623",
+    "https://www.youtube.com/watch?v=PqBu685Hx-k",
+    "https://x.com/genshinimpactkr/status/2118916353570570675"
+   ],
+   "evidence": "HoYoLAB 공식 캐릭터 소개(별의 쐐기: 번개, 운명의 자리)·HoYoWiki 캐릭터 도감 등재·공식 X"
+  },
+  {
+   "id": "genshin-anastasia",
+   "game_id": "genshin",
+   "name": {
+    "ko": "아나스타샤",
+    "en": null
+   },
+   "aliases": {
+    "ko": [
+     "아나스타샤"
+    ]
+   },
+   "reveal_date": "2026-11-06",
+   "release_date": null,
+   "release_note": "출시 버전 미공지(공식 캐릭터 소개 공개)",
+   "status": "revealed",
+   "illustration_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/06/34ac0a9e6113f374078f4bc27fb30a4d_6117020765778038875.jpg",
+   "source_urls": [
+    "https://www.hoyolab.com/article/47339559",
+    "https://www.youtube.com/watch?v=fD7Lu8dPTko",
+    "https://x.com/genshinimpactkr/status/2118553963008045180"
+   ],
+   "evidence": "HoYoLAB 공식 캐릭터 소개(신의 심장: 얼음, 운명의 자리)·HoYoWiki 캐릭터 도감 등재·공식 X"
+  },
+  {
+   "id": "zzz-severian",
+   "game_id": "zzz",
+   "name": {
+    "ko": "세베리안",
+    "en": null
+   },
+   "aliases": {
+    "ko": [
+     "세베리안",
+     "세베리안 로웰"
+    ]
+   },
+   "reveal_date": "2026-10-23",
+   "reveal_note": "확인된 가장 이른 공식 언급(3.3 캐릭터 아이콘)",
+   "release_date": "2026-11-11",
+   "illustration_url": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
+   "source_urls": [
+    "https://www.hoyolab.com/article/47375931",
+    "https://www.youtube.com/watch?v=OcDcxORlzmY",
+    "https://x.com/ZZZ_KO/status/2113488084692017547"
+   ],
+   "pickup": {
+    "start": "2026-11-11 13:00:00",
+    "end": "2026-12-01 15:59:00",
+    "tz": "KST",
+    "source": "HoYoLAB 공식 공지 「3.3 버전 기간 한정 채널(하반기)」",
+    "source_url": "https://www.hoyolab.com/article/47375931",
+    "is_new": true,
+    "is_rerun": false
+   },
+   "evidence": "HoYoLAB 공식 공지: 한정 S급 에이전트 [세베리안(바람·강공)] 11/11 13:00~12/01 15:59 KST"
+  },
+  {
+   "id": "wuwa-lily",
+   "game_id": "wuwa",
+   "name": {
+    "ko": "릴리",
+    "en": "Lily"
+   },
+   "aliases": {
+    "ko": [
+     "릴리"
+    ],
+    "en": [
+     "Lily"
+    ]
+   },
+   "reveal_date": "2026-11-07",
+   "release_date": "2026-11-12",
+   "release_note": "3.8 버전 업데이트일",
+   "illustration_url": "https://i.ytimg.com/vi/F64TLsomPyM/hqdefault.jpg",
+   "source_urls": [
+    "https://www.youtube.com/watch?v=F64TLsomPyM",
+    "https://www.youtube.com/watch?v=jQfuUUFPf8s",
+    "https://www.youtube.com/watch?v=3TU_i70R4S4",
+    "https://x.com/WW_KR_Official/status/2119266156628586813"
+   ],
+   "evidence": "공식 KR 유튜브 '공명자 화면 | 릴리'(11/07)·'공명자 전투 모션 | 릴리'·3.8 트레일러(11/12 업데이트)"
+  },
+  {
+   "id": "nte-elim",
+   "game_id": "nte",
+   "name": {
+    "ko": "엘림",
+    "en": null
+   },
+   "aliases": {
+    "ko": [
+     "엘림"
+    ]
+   },
+   "reveal_date": "2026-10-29",
+   "release_date": "2026-11-11",
+   "release_note": "1.5 버전 출시일",
+   "illustration_url": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
+   "source_urls": [
+    "https://www.youtube.com/watch?v=ioTHCpW4RSo",
+    "https://www.youtube.com/watch?v=MK4bIOILTHM",
+    "https://x.com/NTE_KO/status/2115644670399385795"
+   ],
+   "evidence": "공식: 1.5 버전 11/11 출시, 신규 한정 S급 캐릭터 「엘림」・「Exe」 등장"
+  },
+  {
+   "id": "nte-exe",
+   "game_id": "nte",
+   "name": {
+    "ko": "Exe",
+    "en": "Exe"
+   },
+   "aliases": {
+    "ko": [
+     "Exe"
+    ],
+    "en": [
+     "Exe"
+    ]
+   },
+   "reveal_date": "2026-10-29",
+   "release_date": "2026-11-11",
+   "release_note": "1.5 버전 출시일",
+   "illustration_url": null,
+   "source_urls": [
+    "https://www.youtube.com/watch?v=MK4bIOILTHM",
+    "https://x.com/NTE_KO/status/2115644670399385795"
+   ],
+   "evidence": "공식: 신규 한정 S급 캐릭터 「엘림」・「Exe」 등장 예정(1.5, 11/11) — 공식 이미지 미확보"
+  },
+  {
+   "id": "endfield-mingha",
+   "game_id": "endfield",
+   "name": {
+    "ko": "명하",
+    "en": null
+   },
+   "aliases": {
+    "ko": [
+     "명하"
+    ]
+   },
+   "reveal_date": "2026-11-02",
+   "reveal_note": "공식 KR 채널에서 확인된 가장 이른 캐릭터 영상",
+   "release_date": "2026-11-05",
+   "illustration_url": "https://i.ytimg.com/vi/LGRJvchK9jg/hqdefault.jpg",
+   "source_urls": [
+    "https://www.youtube.com/watch?v=LGRJvchK9jg",
+    "https://game.naver.com/lounge/Arknights_Endfield/board/detail/8410148"
+   ],
+   "pickup": {
+    "start": "2026-11-05 13:00:00",
+    "end": null,
+    "end_note": "버전 업데이트 점검 전",
+    "tz": "KST",
+    "source": "네이버 게임 라운지 공식 공지",
+    "source_url": "https://game.naver.com/lounge/Arknights_Endfield/board/detail/8410148",
+    "is_new": true,
+    "is_rerun": false
+   },
+   "evidence": "공식 라운지: 「은하수를 부르는 불꽃」 특별 허가 헤드헌팅 6성 오퍼레이터 [명하] 11/05 13:00~"
+  },
+  {
+   "id": "trickcal-dudu",
+   "game_id": "trickcal",
+   "name": {
+    "ko": "두두",
+    "en": null
+   },
+   "aliases": {
+    "ko": [
+     "두두"
+    ]
+   },
+   "reveal_date": "2026-11-03",
+   "release_date": "2026-11-05",
+   "illustration_url": "https://nng-phinf.pstatic.net/MjAyNjExMDNfOTgg/MDAxNzkzNjkxODI0MDQz.i5T2WZ3fHnSfyCsLi5Q920KvrcGVWA88ITyq7j9xhOUg.kn17FjWCpwbLHKdBD7yb4-S2EiUi3aSoAI-mxtwd1dsg.PNG/3_3.png",
+   "source_urls": [
+    "https://game.naver.com/lounge/trickcal/board/detail/8404607"
+   ],
+   "pickup": {
+    "start": "2026-11-05",
+    "end": "2026-11-19 10:59:00",
+    "tz": "KST",
+    "source": "네이버 게임 라운지 공식 공지",
+    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
+    "is_new": true,
+    "is_rerun": false
+   },
+   "evidence": "공식 라운지: 신규 사도 \"두두\" 픽업 11/05 정기점검 이후 ~ 11/19 10:59"
+  }
+ ]
 }

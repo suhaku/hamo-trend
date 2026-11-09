@@ -1,0 +1,90 @@
+{
+ "character_id": "starrail-aha",
+ "game_id": "starrail",
+ "name": {
+  "ko": "에이언즈★아하",
+  "en": "Aha"
+ },
+ "is_new": true,
+ "is_rerun": false,
+ "reveal_date": "2026-10-30",
+ "first_seen_at": "2026-11-10T00:24:08+09:00",
+ "last_seen_at": "2026-11-10T00:26:11+09:00",
+ "alltime_rank": 1,
+ "peak_pv_views": 303329.0,
+ "peak_lift": 3.799,
+ "peak_trends": null,
+ "recorded_deltas": {
+  "d24h": null,
+  "d7d": null,
+  "d30d": null
+ },
+ "pv_growth_series": [
+  {
+   "at": "2026-11-10T00:24:08+09:00",
+   "views": 303329.0
+  },
+  {
+   "at": "2026-11-10T00:25:08+09:00",
+   "views": 261267.0
+  },
+  {
+   "at": "2026-11-10T00:26:11+09:00",
+   "views": 261267.0
+  }
+ ],
+ "trends_series": [],
+ "comparison_to_past_new_chars": [
+  {
+   "character_id": "starrail-aha",
+   "name": {
+    "ko": "에이언즈★아하",
+    "en": "Aha"
+   },
+   "peak_pv_views": 303329.0,
+   "alltime_rank": 1
+  },
+  {
+   "character_id": "starrail-castorice",
+   "name": {
+    "ko": "카스토리스",
+    "en": "Castorice",
+    "ja": "キャストリス"
+   },
+   "peak_pv_views": null,
+   "alltime_rank": null
+  },
+  {
+   "character_id": "starrail-char",
+   "name": {
+    "ko": "고요히 빛나는 불티",
+    "en": null,
+    "ja": null
+   },
+   "peak_pv_views": null,
+   "alltime_rank": null
+  }
+ ],
+ "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
+ "current": {
+  "score": 100.0,
+  "score_raw": 100.0,
+  "coverage": 0.5,
+  "reliability": 0.5,
+  "provisional": true,
+  "hold": false,
+  "hold_reason": null,
+  "absolute_views": 261267,
+  "lift_vs_game_baseline": 3.272,
+  "growth_rate_7d": null,
+  "related_posts": [
+   {
+    "title": "스타레일 4.7 아하 픽업 정리 | 11월 11일 시작, 황천&middot;음월&middot;경원은 12월 2일 후반 복각",
+    "url": "https://news84034.tistory.com/11",
+    "published": "Mon, 9 Nov 2026 12:00:55 +0900"
+   }
+  ],
+  "last_updated": "2026-11-10T00:26:11+09:00",
+  "note": "current score does not include all-time records"
+ }
+}

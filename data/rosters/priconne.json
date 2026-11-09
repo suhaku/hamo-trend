@@ -1,10 +1,25 @@
 {
-  "game_id": "priconne",
-  "note": "Existing Priconne seed — expand over time.",
-  "updated": "2026-11-09",
-  "names": {
-    "ko": [],
-    "en": [],
-    "ja": []
-  }
+ "game_id": "priconne",
+ "note": "Partial seed. KR channel inactive since 2026-03 → no reveal source. Names here are never NEW.",
+ "updated": "2026-11-10",
+ "names": {
+  "ko": [
+   "페코린느",
+   "콧코로",
+   "캬루",
+   "유이",
+   "레이",
+   "히요리",
+   "코코로",
+   "미야코",
+   "이오",
+   "쿄우카",
+   "아메스"
+  ],
+  "en": [],
+  "ja": []
+ },
+ "revealed_unreleased": [],
+ "aliases": {},
+ "auto_added": []
 }

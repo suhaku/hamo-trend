@@ -1,9 +1,60 @@
 {
  "status": "ok",
- "generated_at": "2026-11-09T22:54:21+09:00",
+ "generated_at": "2026-11-10T00:25:54+09:00",
  "rule": "공식 채널 PV 실측 조회수 · 절대 조회수와 성장 순위 분리 · 같은 게임 과거 신캐 대비 보정",
  "hold_policy": "PV 게시 후 24시간 미만이거나 조회수 없으면 순위 보류",
  "absolute_ranking": [
+  {
+   "character_id": "starrail-aha",
+   "name": {
+    "ko": "에이언즈★아하",
+    "en": "Aha"
+   },
+   "game_id": "starrail",
+   "hold": false,
+   "hold_reason": null,
+   "rank_absolute": 1,
+   "rank_growth": null,
+   "absolute": {
+    "views": 261267,
+    "lift_vs_game_baseline": 3.272
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": {
+    "video_id": "T1d3GwCDG8w",
+    "title": "캐릭터 PV 에이언즈★아하——「주사위를 날려라」|〈붕괴: 스타레일〉",
+    "url": "https://www.youtube.com/watch?v=T1d3GwCDG8w",
+    "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
+    "channel_region": "Global",
+    "published": "2026-11-08T13:00:19+09:00",
+    "age_hours": 35.4,
+    "views_absolute": 261267,
+    "likes": null,
+    "comments": null,
+    "likes_comments_status": "미연동",
+    "deltas": {
+     "views_now": 261267,
+     "delta_24h": null,
+     "delta_7d": null,
+     "delta_30d": null,
+     "since_publish_24h": null,
+     "since_publish_7d": null,
+     "since_publish_30d": null
+    },
+    "game_baseline_median_views": 79844.5,
+    "lift_vs_game_baseline": 3.272,
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
+    "fetched_at": "2026-11-10T00:25:54+09:00"
+   },
+   "last_updated": "2026-11-10T00:25:54+09:00"
+  },
   {
    "character_id": "genshin-a2fbc1b95d",
    "name": {
@@ -14,7 +65,7 @@
    "game_id": "genshin",
    "hold": false,
    "hold_reason": null,
-   "rank_absolute": 1,
+   "rank_absolute": 2,
    "rank_growth": null,
    "absolute": {
     "views": 134926,
@@ -35,7 +86,7 @@
     "thumb": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T13:00:36+09:00",
-    "age_hours": 153.9,
+    "age_hours": 155.4,
     "views_absolute": 134926,
     "likes": null,
     "comments": null,
@@ -52,9 +103,60 @@
     "game_baseline_median_views": 54990.0,
     "lift_vs_game_baseline": 2.454,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-09T22:54:21+09:00"
+    "fetched_at": "2026-11-10T00:25:54+09:00"
    },
-   "last_updated": "2026-11-09T22:54:21+09:00"
+   "last_updated": "2026-11-10T00:25:54+09:00"
+  },
+  {
+   "character_id": "zzz-severian",
+   "name": {
+    "ko": "세베리안",
+    "en": null
+   },
+   "game_id": "zzz",
+   "hold": false,
+   "hold_reason": null,
+   "rank_absolute": 3,
+   "rank_growth": null,
+   "absolute": {
+    "views": 106775,
+    "lift_vs_game_baseline": 0.913
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": {
+    "video_id": "OcDcxORlzmY",
+    "title": "세베리안 캐릭터 플레이 「감찰관은 어떻게 단련되었는가」 | 젠레스 존 제로",
+    "url": "https://www.youtube.com/watch?v=OcDcxORlzmY",
+    "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
+    "channel_region": "Global",
+    "published": "2026-11-06T12:59:56+09:00",
+    "age_hours": 83.4,
+    "views_absolute": 106775,
+    "likes": null,
+    "comments": null,
+    "likes_comments_status": "미연동",
+    "deltas": {
+     "views_now": 106775,
+     "delta_24h": null,
+     "delta_7d": null,
+     "delta_30d": null,
+     "since_publish_24h": null,
+     "since_publish_7d": null,
+     "since_publish_30d": null
+    },
+    "game_baseline_median_views": 116906,
+    "lift_vs_game_baseline": 0.913,
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
+    "fetched_at": "2026-11-10T00:25:54+09:00"
+   },
+   "last_updated": "2026-11-10T00:25:54+09:00"
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -66,7 +168,7 @@
    "game_id": "genshin",
    "hold": false,
    "hold_reason": null,
-   "rank_absolute": 2,
+   "rank_absolute": 4,
    "rank_growth": null,
    "absolute": {
     "views": 70442,
@@ -87,7 +189,7 @@
     "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-02T13:00:00+09:00",
-    "age_hours": 177.9,
+    "age_hours": 179.4,
     "views_absolute": 70442,
     "likes": null,
     "comments": null,
@@ -104,9 +206,162 @@
     "game_baseline_median_views": 54990.0,
     "lift_vs_game_baseline": 1.281,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-09T22:54:21+09:00"
+    "fetched_at": "2026-11-10T00:25:54+09:00"
    },
-   "last_updated": "2026-11-09T22:54:21+09:00"
+   "last_updated": "2026-11-10T00:25:54+09:00"
+  },
+  {
+   "character_id": "wuwa-lily",
+   "name": {
+    "ko": "릴리",
+    "en": "Lily"
+   },
+   "game_id": "wuwa",
+   "hold": false,
+   "hold_reason": null,
+   "rank_absolute": 5,
+   "rank_growth": null,
+   "absolute": {
+    "views": 55718,
+    "lift_vs_game_baseline": 1.642
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": {
+    "video_id": "jQfuUUFPf8s",
+    "title": "공명자 전투 모션 | 릴리",
+    "url": "https://www.youtube.com/watch?v=jQfuUUFPf8s",
+    "thumb": "https://i.ytimg.com/vi/jQfuUUFPf8s/hqdefault.jpg",
+    "channel_region": "Global",
+    "published": "2026-11-08T12:00:24+09:00",
+    "age_hours": 36.4,
+    "views_absolute": 55718,
+    "likes": null,
+    "comments": null,
+    "likes_comments_status": "미연동",
+    "deltas": {
+     "views_now": 55718,
+     "delta_24h": null,
+     "delta_7d": null,
+     "delta_30d": null,
+     "since_publish_24h": null,
+     "since_publish_7d": null,
+     "since_publish_30d": null
+    },
+    "game_baseline_median_views": 33942,
+    "lift_vs_game_baseline": 1.642,
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
+    "fetched_at": "2026-11-10T00:25:54+09:00"
+   },
+   "last_updated": "2026-11-10T00:25:54+09:00"
+  },
+  {
+   "character_id": "nte-elim",
+   "name": {
+    "ko": "엘림",
+    "en": null
+   },
+   "game_id": "nte",
+   "hold": false,
+   "hold_reason": null,
+   "rank_absolute": 6,
+   "rank_growth": null,
+   "absolute": {
+    "views": 52895,
+    "lift_vs_game_baseline": 14.381
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": {
+    "video_id": "MK4bIOILTHM",
+    "title": "이환 캐릭터 쇼케이스丨엘림",
+    "url": "https://www.youtube.com/watch?v=MK4bIOILTHM",
+    "thumb": "https://i.ytimg.com/vi/MK4bIOILTHM/hqdefault.jpg",
+    "channel_region": "Global",
+    "published": "2026-11-05T12:00:30+09:00",
+    "age_hours": 108.4,
+    "views_absolute": 52895,
+    "likes": null,
+    "comments": null,
+    "likes_comments_status": "미연동",
+    "deltas": {
+     "views_now": 52895,
+     "delta_24h": null,
+     "delta_7d": null,
+     "delta_30d": null,
+     "since_publish_24h": null,
+     "since_publish_7d": null,
+     "since_publish_30d": null
+    },
+    "game_baseline_median_views": 3678,
+    "lift_vs_game_baseline": 14.381,
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
+    "fetched_at": "2026-11-10T00:25:54+09:00"
+   },
+   "last_updated": "2026-11-10T00:25:54+09:00"
+  },
+  {
+   "character_id": "endfield-mingha",
+   "name": {
+    "ko": "명하",
+    "en": null
+   },
+   "game_id": "endfield",
+   "hold": false,
+   "hold_reason": null,
+   "rank_absolute": 7,
+   "rank_growth": null,
+   "absolute": {
+    "views": 26620,
+    "lift_vs_game_baseline": 1.344
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": {
+    "video_id": "HWsEtcPe1d4",
+    "title": "「명일방주: 엔드필드」 오퍼레이터 쇼케이스 영상 - 명하 #명일방주엔드필드 #엔드필드 #단청도",
+    "url": "https://www.youtube.com/shorts/HWsEtcPe1d4",
+    "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
+    "channel_region": "Global",
+    "published": "2026-11-03T19:00:38+09:00",
+    "age_hours": 149.4,
+    "views_absolute": 26620,
+    "likes": null,
+    "comments": null,
+    "likes_comments_status": "미연동",
+    "deltas": {
+     "views_now": 26620,
+     "delta_24h": null,
+     "delta_7d": null,
+     "delta_30d": null,
+     "since_publish_24h": null,
+     "since_publish_7d": null,
+     "since_publish_30d": null
+    },
+    "game_baseline_median_views": 19806,
+    "lift_vs_game_baseline": 1.344,
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
+    "fetched_at": "2026-11-10T00:25:54+09:00"
+   },
+   "last_updated": "2026-11-10T00:25:54+09:00"
   }
  ],
  "growth_ranking": [],
@@ -121,7 +376,7 @@
    "game_id": "genshin",
    "hold": false,
    "hold_reason": null,
-   "rank_absolute": 1,
+   "rank_absolute": 2,
    "rank_growth": null,
    "absolute": {
     "views": 134926,
@@ -142,7 +397,7 @@
     "thumb": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T13:00:36+09:00",
-    "age_hours": 153.9,
+    "age_hours": 155.4,
     "views_absolute": 134926,
     "likes": null,
     "comments": null,
@@ -159,10 +414,21 @@
     "game_baseline_median_views": 54990.0,
     "lift_vs_game_baseline": 2.454,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-09T22:54:21+09:00"
+    "fetched_at": "2026-11-10T00:25:54+09:00"
    },
-   "last_updated": "2026-11-09T22:54:21+09:00",
-   "related_posts": []
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -174,7 +440,7 @@
    "game_id": "genshin",
    "hold": false,
    "hold_reason": null,
-   "rank_absolute": 2,
+   "rank_absolute": 4,
    "rank_growth": null,
    "absolute": {
     "views": 70442,
@@ -195,7 +461,7 @@
     "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-02T13:00:00+09:00",
-    "age_hours": 177.9,
+    "age_hours": 179.4,
     "views_absolute": 70442,
     "likes": null,
     "comments": null,
@@ -212,9 +478,428 @@
     "game_baseline_median_views": 54990.0,
     "lift_vs_game_baseline": 1.281,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-09T22:54:21+09:00"
+    "fetched_at": "2026-11-10T00:25:54+09:00"
    },
-   "last_updated": "2026-11-09T22:54:21+09:00",
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "starrail-aha",
+   "name": {
+    "ko": "에이언즈★아하",
+    "en": "Aha"
+   },
+   "game_id": "starrail",
+   "hold": false,
+   "hold_reason": null,
+   "rank_absolute": 1,
+   "rank_growth": null,
+   "absolute": {
+    "views": 261267,
+    "lift_vs_game_baseline": 3.272
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": {
+    "video_id": "T1d3GwCDG8w",
+    "title": "캐릭터 PV 에이언즈★아하——「주사위를 날려라」|〈붕괴: 스타레일〉",
+    "url": "https://www.youtube.com/watch?v=T1d3GwCDG8w",
+    "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
+    "channel_region": "Global",
+    "published": "2026-11-08T13:00:19+09:00",
+    "age_hours": 35.4,
+    "views_absolute": 261267,
+    "likes": null,
+    "comments": null,
+    "likes_comments_status": "미연동",
+    "deltas": {
+     "views_now": 261267,
+     "delta_24h": null,
+     "delta_7d": null,
+     "delta_30d": null,
+     "since_publish_24h": null,
+     "since_publish_7d": null,
+     "since_publish_30d": null
+    },
+    "game_baseline_median_views": 79844.5,
+    "lift_vs_game_baseline": 3.272,
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
+    "fetched_at": "2026-11-10T00:25:54+09:00"
+   },
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": [
+    {
+     "title": "스타레일 4.7 아하 픽업 정리 | 11월 11일 시작, 황천&middot;음월&middot;경원은 12월 2일 후반 복각",
+     "url": "https://news84034.tistory.com/11",
+     "published": "Mon, 9 Nov 2026 12:00:55 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "genshin-danika",
+   "name": {
+    "ko": "다니카",
+    "en": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "공식 PV 매칭 없음",
+   "rank_absolute": null,
+   "rank_growth": null,
+   "absolute": {
+    "views": null,
+    "lift_vs_game_baseline": null
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": null,
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "genshin-anastasia",
+   "name": {
+    "ko": "아나스타샤",
+    "en": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "공식 PV 매칭 없음",
+   "rank_absolute": null,
+   "rank_growth": null,
+   "absolute": {
+    "views": null,
+    "lift_vs_game_baseline": null
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": null,
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "zzz-severian",
+   "name": {
+    "ko": "세베리안",
+    "en": null
+   },
+   "game_id": "zzz",
+   "hold": false,
+   "hold_reason": null,
+   "rank_absolute": 3,
+   "rank_growth": null,
+   "absolute": {
+    "views": 106775,
+    "lift_vs_game_baseline": 0.913
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": {
+    "video_id": "OcDcxORlzmY",
+    "title": "세베리안 캐릭터 플레이 「감찰관은 어떻게 단련되었는가」 | 젠레스 존 제로",
+    "url": "https://www.youtube.com/watch?v=OcDcxORlzmY",
+    "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
+    "channel_region": "Global",
+    "published": "2026-11-06T12:59:56+09:00",
+    "age_hours": 83.4,
+    "views_absolute": 106775,
+    "likes": null,
+    "comments": null,
+    "likes_comments_status": "미연동",
+    "deltas": {
+     "views_now": 106775,
+     "delta_24h": null,
+     "delta_7d": null,
+     "delta_30d": null,
+     "since_publish_24h": null,
+     "since_publish_7d": null,
+     "since_publish_30d": null
+    },
+    "game_baseline_median_views": 116906,
+    "lift_vs_game_baseline": 0.913,
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
+    "fetched_at": "2026-11-10T00:25:54+09:00"
+   },
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": [
+    {
+     "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 11월 11일 시작, 노르마 복각",
+     "url": "https://news84034.tistory.com/12",
+     "published": "Mon, 9 Nov 2026 15:20:23 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "wuwa-lily",
+   "name": {
+    "ko": "릴리",
+    "en": "Lily"
+   },
+   "game_id": "wuwa",
+   "hold": false,
+   "hold_reason": null,
+   "rank_absolute": 5,
+   "rank_growth": null,
+   "absolute": {
+    "views": 55718,
+    "lift_vs_game_baseline": 1.642
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": {
+    "video_id": "jQfuUUFPf8s",
+    "title": "공명자 전투 모션 | 릴리",
+    "url": "https://www.youtube.com/watch?v=jQfuUUFPf8s",
+    "thumb": "https://i.ytimg.com/vi/jQfuUUFPf8s/hqdefault.jpg",
+    "channel_region": "Global",
+    "published": "2026-11-08T12:00:24+09:00",
+    "age_hours": 36.4,
+    "views_absolute": 55718,
+    "likes": null,
+    "comments": null,
+    "likes_comments_status": "미연동",
+    "deltas": {
+     "views_now": 55718,
+     "delta_24h": null,
+     "delta_7d": null,
+     "delta_30d": null,
+     "since_publish_24h": null,
+     "since_publish_7d": null,
+     "since_publish_30d": null
+    },
+    "game_baseline_median_views": 33942,
+    "lift_vs_game_baseline": 1.642,
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
+    "fetched_at": "2026-11-10T00:25:54+09:00"
+   },
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": [
+    {
+     "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
+     "url": "https://news84034.tistory.com/13",
+     "published": "Mon, 9 Nov 2026 18:39:39 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "nte-elim",
+   "name": {
+    "ko": "엘림",
+    "en": null
+   },
+   "game_id": "nte",
+   "hold": false,
+   "hold_reason": null,
+   "rank_absolute": 6,
+   "rank_growth": null,
+   "absolute": {
+    "views": 52895,
+    "lift_vs_game_baseline": 14.381
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": {
+    "video_id": "MK4bIOILTHM",
+    "title": "이환 캐릭터 쇼케이스丨엘림",
+    "url": "https://www.youtube.com/watch?v=MK4bIOILTHM",
+    "thumb": "https://i.ytimg.com/vi/MK4bIOILTHM/hqdefault.jpg",
+    "channel_region": "Global",
+    "published": "2026-11-05T12:00:30+09:00",
+    "age_hours": 108.4,
+    "views_absolute": 52895,
+    "likes": null,
+    "comments": null,
+    "likes_comments_status": "미연동",
+    "deltas": {
+     "views_now": 52895,
+     "delta_24h": null,
+     "delta_7d": null,
+     "delta_30d": null,
+     "since_publish_24h": null,
+     "since_publish_7d": null,
+     "since_publish_30d": null
+    },
+    "game_baseline_median_views": 3678,
+    "lift_vs_game_baseline": 14.381,
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
+    "fetched_at": "2026-11-10T00:25:54+09:00"
+   },
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-exe",
+   "name": {
+    "ko": "Exe",
+    "en": "Exe"
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "공식 PV 매칭 없음",
+   "rank_absolute": null,
+   "rank_growth": null,
+   "absolute": {
+    "views": null,
+    "lift_vs_game_baseline": null
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": null,
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": []
+  },
+  {
+   "character_id": "endfield-mingha",
+   "name": {
+    "ko": "명하",
+    "en": null
+   },
+   "game_id": "endfield",
+   "hold": false,
+   "hold_reason": null,
+   "rank_absolute": 7,
+   "rank_growth": null,
+   "absolute": {
+    "views": 26620,
+    "lift_vs_game_baseline": 1.344
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": {
+    "video_id": "HWsEtcPe1d4",
+    "title": "「명일방주: 엔드필드」 오퍼레이터 쇼케이스 영상 - 명하 #명일방주엔드필드 #엔드필드 #단청도",
+    "url": "https://www.youtube.com/shorts/HWsEtcPe1d4",
+    "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
+    "channel_region": "Global",
+    "published": "2026-11-03T19:00:38+09:00",
+    "age_hours": 149.4,
+    "views_absolute": 26620,
+    "likes": null,
+    "comments": null,
+    "likes_comments_status": "미연동",
+    "deltas": {
+     "views_now": 26620,
+     "delta_24h": null,
+     "delta_7d": null,
+     "delta_30d": null,
+     "since_publish_24h": null,
+     "since_publish_7d": null,
+     "since_publish_30d": null
+    },
+    "game_baseline_median_views": 19806,
+    "lift_vs_game_baseline": 1.344,
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
+    "fetched_at": "2026-11-10T00:25:54+09:00"
+   },
+   "last_updated": "2026-11-10T00:25:54+09:00",
+   "related_posts": []
+  },
+  {
+   "character_id": "trickcal-dudu",
+   "name": {
+    "ko": "두두",
+    "en": null
+   },
+   "game_id": "trickcal",
+   "hold": true,
+   "hold_reason": "공식 PV 매칭 없음",
+   "rank_absolute": null,
+   "rank_growth": null,
+   "absolute": {
+    "views": null,
+    "lift_vs_game_baseline": null
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": null,
+   "last_updated": "2026-11-10T00:25:54+09:00",
    "related_posts": []
   }
  ],

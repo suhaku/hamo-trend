@@ -22,6 +22,16 @@ Optional `related_posts` from https://news84034.tistory.com/rss (read-only).
 - Unsure extractions go to `data/pending_review.json` (not shown on the main widget).
 - Weapon banners and junk tokens (열쇠, 상점, …) are skipped.
 
+## Auto-discovery of new reveals
+- HoYo games: official HoYoWiki catalog (`sg-wiki-api-static.hoyolab.com`, read-only). New entry vs `data/rosters/wiki_seen/{game}.json` → NEW candidate. HoYo pickup names not in the catalog (light cones, W-engines) are dropped.
+- All games: official channel titles (YouTube RSS, HoYoLAB KR, Naver lounge GM) matching character-demo formats (`REVEAL_PATTERNS` in collect.py, e.g. 캐릭터 트레일러 / 캐릭터 프리뷰 / 에이전트 파일 / 공명자 화면 / 오퍼레이터 전투 시연 / 【NIKKE 소개】 / 신규 사도).
+- Roster `revealed_unreleased` = revealed earlier, not yet released (not a rerun). After a debut month ends, the name is auto-appended to `auto_added`.
+- Month rule: revealed this month OR released / debut pickup this month.
+- Manual: `overrides.json → verified_new_characters` (each must carry official `source_urls`).
+
+## Source links
+`source_url` is always a reader page (HoYoLAB article, Naver lounge post, official YouTube/X). Raw APIs go to `api_source` and are never linked; `source_label` is shown as text when no page exists.
+
 ## Add a game
 One object in `games.json`. Character aliases in `data/new_characters.json`.
 

@@ -1,7 +1,7 @@
 {
  "status": "ok",
- "generated_at": "2026-11-09T22:54:45+09:00",
- "rule": "점수/100. 결측은 0 아님→재정규화. coverage=수집률. 낮으면 provisional/hold. reliability 별도. 복각 제외. all-time 미합산.",
+ "generated_at": "2026-11-10T00:26:11+09:00",
+ "rule": "100점 만점 · 없는 지표는 0점 처리 없이 나머지로 다시 계산 · 수집률이 낮으면 잠정 또는 보류 · 신뢰도 따로 표시 · 복각 제외 · 역대 기록은 점수에 안 넣음",
  "weights": {
   "youtube_pv": 0.35,
   "google_trends": 0.25,
@@ -10,21 +10,20 @@
  },
  "ranking": [
   {
-   "character_id": "genshin-a2fbc1b95d",
+   "character_id": "starrail-aha",
    "name": {
-    "ko": "미탸",
-    "en": null,
-    "ja": null
+    "ko": "에이언즈★아하",
+    "en": "Aha"
    },
-   "game_id": "genshin",
+   "game_id": "starrail",
    "hold": false,
    "hold_reason": null,
    "rank": 1,
    "score": 100.0,
    "reliability": 0.5,
    "signals": {
-    "youtube_pv_views": 134926,
-    "youtube_pv_lift": 2.454,
+    "youtube_pv_views": 261267,
+    "youtube_pv_lift": 3.272,
     "google_trends": null,
     "google_trends_lift": null,
     "x": null,
@@ -37,9 +36,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 134926,
+   "absolute_views": 261267,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:54:45+09:00",
+   "last_updated": "2026-11-10T00:26:11+09:00",
    "score_raw": 100.0,
    "coverage": 0.5,
    "provisional": true,
@@ -58,8 +57,134 @@
     "x": 0.2,
     "community": 0.2
    },
+   "lift_vs_game_baseline": 3.272,
+   "related_posts": [
+    {
+     "title": "스타레일 4.7 아하 픽업 정리 | 11월 11일 시작, 황천&middot;음월&middot;경원은 12월 2일 후반 복각",
+     "url": "https://news84034.tistory.com/11",
+     "published": "Mon, 9 Nov 2026 12:00:55 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "genshin-a2fbc1b95d",
+   "name": {
+    "ko": "미탸",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": false,
+   "hold_reason": null,
+   "rank": 2,
+   "score": 94.7,
+   "reliability": 0.5,
+   "signals": {
+    "youtube_pv_views": 134926,
+    "youtube_pv_lift": 2.454,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "ok",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": 134926,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": 94.7,
+   "coverage": 0.5,
+   "provisional": true,
+   "used_weights": {
+    "youtube_pv": 1.0
+   },
+   "present_signals": [
+    "youtube_pv"
+   ],
+   "signal_scores_0_100": {
+    "youtube_pv": 94.7
+   },
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
    "lift_vs_game_baseline": 2.454,
-   "related_posts": []
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "zzz-severian",
+   "name": {
+    "ko": "세베리안",
+    "en": null
+   },
+   "game_id": "zzz",
+   "hold": false,
+   "hold_reason": null,
+   "rank": 3,
+   "score": 92.83,
+   "reliability": 0.5,
+   "signals": {
+    "youtube_pv_views": 106775,
+    "youtube_pv_lift": 0.913,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "ok",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": 106775,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": 92.83,
+   "coverage": 0.5,
+   "provisional": true,
+   "used_weights": {
+    "youtube_pv": 1.0
+   },
+   "present_signals": [
+    "youtube_pv"
+   ],
+   "signal_scores_0_100": {
+    "youtube_pv": 92.83
+   },
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": 0.913,
+   "related_posts": [
+    {
+     "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 11월 11일 시작, 노르마 복각",
+     "url": "https://news84034.tistory.com/12",
+     "published": "Mon, 9 Nov 2026 15:20:23 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -71,8 +196,8 @@
    "game_id": "genshin",
    "hold": false,
    "hold_reason": null,
-   "rank": 2,
-   "score": 94.5,
+   "rank": 4,
+   "score": 89.49,
    "reliability": 0.5,
    "signals": {
     "youtube_pv_views": 70442,
@@ -91,8 +216,8 @@
    },
    "absolute_views": 70442,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:54:45+09:00",
-   "score_raw": 94.5,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": 89.49,
    "coverage": 0.5,
    "provisional": true,
    "used_weights": {
@@ -102,7 +227,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 94.5
+    "youtube_pv": 89.49
    },
    "weights_config": {
     "youtube_pv": 0.35,
@@ -111,10 +236,383 @@
     "community": 0.2
    },
    "lift_vs_game_baseline": 1.281,
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "wuwa-lily",
+   "name": {
+    "ko": "릴리",
+    "en": "Lily"
+   },
+   "game_id": "wuwa",
+   "hold": false,
+   "hold_reason": null,
+   "rank": 5,
+   "score": 87.61,
+   "reliability": 0.5,
+   "signals": {
+    "youtube_pv_views": 55718,
+    "youtube_pv_lift": 1.642,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "ok",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": 55718,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": 87.61,
+   "coverage": 0.5,
+   "provisional": true,
+   "used_weights": {
+    "youtube_pv": 1.0
+   },
+   "present_signals": [
+    "youtube_pv"
+   ],
+   "signal_scores_0_100": {
+    "youtube_pv": 87.61
+   },
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": 1.642,
+   "related_posts": [
+    {
+     "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
+     "url": "https://news84034.tistory.com/13",
+     "published": "Mon, 9 Nov 2026 18:39:39 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "nte-elim",
+   "name": {
+    "ko": "엘림",
+    "en": null
+   },
+   "game_id": "nte",
+   "hold": false,
+   "hold_reason": null,
+   "rank": 6,
+   "score": 87.19,
+   "reliability": 0.5,
+   "signals": {
+    "youtube_pv_views": 52895,
+    "youtube_pv_lift": 14.381,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "ok",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": 52895,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": 87.19,
+   "coverage": 0.5,
+   "provisional": true,
+   "used_weights": {
+    "youtube_pv": 1.0
+   },
+   "present_signals": [
+    "youtube_pv"
+   ],
+   "signal_scores_0_100": {
+    "youtube_pv": 87.19
+   },
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": 14.381,
+   "related_posts": []
+  },
+  {
+   "character_id": "endfield-mingha",
+   "name": {
+    "ko": "명하",
+    "en": null
+   },
+   "game_id": "endfield",
+   "hold": false,
+   "hold_reason": null,
+   "rank": 7,
+   "score": 81.69,
+   "reliability": 0.5,
+   "signals": {
+    "youtube_pv_views": 26620,
+    "youtube_pv_lift": 1.344,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "ok",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": 26620,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": 81.69,
+   "coverage": 0.5,
+   "provisional": true,
+   "used_weights": {
+    "youtube_pv": 1.0
+   },
+   "present_signals": [
+    "youtube_pv"
+   ],
+   "signal_scores_0_100": {
+    "youtube_pv": 81.69
+   },
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": 1.344,
    "related_posts": []
   }
  ],
- "held": [],
+ "held": [
+  {
+   "character_id": "genshin-danika",
+   "name": {
+    "ko": "다니카",
+    "en": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "genshin-anastasia",
+   "name": {
+    "ko": "아나스타샤",
+    "en": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "nte-exe",
+   "name": {
+    "ko": "Exe",
+    "en": "Exe"
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "trickcal-dudu",
+   "name": {
+    "ko": "두두",
+    "en": null
+   },
+   "game_id": "trickcal",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  }
+ ],
  "all": [
   {
    "character_id": "genshin-a2fbc1b95d",
@@ -126,8 +624,8 @@
    "game_id": "genshin",
    "hold": false,
    "hold_reason": null,
-   "rank": 1,
-   "score": 100.0,
+   "rank": 2,
+   "score": 94.7,
    "reliability": 0.5,
    "signals": {
     "youtube_pv_views": 134926,
@@ -146,8 +644,8 @@
    },
    "absolute_views": 134926,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:54:45+09:00",
-   "score_raw": 100.0,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": 94.7,
    "coverage": 0.5,
    "provisional": true,
    "used_weights": {
@@ -157,7 +655,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 100.0
+    "youtube_pv": 94.7
    },
    "weights_config": {
     "youtube_pv": 0.35,
@@ -166,7 +664,18 @@
     "community": 0.2
    },
    "lift_vs_game_baseline": 2.454,
-   "related_posts": []
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -178,8 +687,8 @@
    "game_id": "genshin",
    "hold": false,
    "hold_reason": null,
-   "rank": 2,
-   "score": 94.5,
+   "rank": 4,
+   "score": 89.49,
    "reliability": 0.5,
    "signals": {
     "youtube_pv_views": 70442,
@@ -198,8 +707,8 @@
    },
    "absolute_views": 70442,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-09T22:54:45+09:00",
-   "score_raw": 94.5,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": 89.49,
    "coverage": 0.5,
    "provisional": true,
    "used_weights": {
@@ -209,7 +718,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 94.5
+    "youtube_pv": 89.49
    },
    "weights_config": {
     "youtube_pv": 0.35,
@@ -218,6 +727,492 @@
     "community": 0.2
    },
    "lift_vs_game_baseline": 1.281,
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "starrail-aha",
+   "name": {
+    "ko": "에이언즈★아하",
+    "en": "Aha"
+   },
+   "game_id": "starrail",
+   "hold": false,
+   "hold_reason": null,
+   "rank": 1,
+   "score": 100.0,
+   "reliability": 0.5,
+   "signals": {
+    "youtube_pv_views": 261267,
+    "youtube_pv_lift": 3.272,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "ok",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": 261267,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": 100.0,
+   "coverage": 0.5,
+   "provisional": true,
+   "used_weights": {
+    "youtube_pv": 1.0
+   },
+   "present_signals": [
+    "youtube_pv"
+   ],
+   "signal_scores_0_100": {
+    "youtube_pv": 100.0
+   },
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": 3.272,
+   "related_posts": [
+    {
+     "title": "스타레일 4.7 아하 픽업 정리 | 11월 11일 시작, 황천&middot;음월&middot;경원은 12월 2일 후반 복각",
+     "url": "https://news84034.tistory.com/11",
+     "published": "Mon, 9 Nov 2026 12:00:55 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "genshin-danika",
+   "name": {
+    "ko": "다니카",
+    "en": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "genshin-anastasia",
+   "name": {
+    "ko": "아나스타샤",
+    "en": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": [
+    {
+     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
+     "url": "https://news84034.tistory.com/8",
+     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
+    },
+    {
+     "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
+     "url": "https://news84034.tistory.com/5",
+     "published": "Sat, 7 Nov 2026 19:09:21 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "zzz-severian",
+   "name": {
+    "ko": "세베리안",
+    "en": null
+   },
+   "game_id": "zzz",
+   "hold": false,
+   "hold_reason": null,
+   "rank": 3,
+   "score": 92.83,
+   "reliability": 0.5,
+   "signals": {
+    "youtube_pv_views": 106775,
+    "youtube_pv_lift": 0.913,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "ok",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": 106775,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": 92.83,
+   "coverage": 0.5,
+   "provisional": true,
+   "used_weights": {
+    "youtube_pv": 1.0
+   },
+   "present_signals": [
+    "youtube_pv"
+   ],
+   "signal_scores_0_100": {
+    "youtube_pv": 92.83
+   },
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": 0.913,
+   "related_posts": [
+    {
+     "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 11월 11일 시작, 노르마 복각",
+     "url": "https://news84034.tistory.com/12",
+     "published": "Mon, 9 Nov 2026 15:20:23 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "wuwa-lily",
+   "name": {
+    "ko": "릴리",
+    "en": "Lily"
+   },
+   "game_id": "wuwa",
+   "hold": false,
+   "hold_reason": null,
+   "rank": 5,
+   "score": 87.61,
+   "reliability": 0.5,
+   "signals": {
+    "youtube_pv_views": 55718,
+    "youtube_pv_lift": 1.642,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "ok",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": 55718,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": 87.61,
+   "coverage": 0.5,
+   "provisional": true,
+   "used_weights": {
+    "youtube_pv": 1.0
+   },
+   "present_signals": [
+    "youtube_pv"
+   ],
+   "signal_scores_0_100": {
+    "youtube_pv": 87.61
+   },
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": 1.642,
+   "related_posts": [
+    {
+     "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
+     "url": "https://news84034.tistory.com/13",
+     "published": "Mon, 9 Nov 2026 18:39:39 +0900"
+    }
+   ]
+  },
+  {
+   "character_id": "nte-elim",
+   "name": {
+    "ko": "엘림",
+    "en": null
+   },
+   "game_id": "nte",
+   "hold": false,
+   "hold_reason": null,
+   "rank": 6,
+   "score": 87.19,
+   "reliability": 0.5,
+   "signals": {
+    "youtube_pv_views": 52895,
+    "youtube_pv_lift": 14.381,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "ok",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": 52895,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": 87.19,
+   "coverage": 0.5,
+   "provisional": true,
+   "used_weights": {
+    "youtube_pv": 1.0
+   },
+   "present_signals": [
+    "youtube_pv"
+   ],
+   "signal_scores_0_100": {
+    "youtube_pv": 87.19
+   },
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": 14.381,
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-exe",
+   "name": {
+    "ko": "Exe",
+    "en": "Exe"
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "endfield-mingha",
+   "name": {
+    "ko": "명하",
+    "en": null
+   },
+   "game_id": "endfield",
+   "hold": false,
+   "hold_reason": null,
+   "rank": 7,
+   "score": 81.69,
+   "reliability": 0.5,
+   "signals": {
+    "youtube_pv_views": 26620,
+    "youtube_pv_lift": 1.344,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "ok",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": 26620,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": 81.69,
+   "coverage": 0.5,
+   "provisional": true,
+   "used_weights": {
+    "youtube_pv": 1.0
+   },
+   "present_signals": [
+    "youtube_pv"
+   ],
+   "signal_scores_0_100": {
+    "youtube_pv": 81.69
+   },
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": 1.344,
+   "related_posts": []
+  },
+  {
+   "character_id": "trickcal-dudu",
+   "name": {
+    "ko": "두두",
+    "en": null
+   },
+   "game_id": "trickcal",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-10T00:26:11+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
    "related_posts": []
   }
  ],

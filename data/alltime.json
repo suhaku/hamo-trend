@@ -5,6 +5,24 @@
    "game_id": "starrail",
    "alltime_new_character_ranking": [
     {
+     "character_id": "starrail-aha",
+     "name": {
+      "ko": "에이언즈★아하",
+      "en": "Aha"
+     },
+     "is_new": true,
+     "is_rerun": false,
+     "reveal_date": "2026-10-30",
+     "peak_pv_views": 303329.0,
+     "peak_lift": 3.799,
+     "peak_trends": null,
+     "recorded_delta_24h": null,
+     "recorded_delta_7d": null,
+     "recorded_delta_30d": null,
+     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+     "alltime_rank": 1
+    },
+    {
      "character_id": "starrail-castorice",
      "name": {
       "ko": "카스토리스",
@@ -43,7 +61,24 @@
      "alltime_rank": null
     }
    ],
-   "alltime_top_character": null,
+   "alltime_top_character": {
+    "character_id": "starrail-aha",
+    "name": {
+     "ko": "에이언즈★아하",
+     "en": "Aha"
+    },
+    "is_new": true,
+    "is_rerun": false,
+    "reveal_date": "2026-10-30",
+    "peak_pv_views": 303329.0,
+    "peak_lift": 3.799,
+    "peak_trends": null,
+    "recorded_delta_24h": null,
+    "recorded_delta_7d": null,
+    "recorded_delta_30d": null,
+    "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+    "alltime_rank": 1
+   },
    "pickup_rerun_history": [
     {
      "character_id": null,
@@ -59,6 +94,14 @@
      "end": "2026-11-10 15:00:00",
      "is_rerun": true,
      "source_url": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+     "title": "4.6 버전 이벤트 워프 (2)"
+    },
+    {
+     "character_id": null,
+     "start": "2026-10-20 07:00:00",
+     "end": "2026-11-10 15:00:00",
+     "is_rerun": true,
+     "source_url": "https://www.hoyolab.com/article/47142215",
      "title": "4.6 버전 이벤트 워프 (2)"
     },
     {
@@ -91,7 +134,7 @@
      },
      "is_new": true,
      "is_rerun": false,
-     "reveal_date": "2026-11-02",
+     "reveal_date": "2026-10-29",
      "peak_pv_views": 134926.0,
      "peak_lift": 2.454,
      "peak_trends": null,
@@ -110,7 +153,7 @@
      },
      "is_new": true,
      "is_rerun": false,
-     "reveal_date": "2026-11-02",
+     "reveal_date": "2026-10-28",
      "peak_pv_views": 70442.0,
      "peak_lift": 1.281,
      "peak_trends": null,
@@ -252,6 +295,42 @@
      "recorded_delta_30d": null,
      "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
      "alltime_rank": null
+    },
+    {
+     "character_id": "genshin-danika",
+     "name": {
+      "ko": "다니카",
+      "en": null
+     },
+     "is_new": true,
+     "is_rerun": false,
+     "reveal_date": "2026-11-07",
+     "peak_pv_views": null,
+     "peak_lift": null,
+     "peak_trends": null,
+     "recorded_delta_24h": null,
+     "recorded_delta_7d": null,
+     "recorded_delta_30d": null,
+     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+     "alltime_rank": null
+    },
+    {
+     "character_id": "genshin-anastasia",
+     "name": {
+      "ko": "아나스타샤",
+      "en": null
+     },
+     "is_new": true,
+     "is_rerun": false,
+     "reveal_date": "2026-11-06",
+     "peak_pv_views": null,
+     "peak_lift": null,
+     "peak_trends": null,
+     "recorded_delta_24h": null,
+     "recorded_delta_7d": null,
+     "recorded_delta_30d": null,
+     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+     "alltime_rank": null
     }
    ],
    "alltime_top_character": {
@@ -263,7 +342,7 @@
     },
     "is_new": true,
     "is_rerun": false,
-    "reveal_date": "2026-11-02",
+    "reveal_date": "2026-10-29",
     "peak_pv_views": 134926.0,
     "peak_lift": 2.454,
     "peak_trends": null,
@@ -281,19 +360,124 @@
      "is_rerun": false,
      "source_url": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
      "title": "「만물의 법칙」 기원: 「규칙 파괴자·미탸(번개)」 확률 UP!"
+    },
+    {
+     "character_id": null,
+     "start": "2026-11-02 12:00:00",
+     "end": "2026-11-24 17:59:00",
+     "is_rerun": false,
+     "source_url": "https://www.hoyolab.com/article/47284164",
+     "title": "「만물의 법칙」 기원: 「규칙 파괴자·미탸(번개)」 확률 UP!"
+    },
+    {
+     "character_id": null,
+     "start": "2026-11-02 12:00:00",
+     "end": "2026-11-24 17:59:00",
+     "is_rerun": false,
+     "source_url": "https://www.hoyolab.com/article/47284168",
+     "title": "「만물의 법칙」 기원: 「규칙 파괴자·미탸(번개)」 확률 UP!"
     }
    ]
   },
   "zzz": {
    "game_id": "zzz",
-   "alltime_new_character_ranking": [],
-   "alltime_top_character": null,
-   "pickup_rerun_history": []
+   "alltime_new_character_ranking": [
+    {
+     "character_id": "zzz-severian",
+     "name": {
+      "ko": "세베리안",
+      "en": null
+     },
+     "is_new": true,
+     "is_rerun": false,
+     "reveal_date": "2026-10-23",
+     "peak_pv_views": 106775.0,
+     "peak_lift": 0.913,
+     "peak_trends": null,
+     "recorded_delta_24h": null,
+     "recorded_delta_7d": null,
+     "recorded_delta_30d": null,
+     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+     "alltime_rank": 1
+    }
+   ],
+   "alltime_top_character": {
+    "character_id": "zzz-severian",
+    "name": {
+     "ko": "세베리안",
+     "en": null
+    },
+    "is_new": true,
+    "is_rerun": false,
+    "reveal_date": "2026-10-23",
+    "peak_pv_views": 106775.0,
+    "peak_lift": 0.913,
+    "peak_trends": null,
+    "recorded_delta_24h": null,
+    "recorded_delta_7d": null,
+    "recorded_delta_30d": null,
+    "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+    "alltime_rank": 1
+   },
+   "pickup_rerun_history": [
+    {
+     "character_id": null,
+     "start": "2026-11-11 13:00:00",
+     "end": "2026-12-01 15:59:00",
+     "is_rerun": false,
+     "source_url": "https://www.hoyolab.com/article/47375931",
+     "title": "3.3 버전 기간 한정 채널(하반기)"
+    },
+    {
+     "character_id": null,
+     "start": "2026-10-19 15:00:08",
+     "end": "2026-11-11 12:59:00",
+     "is_rerun": true,
+     "source_url": "https://www.hoyolab.com/article/47131668",
+     "title": "3.3 버전 기간 한정 채널(상반기)"
+    }
+   ]
   },
   "wuwa": {
    "game_id": "wuwa",
-   "alltime_new_character_ranking": [],
-   "alltime_top_character": null,
+   "alltime_new_character_ranking": [
+    {
+     "character_id": "wuwa-lily",
+     "name": {
+      "ko": "릴리",
+      "en": "Lily"
+     },
+     "is_new": true,
+     "is_rerun": false,
+     "reveal_date": "2026-11-07",
+     "peak_pv_views": 55718.0,
+     "peak_lift": 1.642,
+     "peak_trends": null,
+     "recorded_delta_24h": null,
+     "recorded_delta_7d": null,
+     "recorded_delta_30d": null,
+     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+     "alltime_rank": 1
+    }
+   ],
+   "alltime_top_character": {
+    "character_id": "wuwa-lily",
+    "name": {
+     "ko": "릴리",
+     "en": "Lily"
+    },
+    "is_new": true,
+    "is_rerun": false,
+    "reveal_date": "2026-11-07",
+    "peak_pv_views": 55718.0,
+    "peak_lift": 1.642,
+    "peak_trends": null,
+    "recorded_delta_24h": null,
+    "recorded_delta_7d": null,
+    "recorded_delta_30d": null,
+    "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+    "alltime_rank": 1
+   },
    "pickup_rerun_history": []
   },
   "nikke": {
@@ -304,7 +488,26 @@
   },
   "trickcal": {
    "game_id": "trickcal",
-   "alltime_new_character_ranking": [],
+   "alltime_new_character_ranking": [
+    {
+     "character_id": "trickcal-dudu",
+     "name": {
+      "ko": "두두",
+      "en": null
+     },
+     "is_new": true,
+     "is_rerun": false,
+     "reveal_date": "2026-11-03",
+     "peak_pv_views": null,
+     "peak_lift": null,
+     "peak_trends": null,
+     "recorded_delta_24h": null,
+     "recorded_delta_7d": null,
+     "recorded_delta_30d": null,
+     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+     "alltime_rank": null
+    }
+   ],
    "alltime_top_character": null,
    "pickup_rerun_history": [
     {
@@ -349,6 +552,30 @@
     },
     {
      "character_id": null,
+     "start": "2026-11-05",
+     "end": "2026-11-19",
+     "is_rerun": false,
+     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
+     "title": "[이벤트] 신규 픽업 사도 모집 진행 예정 안내(~11월 19일)"
+    },
+    {
+     "character_id": null,
+     "start": "2026-11-05",
+     "end": "2026-11-19",
+     "is_rerun": false,
+     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404614",
+     "title": "[이벤트] 신규 스펙타클 카드 뽑기 예정 안내(~11월 19일)"
+    },
+    {
+     "character_id": null,
+     "start": "2026-10-29",
+     "end": "2026-11-05",
+     "is_rerun": true,
+     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
+     "title": "[이벤트]신규 픽업 사도 모집 진행 예정 안내(~11월 5일)"
+    },
+    {
+     "character_id": null,
      "start": "2026-10-22",
      "end": "2026-10-08",
      "is_rerun": false,
@@ -373,6 +600,22 @@
     },
     {
      "character_id": null,
+     "start": "2026-10-22",
+     "end": "2026-11-05",
+     "is_rerun": false,
+     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8343598",
+     "title": "[이벤트] 신규 픽업 사도 모집 진행 예정 안내(~11월 5일)"
+    },
+    {
+     "character_id": null,
+     "start": "2026-10-22",
+     "end": "2026-11-05",
+     "is_rerun": false,
+     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8343614",
+     "title": "[이벤트] 신규 스펙타클 카드 뽑기 예정 안내(~11월 5일)"
+    },
+    {
+     "character_id": null,
      "start": "2026-10-15",
      "end": "2026-10-08",
      "is_rerun": false,
@@ -384,6 +627,24 @@
   "nte": {
    "game_id": "nte",
    "alltime_new_character_ranking": [
+    {
+     "character_id": "nte-elim",
+     "name": {
+      "ko": "엘림",
+      "en": null
+     },
+     "is_new": true,
+     "is_rerun": false,
+     "reveal_date": "2026-10-29",
+     "peak_pv_views": 52895.0,
+     "peak_lift": 14.381,
+     "peak_trends": null,
+     "recorded_delta_24h": null,
+     "recorded_delta_7d": null,
+     "recorded_delta_30d": null,
+     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+     "alltime_rank": 1
+    },
     {
      "character_id": "nte-char",
      "name": {
@@ -516,9 +777,44 @@
      "recorded_delta_30d": null,
      "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
      "alltime_rank": null
+    },
+    {
+     "character_id": "nte-exe",
+     "name": {
+      "ko": "Exe",
+      "en": "Exe"
+     },
+     "is_new": true,
+     "is_rerun": false,
+     "reveal_date": "2026-10-29",
+     "peak_pv_views": null,
+     "peak_lift": null,
+     "peak_trends": null,
+     "recorded_delta_24h": null,
+     "recorded_delta_7d": null,
+     "recorded_delta_30d": null,
+     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+     "alltime_rank": null
     }
    ],
-   "alltime_top_character": null,
+   "alltime_top_character": {
+    "character_id": "nte-elim",
+    "name": {
+     "ko": "엘림",
+     "en": null
+    },
+    "is_new": true,
+    "is_rerun": false,
+    "reveal_date": "2026-10-29",
+    "peak_pv_views": 52895.0,
+    "peak_lift": 14.381,
+    "peak_trends": null,
+    "recorded_delta_24h": null,
+    "recorded_delta_7d": null,
+    "recorded_delta_30d": null,
+    "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+    "alltime_rank": 1
+   },
    "pickup_rerun_history": [
     {
      "character_id": null,
@@ -564,8 +860,44 @@
   },
   "endfield": {
    "game_id": "endfield",
-   "alltime_new_character_ranking": [],
-   "alltime_top_character": null,
+   "alltime_new_character_ranking": [
+    {
+     "character_id": "endfield-mingha",
+     "name": {
+      "ko": "명하",
+      "en": null
+     },
+     "is_new": true,
+     "is_rerun": false,
+     "reveal_date": "2026-11-02",
+     "peak_pv_views": 26620.0,
+     "peak_lift": 1.344,
+     "peak_trends": null,
+     "recorded_delta_24h": null,
+     "recorded_delta_7d": null,
+     "recorded_delta_30d": null,
+     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+     "alltime_rank": 1
+    }
+   ],
+   "alltime_top_character": {
+    "character_id": "endfield-mingha",
+    "name": {
+     "ko": "명하",
+     "en": null
+    },
+    "is_new": true,
+    "is_rerun": false,
+    "reveal_date": "2026-11-02",
+    "peak_pv_views": 26620.0,
+    "peak_lift": 1.344,
+    "peak_trends": null,
+    "recorded_delta_24h": null,
+    "recorded_delta_7d": null,
+    "recorded_delta_30d": null,
+    "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+    "alltime_rank": 1
+   },
    "pickup_rerun_history": []
   },
   "priconne": {

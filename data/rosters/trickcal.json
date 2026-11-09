@@ -1,10 +1,50 @@
 {
-  "game_id": "trickcal",
-  "note": "Existing Trickcal apostle seed — expand over time.",
-  "updated": "2026-11-09",
-  "names": {
-    "ko": [],
-    "en": [],
-    "ja": []
-  }
+ "game_id": "trickcal",
+ "note": "Partial seed (manual) + pickups seen in official lounge before 2026-11 (코페, 버터, 엘다인). Auto-grows. Names here are never NEW.",
+ "updated": "2026-11-10",
+ "names": {
+  "ko": [
+   "에르핀",
+   "네르",
+   "아이시아",
+   "버터",
+   "코미",
+   "리뉴아",
+   "마요",
+   "셰이디",
+   "벨라",
+   "실피르",
+   "다야",
+   "키디언",
+   "요미",
+   "우이",
+   "클로에",
+   "코페",
+   "엘다인",
+   "림",
+   "시스트",
+   "프리클",
+   "알레트",
+   "루포",
+   "티그",
+   "마에스트로",
+   "나이아",
+   "에피카",
+   "제이드",
+   "아멜리아",
+   "캬롯",
+   "빅우드",
+   "포셔",
+   "레비",
+   "베니",
+   "카렌"
+  ],
+  "en": [],
+  "ja": []
+ },
+ "revealed_unreleased": [],
+ "aliases": {},
+ "auto_added": [
+  "비비"
+ ]
 }

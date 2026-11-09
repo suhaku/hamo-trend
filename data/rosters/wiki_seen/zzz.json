@@ -1,0 +1,331 @@
+{
+ "game_id": "zzz",
+ "entries": {
+  "로빈": {
+   "name": "로빈",
+   "entry_page_id": "1229",
+   "first_seen": null
+  },
+  "카프카": {
+   "name": "카프카",
+   "entry_page_id": "1228",
+   "first_seen": null
+  },
+  "태양을가져온자": {
+   "name": "태양을 가져온 자",
+   "entry_page_id": "1227",
+   "first_seen": null
+  },
+  "세베리안로웰": {
+   "name": "세베리안 로웰",
+   "entry_page_id": "1202",
+   "first_seen": null
+  },
+  "피닉스레파엘라": {
+   "name": "피닉스 레파엘라",
+   "entry_page_id": "1201",
+   "first_seen": null
+  },
+  "록시이프리타프라이스": {
+   "name": "록시 이프리타 프라이스",
+   "entry_page_id": "1186",
+   "first_seen": null
+  },
+  "클라렛플린트": {
+   "name": "클라렛 플린트",
+   "entry_page_id": "1185",
+   "first_seen": null
+  },
+  "시그리드드라주르": {
+   "name": "시그리드 드라주르",
+   "entry_page_id": "1113",
+   "first_seen": null
+  },
+  "레미엘댄": {
+   "name": "레미엘 댄",
+   "entry_page_id": "1112",
+   "first_seen": null
+  },
+  "노르마할로웰": {
+   "name": "노르마 할로웰",
+   "entry_page_id": "1085",
+   "first_seen": null
+  },
+  "벨리나에어기드": {
+   "name": "벨리나 에어기드",
+   "entry_page_id": "1084",
+   "first_seen": null
+  },
+  "피로이스": {
+   "name": "피로이스",
+   "entry_page_id": "1082",
+   "first_seen": null
+  },
+  "스타라이트·빌리": {
+   "name": "스타라이트·빌리",
+   "entry_page_id": "1073",
+   "first_seen": null
+  },
+  "프로미아": {
+   "name": "프로미아",
+   "entry_page_id": "1072",
+   "first_seen": null
+  },
+  "시시아": {
+   "name": "시시아",
+   "entry_page_id": "1039",
+   "first_seen": null
+  },
+  "남궁우": {
+   "name": "남궁우",
+   "entry_page_id": "1038",
+   "first_seen": null
+  },
+  "아리아": {
+   "name": "아리아",
+   "entry_page_id": "998",
+   "first_seen": null
+  },
+  "수나": {
+   "name": "수나",
+   "entry_page_id": "995",
+   "first_seen": null
+  },
+  "엽빛나": {
+   "name": "엽빛나",
+   "entry_page_id": "961",
+   "first_seen": null
+  },
+  "자오": {
+   "name": "자오",
+   "entry_page_id": "960",
+   "first_seen": null
+  },
+  "반악": {
+   "name": "반악",
+   "entry_page_id": "934",
+   "first_seen": null
+  },
+  "다이아린": {
+   "name": "다이아린",
+   "entry_page_id": "932",
+   "first_seen": null
+  },
+  "이드하리머피": {
+   "name": "이드하리 머피",
+   "entry_page_id": "909",
+   "first_seen": null
+  },
+  "코마노마나토": {
+   "name": "코마노 마나토",
+   "entry_page_id": "908",
+   "first_seen": null
+  },
+  "루시아엘로웬": {
+   "name": "루시아 엘로웬",
+   "entry_page_id": "907",
+   "first_seen": null
+  },
+  "오피마그누손&「도깨비불": {
+   "name": "오피 마그누손& 「도깨비불」",
+   "entry_page_id": "902",
+   "first_seen": null
+  },
+  "시드": {
+   "name": "「시드」",
+   "entry_page_id": "901",
+   "first_seen": null
+  },
+  "앨리스타임필드": {
+   "name": "앨리스 타임필드",
+   "entry_page_id": "838",
+   "first_seen": null
+  },
+  "우키나미유즈하": {
+   "name": "우키나미 유즈하",
+   "entry_page_id": "837",
+   "first_seen": null
+  },
+  "의현": {
+   "name": "의현",
+   "entry_page_id": "752",
+   "first_seen": null
+  },
+  "반인호": {
+   "name": "반인호",
+   "entry_page_id": "751",
+   "first_seen": null
+  },
+  "귤복복": {
+   "name": "귤복복",
+   "entry_page_id": "750",
+   "first_seen": null
+  },
+  "휴고블라드": {
+   "name": "휴고 블라드",
+   "entry_page_id": "707",
+   "first_seen": null
+  },
+  "비비안밴시": {
+   "name": "비비안 밴시",
+   "entry_page_id": "626",
+   "first_seen": null
+  },
+  "트리거": {
+   "name": "「트리거」",
+   "entry_page_id": "620",
+   "first_seen": null
+  },
+  "펄크라페리니": {
+   "name": "펄크라 페리니",
+   "entry_page_id": "619",
+   "first_seen": null
+  },
+  "0호·엔비": {
+   "name": "0호·엔비",
+   "entry_page_id": "618",
+   "first_seen": null
+  },
+  "이블린슈발리에": {
+   "name": "이블린 슈발리에",
+   "entry_page_id": "589",
+   "first_seen": null
+  },
+  "아스트라야오": {
+   "name": "아스트라 야오",
+   "entry_page_id": "588",
+   "first_seen": null
+  },
+  "아사바하루마사": {
+   "name": "아사바 하루마사",
+   "entry_page_id": "538",
+   "first_seen": null
+  },
+  "호시미미야비": {
+   "name": "호시미 미야비",
+   "entry_page_id": "537",
+   "first_seen": null
+  },
+  "라이터": {
+   "name": "라이터",
+   "entry_page_id": "530",
+   "first_seen": null
+  },
+  "츠키시로야나기": {
+   "name": "츠키시로 야나기",
+   "entry_page_id": "529",
+   "first_seen": null
+  },
+  "버니스화이트": {
+   "name": "버니스 화이트",
+   "entry_page_id": "382",
+   "first_seen": null
+  },
+  "카이사르킹": {
+   "name": "카이사르 킹",
+   "entry_page_id": "381",
+   "first_seen": null
+  },
+  "세스로웰": {
+   "name": "세스 로웰",
+   "entry_page_id": "369",
+   "first_seen": null
+  },
+  "제인도": {
+   "name": "제인 도",
+   "entry_page_id": "368",
+   "first_seen": null
+  },
+  "청의": {
+   "name": "청의",
+   "entry_page_id": "350",
+   "first_seen": null
+  },
+  "파이퍼휠": {
+   "name": "파이퍼 휠",
+   "entry_page_id": "126",
+   "first_seen": null
+  },
+  "루시아나드몬테피오": {
+   "name": "루시아나 드 몬테피오",
+   "entry_page_id": "125",
+   "first_seen": null
+  },
+  "소우카쿠": {
+   "name": "소우카쿠",
+   "entry_page_id": "89",
+   "first_seen": null
+  },
+  "주연": {
+   "name": "주연",
+   "entry_page_id": "31",
+   "first_seen": null
+  },
+  "알렉산드리나세바스티안": {
+   "name": "알렉산드리나 세바스티안",
+   "entry_page_id": "30",
+   "first_seen": null
+  },
+  "엘렌조": {
+   "name": "엘렌 조",
+   "entry_page_id": "29",
+   "first_seen": null
+  },
+  "본리카온": {
+   "name": "본 리카온",
+   "entry_page_id": "28",
+   "first_seen": null
+  },
+  "그레이스하워드": {
+   "name": "그레이스 하워드",
+   "entry_page_id": "27",
+   "first_seen": null
+  },
+  "콜레다벨로보그": {
+   "name": "콜레다 벨로보그",
+   "entry_page_id": "26",
+   "first_seen": null
+  },
+  "벤비거": {
+   "name": "벤 비거",
+   "entry_page_id": "25",
+   "first_seen": null
+  },
+  "앤톤이바노프": {
+   "name": "앤톤 이바노프",
+   "entry_page_id": "24",
+   "first_seen": null
+  },
+  "코린위크스": {
+   "name": "코린 위크스",
+   "entry_page_id": "23",
+   "first_seen": null
+  },
+  "11호": {
+   "name": "「11호」",
+   "entry_page_id": "22",
+   "first_seen": null
+  },
+  "네코미야마나": {
+   "name": "네코미야 마나",
+   "entry_page_id": "21",
+   "first_seen": null
+  },
+  "니콜데마라": {
+   "name": "니콜 데마라",
+   "entry_page_id": "20",
+   "first_seen": null
+  },
+  "빌리키드": {
+   "name": "빌리 키드",
+   "entry_page_id": "19",
+   "first_seen": null
+  },
+  "엔비데마라": {
+   "name": "엔비 데마라",
+   "entry_page_id": "2",
+   "first_seen": null
+  }
+ },
+ "updated": "2026-11-10T00:25:54+09:00"
+}
