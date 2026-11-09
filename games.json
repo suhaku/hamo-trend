@@ -1,0 +1,23 @@
+{
+  "note": "Add a game = one object. No game-level popularity ranking in this product.",
+  "signals": {
+    "youtube_rss": {"status_default": "ok", "note": "공식 채널 RSS 조회수 스냅샷(최신 15개)"},
+    "youtube_data_api": {"status_default": "미연동", "env": "YOUTUBE_API_KEY", "note": "likes/comments·과거 PV 전체. secret 필요"},
+    "x_api": {"status_default": "미연동", "env": "X_BEARER_TOKEN", "note": "X 반응. secret 필요"},
+    "community_arca": {"status_default": "ok", "note": "신캐 언급 보조 신호(가능 시)"},
+    "google_trends": {"status_default": "ok", "note": "캐릭터명 Trends (일 1회)"},
+    "pickups_official": {"status_default": "ok", "note": "공식 공지 신캐 픽업 일정만"}
+  },
+  "games": [
+    {"id":"starrail","name":"붕괴: 스타레일","trends":"붕괴 스타레일","yt":{"global":"UCH33CJMcI0XZUpIhWRHiUuw","region":"Global"},"arca":"hkstarrail","pickup":{"kind":"hoyo_ann","game":"hkrpg"}},
+    {"id":"genshin","name":"원신","trends":"원신","yt":{"global":"UCcum1rCJ5GJeQ_xv0xrohqg","region":"Global"},"arca":"genshin","pickup":{"kind":"hoyo_ann","game":"hk4e"}},
+    {"id":"zzz","name":"젠레스 존 제로","trends":"젠레스 존 제로","yt":{"global":"UCmry1hfaRHI_iTfxUMhC8mA","region":"Global"},"arca":"zenlesszonezero","pickup":{"kind":"hoyolab_news","gid":8}},
+    {"id":"wuwa","name":"명조: 워더링 웨이브","trends":"명조","yt":{"global":"UCKuq0c-RXYaulECSuu5hFug","region":"Global"},"arca":"wutheringwaves","pickup":{"kind":"naver_lounge","lounge":"WutheringWaves"}},
+    {"id":"nikke","name":"승리의 여신: 니케","trends":"니케","yt":{"global":"UCzoVPjV8FF2om0Zj3XRPwVw","region":"Global"},"arca":"nikketgv","pickup":{"kind":"naver_lounge","lounge":"nikke"}},
+    {"id":"trickcal","name":"트릭컬 리바이브","trends":"트릭컬","yt":{"global":"UCI37oS0O5OlmQNeiyIywEAQ","region":"KR"},"arca":"trickcal","pickup":{"kind":"naver_lounge","lounge":"trickcal"}},
+    {"id":"nte","name":"이환","trends":"이환 게임","yt":{"global":"UC0042GfGERAl0AzXR0j8TPA","region":"Global"},"arca":"nevernesstoeverness","pickup":{"kind":"naver_lounge","lounge":"NTE"}},
+    {"id":"endfield","name":"명일방주: 엔드필드","trends":"엔드필드","yt":{"global":"UCIf9gYpmmIJV7flBhUhuqYQ","region":"Global"},"arca":"endfield","pickup":{"kind":"naver_lounge","lounge":"Arknights_Endfield"}},
+    {"id":"priconne","name":"프린세스 커넥트! Re:Dive","trends":"프리코네","yt":{"global":"UCF8zvIqu8LyXVfo6yHyqShA","region":"KR"},"arca":"priconne","pickup":{"kind":"none","note":"KR 공식 픽업 공지 소스 미확인 → 데이터 없음"}},
+    {"id":"bangdream","name":"뱅드림! 걸즈 밴드 파티!","trends":"뱅드림","yt":{"global":"UCN-bFIdJM0gQlgX7h6LKcZA","region":"JP"},"arca":"bangdream","pickup":{"kind":"wp_json","base":"https://bang-dream.bushimo.jp"}}
+  ]
+}

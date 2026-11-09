@@ -1,0 +1,63 @@
+{
+ "character_id": "starrail-char",
+ "game_id": "starrail",
+ "name": {
+  "ko": "고요히 빛나는 불티",
+  "en": null,
+  "ja": null
+ },
+ "is_new": true,
+ "is_rerun": false,
+ "reveal_date": "2026-07-03",
+ "first_seen_at": "2026-11-09T22:02:13+09:00",
+ "last_seen_at": "2026-11-09T22:02:13+09:00",
+ "alltime_rank": null,
+ "peak_pv_views": null,
+ "peak_lift": null,
+ "peak_trends": null,
+ "recorded_deltas": {
+  "d24h": null,
+  "d7d": null,
+  "d30d": null
+ },
+ "pv_growth_series": [],
+ "trends_series": [],
+ "comparison_to_past_new_chars": [
+  {
+   "character_id": "starrail-castorice",
+   "name": {
+    "ko": "카스토리스",
+    "en": "Castorice",
+    "ja": "キャストリス"
+   },
+   "peak_pv_views": null,
+   "alltime_rank": null
+  },
+  {
+   "character_id": "starrail-char",
+   "name": {
+    "ko": "고요히 빛나는 불티",
+    "en": null,
+    "ja": null
+   },
+   "peak_pv_views": null,
+   "alltime_rank": null
+  }
+ ],
+ "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
+ "current": {
+  "score": null,
+  "score_raw": null,
+  "coverage": 0.0,
+  "reliability": 0.0,
+  "provisional": false,
+  "hold": true,
+  "hold_reason": "실측 신호 0<1",
+  "absolute_views": null,
+  "lift_vs_game_baseline": null,
+  "growth_rate_7d": null,
+  "related_posts": [],
+  "last_updated": "2026-11-09T22:02:13+09:00",
+  "note": "current score does not include all-time records"
+ }
+}

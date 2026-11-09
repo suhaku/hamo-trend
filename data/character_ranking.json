@@ -1,0 +1,1153 @@
+{
+ "status": "ok",
+ "generated_at": "2026-11-09T22:04:06+09:00",
+ "rule": "점수/100. 결측은 0 아님→재정규화. coverage=수집률. 낮으면 provisional/hold. reliability 별도. 복각 제외. all-time 미합산.",
+ "weights": {
+  "youtube_pv": 0.35,
+  "google_trends": 0.25,
+  "x": 0.2,
+  "community": 0.2
+ },
+ "ranking": [
+  {
+   "character_id": "genshin-a2fbc1b95d",
+   "name": {
+    "ko": "미탸",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": false,
+   "hold_reason": null,
+   "rank": 1,
+   "score": 100.0,
+   "reliability": 0.5,
+   "signals": {
+    "youtube_pv_views": 134765,
+    "youtube_pv_lift": 2.454,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "ok",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": 134765,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": 100.0,
+   "coverage": 0.5,
+   "provisional": true,
+   "used_weights": {
+    "youtube_pv": 1.0
+   },
+   "present_signals": [
+    "youtube_pv"
+   ],
+   "signal_scores_0_100": {
+    "youtube_pv": 100.0
+   },
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": 2.454,
+   "related_posts": []
+  },
+  {
+   "character_id": "genshin-de1daf6f79",
+   "name": {
+    "ko": "발레리",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": false,
+   "hold_reason": null,
+   "rank": 2,
+   "score": 94.5,
+   "reliability": 0.5,
+   "signals": {
+    "youtube_pv_views": 70360,
+    "youtube_pv_lift": 1.281,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "ok",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": 70360,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": 94.5,
+   "coverage": 0.5,
+   "provisional": true,
+   "used_weights": {
+    "youtube_pv": 1.0
+   },
+   "present_signals": [
+    "youtube_pv"
+   ],
+   "signal_scores_0_100": {
+    "youtube_pv": 94.5
+   },
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": 1.281,
+   "related_posts": []
+  }
+ ],
+ "held": [
+  {
+   "character_id": "genshin-dc4099a6e8",
+   "name": {
+    "ko": "로자리아",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "genshin-89e07f95d7",
+   "name": {
+    "ko": "샤를로트",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "genshin-6a6c4bcf62",
+   "name": {
+    "ko": "푸리나",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "genshin-4beb1f475c",
+   "name": {
+    "ko": "별빛 계시",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-7a7f1be071",
+   "name": {
+    "ko": "연결음이 흐르는 동안",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-b4a4bf2af6",
+   "name": {
+    "ko": "삼중 열쇠",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-5f3dd532f3",
+   "name": {
+    "ko": "에코 열쇠",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-a2145afe84",
+   "name": {
+    "ko": "달의 대척점",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-2c95a60728",
+   "name": {
+    "ko": "해달별 열쇠",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-5fcb365f69",
+   "name": {
+    "ko": "누구를 위하여 기도를 올리나",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  }
+ ],
+ "all": [
+  {
+   "character_id": "genshin-dc4099a6e8",
+   "name": {
+    "ko": "로자리아",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "genshin-a2fbc1b95d",
+   "name": {
+    "ko": "미탸",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": false,
+   "hold_reason": null,
+   "rank": 1,
+   "score": 100.0,
+   "reliability": 0.5,
+   "signals": {
+    "youtube_pv_views": 134765,
+    "youtube_pv_lift": 2.454,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "ok",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": 134765,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": 100.0,
+   "coverage": 0.5,
+   "provisional": true,
+   "used_weights": {
+    "youtube_pv": 1.0
+   },
+   "present_signals": [
+    "youtube_pv"
+   ],
+   "signal_scores_0_100": {
+    "youtube_pv": 100.0
+   },
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": 2.454,
+   "related_posts": []
+  },
+  {
+   "character_id": "genshin-de1daf6f79",
+   "name": {
+    "ko": "발레리",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": false,
+   "hold_reason": null,
+   "rank": 2,
+   "score": 94.5,
+   "reliability": 0.5,
+   "signals": {
+    "youtube_pv_views": 70360,
+    "youtube_pv_lift": 1.281,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "ok",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": 70360,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": 94.5,
+   "coverage": 0.5,
+   "provisional": true,
+   "used_weights": {
+    "youtube_pv": 1.0
+   },
+   "present_signals": [
+    "youtube_pv"
+   ],
+   "signal_scores_0_100": {
+    "youtube_pv": 94.5
+   },
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": 1.281,
+   "related_posts": []
+  },
+  {
+   "character_id": "genshin-89e07f95d7",
+   "name": {
+    "ko": "샤를로트",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "genshin-6a6c4bcf62",
+   "name": {
+    "ko": "푸리나",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "genshin-4beb1f475c",
+   "name": {
+    "ko": "별빛 계시",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-7a7f1be071",
+   "name": {
+    "ko": "연결음이 흐르는 동안",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-b4a4bf2af6",
+   "name": {
+    "ko": "삼중 열쇠",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-5f3dd532f3",
+   "name": {
+    "ko": "에코 열쇠",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-a2145afe84",
+   "name": {
+    "ko": "달의 대척점",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-2c95a60728",
+   "name": {
+    "ko": "해달별 열쇠",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-5fcb365f69",
+   "name": {
+    "ko": "누구를 위하여 기도를 올리나",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "실측 신호 0<1",
+   "rank": null,
+   "score": null,
+   "reliability": 0.0,
+   "signals": {
+    "youtube_pv_views": null,
+    "youtube_pv_lift": null,
+    "google_trends": null,
+    "google_trends_lift": null,
+    "x": null,
+    "community": null
+   },
+   "signals_status": {
+    "youtube_pv_views": "데이터 없음",
+    "google_trends": "미연동",
+    "x": "미연동",
+    "community": "데이터 없음",
+    "likes_comments": "미연동"
+   },
+   "absolute_views": null,
+   "growth_rate_7d": null,
+   "last_updated": "2026-11-09T22:04:06+09:00",
+   "score_raw": null,
+   "coverage": 0.0,
+   "provisional": false,
+   "used_weights": null,
+   "present_signals": [],
+   "signal_scores_0_100": {},
+   "weights_config": {
+    "youtube_pv": 0.35,
+    "google_trends": 0.25,
+    "x": 0.2,
+    "community": 0.2
+   },
+   "lift_vs_game_baseline": null,
+   "related_posts": []
+  }
+ ],
+ "signals_status": {
+  "youtube_rss": "ok",
+  "youtube_data_api": "미연동",
+  "x_api": "미연동",
+  "community_arca": "ok",
+  "google_trends": "ok",
+  "pickups_official": "ok"
+ }
+}

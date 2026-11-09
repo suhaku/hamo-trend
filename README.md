@@ -1,30 +1,23 @@
 # hamo-trend
 
-Public JSON feed for [Hamo's.](https://news84034.tistory.com) game-trend dashboard.
+Public JSON for Hamo's (news84034) **new-character** analytics area on the Tistory main page.
+**No game-level popularity ranking. No Reddit. Skin edits are out of scope for this repo.**
 
-**Live data:** https://suhaku.github.io/hamo-trend/data/trend.json
+Live: https://suhaku.github.io/hamo-trend/data/trend.json  
+Review: https://suhaku.github.io/hamo-trend/review.html
 
-## Rules
-- Real fetched data only. Missing → `null` (UI shows 데이터 없음).
-- Every item carries `source` / `source_url` and `fetched_at` / `generated_at`.
-- No secrets or API keys in this repo. Optional keys (YouTube Data / X) go in Actions secrets only if added later.
+## Five sections (`data/trend.json`)
+1. `new_characters` — revealed/active **new** chars this month (reruns excluded)
+2. `pv_ranking` — official YouTube PV views; **absolute** and **growth** rankings separate; game-size lift separate
+3. `character_ranking` — composite **/100** (YT PV 35, Trends 25, X 20, community 20). Missing ≠ 0 → renormalize; `coverage` %; low coverage → provisional/hold; `reliability` separate
+4. `rising_character` — fastest recent growth
+5. `pickup_schedule` — official pickups with start/end/source; new vs rerun flagged
 
-## Collector
-```bash
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-python collect.py            # reuse cached Trends
-python collect.py --trends   # refresh Google Trends (slow; once/day in CI)
-```
+Also: `data/alltime.json` + `data/alltime.sqlite` + `data/characters/{id}.json` (all-time **not** mixed into current score).  
+Optional `related_posts` from https://news84034.tistory.com/rss (read-only).
 
-Sources: YouTube RSS, Google Trends (KR), arca.live, Naver Game Lounge GM notices, HoYoverse / HoYoLAB notice APIs, BanG Dream JP WordPress JSON.
+## Add a game
+One object in `games.json`. Character aliases in `data/new_characters.json`.
 
 ## Security
-- HTTPS-only fetches to an allowlisted hostname set; 2 MiB response cap; timeouts.
-- Output JSON is recursively sanitized (HTML/scripts stripped; URLs must be https + allowlisted).
-- Workflow: `permissions: contents: write` only; `actions/checkout` and `actions/setup-python` pinned by full commit SHA; no third-party actions.
-- Issues / wiki / projects disabled. Actions restricted to GitHub-owned where possible.
-- Secret scanning + push protection + Dependabot alerts enabled when available.
-
-## Schedule
-GitHub Action every 3 hours (`cron: 17 */3 * * *`). Trends refresh only when UTC hour is `00`.
+HTTPS allowlist, size limit, sanitize, cache, Actions `contents:write` only, SHA-pinned actions, no secrets in repo.

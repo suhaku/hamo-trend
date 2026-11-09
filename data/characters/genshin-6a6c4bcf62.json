@@ -1,0 +1,133 @@
+{
+ "character_id": "genshin-6a6c4bcf62",
+ "game_id": "genshin",
+ "name": {
+  "ko": "푸리나",
+  "en": null,
+  "ja": null
+ },
+ "is_new": true,
+ "is_rerun": false,
+ "reveal_date": "2026-11-02",
+ "first_seen_at": "2026-11-09T22:03:22+09:00",
+ "last_seen_at": "2026-11-09T22:04:06+09:00",
+ "alltime_rank": null,
+ "peak_pv_views": null,
+ "peak_lift": null,
+ "peak_trends": null,
+ "recorded_deltas": {
+  "d24h": null,
+  "d7d": null,
+  "d30d": null
+ },
+ "pv_growth_series": [],
+ "trends_series": [],
+ "comparison_to_past_new_chars": [
+  {
+   "character_id": "genshin-a2fbc1b95d",
+   "name": {
+    "ko": "미탸",
+    "en": null,
+    "ja": null
+   },
+   "peak_pv_views": 134765.0,
+   "alltime_rank": 1
+  },
+  {
+   "character_id": "genshin-de1daf6f79",
+   "name": {
+    "ko": "발레리",
+    "en": null,
+    "ja": null
+   },
+   "peak_pv_views": 70360.0,
+   "alltime_rank": 2
+  },
+  {
+   "character_id": "genshin-mavuika",
+   "name": {
+    "ko": "마비카",
+    "en": "Mavuika",
+    "ja": "マーヴィカ"
+   },
+   "peak_pv_views": null,
+   "alltime_rank": null
+  },
+  {
+   "character_id": "genshin-citlali",
+   "name": {
+    "ko": "시틀라리",
+    "en": "Citlali",
+    "ja": "シトラリ"
+   },
+   "peak_pv_views": null,
+   "alltime_rank": null
+  },
+  {
+   "character_id": "genshin-char",
+   "name": {
+    "ko": "가시관의 은혜· 로자리아",
+    "en": null,
+    "ja": null
+   },
+   "peak_pv_views": null,
+   "alltime_rank": null
+  },
+  {
+   "character_id": "genshin-dc4099a6e8",
+   "name": {
+    "ko": "로자리아",
+    "en": null,
+    "ja": null
+   },
+   "peak_pv_views": null,
+   "alltime_rank": null
+  },
+  {
+   "character_id": "genshin-89e07f95d7",
+   "name": {
+    "ko": "샤를로트",
+    "en": null,
+    "ja": null
+   },
+   "peak_pv_views": null,
+   "alltime_rank": null
+  },
+  {
+   "character_id": "genshin-6a6c4bcf62",
+   "name": {
+    "ko": "푸리나",
+    "en": null,
+    "ja": null
+   },
+   "peak_pv_views": null,
+   "alltime_rank": null
+  },
+  {
+   "character_id": "genshin-4beb1f475c",
+   "name": {
+    "ko": "별빛 계시",
+    "en": null,
+    "ja": null
+   },
+   "peak_pv_views": null,
+   "alltime_rank": null
+  }
+ ],
+ "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
+ "current": {
+  "score": null,
+  "score_raw": null,
+  "coverage": 0.0,
+  "reliability": 0.0,
+  "provisional": false,
+  "hold": true,
+  "hold_reason": "실측 신호 0<1",
+  "absolute_views": null,
+  "lift_vs_game_baseline": null,
+  "growth_rate_7d": null,
+  "related_posts": [],
+  "last_updated": "2026-11-09T22:04:06+09:00",
+  "note": "current score does not include all-time records"
+ }
+}

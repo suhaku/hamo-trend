@@ -1,0 +1,8 @@
+{
+  "note": "Manual review. hide_character_ids / hide_pickup_urls / approve_pickup_urls. No secrets.",
+  "hide_pickup_urls": [],
+  "hide_character_ids": [],
+  "approve_pickup_urls": [],
+  "force_hold_character_ids": [],
+  "notes": []
+}

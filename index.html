@@ -6,18 +6,23 @@
 <title>hamo-trend</title>
 <meta name="robots" content="noindex">
 <style>
-body{font-family:system-ui,sans-serif;max-width:42rem;margin:2rem auto;padding:0 1rem;line-height:1.5;color:#222}
+body{font-family:system-ui,sans-serif;max-width:44rem;margin:2rem auto;padding:0 1rem;line-height:1.5;color:#222}
 code{background:#f4f4f4;padding:.1em .35em;border-radius:4px}
 a{color:#0366d6}
 </style>
 </head>
 <body>
 <h1>hamo-trend</h1>
-<p>Hamo's (news84034) game-trend JSON feed. Real data only; missing fields are null.</p>
+<p>Hamo's new-character analytics feed (news84034). Real data only. No game-level popularity ranking. No Reddit.</p>
 <ul>
-<li><a href="data/trend.json"><code>data/trend.json</code></a> — current snapshot</li>
-<li><a href="data/history/"><code>data/history/</code></a> — daily score history</li>
+<li><a href="data/trend.json"><code>data/trend.json</code></a> — 5 sections bundle</li>
+<li><a href="data/new_characters_month.json"><code>new_characters</code></a></li>
+<li><a href="data/pv_ranking.json"><code>pv_ranking</code></a></li>
+<li><a href="data/character_ranking.json"><code>character_ranking</code></a> — score/100 + coverage</li>
+<li><a href="data/rising_character.json"><code>rising_character</code></a></li>
+<li><a href="data/pickup_schedule.json"><code>pickup_schedule</code></a></li>
+<li><a href="data/alltime.json"><code>alltime</code></a> — not mixed into current score</li>
+<li><a href="review.html"><code>review.html</code></a></li>
 </ul>
-<p>Updated by GitHub Actions every 3 hours. No API keys in this repository.</p>
 </body>
 </html>

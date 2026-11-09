@@ -1,0 +1,80 @@
+{
+ "last_updated": "2026-11-09T22:04:06+09:00",
+ "timezone": "Asia/Seoul",
+ "sources": [
+  {
+   "id": "youtube_rss",
+   "status": "ok",
+   "desc": "공식 채널 PV 조회수 스냅샷"
+  },
+  {
+   "id": "youtube_data_api",
+   "status": "미연동",
+   "desc": "likes/comments·전체 PV"
+  },
+  {
+   "id": "x_api",
+   "status": "미연동",
+   "desc": "X 반응"
+  },
+  {
+   "id": "google_trends",
+   "status": "데이터 없음",
+   "desc": "캐릭터명 Trends"
+  },
+  {
+   "id": "pickups_official",
+   "status": "ok",
+   "desc": "공식 픽업 공지"
+  },
+  {
+   "id": "community_arca",
+   "status": "데이터 없음",
+   "desc": "신캐 언급 보조(미구현)"
+  }
+ ],
+ "endpoints": {
+  "trend": "data/trend.json",
+  "new_characters": "data/new_characters.json",
+  "pv_ranking": "data/pv_ranking.json",
+  "character_ranking": "data/character_ranking.json",
+  "rising_character": "data/rising_character.json",
+  "pickup_schedule": "data/pickup_schedule.json",
+  "meta": "data/meta.json",
+  "review": "review.html",
+  "alltime": "data/alltime.json",
+  "character_detail_dir": "data/characters/{id}.json",
+  "new_characters_month": "data/new_characters_month.json"
+ },
+ "active_features": [
+  "5 site sections in trend.json",
+  "games.json extensible registry",
+  "official PV RSS snapshots + history deltas",
+  "absolute vs growth rankings separated",
+  "lift vs game PV baseline (normalization only)",
+  "hold when <2 signals or PV<24h",
+  "reruns excluded from new rankings",
+  "official pickup schedule with start/end/source",
+  "HTTPS allowlist + sanitize + cache",
+  "keep previous on error (partial)",
+  "composite score /100 with renormalized weights",
+  "coverage % + provisional/hold + separate reliability",
+  "all-time SQLite append-only (not in current score)",
+  "per-character detail JSON",
+  "related_posts from news84034 RSS (read-only)"
+ ],
+ "not_done": [
+  "YouTube Data API likes/comments (YOUTUBE_API_KEY) → 미연동",
+  "X API (X_BEARER_TOKEN) → 미연동",
+  "arca community mention signal for new chars",
+  "ZZZ/Naver/BangDream pickup date body parser (unconfirmed excluded)",
+  "Auto-discover brand-new characters not yet in new_characters.json",
+  "KR/JP regional channel split beyond single configured region tag",
+  "Tistory skin wiring",
+  "X/community signals still 미연동 → coverage lower until secrets/impl",
+  "Past 24h/7d/30d before first snapshot remain null (unknowable)",
+  "Same-game past-new-char window comparison densifies as history accrues",
+  "Tistory main-page analytics area (skin) — not in this repo"
+ ],
+ "errors_count": 0
+}

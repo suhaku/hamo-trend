@@ -20,3 +20,4 @@ pytrends_cache/
 *.key
 credentials*
 secrets*
+data/cache/

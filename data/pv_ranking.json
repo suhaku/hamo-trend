@@ -1,0 +1,502 @@
+{
+ "status": "ok",
+ "generated_at": "2026-11-09T22:03:42+09:00",
+ "rule": "공식 채널 PV 실측 조회수만. 절대값 순위와 성장(델타) 순위 분리. 게임 크기 정규화는 lift_vs_game_baseline.",
+ "hold_policy": "PV<24h 또는 조회수 없음 → 순위 보류",
+ "absolute_ranking": [
+  {
+   "character_id": "genshin-a2fbc1b95d",
+   "name": {
+    "ko": "미탸",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": false,
+   "hold_reason": null,
+   "rank_absolute": 1,
+   "rank_growth": null,
+   "absolute": {
+    "views": 134765,
+    "lift_vs_game_baseline": 2.454
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": {
+    "video_id": "6V0kctC2-Tg",
+    "title": "원신 | 캐릭터 트레일러-「미탸: 모든 것은 계획대로」",
+    "url": "https://www.youtube.com/watch?v=6V0kctC2-Tg",
+    "thumb": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
+    "channel_region": "Global",
+    "published": "2026-11-03T13:00:36+09:00",
+    "age_hours": 153.1,
+    "views_absolute": 134765,
+    "likes": null,
+    "comments": null,
+    "likes_comments_status": "미연동",
+    "deltas": {
+     "views_now": 134765,
+     "delta_24h": null,
+     "delta_7d": null,
+     "delta_30d": null,
+     "since_publish_24h": null,
+     "since_publish_7d": null,
+     "since_publish_30d": null
+    },
+    "game_baseline_median_views": 54908.5,
+    "lift_vs_game_baseline": 2.454,
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
+    "fetched_at": "2026-11-09T22:03:42+09:00"
+   },
+   "last_updated": "2026-11-09T22:03:42+09:00"
+  },
+  {
+   "character_id": "genshin-de1daf6f79",
+   "name": {
+    "ko": "발레리",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": false,
+   "hold_reason": null,
+   "rank_absolute": 2,
+   "rank_growth": null,
+   "absolute": {
+    "views": 70360,
+    "lift_vs_game_baseline": 1.281
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": {
+    "video_id": "tCeXHmvg3ko",
+    "title": "원신 | 캐릭터 트레일러-「발레리: 규율의 집행자」",
+    "url": "https://www.youtube.com/watch?v=tCeXHmvg3ko",
+    "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
+    "channel_region": "Global",
+    "published": "2026-11-02T13:00:00+09:00",
+    "age_hours": 177.1,
+    "views_absolute": 70360,
+    "likes": null,
+    "comments": null,
+    "likes_comments_status": "미연동",
+    "deltas": {
+     "views_now": 70360,
+     "delta_24h": null,
+     "delta_7d": null,
+     "delta_30d": null,
+     "since_publish_24h": null,
+     "since_publish_7d": null,
+     "since_publish_30d": null
+    },
+    "game_baseline_median_views": 54908.5,
+    "lift_vs_game_baseline": 1.281,
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
+    "fetched_at": "2026-11-09T22:03:42+09:00"
+   },
+   "last_updated": "2026-11-09T22:03:42+09:00"
+  }
+ ],
+ "growth_ranking": [],
+ "all": [
+  {
+   "character_id": "genshin-dc4099a6e8",
+   "name": {
+    "ko": "로자리아",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "공식 PV 매칭 없음",
+   "rank_absolute": null,
+   "rank_growth": null,
+   "absolute": {
+    "views": null,
+    "lift_vs_game_baseline": null
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": null,
+   "last_updated": "2026-11-09T22:03:42+09:00",
+   "related_posts": []
+  },
+  {
+   "character_id": "genshin-a2fbc1b95d",
+   "name": {
+    "ko": "미탸",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": false,
+   "hold_reason": null,
+   "rank_absolute": 1,
+   "rank_growth": null,
+   "absolute": {
+    "views": 134765,
+    "lift_vs_game_baseline": 2.454
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": {
+    "video_id": "6V0kctC2-Tg",
+    "title": "원신 | 캐릭터 트레일러-「미탸: 모든 것은 계획대로」",
+    "url": "https://www.youtube.com/watch?v=6V0kctC2-Tg",
+    "thumb": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
+    "channel_region": "Global",
+    "published": "2026-11-03T13:00:36+09:00",
+    "age_hours": 153.1,
+    "views_absolute": 134765,
+    "likes": null,
+    "comments": null,
+    "likes_comments_status": "미연동",
+    "deltas": {
+     "views_now": 134765,
+     "delta_24h": null,
+     "delta_7d": null,
+     "delta_30d": null,
+     "since_publish_24h": null,
+     "since_publish_7d": null,
+     "since_publish_30d": null
+    },
+    "game_baseline_median_views": 54908.5,
+    "lift_vs_game_baseline": 2.454,
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
+    "fetched_at": "2026-11-09T22:03:42+09:00"
+   },
+   "last_updated": "2026-11-09T22:03:42+09:00",
+   "related_posts": []
+  },
+  {
+   "character_id": "genshin-de1daf6f79",
+   "name": {
+    "ko": "발레리",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": false,
+   "hold_reason": null,
+   "rank_absolute": 2,
+   "rank_growth": null,
+   "absolute": {
+    "views": 70360,
+    "lift_vs_game_baseline": 1.281
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": {
+    "video_id": "tCeXHmvg3ko",
+    "title": "원신 | 캐릭터 트레일러-「발레리: 규율의 집행자」",
+    "url": "https://www.youtube.com/watch?v=tCeXHmvg3ko",
+    "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
+    "channel_region": "Global",
+    "published": "2026-11-02T13:00:00+09:00",
+    "age_hours": 177.1,
+    "views_absolute": 70360,
+    "likes": null,
+    "comments": null,
+    "likes_comments_status": "미연동",
+    "deltas": {
+     "views_now": 70360,
+     "delta_24h": null,
+     "delta_7d": null,
+     "delta_30d": null,
+     "since_publish_24h": null,
+     "since_publish_7d": null,
+     "since_publish_30d": null
+    },
+    "game_baseline_median_views": 54908.5,
+    "lift_vs_game_baseline": 1.281,
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
+    "fetched_at": "2026-11-09T22:03:42+09:00"
+   },
+   "last_updated": "2026-11-09T22:03:42+09:00",
+   "related_posts": []
+  },
+  {
+   "character_id": "genshin-89e07f95d7",
+   "name": {
+    "ko": "샤를로트",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "공식 PV 매칭 없음",
+   "rank_absolute": null,
+   "rank_growth": null,
+   "absolute": {
+    "views": null,
+    "lift_vs_game_baseline": null
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": null,
+   "last_updated": "2026-11-09T22:03:42+09:00",
+   "related_posts": []
+  },
+  {
+   "character_id": "genshin-6a6c4bcf62",
+   "name": {
+    "ko": "푸리나",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "공식 PV 매칭 없음",
+   "rank_absolute": null,
+   "rank_growth": null,
+   "absolute": {
+    "views": null,
+    "lift_vs_game_baseline": null
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": null,
+   "last_updated": "2026-11-09T22:03:42+09:00",
+   "related_posts": []
+  },
+  {
+   "character_id": "genshin-4beb1f475c",
+   "name": {
+    "ko": "별빛 계시",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "genshin",
+   "hold": true,
+   "hold_reason": "공식 PV 매칭 없음",
+   "rank_absolute": null,
+   "rank_growth": null,
+   "absolute": {
+    "views": null,
+    "lift_vs_game_baseline": null
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": null,
+   "last_updated": "2026-11-09T22:03:42+09:00",
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-7a7f1be071",
+   "name": {
+    "ko": "연결음이 흐르는 동안",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "공식 PV 매칭 없음",
+   "rank_absolute": null,
+   "rank_growth": null,
+   "absolute": {
+    "views": null,
+    "lift_vs_game_baseline": null
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": null,
+   "last_updated": "2026-11-09T22:03:42+09:00",
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-b4a4bf2af6",
+   "name": {
+    "ko": "삼중 열쇠",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "공식 PV 매칭 없음",
+   "rank_absolute": null,
+   "rank_growth": null,
+   "absolute": {
+    "views": null,
+    "lift_vs_game_baseline": null
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": null,
+   "last_updated": "2026-11-09T22:03:42+09:00",
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-5f3dd532f3",
+   "name": {
+    "ko": "에코 열쇠",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "공식 PV 매칭 없음",
+   "rank_absolute": null,
+   "rank_growth": null,
+   "absolute": {
+    "views": null,
+    "lift_vs_game_baseline": null
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": null,
+   "last_updated": "2026-11-09T22:03:42+09:00",
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-a2145afe84",
+   "name": {
+    "ko": "달의 대척점",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "공식 PV 매칭 없음",
+   "rank_absolute": null,
+   "rank_growth": null,
+   "absolute": {
+    "views": null,
+    "lift_vs_game_baseline": null
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": null,
+   "last_updated": "2026-11-09T22:03:42+09:00",
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-2c95a60728",
+   "name": {
+    "ko": "해달별 열쇠",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "공식 PV 매칭 없음",
+   "rank_absolute": null,
+   "rank_growth": null,
+   "absolute": {
+    "views": null,
+    "lift_vs_game_baseline": null
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": null,
+   "last_updated": "2026-11-09T22:03:42+09:00",
+   "related_posts": []
+  },
+  {
+   "character_id": "nte-5fcb365f69",
+   "name": {
+    "ko": "누구를 위하여 기도를 올리나",
+    "en": null,
+    "ja": null
+   },
+   "game_id": "nte",
+   "hold": true,
+   "hold_reason": "공식 PV 매칭 없음",
+   "rank_absolute": null,
+   "rank_growth": null,
+   "absolute": {
+    "views": null,
+    "lift_vs_game_baseline": null
+   },
+   "growth": {
+    "delta_24h": null,
+    "delta_7d": null,
+    "delta_30d": null,
+    "since_publish_24h": null,
+    "since_publish_7d": null,
+    "since_publish_30d": null
+   },
+   "pv": null,
+   "last_updated": "2026-11-09T22:03:42+09:00",
+   "related_posts": []
+  }
+ ],
+ "likes_comments_status": "미연동"
+}

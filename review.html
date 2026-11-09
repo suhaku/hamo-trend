@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>hamo-trend review</title>
+<meta name="robots" content="noindex">
+<style>
+:root{--bg:#0f1115;--card:#1a1d24;--fg:#e8eaed;--muted:#9aa0a6;--ok:#3ddc97;--bad:#ff6b6b;--warn:#ffd166;--line:#2a2f3a}
+body{margin:0;font-family:system-ui,sans-serif;background:var(--bg);color:var(--fg);line-height:1.45}
+header,main{max-width:980px;margin:0 auto;padding:1rem 1.25rem}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:1rem;margin:1rem 0}
+.badge{font-size:.75rem;padding:.15rem .5rem;border-radius:999px;border:1px solid var(--line)}
+.ok{color:var(--ok);border-color:var(--ok)}.bad{color:var(--bad);border-color:var(--bad)}.warn{color:var(--warn);border-color:var(--warn)}
+table{width:100%;border-collapse:collapse;font-size:.9rem}
+th,td{text-align:left;padding:.4rem .3rem;border-bottom:1px solid var(--line);vertical-align:top}
+a{color:#8ab4f8;word-break:break-all}.muted{color:var(--muted);font-size:.85rem}
+</style>
+</head>
+<body>
+<header><h1>hamo-trend · review</h1>
+<p class="muted">읽기 전용. 시크릿 없음. 스킨 수정 없음. overrides는 repo의 data/overrides.json</p></header>
+<main>
+<div class="card" id="meta">loading…</div>
+<div class="card"><h2>1 new_characters</h2><div id="s1"></div></div>
+<div class="card"><h2>2 pv_ranking (absolute)</h2><div id="s2"></div></div>
+<div class="card"><h2>3 character_ranking</h2><div id="s3"></div></div>
+<div class="card"><h2>4 rising_character</h2><div id="s4"></div></div>
+<div class="card"><h2>5 pickup_schedule</h2><div id="s5"></div></div>
+<div class="card"><h2>active vs not_done</h2><div id="ad"></div></div>
+</main>
+<script>
+const B=new URL('.',location.href);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const badge=s=>{const t=String(s??'');const c=t==='ok'?'ok':/미연동|데이터 없음|provisional|hold/i.test(t)?'warn':'bad';return `<span class="badge ${c}">${esc(t)}</span>`;};
+async function j(p){const r=await fetch(new URL(p,B)); if(!r.ok) throw new Error(p+' '+r.status); return r.json();}
+(async()=>{
+ try{
+  const [meta,trend]=await Promise.all([j('data/meta.json'),j('data/trend.json')]);
+  document.getElementById('meta').innerHTML=`<div>${badge('last_updated')} <code>${esc(meta.last_updated)}</code> · errors ${esc(meta.errors_count)}</div>
+    <p class="muted">${esc(trend.product||'')}</p>`;
+  const nc=trend.new_characters||{};
+  document.getElementById('s1').innerHTML=`${badge(nc.status)} count=${esc(nc.count)}<table><tr><th>캐릭터</th><th>게임</th><th>상태</th><th>관련글</th></tr>${
+   (nc.items||[]).map(i=>`<tr><td>${esc((i.name||{}).ko||i.id)}</td><td>${esc(i.game_id)}</td><td>${esc(i.status)}</td>
+    <td>${(i.related_posts||[]).map(p=>`<a href="${esc(p.url)}">${esc(p.title)}</a>`).join('<br>')}</td></tr>`).join('')}</table>`;
+  const abs=((trend.pv_ranking||{}).absolute_ranking)||[];
+  document.getElementById('s2').innerHTML=`${badge((trend.pv_ranking||{}).status)}<table><tr><th>#</th><th>캐릭터</th><th>조회수</th><th>lift</th><th>hold</th></tr>${
+   abs.map(r=>`<tr><td>${esc(r.rank_absolute)}</td><td>${esc((r.name||{}).ko||r.character_id)}</td><td>${esc(r.absolute?.views)}</td>
+    <td>${esc(r.absolute?.lift_vs_game_baseline)}</td><td>${r.hold?badge(r.hold_reason):badge('ok')}</td></tr>`).join('')}</table>`;
+  const rk=((trend.character_ranking||{}).ranking)||[];
+  document.getElementById('s3').innerHTML=`${badge((trend.character_ranking||{}).status)}<table><tr><th>#</th><th>캐릭터</th><th>score</th><th>coverage</th><th>reliability</th><th>flag</th></tr>${
+   rk.map(r=>`<tr><td>${esc(r.rank)}</td><td>${esc((r.name||{}).ko||r.character_id)}</td><td>${esc(r.score)}</td><td>${esc(r.coverage)}</td><td>${esc(r.reliability)}</td>
+    <td>${r.provisional?badge('provisional'):badge('ok')}</td></tr>`).join('')}</table>
+    <p class="muted">held: ${esc(((trend.character_ranking||{}).held||[]).length)}</p>`;
+  const rising=trend.rising_character||{};
+  document.getElementById('s4').innerHTML=`${badge(rising.status)} top=${esc((rising.top||{}).character_id||'데이터 없음')} metric=${esc((rising.top||{}).growth_metric)}`;
+  const sch=trend.pickup_schedule||{};
+  document.getElementById('s5').innerHTML=`${badge(sch.status)}<table><tr><th>게임</th><th>제목</th><th>기간</th><th>신규</th><th>출처</th></tr>${
+   (sch.items||[]).map(i=>`<tr><td>${esc(i.game_name)}</td><td>${esc(i.title)}</td><td>${esc(i.start)}~${esc(i.end)}</td>
+    <td>${i.is_new?badge('new'):badge('rerun')}</td><td><a href="${esc(i.source_url||'#')}">${esc(i.source)}</a></td></tr>`).join('')}</table>`;
+  document.getElementById('ad').innerHTML=`<p><strong>active</strong></p><ul>${(meta.active_features||[]).map(x=>`<li>${esc(x)}</li>`).join('')}</ul>
+    <p><strong>not_done</strong></p><ul>${(meta.not_done||[]).map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`;
+ }catch(e){document.getElementById('meta').innerHTML=badge('load error')+' '+esc(e.message)}
+})();
+</script>
+</body>
+</html>

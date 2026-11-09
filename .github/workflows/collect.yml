@@ -4,7 +4,6 @@ name: Collect trend data
 
 on:
   schedule:
-    # every 3 hours
     - cron: "17 */3 * * *"
   workflow_dispatch:
 
@@ -33,14 +32,15 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Collect
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         run: |
           set -euo pipefail
           HOUR="$(date -u +%H)"
           if [ "$HOUR" = "00" ]; then
-            echo "Running with --trends (UTC hour=$HOUR)"
             python collect.py --trends
           else
-            echo "Running without Trends (UTC hour=$HOUR); reuse cache if present"
             python collect.py
           fi
 
@@ -49,7 +49,22 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/trend.json data/history/
+          rm -rf data/cache
+          git add \
+            data/trend.json \
+            data/meta.json \
+            data/new_characters.json \
+            data/new_characters_month.json \
+            data/pickup_schedule.json \
+            data/pv_ranking.json \
+            data/character_ranking.json \
+            data/rising_character.json \
+            data/alltime.json \
+            data/alltime.sqlite \
+            data/characters/ \
+            data/pv_history/ \
+            data/overrides.json \
+            data/history/ || true
           if git diff --staged --quiet; then
             echo "No data changes"
           else
