@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-10T22:24:41+09:00",
+ "generated_at": "2026-11-11T01:05:03+09:00",
  "rule": "100점 만점 · 없는 지표는 0점 처리 없이 나머지로 다시 계산 · 수집률이 낮으면 잠정 또는 보류 · 신뢰도 따로 표시 · 복각 제외 · 역대 기록은 점수에 안 넣음",
  "weights": {
   "youtube_pv": 0.35,
@@ -22,8 +22,8 @@
    "score": 98.36,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 310934,
-    "youtube_pv_lift": 3.738,
+    "youtube_pv_views": 317854,
+    "youtube_pv_lift": 3.779,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -41,9 +41,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 310934,
+   "absolute_views": 317854,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
+   "last_updated": "2026-11-11T01:05:03+09:00",
    "score_raw": 98.36,
    "coverage": 0.6667,
    "provisional": false,
@@ -65,7 +65,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 3.738,
+   "lift_vs_game_baseline": 3.779,
    "pv_video_id": "T1d3GwCDG8w",
    "related_posts": [
     {
@@ -81,13 +81,7 @@
     "normalized_against": "month_peers",
     "post_count": 34,
     "top_post_url": "https://x.com/honkaistarrail/status/2115654862767546563"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/starrail-aha-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "genshin-a2fbc1b95d",
@@ -100,11 +94,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 2,
-   "score": 94.37,
+   "score": 94.29,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 137955,
-    "youtube_pv_lift": 2.484,
+    "youtube_pv_views": 138377,
+    "youtube_pv_lift": 2.488,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -122,10 +116,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 137955,
+   "absolute_views": 138377,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
-   "score_raw": 94.37,
+   "last_updated": "2026-11-11T01:05:03+09:00",
+   "score_raw": 94.29,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -137,7 +131,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 93.57,
+    "youtube_pv": 93.44,
     "x": 95.78
    },
    "weights_config": {
@@ -146,7 +140,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 2.484,
+   "lift_vs_game_baseline": 2.488,
    "pv_video_id": "6V0kctC2-Tg",
    "related_posts": [
     {
@@ -159,16 +153,10 @@
     "status": "연동(일 1회)",
     "generated_at": "2026-11-10T21:09:40+09:00",
     "engagement": 326105.0,
-    "normalized_against": "month_peers",
+    "normalized_against": "same_game_history",
     "post_count": 29,
     "top_post_url": "https://x.com/GenshinImpact/status/2117467054924025874"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "zzz-severian",
@@ -180,11 +168,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 3,
-   "score": 94.31,
+   "score": 94.26,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 115577,
-    "youtube_pv_lift": 0.984,
+    "youtube_pv_views": 116907,
+    "youtube_pv_lift": 0.995,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -202,10 +190,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 115577,
+   "absolute_views": 116907,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
-   "score_raw": 94.31,
+   "last_updated": "2026-11-11T01:05:03+09:00",
+   "score_raw": 94.26,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -217,7 +205,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 92.18,
+    "youtube_pv": 92.11,
     "x": 98.03
    },
    "weights_config": {
@@ -226,7 +214,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 0.984,
+   "lift_vs_game_baseline": 0.995,
    "pv_video_id": "OcDcxORlzmY",
    "related_posts": [
     {
@@ -247,13 +235,7 @@
     "normalized_against": "month_peers",
     "post_count": 33,
     "top_post_url": "https://x.com/ZZZ_JP/status/2118553969387827228"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/zzz-severian-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -266,11 +248,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 4,
-   "score": 85.26,
+   "score": 85.17,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 71027,
-    "youtube_pv_lift": 1.279,
+    "youtube_pv_views": 71111,
+    "youtube_pv_lift": 1.278,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -288,10 +270,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 71027,
+   "absolute_views": 71111,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
-   "score_raw": 85.26,
+   "last_updated": "2026-11-11T01:05:03+09:00",
+   "score_raw": 85.17,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -303,7 +285,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 88.33,
+    "youtube_pv": 88.18,
     "x": 79.89
    },
    "weights_config": {
@@ -312,7 +294,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.279,
+   "lift_vs_game_baseline": 1.278,
    "pv_video_id": "tCeXHmvg3ko",
    "related_posts": [
     {
@@ -325,16 +307,10 @@
     "status": "연동(일 1회)",
     "generated_at": "2026-11-10T21:09:40+09:00",
     "engagement": 39702.0,
-    "normalized_against": "month_peers",
+    "normalized_against": "same_game_history",
     "post_count": 8,
     "top_post_url": "https://x.com/GenshinImpact/status/2117104662675353725"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-de1daf6f79-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "endfield-mingha",
@@ -346,11 +322,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 5,
-   "score": 84.96,
+   "score": 84.99,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 32181,
-    "youtube_pv_lift": 1.562,
+    "youtube_pv_views": 32943,
+    "youtube_pv_lift": 1.596,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -368,10 +344,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 32181,
+   "absolute_views": 32943,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
-   "score_raw": 84.96,
+   "last_updated": "2026-11-11T01:05:03+09:00",
+   "score_raw": 84.99,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -383,7 +359,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 82.07,
+    "youtube_pv": 82.11,
     "x": 90.03
    },
    "weights_config": {
@@ -392,7 +368,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.562,
+   "lift_vs_game_baseline": 1.596,
    "pv_video_id": "HWsEtcPe1d4",
    "related_posts": [],
    "x": {
@@ -402,13 +378,7 @@
     "normalized_against": "month_peers",
     "post_count": 50,
     "top_post_url": "https://x.com/AKEndfieldJP/status/2117452958560297343"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/endfield-mingha-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "nte-elim",
@@ -420,11 +390,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 6,
-   "score": 80.37,
+   "score": 80.27,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 53173,
-    "youtube_pv_lift": 13.804,
+    "youtube_pv_views": 53207,
+    "youtube_pv_lift": 13.559,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -442,10 +412,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 53173,
+   "absolute_views": 53207,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
-   "score_raw": 80.37,
+   "last_updated": "2026-11-11T01:05:03+09:00",
+   "score_raw": 80.27,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -457,7 +427,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 86.04,
+    "youtube_pv": 85.89,
     "x": 70.44
    },
    "weights_config": {
@@ -466,7 +436,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 13.804,
+   "lift_vs_game_baseline": 13.559,
    "pv_video_id": "MK4bIOILTHM",
    "related_posts": [],
    "x": {
@@ -476,13 +446,7 @@
     "normalized_against": "month_peers",
     "post_count": 18,
     "top_post_url": "https://x.com/NTE_JP/status/2118176497873662241"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/nte-elim-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   }
  ],
  "held": [
@@ -520,8 +484,8 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
-   "score_raw": 98.94,
+   "last_updated": "2026-11-11T01:05:03+09:00",
+   "score_raw": 94.77,
    "coverage": 0.3333,
    "provisional": false,
    "used_weights": {
@@ -531,7 +495,7 @@
     "x"
    ],
    "signal_scores_0_100": {
-    "x": 98.94
+    "x": 94.77
    },
    "weights_config": {
     "youtube_pv": 0.35,
@@ -555,13 +519,7 @@
     "normalized_against": "same_game_history",
     "post_count": 6,
     "top_post_url": "https://x.com/Genshin_7/status/2118916353574715817"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-danika-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "genshin-anastasia",
@@ -597,7 +555,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
+   "last_updated": "2026-11-11T01:05:03+09:00",
    "score_raw": 100.0,
    "coverage": 0.3333,
    "provisional": false,
@@ -632,13 +590,7 @@
     "normalized_against": "same_game_history",
     "post_count": 5,
     "top_post_url": "https://x.com/Genshin_7/status/2118553962706055661"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-anastasia-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "wuwa-lily",
@@ -653,8 +605,8 @@
    "score": null,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 82663,
-    "youtube_pv_lift": 1.66,
+    "youtube_pv_views": 91592,
+    "youtube_pv_lift": 1.819,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -672,10 +624,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 82663,
+   "absolute_views": 91592,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
-   "score_raw": 90.72,
+   "last_updated": "2026-11-11T01:05:03+09:00",
+   "score_raw": 91.13,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -687,7 +639,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 89.53,
+    "youtube_pv": 90.18,
     "x": 92.79
    },
    "weights_config": {
@@ -696,7 +648,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.66,
+   "lift_vs_game_baseline": 1.819,
    "pv_video_id": "nNuN0rPi2YA",
    "related_posts": [
     {
@@ -712,13 +664,7 @@
     "normalized_against": "month_peers",
     "post_count": 26,
     "top_post_url": "https://x.com/WW_JP_Official/status/2119988430176387499"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/wuwa-lily-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "nte-exe",
@@ -754,7 +700,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
+   "last_updated": "2026-11-11T01:05:03+09:00",
    "score_raw": 67.83,
    "coverage": 0.3333,
    "provisional": false,
@@ -819,7 +765,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
+   "last_updated": "2026-11-11T01:05:03+09:00",
    "score_raw": 60.04,
    "coverage": 0.3333,
    "provisional": false,
@@ -848,13 +794,7 @@
     "normalized_against": "month_peers",
     "post_count": 1,
     "top_post_url": "https://x.com/Trickcal_Re/status/2117528978894516275"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   }
  ],
  "all": [
@@ -869,11 +809,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 2,
-   "score": 94.37,
+   "score": 94.29,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 137955,
-    "youtube_pv_lift": 2.484,
+    "youtube_pv_views": 138377,
+    "youtube_pv_lift": 2.488,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -891,10 +831,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 137955,
+   "absolute_views": 138377,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
-   "score_raw": 94.37,
+   "last_updated": "2026-11-11T01:05:03+09:00",
+   "score_raw": 94.29,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -906,7 +846,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 93.57,
+    "youtube_pv": 93.44,
     "x": 95.78
    },
    "weights_config": {
@@ -915,7 +855,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 2.484,
+   "lift_vs_game_baseline": 2.488,
    "pv_video_id": "6V0kctC2-Tg",
    "related_posts": [
     {
@@ -928,16 +868,10 @@
     "status": "연동(일 1회)",
     "generated_at": "2026-11-10T21:09:40+09:00",
     "engagement": 326105.0,
-    "normalized_against": "month_peers",
+    "normalized_against": "same_game_history",
     "post_count": 29,
     "top_post_url": "https://x.com/GenshinImpact/status/2117467054924025874"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -950,11 +884,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 4,
-   "score": 85.26,
+   "score": 85.17,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 71027,
-    "youtube_pv_lift": 1.279,
+    "youtube_pv_views": 71111,
+    "youtube_pv_lift": 1.278,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -972,10 +906,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 71027,
+   "absolute_views": 71111,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
-   "score_raw": 85.26,
+   "last_updated": "2026-11-11T01:05:03+09:00",
+   "score_raw": 85.17,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -987,7 +921,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 88.33,
+    "youtube_pv": 88.18,
     "x": 79.89
    },
    "weights_config": {
@@ -996,7 +930,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.279,
+   "lift_vs_game_baseline": 1.278,
    "pv_video_id": "tCeXHmvg3ko",
    "related_posts": [
     {
@@ -1009,16 +943,10 @@
     "status": "연동(일 1회)",
     "generated_at": "2026-11-10T21:09:40+09:00",
     "engagement": 39702.0,
-    "normalized_against": "month_peers",
+    "normalized_against": "same_game_history",
     "post_count": 8,
     "top_post_url": "https://x.com/GenshinImpact/status/2117104662675353725"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-de1daf6f79-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "starrail-aha",
@@ -1033,8 +961,8 @@
    "score": 98.36,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 310934,
-    "youtube_pv_lift": 3.738,
+    "youtube_pv_views": 317854,
+    "youtube_pv_lift": 3.779,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1052,9 +980,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 310934,
+   "absolute_views": 317854,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
+   "last_updated": "2026-11-11T01:05:03+09:00",
    "score_raw": 98.36,
    "coverage": 0.6667,
    "provisional": false,
@@ -1076,7 +1004,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 3.738,
+   "lift_vs_game_baseline": 3.779,
    "pv_video_id": "T1d3GwCDG8w",
    "related_posts": [
     {
@@ -1092,13 +1020,7 @@
     "normalized_against": "month_peers",
     "post_count": 34,
     "top_post_url": "https://x.com/honkaistarrail/status/2115654862767546563"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/starrail-aha-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "genshin-danika",
@@ -1134,8 +1056,8 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
-   "score_raw": 98.94,
+   "last_updated": "2026-11-11T01:05:03+09:00",
+   "score_raw": 94.77,
    "coverage": 0.3333,
    "provisional": false,
    "used_weights": {
@@ -1145,7 +1067,7 @@
     "x"
    ],
    "signal_scores_0_100": {
-    "x": 98.94
+    "x": 94.77
    },
    "weights_config": {
     "youtube_pv": 0.35,
@@ -1169,13 +1091,7 @@
     "normalized_against": "same_game_history",
     "post_count": 6,
     "top_post_url": "https://x.com/Genshin_7/status/2118916353574715817"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-danika-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "genshin-anastasia",
@@ -1211,7 +1127,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
+   "last_updated": "2026-11-11T01:05:03+09:00",
    "score_raw": 100.0,
    "coverage": 0.3333,
    "provisional": false,
@@ -1246,13 +1162,7 @@
     "normalized_against": "same_game_history",
     "post_count": 5,
     "top_post_url": "https://x.com/Genshin_7/status/2118553962706055661"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-anastasia-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "zzz-severian",
@@ -1264,11 +1174,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 3,
-   "score": 94.31,
+   "score": 94.26,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 115577,
-    "youtube_pv_lift": 0.984,
+    "youtube_pv_views": 116907,
+    "youtube_pv_lift": 0.995,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1286,10 +1196,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 115577,
+   "absolute_views": 116907,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
-   "score_raw": 94.31,
+   "last_updated": "2026-11-11T01:05:03+09:00",
+   "score_raw": 94.26,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -1301,7 +1211,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 92.18,
+    "youtube_pv": 92.11,
     "x": 98.03
    },
    "weights_config": {
@@ -1310,7 +1220,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 0.984,
+   "lift_vs_game_baseline": 0.995,
    "pv_video_id": "OcDcxORlzmY",
    "related_posts": [
     {
@@ -1331,13 +1241,7 @@
     "normalized_against": "month_peers",
     "post_count": 33,
     "top_post_url": "https://x.com/ZZZ_JP/status/2118553969387827228"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/zzz-severian-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "wuwa-lily",
@@ -1352,8 +1256,8 @@
    "score": null,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 82663,
-    "youtube_pv_lift": 1.66,
+    "youtube_pv_views": 91592,
+    "youtube_pv_lift": 1.819,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1371,10 +1275,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 82663,
+   "absolute_views": 91592,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
-   "score_raw": 90.72,
+   "last_updated": "2026-11-11T01:05:03+09:00",
+   "score_raw": 91.13,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -1386,7 +1290,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 89.53,
+    "youtube_pv": 90.18,
     "x": 92.79
    },
    "weights_config": {
@@ -1395,7 +1299,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.66,
+   "lift_vs_game_baseline": 1.819,
    "pv_video_id": "nNuN0rPi2YA",
    "related_posts": [
     {
@@ -1411,13 +1315,7 @@
     "normalized_against": "month_peers",
     "post_count": 26,
     "top_post_url": "https://x.com/WW_JP_Official/status/2119988430176387499"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/wuwa-lily-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "nte-elim",
@@ -1429,11 +1327,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 6,
-   "score": 80.37,
+   "score": 80.27,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 53173,
-    "youtube_pv_lift": 13.804,
+    "youtube_pv_views": 53207,
+    "youtube_pv_lift": 13.559,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1451,10 +1349,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 53173,
+   "absolute_views": 53207,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
-   "score_raw": 80.37,
+   "last_updated": "2026-11-11T01:05:03+09:00",
+   "score_raw": 80.27,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -1466,7 +1364,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 86.04,
+    "youtube_pv": 85.89,
     "x": 70.44
    },
    "weights_config": {
@@ -1475,7 +1373,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 13.804,
+   "lift_vs_game_baseline": 13.559,
    "pv_video_id": "MK4bIOILTHM",
    "related_posts": [],
    "x": {
@@ -1485,13 +1383,7 @@
     "normalized_against": "month_peers",
     "post_count": 18,
     "top_post_url": "https://x.com/NTE_JP/status/2118176497873662241"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/nte-elim-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "nte-exe",
@@ -1527,7 +1419,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
+   "last_updated": "2026-11-11T01:05:03+09:00",
    "score_raw": 67.83,
    "coverage": 0.3333,
    "provisional": false,
@@ -1568,11 +1460,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 5,
-   "score": 84.96,
+   "score": 84.99,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 32181,
-    "youtube_pv_lift": 1.562,
+    "youtube_pv_views": 32943,
+    "youtube_pv_lift": 1.596,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1590,10 +1482,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 32181,
+   "absolute_views": 32943,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
-   "score_raw": 84.96,
+   "last_updated": "2026-11-11T01:05:03+09:00",
+   "score_raw": 84.99,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -1605,7 +1497,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 82.07,
+    "youtube_pv": 82.11,
     "x": 90.03
    },
    "weights_config": {
@@ -1614,7 +1506,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.562,
+   "lift_vs_game_baseline": 1.596,
    "pv_video_id": "HWsEtcPe1d4",
    "related_posts": [],
    "x": {
@@ -1624,13 +1516,7 @@
     "normalized_against": "month_peers",
     "post_count": 50,
     "top_post_url": "https://x.com/AKEndfieldJP/status/2117452958560297343"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/endfield-mingha-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   },
   {
    "character_id": "trickcal-dudu",
@@ -1666,7 +1552,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-10T22:24:41+09:00",
+   "last_updated": "2026-11-11T01:05:03+09:00",
    "score_raw": 60.04,
    "coverage": 0.3333,
    "provisional": false,
@@ -1695,13 +1581,7 @@
     "normalized_against": "month_peers",
     "post_count": 1,
     "top_post_url": "https://x.com/Trickcal_Re/status/2117528978894516275"
-   },
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   }
   }
  ],
  "signals_status": {

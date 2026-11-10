@@ -9,9 +9,9 @@
  "is_rerun": false,
  "reveal_date": "2026-10-29",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-10T22:24:41+09:00",
+ "last_seen_at": "2026-11-11T01:05:03+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 53173.0,
+ "peak_pv_views": 53207.0,
  "peak_lift": 14.398,
  "peak_trends": null,
  "recorded_deltas": {
@@ -114,6 +114,11 @@
    "at": "2026-11-10T22:24:41+09:00",
    "video_id": "MK4bIOILTHM",
    "views": 53173.0
+  },
+  {
+   "at": "2026-11-11T01:05:03+09:00",
+   "video_id": "MK4bIOILTHM",
+   "views": 53207.0
   }
  ],
  "pv_series_by_video": [
@@ -208,6 +213,10 @@
     {
      "at": "2026-11-10T22:24:41+09:00",
      "views": 53173.0
+    },
+    {
+     "at": "2026-11-11T01:05:03+09:00",
+     "views": 53207.0
     }
    ]
   }
@@ -221,14 +230,8 @@
     "ko": "엘림",
     "en": null
    },
-   "peak_pv_views": 53173.0,
-   "alltime_rank": 1,
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/nte-elim-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   "peak_pv_views": 53207.0,
+   "alltime_rank": 1
   },
   {
    "character_id": "nte-char",
@@ -312,24 +315,18 @@
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
-  "score": 80.37,
-  "score_raw": 80.37,
+  "score": 80.27,
+  "score_raw": 80.27,
   "coverage": 0.6667,
   "reliability": 0.6667,
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 53173,
-  "lift_vs_game_baseline": 13.804,
+  "absolute_views": 53207,
+  "lift_vs_game_baseline": 13.559,
   "growth_rate_7d": null,
   "related_posts": [],
-  "last_updated": "2026-11-10T22:24:41+09:00",
+  "last_updated": "2026-11-11T01:05:03+09:00",
   "note": "current score does not include all-time records"
- },
- "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/nte-elim-face.png",
- "portrait_focus": {
-  "x": 50.0,
-  "y": 50.0
- },
- "portrait_zoom": 1.0
+ }
 }

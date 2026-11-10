@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-10T22:21:09+09:00",
+ "generated_at": "2026-11-11T01:01:06+09:00",
  "rule": "공식 채널 PV 실측 조회수 · 절대 조회수와 성장 순위 분리 · 같은 게임 과거 신캐 대비 보정",
  "hold_policy": "PV 게시 후 24시간 미만이거나 조회수 없으면 순위 보류",
  "absolute_ranking": [
@@ -17,8 +17,8 @@
    "rank_absolute": 1,
    "rank_growth": null,
    "absolute": {
-    "views": 310934,
-    "lift_vs_game_baseline": 3.738
+    "views": 317854,
+    "lift_vs_game_baseline": 3.779
    },
    "growth": {
     "delta_24h": null,
@@ -35,13 +35,13 @@
     "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-08T13:00:19+09:00",
-    "age_hours": 57.3,
-    "views_absolute": 310934,
+    "age_hours": 60.0,
+    "views_absolute": 317854,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 310934,
+     "views_now": 317854,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -49,18 +49,12 @@
      "since_publish_7d": null,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 83174.5,
-    "lift_vs_game_baseline": 3.738,
+    "game_baseline_median_views": 84116.0,
+    "lift_vs_game_baseline": 3.779,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-    "fetched_at": "2026-11-10T22:21:09+09:00"
+    "fetched_at": "2026-11-11T01:01:06+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00",
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/starrail-aha-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   "last_updated": "2026-11-11T01:01:06+09:00"
   },
   {
    "character_id": "genshin-a2fbc1b95d",
@@ -76,8 +70,8 @@
    "rank_absolute": 2,
    "rank_growth": null,
    "absolute": {
-    "views": 137955,
-    "lift_vs_game_baseline": 2.484
+    "views": 138377,
+    "lift_vs_game_baseline": 2.488
    },
    "growth": {
     "delta_24h": null,
@@ -94,13 +88,13 @@
     "thumb": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T13:00:36+09:00",
-    "age_hours": 177.3,
-    "views_absolute": 137955,
+    "age_hours": 180.0,
+    "views_absolute": 138377,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 137955,
+     "views_now": 138377,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -108,18 +102,12 @@
      "since_publish_7d": 658,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 55540.0,
-    "lift_vs_game_baseline": 2.484,
+    "game_baseline_median_views": 55621.0,
+    "lift_vs_game_baseline": 2.488,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-10T22:21:09+09:00"
+    "fetched_at": "2026-11-11T01:01:06+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00",
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   "last_updated": "2026-11-11T01:01:06+09:00"
   },
   {
    "character_id": "zzz-severian",
@@ -134,8 +122,8 @@
    "rank_absolute": 3,
    "rank_growth": null,
    "absolute": {
-    "views": 115577,
-    "lift_vs_game_baseline": 0.984
+    "views": 116907,
+    "lift_vs_game_baseline": 0.995
    },
    "growth": {
     "delta_24h": null,
@@ -152,13 +140,13 @@
     "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-06T12:59:56+09:00",
-    "age_hours": 105.4,
-    "views_absolute": 115577,
+    "age_hours": 108.0,
+    "views_absolute": 116907,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 115577,
+     "views_now": 116907,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -166,18 +154,12 @@
      "since_publish_7d": null,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 117424,
-    "lift_vs_game_baseline": 0.984,
+    "game_baseline_median_views": 117500,
+    "lift_vs_game_baseline": 0.995,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-    "fetched_at": "2026-11-10T22:21:09+09:00"
+    "fetched_at": "2026-11-11T01:01:06+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00",
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/zzz-severian-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   "last_updated": "2026-11-11T01:01:06+09:00"
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -193,8 +175,8 @@
    "rank_absolute": 4,
    "rank_growth": null,
    "absolute": {
-    "views": 71027,
-    "lift_vs_game_baseline": 1.279
+    "views": 71111,
+    "lift_vs_game_baseline": 1.278
    },
    "growth": {
     "delta_24h": null,
@@ -211,13 +193,13 @@
     "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-02T13:00:00+09:00",
-    "age_hours": 201.4,
-    "views_absolute": 71027,
+    "age_hours": 204.0,
+    "views_absolute": 71111,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 71027,
+     "views_now": 71111,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -225,18 +207,12 @@
      "since_publish_7d": 0,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 55540.0,
-    "lift_vs_game_baseline": 1.279,
+    "game_baseline_median_views": 55621.0,
+    "lift_vs_game_baseline": 1.278,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-10T22:21:09+09:00"
+    "fetched_at": "2026-11-11T01:01:06+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00",
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-de1daf6f79-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   "last_updated": "2026-11-11T01:01:06+09:00"
   },
   {
    "character_id": "nte-elim",
@@ -251,8 +227,8 @@
    "rank_absolute": 5,
    "rank_growth": null,
    "absolute": {
-    "views": 53173,
-    "lift_vs_game_baseline": 13.804
+    "views": 53207,
+    "lift_vs_game_baseline": 13.559
    },
    "growth": {
     "delta_24h": null,
@@ -269,13 +245,13 @@
     "thumb": "https://i.ytimg.com/vi/MK4bIOILTHM/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-05T12:00:30+09:00",
-    "age_hours": 130.3,
-    "views_absolute": 53173,
+    "age_hours": 133.0,
+    "views_absolute": 53207,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 53173,
+     "views_now": 53207,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -283,18 +259,12 @@
      "since_publish_7d": null,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 3852,
-    "lift_vs_game_baseline": 13.804,
+    "game_baseline_median_views": 3924,
+    "lift_vs_game_baseline": 13.559,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-    "fetched_at": "2026-11-10T22:21:09+09:00"
+    "fetched_at": "2026-11-11T01:01:06+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00",
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/nte-elim-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   "last_updated": "2026-11-11T01:01:06+09:00"
   },
   {
    "character_id": "endfield-mingha",
@@ -309,8 +279,8 @@
    "rank_absolute": 6,
    "rank_growth": null,
    "absolute": {
-    "views": 32181,
-    "lift_vs_game_baseline": 1.562
+    "views": 32943,
+    "lift_vs_game_baseline": 1.596
    },
    "growth": {
     "delta_24h": null,
@@ -327,13 +297,13 @@
     "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T19:00:38+09:00",
-    "age_hours": 171.3,
-    "views_absolute": 32181,
+    "age_hours": 174.0,
+    "views_absolute": 32943,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 32181,
+     "views_now": 32943,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -341,18 +311,12 @@
      "since_publish_7d": 3125,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 20596,
-    "lift_vs_game_baseline": 1.562,
+    "game_baseline_median_views": 20636,
+    "lift_vs_game_baseline": 1.596,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-    "fetched_at": "2026-11-10T22:21:09+09:00"
+    "fetched_at": "2026-11-11T01:01:06+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00",
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/endfield-mingha-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   "last_updated": "2026-11-11T01:01:06+09:00"
   }
  ],
  "growth_ranking": [],
@@ -371,8 +335,8 @@
    "rank_absolute": 2,
    "rank_growth": null,
    "absolute": {
-    "views": 137955,
-    "lift_vs_game_baseline": 2.484
+    "views": 138377,
+    "lift_vs_game_baseline": 2.488
    },
    "growth": {
     "delta_24h": null,
@@ -389,13 +353,13 @@
     "thumb": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T13:00:36+09:00",
-    "age_hours": 177.3,
-    "views_absolute": 137955,
+    "age_hours": 180.0,
+    "views_absolute": 138377,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 137955,
+     "views_now": 138377,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -403,25 +367,19 @@
      "since_publish_7d": 658,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 55540.0,
-    "lift_vs_game_baseline": 2.484,
+    "game_baseline_median_views": 55621.0,
+    "lift_vs_game_baseline": 2.488,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-10T22:21:09+09:00"
+    "fetched_at": "2026-11-11T01:01:06+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00",
+   "last_updated": "2026-11-11T01:01:06+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
      "url": "https://news84034.tistory.com/8",
      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
     }
-   ],
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   ]
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -437,8 +395,8 @@
    "rank_absolute": 4,
    "rank_growth": null,
    "absolute": {
-    "views": 71027,
-    "lift_vs_game_baseline": 1.279
+    "views": 71111,
+    "lift_vs_game_baseline": 1.278
    },
    "growth": {
     "delta_24h": null,
@@ -455,13 +413,13 @@
     "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-02T13:00:00+09:00",
-    "age_hours": 201.4,
-    "views_absolute": 71027,
+    "age_hours": 204.0,
+    "views_absolute": 71111,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 71027,
+     "views_now": 71111,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -469,25 +427,19 @@
      "since_publish_7d": 0,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 55540.0,
-    "lift_vs_game_baseline": 1.279,
+    "game_baseline_median_views": 55621.0,
+    "lift_vs_game_baseline": 1.278,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-10T22:21:09+09:00"
+    "fetched_at": "2026-11-11T01:01:06+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00",
+   "last_updated": "2026-11-11T01:01:06+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
      "url": "https://news84034.tistory.com/8",
      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
     }
-   ],
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-de1daf6f79-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   ]
   },
   {
    "character_id": "starrail-aha",
@@ -502,8 +454,8 @@
    "rank_absolute": 1,
    "rank_growth": null,
    "absolute": {
-    "views": 310934,
-    "lift_vs_game_baseline": 3.738
+    "views": 317854,
+    "lift_vs_game_baseline": 3.779
    },
    "growth": {
     "delta_24h": null,
@@ -520,13 +472,13 @@
     "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-08T13:00:19+09:00",
-    "age_hours": 57.3,
-    "views_absolute": 310934,
+    "age_hours": 60.0,
+    "views_absolute": 317854,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 310934,
+     "views_now": 317854,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -534,25 +486,19 @@
      "since_publish_7d": null,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 83174.5,
-    "lift_vs_game_baseline": 3.738,
+    "game_baseline_median_views": 84116.0,
+    "lift_vs_game_baseline": 3.779,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-    "fetched_at": "2026-11-10T22:21:09+09:00"
+    "fetched_at": "2026-11-11T01:01:06+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00",
+   "last_updated": "2026-11-11T01:01:06+09:00",
    "related_posts": [
     {
      "title": "스타레일 4.7 아하 픽업 정리 | 11월 11일 시작, 황천&middot;음월&middot;경원은 12월 2일 후반 복각",
      "url": "https://news84034.tistory.com/11",
      "published": "Mon, 9 Nov 2026 12:00:55 +0900"
     }
-   ],
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/starrail-aha-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   ]
   },
   {
    "character_id": "genshin-danika",
@@ -579,20 +525,14 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-10T22:21:09+09:00",
+   "last_updated": "2026-11-11T01:01:06+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
      "url": "https://news84034.tistory.com/8",
      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
     }
-   ],
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-danika-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   ]
   },
   {
    "character_id": "genshin-anastasia",
@@ -619,20 +559,14 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-10T22:21:09+09:00",
+   "last_updated": "2026-11-11T01:01:06+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
      "url": "https://news84034.tistory.com/8",
      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
     }
-   ],
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-anastasia-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   ]
   },
   {
    "character_id": "zzz-severian",
@@ -647,8 +581,8 @@
    "rank_absolute": 3,
    "rank_growth": null,
    "absolute": {
-    "views": 115577,
-    "lift_vs_game_baseline": 0.984
+    "views": 116907,
+    "lift_vs_game_baseline": 0.995
    },
    "growth": {
     "delta_24h": null,
@@ -665,13 +599,13 @@
     "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-06T12:59:56+09:00",
-    "age_hours": 105.4,
-    "views_absolute": 115577,
+    "age_hours": 108.0,
+    "views_absolute": 116907,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 115577,
+     "views_now": 116907,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -679,12 +613,12 @@
      "since_publish_7d": null,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 117424,
-    "lift_vs_game_baseline": 0.984,
+    "game_baseline_median_views": 117500,
+    "lift_vs_game_baseline": 0.995,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-    "fetched_at": "2026-11-10T22:21:09+09:00"
+    "fetched_at": "2026-11-11T01:01:06+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00",
+   "last_updated": "2026-11-11T01:01:06+09:00",
    "related_posts": [
     {
      "title": "ZZZ 3.3 후반 D-1 | 피닉스 배너 내일 오전 11시 59분 종료, 세베리안 준비 체크",
@@ -696,13 +630,7 @@
      "url": "https://news84034.tistory.com/12",
      "published": "Mon, 9 Nov 2026 15:20:23 +0900"
     }
-   ],
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/zzz-severian-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   ]
   },
   {
    "character_id": "wuwa-lily",
@@ -717,8 +645,8 @@
    "rank_absolute": null,
    "rank_growth": null,
    "absolute": {
-    "views": 82663,
-    "lift_vs_game_baseline": 1.66
+    "views": 91592,
+    "lift_vs_game_baseline": 1.819
    },
    "growth": {
     "delta_24h": null,
@@ -735,13 +663,13 @@
     "thumb": "https://i.ytimg.com/vi/nNuN0rPi2YA/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-10T12:00:00+09:00",
-    "age_hours": 10.4,
-    "views_absolute": 82663,
+    "age_hours": 13.0,
+    "views_absolute": 91592,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 82663,
+     "views_now": 91592,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -749,25 +677,19 @@
      "since_publish_7d": null,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 49797.5,
-    "lift_vs_game_baseline": 1.66,
+    "game_baseline_median_views": 50354.5,
+    "lift_vs_game_baseline": 1.819,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
-    "fetched_at": "2026-11-10T22:21:09+09:00"
+    "fetched_at": "2026-11-11T01:01:06+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00",
+   "last_updated": "2026-11-11T01:01:06+09:00",
    "related_posts": [
     {
      "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
      "url": "https://news84034.tistory.com/13",
      "published": "Mon, 9 Nov 2026 18:39:39 +0900"
     }
-   ],
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/wuwa-lily-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   ]
   },
   {
    "character_id": "nte-elim",
@@ -782,8 +704,8 @@
    "rank_absolute": 5,
    "rank_growth": null,
    "absolute": {
-    "views": 53173,
-    "lift_vs_game_baseline": 13.804
+    "views": 53207,
+    "lift_vs_game_baseline": 13.559
    },
    "growth": {
     "delta_24h": null,
@@ -800,13 +722,13 @@
     "thumb": "https://i.ytimg.com/vi/MK4bIOILTHM/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-05T12:00:30+09:00",
-    "age_hours": 130.3,
-    "views_absolute": 53173,
+    "age_hours": 133.0,
+    "views_absolute": 53207,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 53173,
+     "views_now": 53207,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -814,19 +736,13 @@
      "since_publish_7d": null,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 3852,
-    "lift_vs_game_baseline": 13.804,
+    "game_baseline_median_views": 3924,
+    "lift_vs_game_baseline": 13.559,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-    "fetched_at": "2026-11-10T22:21:09+09:00"
+    "fetched_at": "2026-11-11T01:01:06+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00",
-   "related_posts": [],
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/nte-elim-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   "last_updated": "2026-11-11T01:01:06+09:00",
+   "related_posts": []
   },
   {
    "character_id": "nte-exe",
@@ -853,7 +769,7 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-10T22:21:09+09:00",
+   "last_updated": "2026-11-11T01:01:06+09:00",
    "related_posts": []
   },
   {
@@ -869,8 +785,8 @@
    "rank_absolute": 6,
    "rank_growth": null,
    "absolute": {
-    "views": 32181,
-    "lift_vs_game_baseline": 1.562
+    "views": 32943,
+    "lift_vs_game_baseline": 1.596
    },
    "growth": {
     "delta_24h": null,
@@ -887,13 +803,13 @@
     "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T19:00:38+09:00",
-    "age_hours": 171.3,
-    "views_absolute": 32181,
+    "age_hours": 174.0,
+    "views_absolute": 32943,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 32181,
+     "views_now": 32943,
      "delta_24h": null,
      "delta_7d": null,
      "delta_30d": null,
@@ -901,19 +817,13 @@
      "since_publish_7d": 3125,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 20596,
-    "lift_vs_game_baseline": 1.562,
+    "game_baseline_median_views": 20636,
+    "lift_vs_game_baseline": 1.596,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-    "fetched_at": "2026-11-10T22:21:09+09:00"
+    "fetched_at": "2026-11-11T01:01:06+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00",
-   "related_posts": [],
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/endfield-mingha-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   "last_updated": "2026-11-11T01:01:06+09:00",
+   "related_posts": []
   },
   {
    "character_id": "trickcal-dudu",
@@ -940,14 +850,8 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-10T22:21:09+09:00",
-   "related_posts": [],
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   "last_updated": "2026-11-11T01:01:06+09:00",
+   "related_posts": []
   }
  ],
  "likes_comments_status": "미연동"

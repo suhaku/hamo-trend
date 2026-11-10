@@ -9,7 +9,7 @@
  "is_rerun": false,
  "reveal_date": "2026-11-07",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-10T22:24:41+09:00",
+ "last_seen_at": "2026-11-11T01:05:03+09:00",
  "alltime_rank": null,
  "peak_pv_views": null,
  "peak_lift": null,
@@ -31,14 +31,8 @@
     "en": null,
     "ja": null
    },
-   "peak_pv_views": 137955.0,
-   "alltime_rank": 1,
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   "peak_pv_views": 138377.0,
+   "alltime_rank": 1
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -47,14 +41,8 @@
     "en": null,
     "ja": null
    },
-   "peak_pv_views": 71027.0,
-   "alltime_rank": 2,
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-de1daf6f79-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   "peak_pv_views": 71111.0,
+   "alltime_rank": 2
   },
   {
    "character_id": "genshin-mavuika",
@@ -133,13 +121,7 @@
     "en": null
    },
    "peak_pv_views": null,
-   "alltime_rank": null,
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-danika-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   "alltime_rank": null
   },
   {
    "character_id": "genshin-anastasia",
@@ -148,19 +130,13 @@
     "en": null
    },
    "peak_pv_views": null,
-   "alltime_rank": null,
-   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-anastasia-face.png",
-   "portrait_focus": {
-    "x": 50.0,
-    "y": 50.0
-   },
-   "portrait_zoom": 1.0
+   "alltime_rank": null
   }
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
   "score": null,
-  "score_raw": 98.94,
+  "score_raw": 94.77,
   "coverage": 0.3333,
   "reliability": 0.3333,
   "provisional": false,
@@ -176,13 +152,7 @@
     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
    }
   ],
-  "last_updated": "2026-11-10T22:24:41+09:00",
+  "last_updated": "2026-11-11T01:05:03+09:00",
   "note": "current score does not include all-time records"
- },
- "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-danika-face.png",
- "portrait_focus": {
-  "x": 50.0,
-  "y": 50.0
- },
- "portrait_zoom": 1.0
+ }
 }
