@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T13:07:41+09:00",
+ "generated_at": "2026-11-10T16:30:44+09:00",
  "timezone": "Asia/Seoul",
  "product": "new-character reveals + PV popularity (no game ranking)",
  "sections": [
@@ -12,7 +12,7 @@
  "new_characters": {
   "status": "ok",
   "month": "2026-11",
-  "generated_at": "2026-11-10T13:03:59+09:00",
+  "generated_at": "2026-11-10T16:26:56+09:00",
   "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
   "items": [
    {
@@ -56,7 +56,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [
      {
       "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
@@ -103,17 +103,12 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [
      {
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ],
     "x_top_post_url": null,
@@ -155,17 +150,12 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [
      {
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ],
     "x_top_post_url": null,
@@ -214,7 +204,7 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [],
     "x_top_post_url": null,
     "x_status": "데이터 없음"
@@ -266,7 +256,7 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [],
     "x_top_post_url": null,
     "x_status": "데이터 없음"
@@ -328,7 +318,7 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [
      {
       "title": "스타레일 4.7 아하 픽업 정리 | 11월 11일 시작, 황천&middot;음월&middot;경원은 12월 2일 후반 복각",
@@ -378,7 +368,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [],
     "x_top_post_url": null,
     "x_status": "데이터 없음"
@@ -418,7 +408,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [],
     "x_top_post_url": null,
     "x_status": "데이터 없음"
@@ -472,17 +462,12 @@
     },
     "verification": "official_new_marker_or_debut_featured",
     "is_new": true,
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [
      {
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ],
     "x_top_post_url": null,
@@ -537,17 +522,12 @@
     },
     "verification": "official_new_marker_or_debut_featured",
     "is_new": true,
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [
      {
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ],
     "x_top_post_url": null,
@@ -605,8 +585,13 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [
+     {
+      "title": "ZZZ 3.3 후반 D-1 | 피닉스 배너 내일 오전 11시 59분 종료, 세베리안 준비 체크",
+      "url": "https://news84034.tistory.com/15",
+      "published": "Tue, 10 Nov 2026 14:49:46 +0900"
+     },
      {
       "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 11월 11일 시작, 노르마 복각",
       "url": "https://news84034.tistory.com/12",
@@ -621,7 +606,7 @@
  },
  "pv_ranking": {
   "status": "ok",
-  "generated_at": "2026-11-10T13:03:59+09:00",
+  "generated_at": "2026-11-10T16:26:56+09:00",
   "rule": "공식 채널 PV 실측 조회수 · 절대 조회수와 성장 순위 분리 · 같은 게임 과거 신캐 대비 보정",
   "hold_policy": "PV 게시 후 24시간 미만이거나 조회수 없으면 순위 보류",
   "absolute_ranking": [
@@ -656,7 +641,7 @@
      "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-08T13:00:19+09:00",
-     "age_hours": 48.1,
+     "age_hours": 51.4,
      "views_absolute": 277190,
      "likes": null,
      "comments": null,
@@ -673,9 +658,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-     "fetched_at": "2026-11-10T13:03:59+09:00"
+     "fetched_at": "2026-11-10T16:26:56+09:00"
     },
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "character_id": "genshin-a2fbc1b95d",
@@ -709,7 +694,7 @@
      "thumb": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T13:00:36+09:00",
-     "age_hours": 168.1,
+     "age_hours": 171.4,
      "views_absolute": 136085,
      "likes": null,
      "comments": null,
@@ -726,9 +711,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-10T13:03:59+09:00"
+     "fetched_at": "2026-11-10T16:26:56+09:00"
     },
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "character_id": "zzz-severian",
@@ -761,7 +746,7 @@
      "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-06T12:59:56+09:00",
-     "age_hours": 96.1,
+     "age_hours": 99.5,
      "views_absolute": 108758,
      "likes": null,
      "comments": null,
@@ -778,9 +763,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-     "fetched_at": "2026-11-10T13:03:59+09:00"
+     "fetched_at": "2026-11-10T16:26:56+09:00"
     },
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "character_id": "genshin-de1daf6f79",
@@ -814,7 +799,7 @@
      "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-02T13:00:00+09:00",
-     "age_hours": 192.1,
+     "age_hours": 195.4,
      "views_absolute": 70666,
      "likes": null,
      "comments": null,
@@ -831,9 +816,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-10T13:03:59+09:00"
+     "fetched_at": "2026-11-10T16:26:56+09:00"
     },
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "character_id": "wuwa-lily",
@@ -866,7 +851,7 @@
      "thumb": "https://i.ytimg.com/vi/jQfuUUFPf8s/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-08T12:00:24+09:00",
-     "age_hours": 49.1,
+     "age_hours": 52.4,
      "views_absolute": 58544,
      "likes": null,
      "comments": null,
@@ -883,9 +868,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
-     "fetched_at": "2026-11-10T13:03:59+09:00"
+     "fetched_at": "2026-11-10T16:26:56+09:00"
     },
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "character_id": "nte-elim",
@@ -918,7 +903,7 @@
      "thumb": "https://i.ytimg.com/vi/MK4bIOILTHM/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-05T12:00:30+09:00",
-     "age_hours": 121.1,
+     "age_hours": 124.4,
      "views_absolute": 53026,
      "likes": null,
      "comments": null,
@@ -935,9 +920,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-     "fetched_at": "2026-11-10T13:03:59+09:00"
+     "fetched_at": "2026-11-10T16:26:56+09:00"
     },
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "character_id": "endfield-mingha",
@@ -970,7 +955,7 @@
      "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T19:00:38+09:00",
-     "age_hours": 162.1,
+     "age_hours": 165.4,
      "views_absolute": 28063,
      "likes": null,
      "comments": null,
@@ -987,9 +972,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-     "fetched_at": "2026-11-10T13:03:59+09:00"
+     "fetched_at": "2026-11-10T16:26:56+09:00"
     },
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    }
   ],
   "growth_ranking": [],
@@ -1026,7 +1011,7 @@
      "thumb": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T13:00:36+09:00",
-     "age_hours": 168.1,
+     "age_hours": 171.4,
      "views_absolute": 136085,
      "likes": null,
      "comments": null,
@@ -1043,19 +1028,14 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-10T13:03:59+09:00"
+     "fetched_at": "2026-11-10T16:26:56+09:00"
     },
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [
      {
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ]
    },
@@ -1091,7 +1071,7 @@
      "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-02T13:00:00+09:00",
-     "age_hours": 192.1,
+     "age_hours": 195.4,
      "views_absolute": 70666,
      "likes": null,
      "comments": null,
@@ -1108,19 +1088,14 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-10T13:03:59+09:00"
+     "fetched_at": "2026-11-10T16:26:56+09:00"
     },
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [
      {
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ]
    },
@@ -1155,7 +1130,7 @@
      "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-08T13:00:19+09:00",
-     "age_hours": 48.1,
+     "age_hours": 51.4,
      "views_absolute": 277190,
      "likes": null,
      "comments": null,
@@ -1172,9 +1147,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-     "fetched_at": "2026-11-10T13:03:59+09:00"
+     "fetched_at": "2026-11-10T16:26:56+09:00"
     },
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [
      {
       "title": "스타레일 4.7 아하 픽업 정리 | 11월 11일 시작, 황천&middot;음월&middot;경원은 12월 2일 후반 복각",
@@ -1208,17 +1183,12 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [
      {
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ]
    },
@@ -1247,17 +1217,12 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [
      {
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ]
    },
@@ -1292,7 +1257,7 @@
      "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-06T12:59:56+09:00",
-     "age_hours": 96.1,
+     "age_hours": 99.5,
      "views_absolute": 108758,
      "likes": null,
      "comments": null,
@@ -1309,10 +1274,15 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-     "fetched_at": "2026-11-10T13:03:59+09:00"
+     "fetched_at": "2026-11-10T16:26:56+09:00"
     },
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [
+     {
+      "title": "ZZZ 3.3 후반 D-1 | 피닉스 배너 내일 오전 11시 59분 종료, 세베리안 준비 체크",
+      "url": "https://news84034.tistory.com/15",
+      "published": "Tue, 10 Nov 2026 14:49:46 +0900"
+     },
      {
       "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 11월 11일 시작, 노르마 복각",
       "url": "https://news84034.tistory.com/12",
@@ -1351,7 +1321,7 @@
      "thumb": "https://i.ytimg.com/vi/jQfuUUFPf8s/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-08T12:00:24+09:00",
-     "age_hours": 49.1,
+     "age_hours": 52.4,
      "views_absolute": 58544,
      "likes": null,
      "comments": null,
@@ -1368,9 +1338,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
-     "fetched_at": "2026-11-10T13:03:59+09:00"
+     "fetched_at": "2026-11-10T16:26:56+09:00"
     },
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": [
      {
       "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
@@ -1410,7 +1380,7 @@
      "thumb": "https://i.ytimg.com/vi/MK4bIOILTHM/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-05T12:00:30+09:00",
-     "age_hours": 121.1,
+     "age_hours": 124.4,
      "views_absolute": 53026,
      "likes": null,
      "comments": null,
@@ -1427,9 +1397,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-     "fetched_at": "2026-11-10T13:03:59+09:00"
+     "fetched_at": "2026-11-10T16:26:56+09:00"
     },
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": []
    },
    {
@@ -1457,7 +1427,7 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": []
    },
    {
@@ -1491,7 +1461,7 @@
      "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T19:00:38+09:00",
-     "age_hours": 162.1,
+     "age_hours": 165.4,
      "views_absolute": 28063,
      "likes": null,
      "comments": null,
@@ -1508,9 +1478,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-     "fetched_at": "2026-11-10T13:03:59+09:00"
+     "fetched_at": "2026-11-10T16:26:56+09:00"
     },
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": []
    },
    {
@@ -1538,7 +1508,7 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-10T13:03:59+09:00",
+    "last_updated": "2026-11-10T16:26:56+09:00",
     "related_posts": []
    }
   ],
@@ -1546,7 +1516,7 @@
  },
  "character_ranking": {
   "status": "ok",
-  "generated_at": "2026-11-10T13:07:41+09:00",
+  "generated_at": "2026-11-10T16:30:44+09:00",
   "rule": "100점 만점 · 없는 지표는 0점 처리 없이 나머지로 다시 계산 · 수집률이 낮으면 잠정 또는 보류 · 신뢰도 따로 표시 · 복각 제외 · 역대 기록은 점수에 안 넣음",
   "weights": {
    "youtube_pv": 0.35,
@@ -1584,7 +1554,7 @@
     },
     "absolute_views": 277190,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": 100.0,
     "coverage": 0.5,
     "provisional": true,
@@ -1646,7 +1616,7 @@
     },
     "absolute_views": 136085,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": 94.32,
     "coverage": 0.5,
     "provisional": true,
@@ -1672,11 +1642,6 @@
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ],
     "x": {
@@ -1712,7 +1677,7 @@
     },
     "absolute_views": 108758,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": 92.53,
     "coverage": 0.5,
     "provisional": true,
@@ -1734,6 +1699,11 @@
     "lift_vs_game_baseline": null,
     "pv_video_id": "OcDcxORlzmY",
     "related_posts": [
+     {
+      "title": "ZZZ 3.3 후반 D-1 | 피닉스 배너 내일 오전 11시 59분 종료, 세베리안 준비 체크",
+      "url": "https://news84034.tistory.com/15",
+      "published": "Tue, 10 Nov 2026 14:49:46 +0900"
+     },
      {
       "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 11월 11일 시작, 노르마 복각",
       "url": "https://news84034.tistory.com/12",
@@ -1774,7 +1744,7 @@
     },
     "absolute_views": 70666,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": 89.09,
     "coverage": 0.5,
     "provisional": true,
@@ -1800,11 +1770,6 @@
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ],
     "x": {
@@ -1840,7 +1805,7 @@
     },
     "absolute_views": 58544,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": 87.59,
     "coverage": 0.5,
     "provisional": true,
@@ -1901,7 +1866,7 @@
     },
     "absolute_views": 53026,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": 86.8,
     "coverage": 0.5,
     "provisional": true,
@@ -1956,7 +1921,7 @@
     },
     "absolute_views": 28063,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": 81.73,
     "coverage": 0.5,
     "provisional": true,
@@ -2013,7 +1978,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": null,
     "coverage": 0.0,
     "provisional": false,
@@ -2033,11 +1998,6 @@
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ],
     "x": {
@@ -2073,7 +2033,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": null,
     "coverage": 0.0,
     "provisional": false,
@@ -2093,11 +2053,6 @@
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ],
     "x": {
@@ -2133,7 +2088,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": null,
     "coverage": 0.0,
     "provisional": false,
@@ -2182,7 +2137,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": null,
     "coverage": 0.0,
     "provisional": false,
@@ -2234,7 +2189,7 @@
     },
     "absolute_views": 136085,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": 94.32,
     "coverage": 0.5,
     "provisional": true,
@@ -2260,11 +2215,6 @@
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ],
     "x": {
@@ -2301,7 +2251,7 @@
     },
     "absolute_views": 70666,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": 89.09,
     "coverage": 0.5,
     "provisional": true,
@@ -2327,11 +2277,6 @@
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ],
     "x": {
@@ -2367,7 +2312,7 @@
     },
     "absolute_views": 277190,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": 100.0,
     "coverage": 0.5,
     "provisional": true,
@@ -2428,7 +2373,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": null,
     "coverage": 0.0,
     "provisional": false,
@@ -2448,11 +2393,6 @@
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ],
     "x": {
@@ -2488,7 +2428,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": null,
     "coverage": 0.0,
     "provisional": false,
@@ -2508,11 +2448,6 @@
       "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
       "url": "https://news84034.tistory.com/8",
       "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-     },
-     {
-      "title": "원신 미탸 트레일러 봤어? 머플러가 사실상 엄마야 ㅋㅋㅋ",
-      "url": "https://news84034.tistory.com/5",
-      "published": "Sat, 7 Nov 2026 19:09:21 +0900"
      }
     ],
     "x": {
@@ -2548,7 +2483,7 @@
     },
     "absolute_views": 108758,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": 92.53,
     "coverage": 0.5,
     "provisional": true,
@@ -2570,6 +2505,11 @@
     "lift_vs_game_baseline": null,
     "pv_video_id": "OcDcxORlzmY",
     "related_posts": [
+     {
+      "title": "ZZZ 3.3 후반 D-1 | 피닉스 배너 내일 오전 11시 59분 종료, 세베리안 준비 체크",
+      "url": "https://news84034.tistory.com/15",
+      "published": "Tue, 10 Nov 2026 14:49:46 +0900"
+     },
      {
       "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 11월 11일 시작, 노르마 복각",
       "url": "https://news84034.tistory.com/12",
@@ -2609,7 +2549,7 @@
     },
     "absolute_views": 58544,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": 87.59,
     "coverage": 0.5,
     "provisional": true,
@@ -2670,7 +2610,7 @@
     },
     "absolute_views": 53026,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": 86.8,
     "coverage": 0.5,
     "provisional": true,
@@ -2725,7 +2665,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": null,
     "coverage": 0.0,
     "provisional": false,
@@ -2774,7 +2714,7 @@
     },
     "absolute_views": 28063,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": 81.73,
     "coverage": 0.5,
     "provisional": true,
@@ -2829,7 +2769,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-10T13:07:41+09:00",
+    "last_updated": "2026-11-10T16:30:44+09:00",
     "score_raw": null,
     "coverage": 0.0,
     "provisional": false,
@@ -2861,14 +2801,14 @@
  },
  "rising_character": {
   "status": "데이터 없음",
-  "generated_at": "2026-11-10T13:03:59+09:00",
+  "generated_at": "2026-11-10T16:26:56+09:00",
   "rule": "최근 관심 성장 속도(주로 7일 조회수 증가분) · 복각 제외 · 스냅샷 부족 시 데이터 없음",
   "top": null,
   "ranking": []
  },
  "pickup_schedule": {
   "status": "ok",
-  "generated_at": "2026-11-10T13:03:59+09:00",
+  "generated_at": "2026-11-10T16:26:56+09:00",
   "month": "2026-11",
   "rule": "공식 공지만 · 시작/종료/출처 필수 · 신규 중심, 복각은 따로 표시",
   "items": [
@@ -2909,7 +2849,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "game_id": "genshin",
@@ -2941,7 +2881,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": null,
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "game_id": "trickcal",
@@ -2973,7 +2913,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
     "api_source": null,
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "game_id": "starrail",
@@ -3016,7 +2956,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47385253",
     "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "game_id": "zzz",
@@ -3051,7 +2991,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47375931",
     "api_source": null,
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    }
   ],
   "reruns": [
@@ -3084,42 +3024,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47131668",
     "api_source": null,
-    "last_updated": "2026-11-10T13:03:59+09:00"
-   },
-   {
-    "game_id": "starrail",
-    "game_name": "붕괴: 스타레일",
-    "title": "4.6 버전 이벤트 워프 (2)",
-    "characters": [
-     "청작",
-     "설의",
-     "미샤",
-     "천야•블레이드"
-    ],
-    "new_characters": null,
-    "rerun_characters": [
-     "청작",
-     "설의",
-     "미샤",
-     "천야•블레이드"
-    ],
-    "featured_character": "청작",
-    "featured_character_id": null,
-    "portrait_url": null,
-    "portrait_focus": null,
-    "portrait_zoom": null,
-    "start": "2026-10-20 14:00:00",
-    "end": "2026-11-10 15:00:00",
-    "tz": "UTC+8",
-    "is_new": false,
-    "is_rerun": true,
-    "type": "복각",
-    "image": null,
-    "source": "호요버스 공식 인게임 공지",
-    "source_label": "호요버스 공식 인게임 공지",
-    "source_url": "https://www.hoyolab.com/article/47142215",
-    "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "game_id": "trickcal",
@@ -3148,7 +3053,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
     "api_source": null,
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "game_id": "genshin",
@@ -3184,7 +3089,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "game_id": "nte",
@@ -3217,7 +3122,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
     "api_source": null,
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    }
   ],
   "all": [
@@ -3250,42 +3155,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47131668",
     "api_source": null,
-    "last_updated": "2026-11-10T13:03:59+09:00"
-   },
-   {
-    "game_id": "starrail",
-    "game_name": "붕괴: 스타레일",
-    "title": "4.6 버전 이벤트 워프 (2)",
-    "characters": [
-     "청작",
-     "설의",
-     "미샤",
-     "천야•블레이드"
-    ],
-    "new_characters": null,
-    "rerun_characters": [
-     "청작",
-     "설의",
-     "미샤",
-     "천야•블레이드"
-    ],
-    "featured_character": "청작",
-    "featured_character_id": null,
-    "portrait_url": null,
-    "portrait_focus": null,
-    "portrait_zoom": null,
-    "start": "2026-10-20 14:00:00",
-    "end": "2026-11-10 15:00:00",
-    "tz": "UTC+8",
-    "is_new": false,
-    "is_rerun": true,
-    "type": "복각",
-    "image": null,
-    "source": "호요버스 공식 인게임 공지",
-    "source_label": "호요버스 공식 인게임 공지",
-    "source_url": "https://www.hoyolab.com/article/47142215",
-    "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "game_id": "trickcal",
@@ -3314,7 +3184,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
     "api_source": null,
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "game_id": "genshin",
@@ -3353,7 +3223,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "game_id": "genshin",
@@ -3389,7 +3259,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "game_id": "genshin",
@@ -3421,7 +3291,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": null,
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "game_id": "trickcal",
@@ -3453,7 +3323,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
     "api_source": null,
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "game_id": "starrail",
@@ -3496,7 +3366,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47385253",
     "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "game_id": "nte",
@@ -3529,7 +3399,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
     "api_source": null,
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    },
    {
     "game_id": "zzz",
@@ -3564,7 +3434,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47375931",
     "api_source": null,
-    "last_updated": "2026-11-10T13:03:59+09:00"
+    "last_updated": "2026-11-10T16:26:56+09:00"
    }
   ]
  },
@@ -3628,7 +3498,7 @@
   "nte.youtube: HTTPError: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
   "endfield.youtube: HTTPError: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
   "priconne.youtube: HTTPError: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCF8zvIqu8LyXVfo6yHyqShA",
-  "bangdream.youtube: HTTPError: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCN-bFIdJM0gQlgX7h6LKcZA"
+  "bangdream.youtube: HTTPError: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCN-bFIdJM0gQlgX7h6LKcZA"
  ],
  "security": {
   "https_only": true,

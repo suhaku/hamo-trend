@@ -9,7 +9,7 @@
  "is_rerun": false,
  "reveal_date": "2026-10-23",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-10T13:07:41+09:00",
+ "last_seen_at": "2026-11-10T16:30:44+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 108758.0,
  "peak_lift": 0.929,
@@ -99,6 +99,11 @@
    "at": "2026-11-10T13:07:41+09:00",
    "video_id": "OcDcxORlzmY",
    "views": 108758.0
+  },
+  {
+   "at": "2026-11-10T16:30:44+09:00",
+   "video_id": "OcDcxORlzmY",
+   "views": 108758.0
   }
  ],
  "pv_series_by_video": [
@@ -181,6 +186,10 @@
     {
      "at": "2026-11-10T13:07:41+09:00",
      "views": 108758.0
+    },
+    {
+     "at": "2026-11-10T16:30:44+09:00",
+     "views": 108758.0
     }
    ]
   }
@@ -212,12 +221,17 @@
   "growth_rate_7d": null,
   "related_posts": [
    {
+    "title": "ZZZ 3.3 후반 D-1 | 피닉스 배너 내일 오전 11시 59분 종료, 세베리안 준비 체크",
+    "url": "https://news84034.tistory.com/15",
+    "published": "Tue, 10 Nov 2026 14:49:46 +0900"
+   },
+   {
     "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 11월 11일 시작, 노르마 복각",
     "url": "https://news84034.tistory.com/12",
     "published": "Mon, 9 Nov 2026 15:20:23 +0900"
    }
   ],
-  "last_updated": "2026-11-10T13:07:41+09:00",
+  "last_updated": "2026-11-10T16:30:44+09:00",
   "note": "current score does not include all-time records"
  }
 }

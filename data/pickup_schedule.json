@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-10T13:03:59+09:00",
+ "generated_at": "2026-11-10T16:26:56+09:00",
  "month": "2026-11",
  "rule": "공식 공지만 · 시작/종료/출처 필수 · 신규 중심, 복각은 따로 표시",
  "items": [
@@ -41,7 +41,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   },
   {
    "game_id": "genshin",
@@ -73,7 +73,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": null,
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   },
   {
    "game_id": "trickcal",
@@ -105,7 +105,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
    "api_source": null,
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   },
   {
    "game_id": "starrail",
@@ -148,7 +148,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47385253",
    "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   },
   {
    "game_id": "zzz",
@@ -183,7 +183,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47375931",
    "api_source": null,
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   }
  ],
  "reruns": [
@@ -216,42 +216,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47131668",
    "api_source": null,
-   "last_updated": "2026-11-10T13:03:59+09:00"
-  },
-  {
-   "game_id": "starrail",
-   "game_name": "붕괴: 스타레일",
-   "title": "4.6 버전 이벤트 워프 (2)",
-   "characters": [
-    "청작",
-    "설의",
-    "미샤",
-    "천야•블레이드"
-   ],
-   "new_characters": null,
-   "rerun_characters": [
-    "청작",
-    "설의",
-    "미샤",
-    "천야•블레이드"
-   ],
-   "featured_character": "청작",
-   "featured_character_id": null,
-   "portrait_url": null,
-   "portrait_focus": null,
-   "portrait_zoom": null,
-   "start": "2026-10-20 14:00:00",
-   "end": "2026-11-10 15:00:00",
-   "tz": "UTC+8",
-   "is_new": false,
-   "is_rerun": true,
-   "type": "복각",
-   "image": null,
-   "source": "호요버스 공식 인게임 공지",
-   "source_label": "호요버스 공식 인게임 공지",
-   "source_url": "https://www.hoyolab.com/article/47142215",
-   "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   },
   {
    "game_id": "trickcal",
@@ -280,7 +245,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
    "api_source": null,
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   },
   {
    "game_id": "genshin",
@@ -316,7 +281,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   },
   {
    "game_id": "nte",
@@ -349,7 +314,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
    "api_source": null,
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   }
  ],
  "all": [
@@ -382,42 +347,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47131668",
    "api_source": null,
-   "last_updated": "2026-11-10T13:03:59+09:00"
-  },
-  {
-   "game_id": "starrail",
-   "game_name": "붕괴: 스타레일",
-   "title": "4.6 버전 이벤트 워프 (2)",
-   "characters": [
-    "청작",
-    "설의",
-    "미샤",
-    "천야•블레이드"
-   ],
-   "new_characters": null,
-   "rerun_characters": [
-    "청작",
-    "설의",
-    "미샤",
-    "천야•블레이드"
-   ],
-   "featured_character": "청작",
-   "featured_character_id": null,
-   "portrait_url": null,
-   "portrait_focus": null,
-   "portrait_zoom": null,
-   "start": "2026-10-20 14:00:00",
-   "end": "2026-11-10 15:00:00",
-   "tz": "UTC+8",
-   "is_new": false,
-   "is_rerun": true,
-   "type": "복각",
-   "image": null,
-   "source": "호요버스 공식 인게임 공지",
-   "source_label": "호요버스 공식 인게임 공지",
-   "source_url": "https://www.hoyolab.com/article/47142215",
-   "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   },
   {
    "game_id": "trickcal",
@@ -446,7 +376,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
    "api_source": null,
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   },
   {
    "game_id": "genshin",
@@ -485,7 +415,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   },
   {
    "game_id": "genshin",
@@ -521,7 +451,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   },
   {
    "game_id": "genshin",
@@ -553,7 +483,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": null,
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   },
   {
    "game_id": "trickcal",
@@ -585,7 +515,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
    "api_source": null,
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   },
   {
    "game_id": "starrail",
@@ -628,7 +558,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47385253",
    "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   },
   {
    "game_id": "nte",
@@ -661,7 +591,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
    "api_source": null,
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   },
   {
    "game_id": "zzz",
@@ -696,7 +626,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47375931",
    "api_source": null,
-   "last_updated": "2026-11-10T13:03:59+09:00"
+   "last_updated": "2026-11-10T16:26:56+09:00"
   }
  ]
 }
