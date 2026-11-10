@@ -82,6 +82,14 @@
    "pickup_rerun_history": [
     {
      "character_id": null,
+     "start": "2026-11-10 11:00:00",
+     "end": "2026-12-02 11:59:00",
+     "is_rerun": false,
+     "source_url": "https://www.hoyolab.com/article/47385253",
+     "title": "4.7 버전 이벤트 워프 (1)"
+    },
+    {
+     "character_id": null,
      "start": "2026-10-20 14:00:00",
      "end": "2026-11-10 15:00:00",
      "is_rerun": true,

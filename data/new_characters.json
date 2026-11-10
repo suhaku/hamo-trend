@@ -146,7 +146,7 @@
     "https://www.hoyolab.com/article/47363694",
     "https://www.youtube.com/watch?v=OzL48iFuq8E"
    ],
-   "status": "revealed",
+   "status": "pickup_live",
    "is_new": true,
    "active": true,
    "verification": "manual_verified_official_source",
@@ -165,7 +165,18 @@
     "x": 68.0,
     "y": 38.0
    },
-   "portrait_zoom": 1.7
+   "portrait_zoom": 1.7,
+   "pickup": {
+    "start": "2026-11-10 11:00:00",
+    "end": "2026-12-02 11:59:00",
+    "tz": "UTC+8",
+    "source_url": "https://www.hoyolab.com/article/47385253",
+    "source_label": "호요버스 공식 인게임 공지",
+    "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
+    "source": "호요버스 공식 인게임 공지",
+    "is_rerun": false,
+    "is_new": true
+   }
   },
   {
    "id": "genshin-danika",
@@ -588,6 +599,6 @@
    "verification": "auto_official_reveal: HoYoLAB 공식 캐릭터 소개"
   }
  ],
- "last_updated": "2026-11-10T10:18:48+09:00",
+ "last_updated": "2026-11-10T13:03:59+09:00",
  "purged_this_run": []
 }

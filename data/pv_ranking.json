@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-10T10:18:48+09:00",
+ "generated_at": "2026-11-10T13:03:59+09:00",
  "rule": "공식 채널 PV 실측 조회수 · 절대 조회수와 성장 순위 분리 · 같은 게임 과거 신캐 대비 보정",
  "hold_policy": "PV 게시 후 24시간 미만이거나 조회수 없으면 순위 보류",
  "absolute_ranking": [
@@ -35,7 +35,7 @@
     "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-08T13:00:19+09:00",
-    "age_hours": 45.3,
+    "age_hours": 48.1,
     "views_absolute": 277190,
     "likes": null,
     "comments": null,
@@ -52,9 +52,9 @@
     "game_baseline_median_views": null,
     "lift_vs_game_baseline": null,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-    "fetched_at": "2026-11-10T10:18:48+09:00"
+    "fetched_at": "2026-11-10T13:03:59+09:00"
    },
-   "last_updated": "2026-11-10T10:18:48+09:00"
+   "last_updated": "2026-11-10T13:03:59+09:00"
   },
   {
    "character_id": "genshin-a2fbc1b95d",
@@ -78,7 +78,7 @@
     "delta_7d": null,
     "delta_30d": null,
     "since_publish_24h": 0,
-    "since_publish_7d": null,
+    "since_publish_7d": 658,
     "since_publish_30d": null
    },
    "pv": {
@@ -88,7 +88,7 @@
     "thumb": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T13:00:36+09:00",
-    "age_hours": 165.3,
+    "age_hours": 168.1,
     "views_absolute": 136085,
     "likes": null,
     "comments": null,
@@ -99,15 +99,15 @@
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 0,
-     "since_publish_7d": null,
+     "since_publish_7d": 658,
      "since_publish_30d": null
     },
     "game_baseline_median_views": null,
     "lift_vs_game_baseline": null,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-10T10:18:48+09:00"
+    "fetched_at": "2026-11-10T13:03:59+09:00"
    },
-   "last_updated": "2026-11-10T10:18:48+09:00"
+   "last_updated": "2026-11-10T13:03:59+09:00"
   },
   {
    "character_id": "zzz-severian",
@@ -140,7 +140,7 @@
     "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-06T12:59:56+09:00",
-    "age_hours": 93.3,
+    "age_hours": 96.1,
     "views_absolute": 108758,
     "likes": null,
     "comments": null,
@@ -157,9 +157,9 @@
     "game_baseline_median_views": null,
     "lift_vs_game_baseline": null,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-    "fetched_at": "2026-11-10T10:18:48+09:00"
+    "fetched_at": "2026-11-10T13:03:59+09:00"
    },
-   "last_updated": "2026-11-10T10:18:48+09:00"
+   "last_updated": "2026-11-10T13:03:59+09:00"
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -193,7 +193,7 @@
     "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-02T13:00:00+09:00",
-    "age_hours": 189.3,
+    "age_hours": 192.1,
     "views_absolute": 70666,
     "likes": null,
     "comments": null,
@@ -210,9 +210,9 @@
     "game_baseline_median_views": null,
     "lift_vs_game_baseline": null,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-10T10:18:48+09:00"
+    "fetched_at": "2026-11-10T13:03:59+09:00"
    },
-   "last_updated": "2026-11-10T10:18:48+09:00"
+   "last_updated": "2026-11-10T13:03:59+09:00"
   },
   {
    "character_id": "wuwa-lily",
@@ -245,7 +245,7 @@
     "thumb": "https://i.ytimg.com/vi/jQfuUUFPf8s/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-08T12:00:24+09:00",
-    "age_hours": 46.3,
+    "age_hours": 49.1,
     "views_absolute": 58544,
     "likes": null,
     "comments": null,
@@ -262,9 +262,9 @@
     "game_baseline_median_views": null,
     "lift_vs_game_baseline": null,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
-    "fetched_at": "2026-11-10T10:18:48+09:00"
+    "fetched_at": "2026-11-10T13:03:59+09:00"
    },
-   "last_updated": "2026-11-10T10:18:48+09:00"
+   "last_updated": "2026-11-10T13:03:59+09:00"
   },
   {
    "character_id": "nte-elim",
@@ -297,7 +297,7 @@
     "thumb": "https://i.ytimg.com/vi/MK4bIOILTHM/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-05T12:00:30+09:00",
-    "age_hours": 118.3,
+    "age_hours": 121.1,
     "views_absolute": 53026,
     "likes": null,
     "comments": null,
@@ -314,9 +314,9 @@
     "game_baseline_median_views": null,
     "lift_vs_game_baseline": null,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-    "fetched_at": "2026-11-10T10:18:48+09:00"
+    "fetched_at": "2026-11-10T13:03:59+09:00"
    },
-   "last_updated": "2026-11-10T10:18:48+09:00"
+   "last_updated": "2026-11-10T13:03:59+09:00"
   },
   {
    "character_id": "endfield-mingha",
@@ -349,7 +349,7 @@
     "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T19:00:38+09:00",
-    "age_hours": 159.3,
+    "age_hours": 162.1,
     "views_absolute": 28063,
     "likes": null,
     "comments": null,
@@ -366,9 +366,9 @@
     "game_baseline_median_views": null,
     "lift_vs_game_baseline": null,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-    "fetched_at": "2026-11-10T10:18:48+09:00"
+    "fetched_at": "2026-11-10T13:03:59+09:00"
    },
-   "last_updated": "2026-11-10T10:18:48+09:00"
+   "last_updated": "2026-11-10T13:03:59+09:00"
   }
  ],
  "growth_ranking": [],
@@ -395,7 +395,7 @@
     "delta_7d": null,
     "delta_30d": null,
     "since_publish_24h": 0,
-    "since_publish_7d": null,
+    "since_publish_7d": 658,
     "since_publish_30d": null
    },
    "pv": {
@@ -405,7 +405,7 @@
     "thumb": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T13:00:36+09:00",
-    "age_hours": 165.3,
+    "age_hours": 168.1,
     "views_absolute": 136085,
     "likes": null,
     "comments": null,
@@ -416,15 +416,15 @@
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 0,
-     "since_publish_7d": null,
+     "since_publish_7d": 658,
      "since_publish_30d": null
     },
     "game_baseline_median_views": null,
     "lift_vs_game_baseline": null,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-10T10:18:48+09:00"
+    "fetched_at": "2026-11-10T13:03:59+09:00"
    },
-   "last_updated": "2026-11-10T10:18:48+09:00",
+   "last_updated": "2026-11-10T13:03:59+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -470,7 +470,7 @@
     "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-02T13:00:00+09:00",
-    "age_hours": 189.3,
+    "age_hours": 192.1,
     "views_absolute": 70666,
     "likes": null,
     "comments": null,
@@ -487,9 +487,9 @@
     "game_baseline_median_views": null,
     "lift_vs_game_baseline": null,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-10T10:18:48+09:00"
+    "fetched_at": "2026-11-10T13:03:59+09:00"
    },
-   "last_updated": "2026-11-10T10:18:48+09:00",
+   "last_updated": "2026-11-10T13:03:59+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -534,7 +534,7 @@
     "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-08T13:00:19+09:00",
-    "age_hours": 45.3,
+    "age_hours": 48.1,
     "views_absolute": 277190,
     "likes": null,
     "comments": null,
@@ -551,9 +551,9 @@
     "game_baseline_median_views": null,
     "lift_vs_game_baseline": null,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-    "fetched_at": "2026-11-10T10:18:48+09:00"
+    "fetched_at": "2026-11-10T13:03:59+09:00"
    },
-   "last_updated": "2026-11-10T10:18:48+09:00",
+   "last_updated": "2026-11-10T13:03:59+09:00",
    "related_posts": [
     {
      "title": "스타레일 4.7 아하 픽업 정리 | 11월 11일 시작, 황천&middot;음월&middot;경원은 12월 2일 후반 복각",
@@ -587,7 +587,7 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-10T10:18:48+09:00",
+   "last_updated": "2026-11-10T13:03:59+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -626,7 +626,7 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-10T10:18:48+09:00",
+   "last_updated": "2026-11-10T13:03:59+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -671,7 +671,7 @@
     "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-06T12:59:56+09:00",
-    "age_hours": 93.3,
+    "age_hours": 96.1,
     "views_absolute": 108758,
     "likes": null,
     "comments": null,
@@ -688,9 +688,9 @@
     "game_baseline_median_views": null,
     "lift_vs_game_baseline": null,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-    "fetched_at": "2026-11-10T10:18:48+09:00"
+    "fetched_at": "2026-11-10T13:03:59+09:00"
    },
-   "last_updated": "2026-11-10T10:18:48+09:00",
+   "last_updated": "2026-11-10T13:03:59+09:00",
    "related_posts": [
     {
      "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 11월 11일 시작, 노르마 복각",
@@ -730,7 +730,7 @@
     "thumb": "https://i.ytimg.com/vi/jQfuUUFPf8s/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-08T12:00:24+09:00",
-    "age_hours": 46.3,
+    "age_hours": 49.1,
     "views_absolute": 58544,
     "likes": null,
     "comments": null,
@@ -747,9 +747,9 @@
     "game_baseline_median_views": null,
     "lift_vs_game_baseline": null,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
-    "fetched_at": "2026-11-10T10:18:48+09:00"
+    "fetched_at": "2026-11-10T13:03:59+09:00"
    },
-   "last_updated": "2026-11-10T10:18:48+09:00",
+   "last_updated": "2026-11-10T13:03:59+09:00",
    "related_posts": [
     {
      "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
@@ -789,7 +789,7 @@
     "thumb": "https://i.ytimg.com/vi/MK4bIOILTHM/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-05T12:00:30+09:00",
-    "age_hours": 118.3,
+    "age_hours": 121.1,
     "views_absolute": 53026,
     "likes": null,
     "comments": null,
@@ -806,9 +806,9 @@
     "game_baseline_median_views": null,
     "lift_vs_game_baseline": null,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-    "fetched_at": "2026-11-10T10:18:48+09:00"
+    "fetched_at": "2026-11-10T13:03:59+09:00"
    },
-   "last_updated": "2026-11-10T10:18:48+09:00",
+   "last_updated": "2026-11-10T13:03:59+09:00",
    "related_posts": []
   },
   {
@@ -836,7 +836,7 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-10T10:18:48+09:00",
+   "last_updated": "2026-11-10T13:03:59+09:00",
    "related_posts": []
   },
   {
@@ -870,7 +870,7 @@
     "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T19:00:38+09:00",
-    "age_hours": 159.3,
+    "age_hours": 162.1,
     "views_absolute": 28063,
     "likes": null,
     "comments": null,
@@ -887,9 +887,9 @@
     "game_baseline_median_views": null,
     "lift_vs_game_baseline": null,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-    "fetched_at": "2026-11-10T10:18:48+09:00"
+    "fetched_at": "2026-11-10T13:03:59+09:00"
    },
-   "last_updated": "2026-11-10T10:18:48+09:00",
+   "last_updated": "2026-11-10T13:03:59+09:00",
    "related_posts": []
   },
   {
@@ -917,7 +917,7 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-10T10:18:48+09:00",
+   "last_updated": "2026-11-10T13:03:59+09:00",
    "related_posts": []
   }
  ],
