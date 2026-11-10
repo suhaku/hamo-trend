@@ -1,7 +1,7 @@
 {
  "status": "ok",
  "month": "2026-11",
- "generated_at": "2026-11-10T19:07:36+09:00",
+ "generated_at": "2026-11-10T22:21:09+09:00",
  "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
  "items": [
   {
@@ -46,7 +46,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T19:07:36+09:00",
+   "last_updated": "2026-11-10T22:21:09+09:00",
    "related_posts": [
     {
      "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
@@ -54,8 +54,8 @@
      "published": "Mon, 9 Nov 2026 18:39:39 +0900"
     }
    ],
-   "x_top_post_url": null,
-   "x_status": "데이터 없음"
+   "x_top_post_url": "https://x.com/WW_JP_Official/status/2119988430176387499",
+   "x_status": "연동(일 1회)"
   },
   {
    "id": "genshin-danika",
@@ -93,7 +93,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T19:07:36+09:00",
+   "last_updated": "2026-11-10T22:21:09+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -101,8 +101,8 @@
      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
     }
    ],
-   "x_top_post_url": null,
-   "x_status": "데이터 없음"
+   "x_top_post_url": "https://x.com/Genshin_7/status/2118916353574715817",
+   "x_status": "연동(일 1회)"
   },
   {
    "id": "genshin-anastasia",
@@ -140,7 +140,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T19:07:36+09:00",
+   "last_updated": "2026-11-10T22:21:09+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -148,8 +148,8 @@
      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
     }
    ],
-   "x_top_post_url": null,
-   "x_status": "데이터 없음"
+   "x_top_post_url": "https://x.com/Genshin_7/status/2118553962706055661",
+   "x_status": "연동(일 1회)"
   },
   {
    "id": "trickcal-dudu",
@@ -194,10 +194,10 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T19:07:36+09:00",
+   "last_updated": "2026-11-10T22:21:09+09:00",
    "related_posts": [],
-   "x_top_post_url": null,
-   "x_status": "데이터 없음"
+   "x_top_post_url": "https://x.com/Trickcal_Re/status/2117528978894516275",
+   "x_status": "연동(일 1회)"
   },
   {
    "id": "endfield-mingha",
@@ -246,10 +246,10 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T19:07:36+09:00",
+   "last_updated": "2026-11-10T22:21:09+09:00",
    "related_posts": [],
-   "x_top_post_url": null,
-   "x_status": "데이터 없음"
+   "x_top_post_url": "https://x.com/AKEndfieldJP/status/2117452958560297343",
+   "x_status": "연동(일 1회)"
   },
   {
    "id": "starrail-aha",
@@ -308,7 +308,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T19:07:36+09:00",
+   "last_updated": "2026-11-10T22:21:09+09:00",
    "related_posts": [
     {
      "title": "스타레일 4.7 아하 픽업 정리 | 11월 11일 시작, 황천&middot;음월&middot;경원은 12월 2일 후반 복각",
@@ -316,8 +316,8 @@
      "published": "Mon, 9 Nov 2026 12:00:55 +0900"
     }
    ],
-   "x_top_post_url": null,
-   "x_status": "데이터 없음"
+   "x_top_post_url": "https://x.com/honkaistarrail/status/2115654862767546563",
+   "x_status": "연동(일 1회)"
   },
   {
    "id": "nte-elim",
@@ -358,10 +358,10 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T19:07:36+09:00",
+   "last_updated": "2026-11-10T22:21:09+09:00",
    "related_posts": [],
-   "x_top_post_url": null,
-   "x_status": "데이터 없음"
+   "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
+   "x_status": "연동(일 1회)"
   },
   {
    "id": "nte-exe",
@@ -398,10 +398,10 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T19:07:36+09:00",
+   "last_updated": "2026-11-10T22:21:09+09:00",
    "related_posts": [],
-   "x_top_post_url": null,
-   "x_status": "데이터 없음"
+   "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
+   "x_status": "연동(일 1회)"
   },
   {
    "id": "genshin-a2fbc1b95d",
@@ -452,7 +452,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-10T19:07:36+09:00",
+   "last_updated": "2026-11-10T22:21:09+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -460,8 +460,8 @@
      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
     }
    ],
-   "x_top_post_url": null,
-   "x_status": "데이터 없음"
+   "x_top_post_url": "https://x.com/GenshinImpact/status/2117467054924025874",
+   "x_status": "연동(일 1회)"
   },
   {
    "id": "genshin-de1daf6f79",
@@ -512,7 +512,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-10T19:07:36+09:00",
+   "last_updated": "2026-11-10T22:21:09+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -520,8 +520,8 @@
      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
     }
    ],
-   "x_top_post_url": null,
-   "x_status": "데이터 없음"
+   "x_top_post_url": "https://x.com/GenshinImpact/status/2117104662675353725",
+   "x_status": "연동(일 1회)"
   },
   {
    "id": "zzz-severian",
@@ -575,7 +575,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T19:07:36+09:00",
+   "last_updated": "2026-11-10T22:21:09+09:00",
    "related_posts": [
     {
      "title": "ZZZ 3.3 후반 D-1 | 피닉스 배너 내일 오전 11시 59분 종료, 세베리안 준비 체크",
@@ -588,8 +588,8 @@
      "published": "Mon, 9 Nov 2026 15:20:23 +0900"
     }
    ],
-   "x_top_post_url": null,
-   "x_status": "데이터 없음"
+   "x_top_post_url": "https://x.com/ZZZ_JP/status/2118553969387827228",
+   "x_status": "연동(일 1회)"
   }
  ],
  "count": 11

@@ -9,9 +9,9 @@
  "is_rerun": false,
  "reveal_date": "2026-11-07",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-10T19:11:29+09:00",
+ "last_seen_at": "2026-11-10T22:24:41+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 62886.0,
+ "peak_pv_views": 82663.0,
  "peak_lift": 1.684,
  "peak_trends": null,
  "recorded_deltas": {
@@ -109,6 +109,11 @@
    "at": "2026-11-10T19:11:29+09:00",
    "video_id": "nNuN0rPi2YA",
    "views": 62886.0
+  },
+  {
+   "at": "2026-11-10T22:24:41+09:00",
+   "video_id": "nNuN0rPi2YA",
+   "views": 82663.0
   }
  ],
  "pv_series_by_video": [
@@ -205,6 +210,10 @@
     {
      "at": "2026-11-10T19:11:29+09:00",
      "views": 62886.0
+    },
+    {
+     "at": "2026-11-10T22:24:41+09:00",
+     "views": 82663.0
     }
    ]
   }
@@ -218,21 +227,21 @@
     "ko": "릴리",
     "en": "Lily"
    },
-   "peak_pv_views": 62886.0,
+   "peak_pv_views": 82663.0,
    "alltime_rank": 1
   }
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
   "score": null,
-  "score_raw": 87.57,
-  "coverage": 0.5,
-  "reliability": 0.5,
+  "score_raw": 90.72,
+  "coverage": 0.6667,
+  "reliability": 0.6667,
   "provisional": false,
   "hold": true,
   "hold_reason": "PV 게시 후 24시간 미만",
-  "absolute_views": 62886,
-  "lift_vs_game_baseline": 1.285,
+  "absolute_views": 82663,
+  "lift_vs_game_baseline": 1.66,
   "growth_rate_7d": null,
   "related_posts": [
    {
@@ -241,7 +250,7 @@
     "published": "Mon, 9 Nov 2026 18:39:39 +0900"
    }
   ],
-  "last_updated": "2026-11-10T19:11:29+09:00",
+  "last_updated": "2026-11-10T22:24:41+09:00",
   "note": "current score does not include all-time records"
  }
 }
