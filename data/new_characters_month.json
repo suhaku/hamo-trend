@@ -1,7 +1,7 @@
 {
  "status": "ok",
  "month": "2026-11",
- "generated_at": "2026-11-10T16:26:56+09:00",
+ "generated_at": "2026-11-10T19:07:36+09:00",
  "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
  "items": [
   {
@@ -38,6 +38,7 @@
     "https://www.youtube.com/watch?v=jQfuUUFPf8s",
     "https://www.youtube.com/watch?v=3TU_i70R4S4",
     "https://www.youtube.com/shorts/F64TLsomPyM",
+    "https://www.youtube.com/watch?v=nNuN0rPi2YA",
     "https://x.com/WW_KR_Official/status/2119266156628586813"
    ],
    "source_url": "https://www.youtube.com/watch?v=F64TLsomPyM",
@@ -45,7 +46,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T16:26:56+09:00",
+   "last_updated": "2026-11-10T19:07:36+09:00",
    "related_posts": [
     {
      "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
@@ -92,7 +93,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T16:26:56+09:00",
+   "last_updated": "2026-11-10T19:07:36+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -139,7 +140,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T16:26:56+09:00",
+   "last_updated": "2026-11-10T19:07:36+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -193,7 +194,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T16:26:56+09:00",
+   "last_updated": "2026-11-10T19:07:36+09:00",
    "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
@@ -245,7 +246,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T16:26:56+09:00",
+   "last_updated": "2026-11-10T19:07:36+09:00",
    "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
@@ -307,7 +308,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T16:26:56+09:00",
+   "last_updated": "2026-11-10T19:07:36+09:00",
    "related_posts": [
     {
      "title": "스타레일 4.7 아하 픽업 정리 | 11월 11일 시작, 황천&middot;음월&middot;경원은 12월 2일 후반 복각",
@@ -357,7 +358,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T16:26:56+09:00",
+   "last_updated": "2026-11-10T19:07:36+09:00",
    "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
@@ -397,7 +398,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T16:26:56+09:00",
+   "last_updated": "2026-11-10T19:07:36+09:00",
    "related_posts": [],
    "x_top_post_url": null,
    "x_status": "데이터 없음"
@@ -451,7 +452,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-10T16:26:56+09:00",
+   "last_updated": "2026-11-10T19:07:36+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -511,7 +512,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-10T16:26:56+09:00",
+   "last_updated": "2026-11-10T19:07:36+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -574,7 +575,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-10T16:26:56+09:00",
+   "last_updated": "2026-11-10T19:07:36+09:00",
    "related_posts": [
     {
      "title": "ZZZ 3.3 후반 D-1 | 피닉스 배너 내일 오전 11시 59분 종료, 세베리안 준비 체크",
