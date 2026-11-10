@@ -228,7 +228,13 @@
     "en": "Aha"
    },
    "peak_pv_views": 310934.0,
-   "alltime_rank": 1
+   "alltime_rank": 1,
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/starrail-aha-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "starrail-castorice",
@@ -272,5 +278,11 @@
   ],
   "last_updated": "2026-11-10T22:24:41+09:00",
   "note": "current score does not include all-time records"
- }
+ },
+ "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/starrail-aha-face.png",
+ "portrait_focus": {
+  "x": 50.0,
+  "y": 50.0
+ },
+ "portrait_zoom": 1.0
 }

@@ -54,7 +54,13 @@
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
     "fetched_at": "2026-11-10T22:21:09+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00"
+   "last_updated": "2026-11-10T22:21:09+09:00",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/starrail-aha-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "genshin-a2fbc1b95d",
@@ -107,7 +113,13 @@
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
     "fetched_at": "2026-11-10T22:21:09+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00"
+   "last_updated": "2026-11-10T22:21:09+09:00",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "zzz-severian",
@@ -159,7 +171,13 @@
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
     "fetched_at": "2026-11-10T22:21:09+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00"
+   "last_updated": "2026-11-10T22:21:09+09:00",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/zzz-severian-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -212,7 +230,13 @@
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
     "fetched_at": "2026-11-10T22:21:09+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00"
+   "last_updated": "2026-11-10T22:21:09+09:00",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-de1daf6f79-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "nte-elim",
@@ -264,7 +288,13 @@
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
     "fetched_at": "2026-11-10T22:21:09+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00"
+   "last_updated": "2026-11-10T22:21:09+09:00",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/nte-elim-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "endfield-mingha",
@@ -316,7 +346,13 @@
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
     "fetched_at": "2026-11-10T22:21:09+09:00"
    },
-   "last_updated": "2026-11-10T22:21:09+09:00"
+   "last_updated": "2026-11-10T22:21:09+09:00",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/endfield-mingha-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   }
  ],
  "growth_ranking": [],
@@ -379,7 +415,13 @@
      "url": "https://news84034.tistory.com/8",
      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
     }
-   ]
+   ],
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -439,7 +481,13 @@
      "url": "https://news84034.tistory.com/8",
      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
     }
-   ]
+   ],
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-de1daf6f79-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "starrail-aha",
@@ -498,7 +546,13 @@
      "url": "https://news84034.tistory.com/11",
      "published": "Mon, 9 Nov 2026 12:00:55 +0900"
     }
-   ]
+   ],
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/starrail-aha-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "genshin-danika",
@@ -532,7 +586,13 @@
      "url": "https://news84034.tistory.com/8",
      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
     }
-   ]
+   ],
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-danika-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "genshin-anastasia",
@@ -566,7 +626,13 @@
      "url": "https://news84034.tistory.com/8",
      "published": "Sun, 8 Nov 2026 11:56:07 +0900"
     }
-   ]
+   ],
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-anastasia-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "zzz-severian",
@@ -630,7 +696,13 @@
      "url": "https://news84034.tistory.com/12",
      "published": "Mon, 9 Nov 2026 15:20:23 +0900"
     }
-   ]
+   ],
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/zzz-severian-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "wuwa-lily",
@@ -689,7 +761,13 @@
      "url": "https://news84034.tistory.com/13",
      "published": "Mon, 9 Nov 2026 18:39:39 +0900"
     }
-   ]
+   ],
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/wuwa-lily-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "nte-elim",
@@ -742,7 +820,13 @@
     "fetched_at": "2026-11-10T22:21:09+09:00"
    },
    "last_updated": "2026-11-10T22:21:09+09:00",
-   "related_posts": []
+   "related_posts": [],
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/nte-elim-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "nte-exe",
@@ -823,7 +907,13 @@
     "fetched_at": "2026-11-10T22:21:09+09:00"
    },
    "last_updated": "2026-11-10T22:21:09+09:00",
-   "related_posts": []
+   "related_posts": [],
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/endfield-mingha-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "trickcal-dudu",
@@ -851,7 +941,13 @@
    },
    "pv": null,
    "last_updated": "2026-11-10T22:21:09+09:00",
-   "related_posts": []
+   "related_posts": [],
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   }
  ],
  "likes_comments_status": "미연동"

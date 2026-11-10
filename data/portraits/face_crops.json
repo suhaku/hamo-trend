@@ -1,0 +1,162 @@
+[
+  {
+    "id": "starrail-aha",
+    "name": "에이언즈★아하",
+    "source": "https://i.ytimg.com/vi/T1d3GwCDG8w/maxresdefault.jpg",
+    "source_size": [
+      1280,
+      720
+    ],
+    "crop": {
+      "left": 650,
+      "top": 20,
+      "size": 520
+    },
+    "output": "data/portraits/starrail-aha-face.png",
+    "output_size": 320
+  },
+  {
+    "id": "genshin-a2fbc1b95d",
+    "name": "미탸",
+    "source": "https://i.ytimg.com/vi/6V0kctC2-Tg/maxresdefault.jpg",
+    "source_size": [
+      1280,
+      720
+    ],
+    "crop": {
+      "left": 575,
+      "top": 30,
+      "size": 540
+    },
+    "output": "data/portraits/genshin-a2fbc1b95d-face.png",
+    "output_size": 320
+  },
+  {
+    "id": "zzz-severian",
+    "name": "세베리안",
+    "source": "https://i.ytimg.com/vi/OcDcxORlzmY/maxresdefault.jpg",
+    "source_size": [
+      1280,
+      720
+    ],
+    "crop": {
+      "left": 495,
+      "top": 8,
+      "size": 370
+    },
+    "output": "data/portraits/zzz-severian-face.png",
+    "output_size": 320
+  },
+  {
+    "id": "genshin-de1daf6f79",
+    "name": "발레리",
+    "source": "https://i.ytimg.com/vi/tCeXHmvg3ko/maxresdefault.jpg",
+    "source_size": [
+      1280,
+      720
+    ],
+    "crop": {
+      "left": 406,
+      "top": 50,
+      "size": 520
+    },
+    "output": "data/portraits/genshin-de1daf6f79-face.png",
+    "output_size": 320
+  },
+  {
+    "id": "endfield-mingha",
+    "name": "명하",
+    "source": "https://i.ytimg.com/vi/LGRJvchK9jg/maxresdefault.jpg",
+    "source_size": [
+      1280,
+      720
+    ],
+    "crop": {
+      "left": 420,
+      "top": 30,
+      "size": 340
+    },
+    "output": "data/portraits/endfield-mingha-face.png",
+    "output_size": 320
+  },
+  {
+    "id": "wuwa-lily",
+    "name": "릴리",
+    "source": "https://i.ytimg.com/vi/F64TLsomPyM/maxresdefault.jpg",
+    "source_size": [
+      1280,
+      720
+    ],
+    "crop": {
+      "left": 510,
+      "top": 115,
+      "size": 310
+    },
+    "output": "data/portraits/wuwa-lily-face.png",
+    "output_size": 320
+  },
+  {
+    "id": "genshin-danika",
+    "name": "다니카",
+    "source": "https://upload-os-bbs.hoyolab.com/upload/2026/11/07/de0c87692b7a9e64d3d551a8c63e8a5a_6184742778360466163.jpg",
+    "source_size": [
+      1200,
+      675
+    ],
+    "crop": {
+      "left": 536,
+      "top": 0,
+      "size": 280
+    },
+    "output": "data/portraits/genshin-danika-face.png",
+    "output_size": 320
+  },
+  {
+    "id": "genshin-anastasia",
+    "name": "아나스타샤",
+    "source": "https://upload-os-bbs.hoyolab.com/upload/2026/11/06/34ac0a9e6113f374078f4bc27fb30a4d_6117020765778038875.jpg",
+    "source_size": [
+      1200,
+      675
+    ],
+    "crop": {
+      "left": 468,
+      "top": 0,
+      "size": 360
+    },
+    "output": "data/portraits/genshin-anastasia-face.png",
+    "output_size": 320
+  },
+  {
+    "id": "trickcal-dudu",
+    "name": "두두",
+    "source": "official lounge character sprite (data/portraits source + portraits/all/trickcal-dudu_portrait_src.png)",
+    "source_size": [
+      992,
+      853
+    ],
+    "crop": {
+      "left": 225,
+      "top": 258,
+      "size": 342
+    },
+    "output": "data/portraits/trickcal-dudu-face.png",
+    "output_size": 320
+  },
+  {
+    "id": "nte-elim",
+    "name": "엘림",
+    "source": "https://i.ytimg.com/vi/ioTHCpW4RSo/maxresdefault.jpg",
+    "source_size": [
+      1280,
+      720
+    ],
+    "crop": {
+      "left": 130,
+      "top": 0,
+      "size": 720
+    },
+    "output": "data/portraits/nte-elim-face.png",
+    "output_size": 320
+  }
+]

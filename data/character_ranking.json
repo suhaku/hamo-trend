@@ -81,7 +81,13 @@
     "normalized_against": "month_peers",
     "post_count": 34,
     "top_post_url": "https://x.com/honkaistarrail/status/2115654862767546563"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/starrail-aha-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "genshin-a2fbc1b95d",
@@ -156,7 +162,13 @@
     "normalized_against": "month_peers",
     "post_count": 29,
     "top_post_url": "https://x.com/GenshinImpact/status/2117467054924025874"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "zzz-severian",
@@ -235,7 +247,13 @@
     "normalized_against": "month_peers",
     "post_count": 33,
     "top_post_url": "https://x.com/ZZZ_JP/status/2118553969387827228"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/zzz-severian-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -310,7 +328,13 @@
     "normalized_against": "month_peers",
     "post_count": 8,
     "top_post_url": "https://x.com/GenshinImpact/status/2117104662675353725"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-de1daf6f79-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "endfield-mingha",
@@ -378,7 +402,13 @@
     "normalized_against": "month_peers",
     "post_count": 50,
     "top_post_url": "https://x.com/AKEndfieldJP/status/2117452958560297343"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/endfield-mingha-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "nte-elim",
@@ -446,7 +476,13 @@
     "normalized_against": "month_peers",
     "post_count": 18,
     "top_post_url": "https://x.com/NTE_JP/status/2118176497873662241"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/nte-elim-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   }
  ],
  "held": [
@@ -519,7 +555,13 @@
     "normalized_against": "same_game_history",
     "post_count": 6,
     "top_post_url": "https://x.com/Genshin_7/status/2118916353574715817"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-danika-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "genshin-anastasia",
@@ -590,7 +632,13 @@
     "normalized_against": "same_game_history",
     "post_count": 5,
     "top_post_url": "https://x.com/Genshin_7/status/2118553962706055661"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-anastasia-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "wuwa-lily",
@@ -664,7 +712,13 @@
     "normalized_against": "month_peers",
     "post_count": 26,
     "top_post_url": "https://x.com/WW_JP_Official/status/2119988430176387499"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/wuwa-lily-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "nte-exe",
@@ -794,7 +848,13 @@
     "normalized_against": "month_peers",
     "post_count": 1,
     "top_post_url": "https://x.com/Trickcal_Re/status/2117528978894516275"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   }
  ],
  "all": [
@@ -871,7 +931,13 @@
     "normalized_against": "month_peers",
     "post_count": 29,
     "top_post_url": "https://x.com/GenshinImpact/status/2117467054924025874"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -946,7 +1012,13 @@
     "normalized_against": "month_peers",
     "post_count": 8,
     "top_post_url": "https://x.com/GenshinImpact/status/2117104662675353725"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-de1daf6f79-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "starrail-aha",
@@ -1020,7 +1092,13 @@
     "normalized_against": "month_peers",
     "post_count": 34,
     "top_post_url": "https://x.com/honkaistarrail/status/2115654862767546563"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/starrail-aha-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "genshin-danika",
@@ -1091,7 +1169,13 @@
     "normalized_against": "same_game_history",
     "post_count": 6,
     "top_post_url": "https://x.com/Genshin_7/status/2118916353574715817"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-danika-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "genshin-anastasia",
@@ -1162,7 +1246,13 @@
     "normalized_against": "same_game_history",
     "post_count": 5,
     "top_post_url": "https://x.com/Genshin_7/status/2118553962706055661"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-anastasia-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "zzz-severian",
@@ -1241,7 +1331,13 @@
     "normalized_against": "month_peers",
     "post_count": 33,
     "top_post_url": "https://x.com/ZZZ_JP/status/2118553969387827228"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/zzz-severian-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "wuwa-lily",
@@ -1315,7 +1411,13 @@
     "normalized_against": "month_peers",
     "post_count": 26,
     "top_post_url": "https://x.com/WW_JP_Official/status/2119988430176387499"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/wuwa-lily-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "nte-elim",
@@ -1383,7 +1485,13 @@
     "normalized_against": "month_peers",
     "post_count": 18,
     "top_post_url": "https://x.com/NTE_JP/status/2118176497873662241"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/nte-elim-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "nte-exe",
@@ -1516,7 +1624,13 @@
     "normalized_against": "month_peers",
     "post_count": 50,
     "top_post_url": "https://x.com/AKEndfieldJP/status/2117452958560297343"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/endfield-mingha-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "trickcal-dudu",
@@ -1581,7 +1695,13 @@
     "normalized_against": "month_peers",
     "post_count": 1,
     "top_post_url": "https://x.com/Trickcal_Re/status/2117528978894516275"
-   }
+   },
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   }
  ],
  "signals_status": {

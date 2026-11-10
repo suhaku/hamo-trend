@@ -70,6 +70,7 @@ ALLOWED_OUTPUT_HOSTS = frozenset({
     "act-webstatic.hoyoverse.com", "fastcdn.hoyoverse.com",
     "ssl.pstatic.net", "phinf.pstatic.net", "nng-phinf.pstatic.net",
     "wiki.hoyolab.com", "act-upload.hoyoverse.com", "x.com",
+    "suhaku.github.io",  # self-hosted face crops in data/portraits/
 })
 SCRIPTISH = re.compile(
     r"(?is)<\s*(script|iframe|object|embed|link|meta|style|svg|math)[^>]*>.*?</\s*\1\s*>|"
@@ -127,6 +128,28 @@ def safe_url(url: str | None, *, for_output: bool = False) -> str | None:
     if host not in allowed:
         return None
     return url.strip()
+
+
+
+PAGES_PORTRAIT_BASE = "https://suhaku.github.io/hamo-trend/data/portraits"
+
+
+def apply_local_face_crops(characters: list) -> None:
+    """Prefer a committed square face crop when present.
+
+    Scheduled collects otherwise rewrite portrait_url with letterboxed YouTube
+    thumbs (or drop suhaku.github.io URLs). A file at
+    data/portraits/{id}-face.png always wins: hosted URL, focus center, zoom 1.
+    """
+    for c in characters:
+        cid = c.get("id")
+        if not cid:
+            continue
+        face = DATA / "portraits" / f"{cid}-face.png"
+        if face.is_file():
+            c["portrait_url"] = f"{PAGES_PORTRAIT_BASE}/{cid}-face.png"
+            c["portrait_focus"] = {"x": 50.0, "y": 50.0}
+            c["portrait_zoom"] = 1.0
 
 
 def strip_html(h: str | None) -> str:
@@ -1528,6 +1551,8 @@ def main():
         ch["_pvs"] = pvs
         ch["_primary_pv"] = primary
         enriched.append(ch)
+
+    apply_local_face_crops(enriched)
 
     # month rule: revealed this month OR released / debut pickup this month. Reruns never.
     NEXT_MONTH = (MONTH_START + dt.timedelta(days=32)).replace(day=1)

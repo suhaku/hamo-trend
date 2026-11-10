@@ -31,7 +31,13 @@
     "en": null
    },
    "peak_pv_views": 53173.0,
-   "alltime_rank": 1
+   "alltime_rank": 1,
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/nte-elim-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "nte-char",

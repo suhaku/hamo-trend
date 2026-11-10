@@ -32,7 +32,13 @@
     "ja": null
    },
    "peak_pv_views": 137955.0,
-   "alltime_rank": 1
+   "alltime_rank": 1,
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -42,7 +48,13 @@
     "ja": null
    },
    "peak_pv_views": 71027.0,
-   "alltime_rank": 2
+   "alltime_rank": 2,
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-de1daf6f79-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "genshin-mavuika",
@@ -121,7 +133,13 @@
     "en": null
    },
    "peak_pv_views": null,
-   "alltime_rank": null
+   "alltime_rank": null,
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-danika-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   },
   {
    "character_id": "genshin-anastasia",
@@ -130,7 +148,13 @@
     "en": null
    },
    "peak_pv_views": null,
-   "alltime_rank": null
+   "alltime_rank": null,
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-anastasia-face.png",
+   "portrait_focus": {
+    "x": 50.0,
+    "y": 50.0
+   },
+   "portrait_zoom": 1.0
   }
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
@@ -154,5 +178,11 @@
   ],
   "last_updated": "2026-11-10T22:24:41+09:00",
   "note": "current score does not include all-time records"
- }
+ },
+ "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-danika-face.png",
+ "portrait_focus": {
+  "x": 50.0,
+  "y": 50.0
+ },
+ "portrait_zoom": 1.0
 }

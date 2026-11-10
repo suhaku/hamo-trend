@@ -24,12 +24,12 @@
    ],
    "featured_character": "미탸",
    "featured_character_id": "genshin-a2fbc1b95d",
-   "portrait_url": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
    "portrait_focus": {
-    "x": 65.0,
-    "y": 38.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.7,
+   "portrait_zoom": 1.0,
    "start": "2026-11-02 12:00:00",
    "end": "2026-11-24 17:59:00",
    "tz": "UTC+8",
@@ -56,12 +56,12 @@
    "rerun_characters": null,
    "featured_character": "발레리",
    "featured_character_id": "genshin-de1daf6f79",
-   "portrait_url": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-de1daf6f79-face.png",
    "portrait_focus": {
-    "x": 58.0,
-    "y": 35.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.7,
+   "portrait_zoom": 1.0,
    "start": "2026-11-02 12:00:00",
    "end": "2026-11-24 17:59:00",
    "tz": "UTC+8",
@@ -88,12 +88,12 @@
    "rerun_characters": null,
    "featured_character": "두두",
    "featured_character_id": "trickcal-dudu",
-   "portrait_url": null,
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu-face.png",
    "portrait_focus": {
     "x": 50.0,
-    "y": 48.0
+    "y": 50.0
    },
-   "portrait_zoom": 1.15,
+   "portrait_zoom": 1.0,
    "start": "2026-11-05",
    "end": "2026-11-19 10:59:00",
    "tz": "KST",
@@ -131,12 +131,12 @@
    ],
    "featured_character": "에이언즈★아하",
    "featured_character_id": "starrail-aha",
-   "portrait_url": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/starrail-aha-face.png",
    "portrait_focus": {
-    "x": 68.0,
-    "y": 38.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.7,
+   "portrait_zoom": 1.0,
    "start": "2026-11-10 11:00:00",
    "end": "2026-12-02 11:59:00",
    "tz": "UTC+8",
@@ -166,12 +166,12 @@
    ],
    "featured_character": "세베리안",
    "featured_character_id": "zzz-severian",
-   "portrait_url": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/zzz-severian-face.png",
    "portrait_focus": {
-    "x": 62.0,
-    "y": 32.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.9,
+   "portrait_zoom": 1.0,
    "start": "2026-11-11 13:00:00",
    "end": "2026-12-01 15:59:00",
    "tz": "KST",
@@ -398,12 +398,12 @@
    ],
    "featured_character": "미탸",
    "featured_character_id": "genshin-a2fbc1b95d",
-   "portrait_url": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
    "portrait_focus": {
-    "x": 65.0,
-    "y": 38.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.7,
+   "portrait_zoom": 1.0,
    "start": "2026-11-02 12:00:00",
    "end": "2026-11-24 17:59:00",
    "tz": "UTC+8",
@@ -466,12 +466,12 @@
    "rerun_characters": null,
    "featured_character": "발레리",
    "featured_character_id": "genshin-de1daf6f79",
-   "portrait_url": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-de1daf6f79-face.png",
    "portrait_focus": {
-    "x": 58.0,
-    "y": 35.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.7,
+   "portrait_zoom": 1.0,
    "start": "2026-11-02 12:00:00",
    "end": "2026-11-24 17:59:00",
    "tz": "UTC+8",
@@ -498,12 +498,12 @@
    "rerun_characters": null,
    "featured_character": "두두",
    "featured_character_id": "trickcal-dudu",
-   "portrait_url": null,
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu-face.png",
    "portrait_focus": {
     "x": 50.0,
-    "y": 48.0
+    "y": 50.0
    },
-   "portrait_zoom": 1.15,
+   "portrait_zoom": 1.0,
    "start": "2026-11-05",
    "end": "2026-11-19 10:59:00",
    "tz": "KST",
@@ -541,12 +541,12 @@
    ],
    "featured_character": "에이언즈★아하",
    "featured_character_id": "starrail-aha",
-   "portrait_url": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/starrail-aha-face.png",
    "portrait_focus": {
-    "x": 68.0,
-    "y": 38.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.7,
+   "portrait_zoom": 1.0,
    "start": "2026-11-10 11:00:00",
    "end": "2026-12-02 11:59:00",
    "tz": "UTC+8",
@@ -609,12 +609,12 @@
    ],
    "featured_character": "세베리안",
    "featured_character_id": "zzz-severian",
-   "portrait_url": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/zzz-severian-face.png",
    "portrait_focus": {
-    "x": 62.0,
-    "y": 32.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.9,
+   "portrait_zoom": 1.0,
    "start": "2026-11-11 13:00:00",
    "end": "2026-12-01 15:59:00",
    "tz": "KST",

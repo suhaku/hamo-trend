@@ -27,12 +27,12 @@
    "release_note": "3.8 버전 업데이트일",
    "status": "revealed",
    "illustration_url": "https://i.ytimg.com/vi/F64TLsomPyM/hqdefault.jpg",
-   "portrait_url": "https://i.ytimg.com/vi/F64TLsomPyM/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/wuwa-lily-face.png",
    "portrait_focus": {
     "x": 50.0,
-    "y": 28.0
+    "y": 50.0
    },
-   "portrait_zoom": 2.1,
+   "portrait_zoom": 1.0,
    "source_urls": [
     "https://www.youtube.com/watch?v=F64TLsomPyM",
     "https://www.youtube.com/watch?v=jQfuUUFPf8s",
@@ -77,12 +77,12 @@
    "release_note": "출시 버전 미공지(공식 캐릭터 소개 공개)",
    "status": "revealed",
    "illustration_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/07/de0c87692b7a9e64d3d551a8c63e8a5a_6184742778360466163.jpg",
-   "portrait_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/07/de0c87692b7a9e64d3d551a8c63e8a5a_6184742778360466163.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-danika-face.png",
    "portrait_focus": {
-    "x": 60.0,
-    "y": 28.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.8,
+   "portrait_zoom": 1.0,
    "source_urls": [
     "https://www.hoyolab.com/article/47351623",
     "https://www.youtube.com/watch?v=PqBu685Hx-k",
@@ -124,12 +124,12 @@
    "release_note": "출시 버전 미공지(공식 캐릭터 소개 공개)",
    "status": "revealed",
    "illustration_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/06/34ac0a9e6113f374078f4bc27fb30a4d_6117020765778038875.jpg",
-   "portrait_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/06/34ac0a9e6113f374078f4bc27fb30a4d_6117020765778038875.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-anastasia-face.png",
    "portrait_focus": {
     "x": 50.0,
-    "y": 32.0
+    "y": 50.0
    },
-   "portrait_zoom": 1.7,
+   "portrait_zoom": 1.0,
    "source_urls": [
     "https://www.hoyolab.com/article/47339559",
     "https://www.youtube.com/watch?v=fD7Lu8dPTko",
@@ -171,12 +171,12 @@
    "release_note": null,
    "status": "pickup_live",
    "illustration_url": "https://nng-phinf.pstatic.net/MjAyNjExMDNfMTg4/MDAxNzkzNjkxODYxMzU3.tnCuuZlsAYEn-mnrvpji-Cg5Ld3iFer2hZuaZD_egscg.B8ZpguY6TQnHDlLTqbg8tUyG98zd9Xv-e6WIVR4u-Ekg.GIF/3.gif",
-   "portrait_url": null,
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu-face.png",
    "portrait_focus": {
     "x": 50.0,
-    "y": 48.0
+    "y": 50.0
    },
-   "portrait_zoom": 1.15,
+   "portrait_zoom": 1.0,
    "source_urls": [
     "https://game.naver.com/lounge/trickcal/board/detail/8404607"
    ],
@@ -219,12 +219,12 @@
    "release_note": null,
    "status": "pickup_live",
    "illustration_url": "https://i.ytimg.com/vi/LGRJvchK9jg/hqdefault.jpg",
-   "portrait_url": "https://i.ytimg.com/vi/LGRJvchK9jg/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/endfield-mingha-face.png",
    "portrait_focus": {
-    "x": 38.0,
-    "y": 35.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.8,
+   "portrait_zoom": 1.0,
    "source_urls": [
     "https://www.youtube.com/watch?v=LGRJvchK9jg",
     "https://game.naver.com/lounge/Arknights_Endfield/board/detail/8410148",
@@ -275,12 +275,12 @@
    "release_note": "4.7 버전 업데이트일(워프 일정 공지는 업데이트 후 수집)",
    "status": "pickup_live",
    "illustration_url": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
-   "portrait_url": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/starrail-aha-face.png",
    "portrait_focus": {
-    "x": 68.0,
-    "y": 38.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.7,
+   "portrait_zoom": 1.0,
    "source_urls": [
     "https://www.youtube.com/watch?v=hcwRWe0UyKI",
     "https://www.hoyolab.com/article/47307963",
@@ -339,12 +339,12 @@
    "release_note": "1.5 버전 출시일",
    "status": "revealed",
    "illustration_url": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
-   "portrait_url": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/nte-elim-face.png",
    "portrait_focus": {
-    "x": 52.0,
-    "y": 38.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.7,
+   "portrait_zoom": 1.0,
    "source_urls": [
     "https://www.youtube.com/watch?v=ioTHCpW4RSo",
     "https://www.youtube.com/watch?v=MK4bIOILTHM",
@@ -426,12 +426,12 @@
    "release_note": null,
    "status": "pickup_live",
    "illustration_url": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
-   "portrait_url": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
    "portrait_focus": {
-    "x": 65.0,
-    "y": 38.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.7,
+   "portrait_zoom": 1.0,
    "source_urls": [
     "https://www.youtube.com/watch?v=6V0kctC2-Tg",
     "https://www.hoyolab.com/article/47296173",
@@ -486,12 +486,12 @@
    "release_note": null,
    "status": "pickup_live",
    "illustration_url": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
-   "portrait_url": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-de1daf6f79-face.png",
    "portrait_focus": {
-    "x": 58.0,
-    "y": 35.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.7,
+   "portrait_zoom": 1.0,
    "source_urls": [
     "https://www.youtube.com/watch?v=tCeXHmvg3ko",
     "https://www.hoyolab.com/article/47284161",
@@ -544,12 +544,12 @@
    "release_note": null,
    "status": "revealed",
    "illustration_url": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
-   "portrait_url": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/zzz-severian-face.png",
    "portrait_focus": {
-    "x": 62.0,
-    "y": 32.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.9,
+   "portrait_zoom": 1.0,
    "source_urls": [
     "https://www.hoyolab.com/article/47375931",
     "https://www.youtube.com/watch?v=OcDcxORlzmY",

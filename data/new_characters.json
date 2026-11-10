@@ -50,12 +50,12 @@
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg"
    },
-   "portrait_url": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
    "portrait_focus": {
-    "x": 65.0,
-    "y": 38.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.7
+   "portrait_zoom": 1.0
   },
   {
    "id": "genshin-de1daf6f79",
@@ -106,12 +106,12 @@
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg"
    },
-   "portrait_url": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-de1daf6f79-face.png",
    "portrait_focus": {
-    "x": 58.0,
-    "y": 35.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.7
+   "portrait_zoom": 1.0
   },
   {
    "id": "starrail-aha",
@@ -160,12 +160,12 @@
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw"
    },
-   "portrait_url": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/starrail-aha-face.png",
    "portrait_focus": {
-    "x": 68.0,
-    "y": 38.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.7,
+   "portrait_zoom": 1.0,
    "pickup": {
     "start": "2026-11-10 11:00:00",
     "end": "2026-12-02 11:59:00",
@@ -204,12 +204,12 @@
    "is_new": true,
    "active": true,
    "verification": "manual_verified_official_source",
-   "portrait_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/07/de0c87692b7a9e64d3d551a8c63e8a5a_6184742778360466163.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-danika-face.png",
    "portrait_focus": {
-    "x": 60.0,
-    "y": 28.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.8
+   "portrait_zoom": 1.0
   },
   {
    "id": "genshin-anastasia",
@@ -237,12 +237,12 @@
    "is_new": true,
    "active": true,
    "verification": "manual_verified_official_source",
-   "portrait_url": "https://upload-os-bbs.hoyolab.com/upload/2026/11/06/34ac0a9e6113f374078f4bc27fb30a4d_6117020765778038875.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-anastasia-face.png",
    "portrait_focus": {
     "x": 50.0,
-    "y": 32.0
+    "y": 50.0
    },
-   "portrait_zoom": 1.7
+   "portrait_zoom": 1.0
   },
   {
    "id": "zzz-severian",
@@ -298,12 +298,12 @@
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA"
    },
-   "portrait_url": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/zzz-severian-face.png",
    "portrait_focus": {
-    "x": 62.0,
-    "y": 32.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.9
+   "portrait_zoom": 1.0
   },
   {
    "id": "wuwa-lily",
@@ -347,12 +347,12 @@
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug"
    },
-   "portrait_url": "https://i.ytimg.com/vi/F64TLsomPyM/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/wuwa-lily-face.png",
    "portrait_focus": {
     "x": 50.0,
-    "y": 28.0
+    "y": 50.0
    },
-   "portrait_zoom": 2.1
+   "portrait_zoom": 1.0
   },
   {
    "id": "nte-elim",
@@ -393,12 +393,12 @@
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA"
    },
-   "portrait_url": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/nte-elim-face.png",
    "portrait_focus": {
-    "x": 52.0,
-    "y": 38.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.7
+   "portrait_zoom": 1.0
   },
   {
    "id": "nte-exe",
@@ -477,12 +477,12 @@
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ"
    },
-   "portrait_url": "https://i.ytimg.com/vi/LGRJvchK9jg/hqdefault.jpg",
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/endfield-mingha-face.png",
    "portrait_focus": {
-    "x": 38.0,
-    "y": 35.0
+    "x": 50.0,
+    "y": 50.0
    },
-   "portrait_zoom": 1.8
+   "portrait_zoom": 1.0
   },
   {
    "id": "trickcal-dudu",
@@ -517,12 +517,12 @@
    "is_new": true,
    "active": true,
    "verification": "manual_verified_official_source",
-   "portrait_url": null,
+   "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/trickcal-dudu-face.png",
    "portrait_focus": {
     "x": 50.0,
-    "y": 48.0
+    "y": 50.0
    },
-   "portrait_zoom": 1.15
+   "portrait_zoom": 1.0
   },
   {
    "id": "zzz-64f1959a4a",
