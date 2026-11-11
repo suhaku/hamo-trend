@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-11T10:21:40+09:00",
+ "generated_at": "2026-11-11T13:10:53+09:00",
  "rule": "최근 관심 성장 속도(주로 7일 조회수 증가분) · 복각 제외 · 스냅샷 부족 시 데이터 없음",
  "top": {
   "character_id": "starrail-aha",
@@ -15,7 +15,7 @@
   "growth_window": "24h",
   "absolute_views": 329204,
   "hold": false,
-  "last_updated": "2026-11-11T10:21:40+09:00",
+  "last_updated": "2026-11-11T13:10:53+09:00",
   "rank": 1
  },
  "ranking": [
@@ -32,7 +32,7 @@
    "growth_window": "24h",
    "absolute_views": 329204,
    "hold": false,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "rank": 1
   },
   {
@@ -48,7 +48,7 @@
    "growth_window": "24h",
    "absolute_views": 118744,
    "hold": false,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "rank": 2
   },
   {
@@ -64,7 +64,7 @@
    "growth_window": "24h",
    "absolute_views": 34254,
    "hold": false,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "rank": 3
   },
   {
@@ -81,7 +81,7 @@
    "growth_window": "24h",
    "absolute_views": 139035,
    "hold": false,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "rank": 4
   },
   {
@@ -98,7 +98,7 @@
    "growth_window": "24h",
    "absolute_views": 71213,
    "hold": false,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "rank": 5
   },
   {
@@ -114,7 +114,7 @@
    "growth_window": "24h",
    "absolute_views": 53287,
    "hold": false,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "rank": 6
   }
  ]

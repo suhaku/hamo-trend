@@ -1,7 +1,7 @@
 {
  "status": "ok",
  "month": "2026-11",
- "generated_at": "2026-11-11T10:21:40+09:00",
+ "generated_at": "2026-11-11T13:10:53+09:00",
  "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
  "items": [
   {
@@ -46,7 +46,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "related_posts": [
     {
      "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
@@ -93,7 +93,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -140,7 +140,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -194,7 +194,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/Trickcal_Re/status/2117528978894516275",
    "x_status": "연동(일 1회)"
@@ -246,7 +246,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/AKEndfieldJP/status/2117452958560297343",
    "x_status": "연동(일 1회)"
@@ -308,8 +308,13 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "related_posts": [
+    {
+     "title": "스타레일 4.7 오늘 시작 | 낮 12시 서버 오픈, 아하 픽업 + 무료 5성 챙기기",
+     "url": "https://news84034.tistory.com/17",
+     "published": "Wed, 11 Nov 2026 12:45:53 +0900"
+    },
     {
      "title": "스타레일 4.7 아하 픽업 정리 | 11월 11일 시작, 황천&middot;음월&middot;경원은 12월 2일 후반 복각",
      "url": "https://news84034.tistory.com/11",
@@ -358,7 +363,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
    "x_status": "연동(일 1회)"
@@ -398,7 +403,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
    "x_status": "연동(일 1회)"
@@ -452,7 +457,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -512,7 +517,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "related_posts": [
     {
      "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
@@ -542,7 +547,7 @@
    "month_reason": "이달 픽업",
    "release_date": "2026-11-11",
    "release_note": null,
-   "status": "revealed",
+   "status": "pickup_live",
    "illustration_url": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
    "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/zzz-severian-face.png",
    "portrait_focus": {
@@ -575,7 +580,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-11T10:21:40+09:00",
+   "last_updated": "2026-11-11T13:10:53+09:00",
    "related_posts": [
     {
      "title": "ZZZ 3.3 후반 D-1 | 피닉스 배너 내일 오전 11시 59분 종료, 세베리안 준비 체크",

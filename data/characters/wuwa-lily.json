@@ -9,7 +9,7 @@
  "is_rerun": false,
  "reveal_date": "2026-11-07",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-11T10:25:30+09:00",
+ "last_seen_at": "2026-11-11T13:14:27+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 102318.0,
  "peak_lift": 1.995,
@@ -134,6 +134,11 @@
    "at": "2026-11-11T10:25:30+09:00",
    "video_id": "nNuN0rPi2YA",
    "views": 102318.0
+  },
+  {
+   "at": "2026-11-11T13:14:27+09:00",
+   "video_id": "nNuN0rPi2YA",
+   "views": 102318.0
   }
  ],
  "pv_series_by_video": [
@@ -250,6 +255,10 @@
     {
      "at": "2026-11-11T10:25:30+09:00",
      "views": 102318.0
+    },
+    {
+     "at": "2026-11-11T13:14:27+09:00",
+     "views": 102318.0
     }
    ]
   }
@@ -269,13 +278,13 @@
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
-  "score": null,
+  "score": 91.52,
   "score_raw": 91.52,
   "coverage": 0.6667,
   "reliability": 0.6667,
   "provisional": false,
-  "hold": true,
-  "hold_reason": "PV 게시 후 24시간 미만",
+  "hold": false,
+  "hold_reason": null,
   "absolute_views": 102318,
   "lift_vs_game_baseline": null,
   "growth_rate_7d": null,
@@ -286,7 +295,7 @@
     "published": "Mon, 9 Nov 2026 18:39:39 +0900"
    }
   ],
-  "last_updated": "2026-11-11T10:25:30+09:00",
+  "last_updated": "2026-11-11T13:14:27+09:00",
   "note": "current score does not include all-time records"
  }
 }
