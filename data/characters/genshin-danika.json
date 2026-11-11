@@ -9,7 +9,7 @@
  "is_rerun": false,
  "reveal_date": "2026-11-07",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-11T19:17:36+09:00",
+ "last_seen_at": "2026-11-11T22:31:11+09:00",
  "alltime_rank": null,
  "peak_pv_views": null,
  "peak_lift": null,
@@ -31,7 +31,7 @@
     "en": null,
     "ja": null
    },
-   "peak_pv_views": 140034.0,
+   "peak_pv_views": 140425.0,
    "alltime_rank": 1
   },
   {
@@ -146,7 +146,7 @@
   "lift_vs_game_baseline": null,
   "growth_rate_7d": null,
   "related_posts": [],
-  "last_updated": "2026-11-11T19:17:36+09:00",
+  "last_updated": "2026-11-11T22:31:11+09:00",
   "note": "current score does not include all-time records"
  }
 }
