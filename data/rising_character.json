@@ -1,24 +1,40 @@
 {
  "status": "ok",
- "generated_at": "2026-11-11T16:30:22+09:00",
+ "generated_at": "2026-11-11T19:14:03+09:00",
  "rule": "최근 관심 성장 속도(주로 7일 조회수 증가분) · 복각 제외 · 스냅샷 부족 시 데이터 없음",
  "top": {
-  "character_id": "starrail-aha",
+  "character_id": "wuwa-lily",
   "name": {
-   "ko": "에이언즈★아하",
-   "en": "Aha"
+   "ko": "릴리",
+   "en": "Lily"
   },
-  "game_id": "starrail",
-  "delta_24h": 52014,
+  "game_id": "wuwa",
+  "delta_24h": 51661,
   "delta_7d": null,
-  "growth_metric": 52014,
+  "growth_metric": 51661,
   "growth_window": "24h",
-  "absolute_views": 329204,
+  "absolute_views": 114547,
   "hold": false,
-  "last_updated": "2026-11-11T16:30:22+09:00",
+  "last_updated": "2026-11-11T19:14:03+09:00",
   "rank": 1
  },
  "ranking": [
+  {
+   "character_id": "wuwa-lily",
+   "name": {
+    "ko": "릴리",
+    "en": "Lily"
+   },
+   "game_id": "wuwa",
+   "delta_24h": 51661,
+   "delta_7d": null,
+   "growth_metric": 51661,
+   "growth_window": "24h",
+   "absolute_views": 114547,
+   "hold": false,
+   "last_updated": "2026-11-11T19:14:03+09:00",
+   "rank": 1
+  },
   {
    "character_id": "starrail-aha",
    "name": {
@@ -26,14 +42,14 @@
     "en": "Aha"
    },
    "game_id": "starrail",
-   "delta_24h": 52014,
+   "delta_24h": 46783,
    "delta_7d": null,
-   "growth_metric": 52014,
+   "growth_metric": 46783,
    "growth_window": "24h",
-   "absolute_views": 329204,
+   "absolute_views": 348352,
    "hold": false,
-   "last_updated": "2026-11-11T16:30:22+09:00",
-   "rank": 1
+   "last_updated": "2026-11-11T19:14:03+09:00",
+   "rank": 2
   },
   {
    "character_id": "zzz-severian",
@@ -42,14 +58,14 @@
     "en": null
    },
    "game_id": "zzz",
-   "delta_24h": 9986,
+   "delta_24h": 11878,
    "delta_7d": null,
-   "growth_metric": 9986,
+   "growth_metric": 11878,
    "growth_window": "24h",
-   "absolute_views": 118744,
+   "absolute_views": 124905,
    "hold": false,
-   "last_updated": "2026-11-11T16:30:22+09:00",
-   "rank": 2
+   "last_updated": "2026-11-11T19:14:03+09:00",
+   "rank": 3
   },
   {
    "character_id": "endfield-mingha",
@@ -58,14 +74,14 @@
     "en": null
    },
    "game_id": "endfield",
-   "delta_24h": 6191,
+   "delta_24h": 5882,
    "delta_7d": null,
-   "growth_metric": 6191,
+   "growth_metric": 5882,
    "growth_window": "24h",
-   "absolute_views": 34254,
+   "absolute_views": 36444,
    "hold": false,
-   "last_updated": "2026-11-11T16:30:22+09:00",
-   "rank": 3
+   "last_updated": "2026-11-11T19:14:03+09:00",
+   "rank": 4
   },
   {
    "character_id": "genshin-a2fbc1b95d",
@@ -75,14 +91,14 @@
     "ja": null
    },
    "game_id": "genshin",
-   "delta_24h": 2950,
+   "delta_24h": 2572,
    "delta_7d": null,
-   "growth_metric": 2950,
+   "growth_metric": 2572,
    "growth_window": "24h",
-   "absolute_views": 139035,
+   "absolute_views": 140034,
    "hold": false,
-   "last_updated": "2026-11-11T16:30:22+09:00",
-   "rank": 4
+   "last_updated": "2026-11-11T19:14:03+09:00",
+   "rank": 5
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -92,14 +108,14 @@
     "ja": null
    },
    "game_id": "genshin",
-   "delta_24h": 547,
+   "delta_24h": 439,
    "delta_7d": null,
-   "growth_metric": 547,
+   "growth_metric": 439,
    "growth_window": "24h",
-   "absolute_views": 71213,
+   "absolute_views": 71369,
    "hold": false,
-   "last_updated": "2026-11-11T16:30:22+09:00",
-   "rank": 5
+   "last_updated": "2026-11-11T19:14:03+09:00",
+   "rank": 6
   },
   {
    "character_id": "nte-elim",
@@ -108,14 +124,14 @@
     "en": null
    },
    "game_id": "nte",
-   "delta_24h": 261,
+   "delta_24h": 361,
    "delta_7d": null,
-   "growth_metric": 261,
+   "growth_metric": 361,
    "growth_window": "24h",
-   "absolute_views": 53287,
+   "absolute_views": 53466,
    "hold": false,
-   "last_updated": "2026-11-11T16:30:22+09:00",
-   "rank": 6
+   "last_updated": "2026-11-11T19:14:03+09:00",
+   "rank": 7
   }
  ]
 }
