@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-11T13:14:27+09:00",
+ "last_updated": "2026-11-11T16:34:27+09:00",
  "timezone": "Asia/Seoul",
  "sources": [
   {
@@ -80,5 +80,5 @@
   "Same-game past-new-char window comparison densifies as history accrues",
   "Tistory main-page analytics area (skin) — not in this repo"
  ],
- "errors_count": 9
+ "errors_count": 10
 }

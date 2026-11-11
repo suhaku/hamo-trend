@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-11T13:14:27+09:00",
+ "generated_at": "2026-11-11T16:34:27+09:00",
  "rule": "100점 만점 · 없는 지표는 0점 처리 없이 나머지로 다시 계산 · 수집률이 낮으면 잠정 또는 보류 · 신뢰도 따로 표시 · 복각 제외 · 역대 기록은 점수에 안 넣음",
  "weights": {
   "youtube_pv": 0.35,
@@ -43,7 +43,7 @@
    },
    "absolute_views": 329204,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 98.36,
    "coverage": 0.6667,
    "provisional": false,
@@ -122,7 +122,7 @@
    },
    "absolute_views": 118744,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 94.17,
    "coverage": 0.6667,
    "provisional": false,
@@ -202,7 +202,7 @@
    },
    "absolute_views": 139035,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 94.15,
    "coverage": 0.6667,
    "provisional": false,
@@ -226,13 +226,7 @@
    },
    "lift_vs_game_baseline": null,
    "pv_video_id": "6V0kctC2-Tg",
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    }
-   ],
+   "related_posts": [],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-10T21:09:40+09:00",
@@ -276,7 +270,7 @@
    },
    "absolute_views": 102318,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 91.52,
    "coverage": 0.6667,
    "provisional": false,
@@ -301,6 +295,11 @@
    "lift_vs_game_baseline": null,
    "pv_video_id": "nNuN0rPi2YA",
    "related_posts": [
+    {
+     "title": "명조 3.8 D-1 | 내일 새벽 5시 점검, 릴리 픽업 + 점검 보상 정리",
+     "url": "https://news84034.tistory.com/18",
+     "published": "Wed, 11 Nov 2026 14:25:18 +0900"
+    },
     {
      "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
      "url": "https://news84034.tistory.com/13",
@@ -350,7 +349,7 @@
    },
    "absolute_views": 34254,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 85.04,
    "coverage": 0.6667,
    "provisional": false,
@@ -419,7 +418,7 @@
    },
    "absolute_views": 71213,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 85.02,
    "coverage": 0.6667,
    "provisional": false,
@@ -443,13 +442,7 @@
    },
    "lift_vs_game_baseline": null,
    "pv_video_id": "tCeXHmvg3ko",
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    }
-   ],
+   "related_posts": [],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-10T21:09:40+09:00",
@@ -493,7 +486,7 @@
    },
    "absolute_views": 53287,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 80.13,
    "coverage": 0.6667,
    "provisional": false,
@@ -563,7 +556,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 94.77,
    "coverage": 0.3333,
    "provisional": false,
@@ -584,13 +577,7 @@
    },
    "lift_vs_game_baseline": null,
    "pv_video_id": null,
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    }
-   ],
+   "related_posts": [],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-10T21:09:40+09:00",
@@ -634,7 +621,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 100.0,
    "coverage": 0.3333,
    "provisional": false,
@@ -655,13 +642,7 @@
    },
    "lift_vs_game_baseline": null,
    "pv_video_id": null,
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    }
-   ],
+   "related_posts": [],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-10T21:09:40+09:00",
@@ -705,7 +686,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 67.83,
    "coverage": 0.3333,
    "provisional": false,
@@ -770,7 +751,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 60.04,
    "coverage": 0.3333,
    "provisional": false,
@@ -838,7 +819,7 @@
    },
    "absolute_views": 139035,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 94.15,
    "coverage": 0.6667,
    "provisional": false,
@@ -862,13 +843,7 @@
    },
    "lift_vs_game_baseline": null,
    "pv_video_id": "6V0kctC2-Tg",
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    }
-   ],
+   "related_posts": [],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-10T21:09:40+09:00",
@@ -913,7 +888,7 @@
    },
    "absolute_views": 71213,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 85.02,
    "coverage": 0.6667,
    "provisional": false,
@@ -937,13 +912,7 @@
    },
    "lift_vs_game_baseline": null,
    "pv_video_id": "tCeXHmvg3ko",
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    }
-   ],
+   "related_posts": [],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-10T21:09:40+09:00",
@@ -987,7 +956,7 @@
    },
    "absolute_views": 329204,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 98.36,
    "coverage": 0.6667,
    "provisional": false,
@@ -1066,7 +1035,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 94.77,
    "coverage": 0.3333,
    "provisional": false,
@@ -1087,13 +1056,7 @@
    },
    "lift_vs_game_baseline": null,
    "pv_video_id": null,
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    }
-   ],
+   "related_posts": [],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-10T21:09:40+09:00",
@@ -1137,7 +1100,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 100.0,
    "coverage": 0.3333,
    "provisional": false,
@@ -1158,13 +1121,7 @@
    },
    "lift_vs_game_baseline": null,
    "pv_video_id": null,
-   "related_posts": [
-    {
-     "title": "원신 미탸 픽업 정리 | 11월 24일까지, 푸리나 복각이랑 같이 왔어",
-     "url": "https://news84034.tistory.com/8",
-     "published": "Sun, 8 Nov 2026 11:56:07 +0900"
-    }
-   ],
+   "related_posts": [],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-10T21:09:40+09:00",
@@ -1208,7 +1165,7 @@
    },
    "absolute_views": 118744,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 94.17,
    "coverage": 0.6667,
    "provisional": false,
@@ -1287,7 +1244,7 @@
    },
    "absolute_views": 102318,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 91.52,
    "coverage": 0.6667,
    "provisional": false,
@@ -1312,6 +1269,11 @@
    "lift_vs_game_baseline": null,
    "pv_video_id": "nNuN0rPi2YA",
    "related_posts": [
+    {
+     "title": "명조 3.8 D-1 | 내일 새벽 5시 점검, 릴리 픽업 + 점검 보상 정리",
+     "url": "https://news84034.tistory.com/18",
+     "published": "Wed, 11 Nov 2026 14:25:18 +0900"
+    },
     {
      "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
      "url": "https://news84034.tistory.com/13",
@@ -1361,7 +1323,7 @@
    },
    "absolute_views": 53287,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 80.13,
    "coverage": 0.6667,
    "provisional": false,
@@ -1429,7 +1391,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 67.83,
    "coverage": 0.3333,
    "provisional": false,
@@ -1494,7 +1456,7 @@
    },
    "absolute_views": 34254,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 85.04,
    "coverage": 0.6667,
    "provisional": false,
@@ -1562,7 +1524,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-11T13:14:27+09:00",
+   "last_updated": "2026-11-11T16:34:27+09:00",
    "score_raw": 60.04,
    "coverage": 0.3333,
    "provisional": false,
