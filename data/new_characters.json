@@ -167,7 +167,7 @@
    },
    "portrait_zoom": 1.0,
    "pickup": {
-    "start": "2026-11-10 11:00:00",
+    "start": "2026-11-10 04:00:00",
     "end": "2026-12-02 11:59:00",
     "tz": "UTC+8",
     "source_url": "https://www.hoyolab.com/article/47385253",
@@ -600,6 +600,6 @@
    "verification": "auto_official_reveal: HoYoLAB 공식 캐릭터 소개"
   }
  ],
- "last_updated": "2026-11-12T13:09:42+09:00",
+ "last_updated": "2026-11-12T16:35:49+09:00",
  "purged_this_run": []
 }
