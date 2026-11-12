@@ -1,7 +1,7 @@
 {
  "status": "ok",
  "month": "2026-11",
- "generated_at": "2026-11-12T16:35:49+09:00",
+ "generated_at": "2026-11-12T19:18:44+09:00",
  "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
  "items": [
   {
@@ -46,7 +46,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-12T16:35:49+09:00",
+   "last_updated": "2026-11-12T19:18:44+09:00",
    "related_posts": [
     {
      "title": "명조 3.8 오늘 시작 | 릴리 픽업 열린다, 영혼 열차 타러 가자",
@@ -57,11 +57,6 @@
      "title": "명조 3.8 D-1 | 내일 새벽 5시 점검, 릴리 픽업 + 점검 보상 정리",
      "url": "https://news84034.tistory.com/18",
      "published": "Wed, 11 Nov 2026 14:25:18 +0900"
-    },
-    {
-     "title": "명조 3.8 릴리 픽업 정리 | 11월 12일 시작, 신 연방 이야기 개막",
-     "url": "https://news84034.tistory.com/13",
-     "published": "Mon, 9 Nov 2026 18:39:39 +0900"
     }
    ],
    "x_top_post_url": "https://x.com/WW_JP_Official/status/2119988430176387499",
@@ -103,7 +98,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-12T16:35:49+09:00",
+   "last_updated": "2026-11-12T19:18:44+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/Genshin_7/status/2118916353574715817",
    "x_status": "연동(일 1회)"
@@ -144,7 +139,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-12T16:35:49+09:00",
+   "last_updated": "2026-11-12T19:18:44+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/Genshin_7/status/2118553962706055661",
    "x_status": "연동(일 1회)"
@@ -192,7 +187,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-12T16:35:49+09:00",
+   "last_updated": "2026-11-12T19:18:44+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/Trickcal_Re/status/2117528978894516275",
    "x_status": "연동(일 1회)"
@@ -244,7 +239,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-12T16:35:49+09:00",
+   "last_updated": "2026-11-12T19:18:44+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/AKEndfieldJP/status/2117452958560297343",
    "x_status": "연동(일 1회)"
@@ -294,7 +289,7 @@
    "source_url": "https://www.youtube.com/watch?v=hcwRWe0UyKI",
    "source_label": null,
    "pickup": {
-    "start": "2026-11-10 04:00:00",
+    "start": "2026-11-10 11:00:00",
     "end": "2026-12-02 11:59:00",
     "tz": "UTC+8",
     "source_url": "https://www.hoyolab.com/article/47385253",
@@ -306,7 +301,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-12T16:35:49+09:00",
+   "last_updated": "2026-11-12T19:18:44+09:00",
    "related_posts": [
     {
      "title": "스타레일 4.7 아하 밈 모음 | 공식 계정이 제일 웃긴 3개 (사도 모집&middot;엄마?&middot;어벤져스)",
@@ -366,7 +361,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-12T16:35:49+09:00",
+   "last_updated": "2026-11-12T19:18:44+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
    "x_status": "연동(일 1회)"
@@ -406,7 +401,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-12T16:35:49+09:00",
+   "last_updated": "2026-11-12T19:18:44+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
    "x_status": "연동(일 1회)"
@@ -443,7 +438,8 @@
    "source_urls": [
     "https://www.youtube.com/watch?v=6V0kctC2-Tg",
     "https://www.hoyolab.com/article/47296173",
-    "https://www.hoyolab.com/article/47238346"
+    "https://www.hoyolab.com/article/47238346",
+    "https://www.youtube.com/shorts/VzjSQ5VY2Os"
    ],
    "source_url": "https://www.youtube.com/watch?v=6V0kctC2-Tg",
    "source_label": null,
@@ -460,7 +456,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-12T16:35:49+09:00",
+   "last_updated": "2026-11-12T19:18:44+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/GenshinImpact/status/2117467054924025874",
    "x_status": "연동(일 1회)"
@@ -514,7 +510,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-12T16:35:49+09:00",
+   "last_updated": "2026-11-12T19:18:44+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/GenshinImpact/status/2117104662675353725",
    "x_status": "연동(일 1회)"
@@ -571,7 +567,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-12T16:35:49+09:00",
+   "last_updated": "2026-11-12T19:18:44+09:00",
    "related_posts": [
     {
      "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 어제 시작, 노르마 복각까지",

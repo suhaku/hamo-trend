@@ -9,13 +9,13 @@
  "is_rerun": false,
  "reveal_date": "2026-11-02",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-12T16:39:04+09:00",
+ "last_seen_at": "2026-11-12T19:22:08+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 39606.0,
- "peak_lift": 7.86,
+ "peak_pv_views": 40183.0,
+ "peak_lift": 8.206,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 5352.0,
+  "d24h": 3739.0,
   "d7d": null,
   "d30d": null
  },
@@ -184,6 +184,11 @@
    "at": "2026-11-12T16:39:04+09:00",
    "video_id": "HWsEtcPe1d4",
    "views": 39606.0
+  },
+  {
+   "at": "2026-11-12T19:22:08+09:00",
+   "video_id": "HWsEtcPe1d4",
+   "views": 40183.0
   }
  ],
  "pv_series_by_video": [
@@ -334,6 +339,10 @@
     {
      "at": "2026-11-12T16:39:04+09:00",
      "views": 39606.0
+    },
+    {
+     "at": "2026-11-12T19:22:08+09:00",
+     "views": 40183.0
     }
    ]
   }
@@ -347,24 +356,24 @@
     "ko": "명하",
     "en": null
    },
-   "peak_pv_views": 39606.0,
+   "peak_pv_views": 40183.0,
    "alltime_rank": 1
   }
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
-  "score": 85.3,
-  "score_raw": 85.3,
+  "score": 85.27,
+  "score_raw": 85.27,
   "coverage": 0.6667,
   "reliability": 0.6667,
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 39606,
-  "lift_vs_game_baseline": null,
+  "absolute_views": 40183,
+  "lift_vs_game_baseline": 8.206,
   "growth_rate_7d": null,
   "related_posts": [],
-  "last_updated": "2026-11-12T16:39:04+09:00",
+  "last_updated": "2026-11-12T19:22:08+09:00",
   "note": "current score does not include all-time records"
  }
 }
