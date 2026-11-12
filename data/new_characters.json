@@ -47,7 +47,7 @@
     "url": "https://www.youtube.com/shorts/VzjSQ5VY2Os",
     "thumb": "https://i.ytimg.com/vi/VzjSQ5VY2Os/hqdefault.jpg",
     "published": "2026-11-03T13:03:36+09:00",
-    "views": 90111,
+    "views": 90166,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg"
    },
@@ -157,7 +157,7 @@
     "url": "https://www.youtube.com/watch?v=T1d3GwCDG8w",
     "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
     "published": "2026-11-08T13:00:19+09:00",
-    "views": 396479,
+    "views": 397843,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw"
    },
@@ -168,7 +168,7 @@
    },
    "portrait_zoom": 1.0,
    "pickup": {
-    "start": "2026-11-10 04:00:00",
+    "start": "2026-11-10 11:00:00",
     "end": "2026-12-02 11:59:00",
     "tz": "UTC+8",
     "source_url": "https://www.hoyolab.com/article/47385253",
@@ -295,7 +295,7 @@
     "url": "https://www.youtube.com/watch?v=OcDcxORlzmY",
     "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
     "published": "2026-11-06T12:59:56+09:00",
-    "views": 139943,
+    "views": 140027,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA"
    },
@@ -344,7 +344,7 @@
     "url": "https://www.youtube.com/watch?v=nNuN0rPi2YA",
     "thumb": "https://i.ytimg.com/vi/nNuN0rPi2YA/hqdefault.jpg",
     "published": "2026-11-10T12:00:00+09:00",
-    "views": 241823,
+    "views": 248578,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug"
    },
@@ -390,7 +390,7 @@
     "url": "https://www.youtube.com/watch?v=MK4bIOILTHM",
     "thumb": "https://i.ytimg.com/vi/MK4bIOILTHM/hqdefault.jpg",
     "published": "2026-11-05T12:00:30+09:00",
-    "views": 54003,
+    "views": 54039,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA"
    },
@@ -474,7 +474,7 @@
     "url": "https://www.youtube.com/shorts/HWsEtcPe1d4",
     "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
     "published": "2026-11-03T19:00:38+09:00",
-    "views": 40973,
+    "views": 41065,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ"
    },
@@ -601,6 +601,6 @@
    "verification": "auto_official_reveal: HoYoLAB 공식 캐릭터 소개"
   }
  ],
- "last_updated": "2026-11-13T04:12:47+09:00",
+ "last_updated": "2026-11-13T06:58:43+09:00",
  "purged_this_run": []
 }
