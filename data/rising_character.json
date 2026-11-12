@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-12T19:18:44+09:00",
+ "generated_at": "2026-11-12T22:29:07+09:00",
  "rule": "최근 관심 성장 속도(주로 7일 조회수 증가분) · 복각 제외 · 스냅샷 부족 시 데이터 없음",
  "top": {
   "character_id": "wuwa-lily",
@@ -9,13 +9,13 @@
    "en": "Lily"
   },
   "game_id": "wuwa",
-  "delta_24h": 49193,
+  "delta_24h": 57739,
   "delta_7d": null,
-  "growth_metric": 49193,
+  "growth_metric": 57739,
   "growth_window": "24h",
-  "absolute_views": 163740,
+  "absolute_views": 175692,
   "hold": false,
-  "last_updated": "2026-11-12T19:18:44+09:00",
+  "last_updated": "2026-11-12T22:29:07+09:00",
   "rank": 1
  },
  "ranking": [
@@ -26,13 +26,13 @@
     "en": "Lily"
    },
    "game_id": "wuwa",
-   "delta_24h": 49193,
+   "delta_24h": 57739,
    "delta_7d": null,
-   "growth_metric": 49193,
+   "growth_metric": 57739,
    "growth_window": "24h",
-   "absolute_views": 163740,
+   "absolute_views": 175692,
    "hold": false,
-   "last_updated": "2026-11-12T19:18:44+09:00",
+   "last_updated": "2026-11-12T22:29:07+09:00",
    "rank": 1
   },
   {
@@ -42,13 +42,13 @@
     "en": "Aha"
    },
    "game_id": "starrail",
-   "delta_24h": 31588,
+   "delta_24h": 31740,
    "delta_7d": null,
-   "growth_metric": 31588,
+   "growth_metric": 31740,
    "growth_window": "24h",
-   "absolute_views": 379940,
+   "absolute_views": 387610,
    "hold": false,
-   "last_updated": "2026-11-12T19:18:44+09:00",
+   "last_updated": "2026-11-12T22:29:07+09:00",
    "rank": 2
   },
   {
@@ -58,13 +58,13 @@
     "en": null
    },
    "game_id": "zzz",
-   "delta_24h": 10394,
+   "delta_24h": 9894,
    "delta_7d": null,
-   "growth_metric": 10394,
+   "growth_metric": 9894,
    "growth_window": "24h",
-   "absolute_views": 135299,
+   "absolute_views": 137467,
    "hold": false,
-   "last_updated": "2026-11-12T19:18:44+09:00",
+   "last_updated": "2026-11-12T22:29:07+09:00",
    "rank": 3
   },
   {
@@ -74,13 +74,13 @@
     "en": null
    },
    "game_id": "endfield",
-   "delta_24h": 3739,
+   "delta_24h": 2156,
    "delta_7d": null,
-   "growth_metric": 3739,
+   "growth_metric": 2156,
    "growth_window": "24h",
    "absolute_views": 40183,
    "hold": false,
-   "last_updated": "2026-11-12T19:18:44+09:00",
+   "last_updated": "2026-11-12T22:29:07+09:00",
    "rank": 4
   },
   {
@@ -91,13 +91,13 @@
     "ja": null
    },
    "game_id": "genshin",
-   "delta_24h": 879,
+   "delta_24h": 989,
    "delta_7d": null,
-   "growth_metric": 879,
+   "growth_metric": 989,
    "growth_window": "24h",
-   "absolute_views": 89566,
+   "absolute_views": 89839,
    "hold": false,
-   "last_updated": "2026-11-12T19:18:44+09:00",
+   "last_updated": "2026-11-12T22:29:07+09:00",
    "rank": 5
   },
   {
@@ -107,13 +107,13 @@
     "en": null
    },
    "game_id": "nte",
-   "delta_24h": 429,
+   "delta_24h": 424,
    "delta_7d": null,
-   "growth_metric": 429,
+   "growth_metric": 424,
    "growth_window": "24h",
-   "absolute_views": 53895,
+   "absolute_views": 53956,
    "hold": false,
-   "last_updated": "2026-11-12T19:18:44+09:00",
+   "last_updated": "2026-11-12T22:29:07+09:00",
    "rank": 6
   },
   {
@@ -130,7 +130,7 @@
    "growth_window": "24h",
    "absolute_views": 71369,
    "hold": false,
-   "last_updated": "2026-11-12T19:18:44+09:00",
+   "last_updated": "2026-11-12T22:29:07+09:00",
    "rank": 7
   }
  ]
