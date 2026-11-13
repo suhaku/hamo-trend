@@ -1,345 +1,405 @@
 {
-  "generated_at": "2026-11-12T09:53:00+09:00",
+  "generated_at": "2026-11-13T09:53:41+09:00",
   "source": "X 공식 계정 공개 지표 (하모 수집)",
   "characters": {
     "wuwa-lily": {
       "posts": [
         {
+          "id": "2120818901525155982",
+          "url": "https://x.com/Wuthering_Waves/status/2120818901525155982",
+          "created_at": "2026-11-12T10:00:03.000Z",
+          "likes": 4201,
+          "reposts": 454,
+          "replies": 33,
+          "quotes": 16,
+          "views": 82087
+        },
+        {
+          "id": "2120818899700658483",
+          "url": "https://x.com/WW_KR_Official/status/2120818899700658483",
+          "created_at": "2026-11-12T10:00:03.000Z",
+          "likes": 237,
+          "reposts": 54,
+          "replies": 0,
+          "quotes": 3,
+          "views": 8280
+        },
+        {
+          "id": "2120818897968677075",
+          "url": "https://x.com/WW_JP_Official/status/2120818897968677075",
+          "created_at": "2026-11-12T10:00:02.000Z",
+          "likes": 3886,
+          "reposts": 892,
+          "replies": 6,
+          "quotes": 15,
+          "views": 139306
+        },
+        {
+          "id": "2120713202702971258",
+          "url": "https://x.com/WW_JP_Official/status/2120713202702971258",
+          "created_at": "2026-11-12T03:00:03.000Z",
+          "likes": 6537,
+          "reposts": 1259,
+          "replies": 6,
+          "quotes": 21,
+          "views": 205377
+        },
+        {
+          "id": "2120713202304459204",
+          "url": "https://x.com/WW_KR_Official/status/2120713202304459204",
+          "created_at": "2026-11-12T03:00:03.000Z",
+          "likes": 384,
+          "reposts": 86,
+          "replies": 0,
+          "quotes": 8,
+          "views": 8926
+        },
+        {
+          "id": "2120713200652185699",
+          "url": "https://x.com/Wuthering_Waves/status/2120713200652185699",
+          "created_at": "2026-11-12T03:00:02.000Z",
+          "likes": 8422,
+          "reposts": 1008,
+          "replies": 29,
+          "quotes": 18,
+          "views": 101984
+        },
+        {
           "id": "2120441418825277898",
           "url": "https://x.com/WW_KR_Official/status/2120441418825277898",
           "created_at": "2026-11-11T09:00:04.000Z",
-          "likes": 155,
+          "likes": 162,
           "reposts": 33,
           "replies": 0,
           "quotes": 2,
-          "views": 6960
+          "views": 7900
         },
         {
           "id": "2120441414836535332",
           "url": "https://x.com/Wuthering_Waves/status/2120441414836535332",
           "created_at": "2026-11-11T09:00:03.000Z",
-          "likes": 2019,
-          "reposts": 207,
+          "likes": 2221,
+          "reposts": 224,
           "replies": 8,
           "quotes": 11,
-          "views": 71890
+          "views": 86374
         },
         {
           "id": "2120441401645404614",
           "url": "https://x.com/WW_JP_Official/status/2120441401645404614",
           "created_at": "2026-11-11T09:00:00.000Z",
-          "likes": 1699,
-          "reposts": 330,
+          "likes": 1941,
+          "reposts": 362,
           "replies": 2,
           "quotes": 2,
-          "views": 99979
+          "views": 115492
         },
         {
           "id": "2120350817035456517",
           "url": "https://x.com/WW_KR_Official/status/2120350817035456517",
           "created_at": "2026-11-11T03:00:03.000Z",
-          "likes": 406,
-          "reposts": 103,
+          "likes": 433,
+          "reposts": 106,
           "replies": 0,
-          "quotes": 20,
-          "views": 12917
+          "quotes": 21,
+          "views": 13877
         },
         {
           "id": "2120350803970138329",
           "url": "https://x.com/Wuthering_Waves/status/2120350803970138329",
           "created_at": "2026-11-11T03:00:00.000Z",
-          "likes": 6738,
-          "reposts": 485,
-          "replies": 23,
-          "quotes": 39,
-          "views": 103213
+          "likes": 7230,
+          "reposts": 511,
+          "replies": 24,
+          "quotes": 42,
+          "views": 114533
         },
         {
           "id": "2120343256710144205",
           "url": "https://x.com/Wuthering_Waves/status/2120343256710144205",
           "created_at": "2026-11-11T02:30:01.000Z",
-          "likes": 9840,
-          "reposts": 1934,
-          "replies": 211,
-          "quotes": 557,
-          "views": 5729549
+          "likes": 10845,
+          "reposts": 2074,
+          "replies": 217,
+          "quotes": 585,
+          "views": 9116266
         },
         {
           "id": "2120335712411099408",
           "url": "https://x.com/Wuthering_Waves/status/2120335712411099408",
           "created_at": "2026-11-11T02:00:02.000Z",
-          "likes": 8480,
-          "reposts": 1194,
-          "replies": 35,
-          "quotes": 37,
-          "views": 115358
+          "likes": 10366,
+          "reposts": 1370,
+          "replies": 37,
+          "quotes": 42,
+          "views": 134797
         },
         {
           "id": "2120063912133451984",
           "url": "https://x.com/WW_KR_Official/status/2120063912133451984",
           "created_at": "2026-11-10T08:00:00.000Z",
-          "likes": 339,
+          "likes": 342,
           "reposts": 63,
           "replies": 0,
           "quotes": 6,
-          "views": 11193
+          "views": 11605
         },
         {
           "id": "2120003517993648585",
           "url": "https://x.com/WW_JP_Official/status/2120003517993648585",
           "created_at": "2026-11-10T04:00:01.000Z",
-          "likes": 7138,
-          "reposts": 7652,
-          "replies": 36,
+          "likes": 7230,
+          "reposts": 7755,
+          "replies": 39,
           "quotes": 35,
-          "views": 288875
+          "views": 298668
         },
         {
           "id": "2119989395394900293",
           "url": "https://x.com/WW_JP_Official/status/2119989395394900293",
           "created_at": "2026-11-10T03:03:54.000Z",
-          "likes": 378,
-          "reposts": 111,
+          "likes": 383,
+          "reposts": 117,
           "replies": 0,
           "quotes": 13,
-          "views": 136191
+          "views": 140911
         },
         {
           "id": "2119988434861195696",
           "url": "https://x.com/Wuthering_Waves/status/2119988434861195696",
           "created_at": "2026-11-10T03:00:05.000Z",
-          "likes": 6154,
-          "reposts": 2057,
-          "replies": 155,
-          "quotes": 317,
-          "views": 6866450
+          "likes": 6343,
+          "reposts": 2116,
+          "replies": 159,
+          "quotes": 318,
+          "views": 9809291
         },
         {
           "id": "2119988430176387499",
           "url": "https://x.com/WW_JP_Official/status/2119988430176387499",
           "created_at": "2026-11-10T03:00:03.000Z",
-          "likes": 13846,
-          "reposts": 12290,
-          "replies": 38,
-          "quotes": 545,
-          "views": 651465
+          "likes": 14221,
+          "reposts": 12614,
+          "replies": 40,
+          "quotes": 567,
+          "views": 688641
         },
         {
           "id": "2119988419996553345",
           "url": "https://x.com/WW_KR_Official/status/2119988419996553345",
           "created_at": "2026-11-10T03:00:01.000Z",
-          "likes": 1618,
-          "reposts": 2305,
-          "replies": 52,
+          "likes": 1652,
+          "reposts": 2356,
+          "replies": 53,
           "quotes": 72,
-          "views": 47703
+          "views": 50498
         },
         {
           "id": "2119973322037535101",
           "url": "https://x.com/Wuthering_Waves/status/2119973322037535101",
           "created_at": "2026-11-10T02:00:01.000Z",
-          "likes": 9491,
-          "reposts": 1254,
+          "likes": 9597,
+          "reposts": 1267,
           "replies": 32,
           "quotes": 30,
-          "views": 119709
+          "views": 124546
         },
         {
           "id": "2119973320909000847",
           "url": "https://x.com/WW_JP_Official/status/2119973320909000847",
           "created_at": "2026-11-10T02:00:01.000Z",
-          "likes": 8682,
-          "reposts": 1590,
+          "likes": 8770,
+          "reposts": 1604,
           "replies": 6,
           "quotes": 33,
-          "views": 186791
+          "views": 192441
         },
         {
           "id": "2119731735344648290",
           "url": "https://x.com/WW_JP_Official/status/2119731735344648290",
           "created_at": "2026-11-09T10:00:03.000Z",
-          "likes": 4238,
-          "reposts": 938,
+          "likes": 4254,
+          "reposts": 942,
           "replies": 10,
-          "quotes": 56,
-          "views": 215640
+          "quotes": 57,
+          "views": 220465
         },
         {
           "id": "2119731723537903875",
           "url": "https://x.com/Wuthering_Waves/status/2119731723537903875",
           "created_at": "2026-11-09T10:00:00.000Z",
-          "likes": 4780,
-          "reposts": 559,
+          "likes": 4797,
+          "reposts": 561,
           "replies": 40,
           "quotes": 70,
-          "views": 183526
+          "views": 186229
         },
         {
           "id": "2119671332808151360",
           "url": "https://x.com/Wuthering_Waves/status/2119671332808151360",
           "created_at": "2026-11-09T06:00:01.000Z",
-          "likes": 5950,
-          "reposts": 936,
+          "likes": 5984,
+          "reposts": 944,
           "replies": 77,
           "quotes": 174,
-          "views": 288273
+          "views": 292961
         },
         {
           "id": "2119671331197472823",
           "url": "https://x.com/WW_KR_Official/status/2119671331197472823",
           "created_at": "2026-11-09T06:00:01.000Z",
-          "likes": 311,
+          "likes": 312,
           "reposts": 91,
           "replies": 1,
           "quotes": 10,
-          "views": 12631
+          "views": 12887
         },
         {
           "id": "2119671328475423094",
           "url": "https://x.com/WW_JP_Official/status/2119671328475423094",
           "created_at": "2026-11-09T06:00:00.000Z",
-          "likes": 5639,
-          "reposts": 1454,
+          "likes": 5667,
+          "reposts": 1462,
           "replies": 12,
           "quotes": 95,
-          "views": 348479
+          "views": 357420
         },
         {
           "id": "2119610931495702625",
           "url": "https://x.com/Wuthering_Waves/status/2119610931495702625",
           "created_at": "2026-11-09T02:00:01.000Z",
-          "likes": 9184,
-          "reposts": 1232,
+          "likes": 9298,
+          "reposts": 1246,
           "replies": 47,
           "quotes": 44,
-          "views": 132351
+          "views": 136772
         },
         {
           "id": "2119610928480100786",
           "url": "https://x.com/WW_JP_Official/status/2119610928480100786",
           "created_at": "2026-11-09T02:00:00.000Z",
-          "likes": 13803,
-          "reposts": 2383,
+          "likes": 13878,
+          "reposts": 2390,
           "replies": 14,
           "quotes": 105,
-          "views": 278977
+          "views": 283788
         },
         {
           "id": "2119376889299300392",
           "url": "https://x.com/WW_JP_Official/status/2119376889299300392",
           "created_at": "2026-11-08T10:30:01.000Z",
-          "likes": 3294,
-          "reposts": 651,
+          "likes": 3309,
+          "reposts": 653,
           "replies": 5,
           "quotes": 22,
-          "views": 188972
+          "views": 191806
         },
         {
           "id": "2119266156628586813",
           "url": "https://x.com/WW_KR_Official/status/2119266156628586813",
           "created_at": "2026-11-08T03:10:00.000Z",
-          "likes": 606,
+          "likes": 611,
           "reposts": 183,
           "replies": 1,
-          "quotes": 57,
-          "views": 22980
+          "quotes": 59,
+          "views": 23523
         },
         {
           "id": "2119264898110853180",
           "url": "https://x.com/WW_JP_Official/status/2119264898110853180",
           "created_at": "2026-11-08T03:05:00.000Z",
-          "likes": 10199,
-          "reposts": 2576,
-          "replies": 23,
-          "quotes": 387,
-          "views": 715354
+          "likes": 10227,
+          "reposts": 2580,
+          "replies": 22,
+          "quotes": 392,
+          "views": 728319
         },
         {
           "id": "2119264898052202723",
           "url": "https://x.com/Wuthering_Waves/status/2119264898052202723",
           "created_at": "2026-11-08T03:05:00.000Z",
-          "likes": 6072,
-          "reposts": 638,
+          "likes": 6095,
+          "reposts": 640,
           "replies": 22,
           "quotes": 67,
-          "views": 284150
+          "views": 287687
         },
         {
           "id": "2119263654822469994",
           "url": "https://x.com/Wuthering_Waves/status/2119263654822469994",
           "created_at": "2026-11-08T03:00:03.000Z",
-          "likes": 6998,
-          "reposts": 1053,
+          "likes": 7022,
+          "reposts": 1059,
           "replies": 67,
           "quotes": 85,
-          "views": 166430
+          "views": 169888
         },
         {
           "id": "2119263649965441195",
           "url": "https://x.com/WW_KR_Official/status/2119263649965441195",
           "created_at": "2026-11-08T03:00:02.000Z",
-          "likes": 518,
-          "reposts": 165,
+          "likes": 519,
+          "reposts": 164,
           "replies": 1,
-          "quotes": 23,
-          "views": 17086
+          "quotes": 24,
+          "views": 17377
         },
         {
           "id": "2119263649424404748",
           "url": "https://x.com/WW_JP_Official/status/2119263649424404748",
           "created_at": "2026-11-08T03:00:02.000Z",
-          "likes": 7667,
-          "reposts": 2303,
-          "replies": 12,
-          "quotes": 128,
-          "views": 322467
+          "likes": 7693,
+          "reposts": 2313,
+          "replies": 13,
+          "quotes": 129,
+          "views": 327810
         },
         {
           "id": "2119006960959799558",
           "url": "https://x.com/WW_KR_Official/status/2119006960959799558",
           "created_at": "2026-11-07T10:00:03.000Z",
-          "likes": 388,
+          "likes": 390,
           "reposts": 118,
           "replies": 1,
           "quotes": 19,
-          "views": 14330
+          "views": 14562
         },
         {
           "id": "2119006956765450731",
           "url": "https://x.com/Wuthering_Waves/status/2119006956765450731",
           "created_at": "2026-11-07T10:00:02.000Z",
-          "likes": 4632,
-          "reposts": 608,
+          "likes": 4653,
+          "reposts": 613,
           "replies": 29,
           "quotes": 34,
-          "views": 145827
+          "views": 148138
         },
         {
           "id": "2119006955792421341",
           "url": "https://x.com/WW_JP_Official/status/2119006955792421341",
           "created_at": "2026-11-07T10:00:02.000Z",
-          "likes": 6460,
-          "reposts": 1725,
+          "likes": 6477,
+          "reposts": 1732,
           "replies": 12,
-          "quotes": 89,
-          "views": 275597
+          "quotes": 88,
+          "views": 278870
         },
         {
           "id": "2118674766986965220",
           "url": "https://x.com/WW_JP_Official/status/2118674766986965220",
           "created_at": "2026-11-06T12:00:02.000Z",
-          "likes": 14141,
+          "likes": 14149,
           "reposts": 3546,
           "replies": 19,
-          "quotes": 313,
-          "views": 578617
+          "quotes": 314,
+          "views": 581942
         }
       ],
       "totals": {
-        "likes": 181863,
-        "reposts": 52767,
-        "replies": 991,
-        "views": 18639930
+        "likes": 210738,
+        "reposts": 57562,
+        "replies": 1084,
+        "views": 25712244
       },
       "status": "ok"
     },
@@ -349,68 +409,68 @@
           "id": "2119731725592907972",
           "url": "https://x.com/Genshin_7/status/2119731725592907972",
           "created_at": "2026-11-09T10:00:00.000Z",
-          "likes": 5168,
-          "reposts": 683,
+          "likes": 5215,
+          "reposts": 689,
           "replies": 12,
           "quotes": 45,
-          "views": 705563
+          "views": 723028
         },
         {
           "id": "2118916606340292951",
           "url": "https://x.com/GenshinImpact/status/2118916606340292951",
           "created_at": "2026-11-07T04:01:01.000Z",
-          "likes": 42121,
-          "reposts": 6740,
+          "likes": 42197,
+          "reposts": 6751,
           "replies": 289,
           "quotes": 1007,
-          "views": 894249
+          "views": 905419
         },
         {
           "id": "2118916606097006814",
           "url": "https://x.com/genshinimpactkr/status/2118916606097006814",
           "created_at": "2026-11-07T04:01:01.000Z",
-          "likes": 1709,
-          "reposts": 600,
+          "likes": 1711,
+          "reposts": 601,
           "replies": 1,
-          "quotes": 389,
-          "views": 123370
+          "quotes": 393,
+          "views": 124430
         },
         {
           "id": "2118916353658613927",
           "url": "https://x.com/GenshinImpact/status/2118916353658613927",
           "created_at": "2026-11-07T04:00:00.000Z",
-          "likes": 25402,
-          "reposts": 4130,
+          "likes": 25431,
+          "reposts": 4135,
           "replies": 174,
           "quotes": 431,
-          "views": 510784
+          "views": 515922
         },
         {
           "id": "2118916353574715817",
           "url": "https://x.com/Genshin_7/status/2118916353574715817",
           "created_at": "2026-11-07T04:00:00.000Z",
-          "likes": 115987,
-          "reposts": 34343,
+          "likes": 116050,
+          "reposts": 34352,
           "replies": 291,
           "quotes": 6620,
-          "views": 4874164
+          "views": 4902653
         },
         {
           "id": "2118916353570570675",
           "url": "https://x.com/genshinimpactkr/status/2118916353570570675",
           "created_at": "2026-11-07T04:00:00.000Z",
-          "likes": 1135,
+          "likes": 1137,
           "reposts": 367,
           "replies": 3,
           "quotes": 92,
-          "views": 39811
+          "views": 40250
         }
       ],
       "totals": {
-        "likes": 191522,
-        "reposts": 46863,
+        "likes": 191741,
+        "reposts": 46895,
         "replies": 770,
-        "views": 7147941
+        "views": 7211702
       },
       "status": "ok"
     },
@@ -420,58 +480,58 @@
           "id": "2118554218160111807",
           "url": "https://x.com/genshinimpactkr/status/2118554218160111807",
           "created_at": "2026-11-06T04:01:01.000Z",
-          "likes": 4936,
-          "reposts": 1687,
+          "likes": 4938,
+          "reposts": 1689,
           "replies": 10,
           "quotes": 640,
-          "views": 184592
+          "views": 185647
         },
         {
           "id": "2118554218139210086",
           "url": "https://x.com/GenshinImpact/status/2118554218139210086",
           "created_at": "2026-11-06T04:01:01.000Z",
-          "likes": 66885,
-          "reposts": 15205,
-          "replies": 509,
-          "quotes": 2124,
-          "views": 1150964
+          "likes": 66971,
+          "reposts": 15217,
+          "replies": 510,
+          "quotes": 2125,
+          "views": 1160707
         },
         {
           "id": "2118553963217781232",
           "url": "https://x.com/GenshinImpact/status/2118553963217781232",
           "created_at": "2026-11-06T04:00:00.000Z",
-          "likes": 108256,
-          "reposts": 22558,
-          "replies": 736,
-          "quotes": 3073,
-          "views": 1888018
+          "likes": 108301,
+          "reposts": 22568,
+          "replies": 735,
+          "quotes": 3074,
+          "views": 1900052
         },
         {
           "id": "2118553963008045180",
           "url": "https://x.com/genshinimpactkr/status/2118553963008045180",
           "created_at": "2026-11-06T04:00:00.000Z",
-          "likes": 2012,
+          "likes": 2014,
           "reposts": 809,
           "replies": 5,
           "quotes": 203,
-          "views": 61498
+          "views": 62093
         },
         {
           "id": "2118553962706055661",
           "url": "https://x.com/Genshin_7/status/2118553962706055661",
           "created_at": "2026-11-06T04:00:00.000Z",
-          "likes": 190346,
-          "reposts": 58137,
-          "replies": 489,
-          "quotes": 10997,
-          "views": 7210578
+          "likes": 190445,
+          "reposts": 58146,
+          "replies": 490,
+          "quotes": 10996,
+          "views": 7249113
         }
       ],
       "totals": {
-        "likes": 372435,
-        "reposts": 98396,
-        "replies": 1749,
-        "views": 10495650
+        "likes": 372669,
+        "reposts": 98429,
+        "replies": 1750,
+        "views": 10557612
       },
       "status": "ok"
     },
@@ -481,18 +541,18 @@
           "id": "2117528978894516275",
           "url": "https://x.com/Trickcal_Re/status/2117528978894516275",
           "created_at": "2026-11-03T08:07:05.000Z",
-          "likes": 2037,
+          "likes": 2035,
           "reposts": 398,
           "replies": 24,
           "quotes": 68,
-          "views": 76281
+          "views": 76624
         }
       ],
       "totals": {
-        "likes": 2037,
+        "likes": 2035,
         "reposts": 398,
         "replies": 24,
-        "views": 76281
+        "views": 76624
       },
       "status": "ok"
     },
@@ -502,11 +562,11 @@
           "id": "2119641130199322916",
           "url": "https://x.com/AKEndfield/status/2119641130199322916",
           "created_at": "2026-11-09T04:00:01.000Z",
-          "likes": 694,
+          "likes": 699,
           "reposts": 91,
           "replies": 3,
           "quotes": 1,
-          "views": 27582
+          "views": 28177
         },
         {
           "id": "2119641129922580846",
@@ -516,17 +576,17 @@
           "reposts": 21,
           "replies": 0,
           "quotes": 3,
-          "views": 5540
+          "views": 5673
         },
         {
           "id": "2119641126894506331",
           "url": "https://x.com/AKEndfieldJP/status/2119641126894506331",
           "created_at": "2026-11-09T04:00:00.000Z",
-          "likes": 697,
+          "likes": 703,
           "reposts": 152,
           "replies": 0,
           "quotes": 1,
-          "views": 85730
+          "views": 87477
         },
         {
           "id": "2119263645557481814",
@@ -536,87 +596,87 @@
           "reposts": 63,
           "replies": 37,
           "quotes": 22,
-          "views": 9780
+          "views": 9943
         },
         {
           "id": "2119263642130456697",
           "url": "https://x.com/AKEndfield/status/2119263642130456697",
           "created_at": "2026-11-08T03:00:00.000Z",
-          "likes": 1449,
-          "reposts": 209,
+          "likes": 1455,
+          "reposts": 211,
           "replies": 193,
-          "quotes": 65,
-          "views": 48375
+          "quotes": 66,
+          "views": 49240
         },
         {
           "id": "2119006959076778452",
           "url": "https://x.com/AKEndfieldKR/status/2119006959076778452",
           "created_at": "2026-11-07T10:00:02.000Z",
-          "likes": 320,
+          "likes": 321,
           "reposts": 177,
           "replies": 2,
-          "quotes": 26,
-          "views": 16220
+          "quotes": 28,
+          "views": 16742
         },
         {
           "id": "2119006950734131658",
           "url": "https://x.com/AKEndfield/status/2119006950734131658",
           "created_at": "2026-11-07T10:00:00.000Z",
-          "likes": 2510,
-          "reposts": 455,
+          "likes": 2525,
+          "reposts": 457,
           "replies": 15,
           "quotes": 32,
-          "views": 54766
+          "views": 55645
         },
         {
           "id": "2119006947726983221",
           "url": "https://x.com/AKEndfieldJP/status/2119006947726983221",
           "created_at": "2026-11-07T10:00:00.000Z",
-          "likes": 4625,
-          "reposts": 873,
+          "likes": 4632,
+          "reposts": 872,
           "replies": 1,
           "quotes": 14,
-          "views": 170213
+          "views": 171728
         },
         {
           "id": "2118659664518799433",
           "url": "https://x.com/AKEndfield/status/2118659664518799433",
           "created_at": "2026-11-06T11:00:01.000Z",
-          "likes": 1041,
-          "reposts": 180,
+          "likes": 1045,
+          "reposts": 181,
           "replies": 5,
           "quotes": 7,
-          "views": 38164
+          "views": 38484
         },
         {
           "id": "2118659661180162069",
           "url": "https://x.com/AKEndfieldJP/status/2118659661180162069",
           "created_at": "2026-11-06T11:00:00.000Z",
-          "likes": 1258,
+          "likes": 1262,
           "reposts": 242,
           "replies": 5,
           "quotes": 5,
-          "views": 105603
+          "views": 106645
         },
         {
           "id": "2118637016707396016",
           "url": "https://x.com/AKEndfield/status/2118637016707396016",
           "created_at": "2026-11-06T09:30:01.000Z",
-          "likes": 499,
+          "likes": 500,
           "reposts": 63,
           "replies": 0,
           "quotes": 0,
-          "views": 27657
+          "views": 27888
         },
         {
           "id": "2118637011187712268",
           "url": "https://x.com/AKEndfieldJP/status/2118637011187712268",
           "created_at": "2026-11-06T09:30:00.000Z",
-          "likes": 638,
+          "likes": 643,
           "reposts": 138,
           "replies": 0,
-          "quotes": 1,
-          "views": 94159
+          "quotes": 2,
+          "views": 95055
         },
         {
           "id": "2118637010092974082",
@@ -626,27 +686,27 @@
           "reposts": 20,
           "replies": 0,
           "quotes": 0,
-          "views": 6253
+          "views": 6319
         },
         {
           "id": "2118553966141198502",
           "url": "https://x.com/AKEndfieldJP/status/2118553966141198502",
           "created_at": "2026-11-06T04:00:01.000Z",
-          "likes": 1937,
+          "likes": 1940,
           "reposts": 451,
           "replies": 1,
           "quotes": 11,
-          "views": 111650
+          "views": 112485
         },
         {
           "id": "2118553963033473035",
           "url": "https://x.com/AKEndfield/status/2118553963033473035",
           "created_at": "2026-11-06T04:00:00.000Z",
-          "likes": 1680,
-          "reposts": 282,
+          "likes": 1683,
+          "reposts": 283,
           "replies": 4,
           "quotes": 17,
-          "views": 40794
+          "views": 41214
         },
         {
           "id": "2118553962945134834",
@@ -656,27 +716,27 @@
           "reposts": 155,
           "replies": 0,
           "quotes": 39,
-          "views": 13233
+          "views": 13366
         },
         {
           "id": "2118289724884553969",
           "url": "https://x.com/AKEndfield/status/2118289724884553969",
           "created_at": "2026-11-05T10:30:00.000Z",
-          "likes": 539,
+          "likes": 540,
           "reposts": 59,
           "replies": 1,
           "quotes": 0,
-          "views": 31510
+          "views": 31737
         },
         {
           "id": "2118289724196671911",
           "url": "https://x.com/AKEndfieldJP/status/2118289724196671911",
           "created_at": "2026-11-05T10:30:00.000Z",
-          "likes": 608,
+          "likes": 611,
           "reposts": 109,
           "replies": 0,
           "quotes": 2,
-          "views": 105769
+          "views": 106410
         },
         {
           "id": "2118289723726958945",
@@ -686,7 +746,7 @@
           "reposts": 29,
           "replies": 1,
           "quotes": 2,
-          "views": 8163
+          "views": 8254
         },
         {
           "id": "2118192833534308572",
@@ -696,107 +756,107 @@
           "reposts": 146,
           "replies": 0,
           "quotes": 7,
-          "views": 48845
+          "views": 49079
         },
         {
           "id": "2118192833446453488",
           "url": "https://x.com/AKEndfieldJP/status/2118192833446453488",
           "created_at": "2026-11-05T04:05:00.000Z",
-          "likes": 815,
+          "likes": 819,
           "reposts": 169,
           "replies": 0,
           "quotes": 9,
-          "views": 454224
+          "views": 454850
         },
         {
           "id": "2118191577478681062",
           "url": "https://x.com/AKEndfieldJP/status/2118191577478681062",
           "created_at": "2026-11-05T04:00:00.000Z",
-          "likes": 6399,
-          "reposts": 1503,
+          "likes": 6403,
+          "reposts": 1504,
           "replies": 5,
           "quotes": 78,
-          "views": 161479
+          "views": 162307
         },
         {
           "id": "2118191574861443118",
           "url": "https://x.com/AKEndfieldKR/status/2118191574861443118",
           "created_at": "2026-11-05T04:00:00.000Z",
-          "likes": 505,
+          "likes": 506,
           "reposts": 305,
           "replies": 0,
           "quotes": 84,
-          "views": 19766
+          "views": 19878
         },
         {
           "id": "2118179836187578773",
           "url": "https://x.com/AKEndfield/status/2118179836187578773",
           "created_at": "2026-11-05T03:13:21.000Z",
-          "likes": 954,
-          "reposts": 578,
+          "likes": 956,
+          "reposts": 591,
           "replies": 10,
           "quotes": 19,
-          "views": 38552
+          "views": 38803
         },
         {
           "id": "2118179700870889688",
           "url": "https://x.com/AKEndfield/status/2118179700870889688",
           "created_at": "2026-11-05T03:12:49.000Z",
-          "likes": 2982,
-          "reposts": 1211,
+          "likes": 2996,
+          "reposts": 1228,
           "replies": 28,
           "quotes": 74,
-          "views": 964151
+          "views": 965551
         },
         {
           "id": "2118178992469811240",
           "url": "https://x.com/AKEndfieldKR/status/2118178992469811240",
           "created_at": "2026-11-05T03:10:00.000Z",
-          "likes": 293,
-          "reposts": 454,
+          "likes": 298,
+          "reposts": 469,
           "replies": 0,
           "quotes": 3,
-          "views": 11421
+          "views": 11501
         },
         {
           "id": "2118176487903826171",
           "url": "https://x.com/AKEndfieldJP/status/2118176487903826171",
           "created_at": "2026-11-05T03:00:03.000Z",
-          "likes": 2238,
+          "likes": 2240,
           "reposts": 777,
           "replies": 2,
           "quotes": 28,
-          "views": 226807
+          "views": 229528
         },
         {
           "id": "2118176484905116110",
           "url": "https://x.com/AKEndfieldKR/status/2118176484905116110",
           "created_at": "2026-11-05T03:00:02.000Z",
-          "likes": 384,
-          "reposts": 640,
+          "likes": 388,
+          "reposts": 655,
           "replies": 0,
-          "quotes": 18,
-          "views": 126953
+          "quotes": 19,
+          "views": 127237
         },
         {
           "id": "2117935563622035643",
           "url": "https://x.com/AKEndfieldJP/status/2117935563622035643",
           "created_at": "2026-11-04T11:02:42.000Z",
-          "likes": 1407,
+          "likes": 1409,
           "reposts": 293,
           "replies": 1,
           "quotes": 7,
-          "views": 121134
+          "views": 121592
         },
         {
           "id": "2117934897742413855",
           "url": "https://x.com/AKEndfieldKR/status/2117934897742413855",
           "created_at": "2026-11-04T11:00:03.000Z",
-          "likes": 99,
+          "likes": 100,
           "reposts": 79,
           "replies": 0,
           "quotes": 8,
-          "views": 10431
+          "views": 10480
         },
         {
           "id": "2117934889467294182",
@@ -806,137 +866,137 @@
           "reposts": 158,
           "replies": 7,
           "quotes": 5,
-          "views": 37856
+          "views": 38030
         },
         {
           "id": "2117920532511465939",
           "url": "https://x.com/AKEndfieldJP/status/2117920532511465939",
           "created_at": "2026-11-04T10:02:58.000Z",
-          "likes": 2877,
-          "reposts": 759,
+          "likes": 2879,
+          "reposts": 758,
           "replies": 2,
           "quotes": 66,
-          "views": 161626
+          "views": 162100
         },
         {
           "id": "2117919799162638765",
           "url": "https://x.com/AKEndfield/status/2117919799162638765",
           "created_at": "2026-11-04T10:00:03.000Z",
-          "likes": 2160,
+          "likes": 2161,
           "reposts": 294,
           "replies": 7,
           "quotes": 39,
-          "views": 48045
+          "views": 48227
         },
         {
           "id": "2117919792111702126",
           "url": "https://x.com/AKEndfieldKR/status/2117919792111702126",
           "created_at": "2026-11-04T10:00:02.000Z",
-          "likes": 186,
+          "likes": 187,
           "reposts": 182,
           "replies": 0,
           "quotes": 95,
-          "views": 19888
+          "views": 19953
         },
         {
           "id": "2117829238292451665",
           "url": "https://x.com/AKEndfield/status/2117829238292451665",
           "created_at": "2026-11-04T04:00:12.000Z",
-          "likes": 1311,
-          "reposts": 779,
+          "likes": 1312,
+          "reposts": 780,
           "replies": 25,
           "quotes": 23,
-          "views": 49377
+          "views": 49519
         },
         {
           "id": "2117824154036830441",
           "url": "https://x.com/AKEndfieldKR/status/2117824154036830441",
           "created_at": "2026-11-04T03:40:00.000Z",
-          "likes": 302,
+          "likes": 303,
           "reposts": 502,
           "replies": 1,
-          "quotes": 5,
-          "views": 13945
+          "quotes": 4,
+          "views": 13990
         },
         {
           "id": "2117821642046930971",
           "url": "https://x.com/AKEndfieldKR/status/2117821642046930971",
           "created_at": "2026-11-04T03:30:01.000Z",
-          "likes": 586,
+          "likes": 587,
           "reposts": 826,
           "replies": 5,
           "quotes": 120,
-          "views": 194763
+          "views": 194940
         },
         {
           "id": "2117821639186625008",
           "url": "https://x.com/AKEndfield/status/2117821639186625008",
           "created_at": "2026-11-04T03:30:00.000Z",
-          "likes": 5545,
-          "reposts": 1650,
+          "likes": 5548,
+          "reposts": 1651,
           "replies": 55,
           "quotes": 213,
-          "views": 2223121
+          "views": 2223874
         },
         {
           "id": "2117821637613760669",
           "url": "https://x.com/AKEndfieldJP/status/2117821637613760669",
           "created_at": "2026-11-04T03:30:00.000Z",
-          "likes": 3817,
-          "reposts": 4165,
+          "likes": 3829,
+          "reposts": 4175,
           "replies": 19,
           "quotes": 93,
-          "views": 1669978
+          "views": 1673574
         },
         {
           "id": "2117452958560297343",
           "url": "https://x.com/AKEndfieldJP/status/2117452958560297343",
           "created_at": "2026-11-03T03:05:00.000Z",
-          "likes": 6389,
-          "reposts": 8618,
+          "likes": 6390,
+          "reposts": 8622,
           "replies": 76,
           "quotes": 86,
-          "views": 327587
+          "views": 328609
         },
         {
           "id": "2117451706003046647",
           "url": "https://x.com/AKEndfieldJP/status/2117451706003046647",
           "created_at": "2026-11-03T03:00:01.000Z",
-          "likes": 3708,
-          "reposts": 1149,
+          "likes": 3710,
+          "reposts": 1148,
           "replies": 7,
           "quotes": 106,
-          "views": 208496
+          "views": 209093
         },
         {
           "id": "2117451702769197158",
           "url": "https://x.com/AKEndfield/status/2117451702769197158",
           "created_at": "2026-11-03T03:00:00.000Z",
-          "likes": 3653,
+          "likes": 3656,
           "reposts": 574,
           "replies": 37,
           "quotes": 63,
-          "views": 115747
+          "views": 116004
         },
         {
           "id": "2117451699761598862",
           "url": "https://x.com/AKEndfieldKR/status/2117451699761598862",
           "created_at": "2026-11-03T03:00:00.000Z",
-          "likes": 333,
+          "likes": 334,
           "reposts": 214,
           "replies": 1,
           "quotes": 85,
-          "views": 24079
+          "views": 24128
         },
         {
           "id": "2117099252761633075",
           "url": "https://x.com/AKEndfieldJP/status/2117099252761633075",
           "created_at": "2026-11-02T03:39:30.000Z",
-          "likes": 422,
+          "likes": 423,
           "reposts": 147,
           "replies": 1,
           "quotes": 11,
-          "views": 78052
+          "views": 78387
         },
         {
           "id": "2117094441773408440",
@@ -945,18 +1005,18 @@
           "likes": 3551,
           "reposts": 1122,
           "replies": 3,
-          "quotes": 95,
-          "views": 177483
+          "quotes": 96,
+          "views": 177993
         },
         {
           "id": "2117089564477263945",
           "url": "https://x.com/AKEndfield/status/2117089564477263945",
           "created_at": "2026-11-02T03:01:00.000Z",
-          "likes": 4276,
+          "likes": 4277,
           "reposts": 737,
           "replies": 38,
           "quotes": 115,
-          "views": 122044
+          "views": 122333
         },
         {
           "id": "2117089328417358151",
@@ -966,298 +1026,328 @@
           "reposts": 545,
           "replies": 20,
           "quotes": 123,
-          "views": 181644
+          "views": 181879
         },
         {
           "id": "2117089326437683241",
           "url": "https://x.com/AKEndfieldKR/status/2117089326437683241",
           "created_at": "2026-11-02T03:00:03.000Z",
-          "likes": 326,
+          "likes": 327,
           "reposts": 241,
           "replies": 2,
           "quotes": 103,
-          "views": 22298
+          "views": 22362
         },
         {
           "id": "2117089316870692893",
           "url": "https://x.com/AKEndfieldKR/status/2117089316870692893",
           "created_at": "2026-11-02T03:00:01.000Z",
-          "likes": 239,
+          "likes": 240,
           "reposts": 198,
           "replies": 0,
-          "quotes": 74,
-          "views": 17155
+          "quotes": 75,
+          "views": 17218
         },
         {
           "id": "2117089314160955452",
           "url": "https://x.com/AKEndfieldJP/status/2117089314160955452",
           "created_at": "2026-11-02T03:00:00.000Z",
-          "likes": 4947,
-          "reposts": 1302,
+          "likes": 4948,
+          "reposts": 1303,
           "replies": 6,
           "quotes": 72,
-          "views": 215557
+          "views": 215950
         }
       ],
       "totals": {
-        "likes": 84925,
-        "reposts": 34086,
+        "likes": 85062,
+        "reposts": 34167,
         "replies": 626,
-        "views": 9093665
+        "views": 9121451
       },
       "status": "ok"
     },
     "starrail-aha": {
       "posts": [
         {
+          "id": "2120788689663983813",
+          "url": "https://x.com/honkaistarrail/status/2120788689663983813",
+          "created_at": "2026-11-12T08:00:00.000Z",
+          "likes": 1445,
+          "reposts": 98,
+          "replies": 4,
+          "quotes": 1,
+          "views": 94429
+        },
+        {
+          "id": "2120728296740803054",
+          "url": "https://x.com/honkaisr_kr/status/2120728296740803054",
+          "created_at": "2026-11-12T04:00:01.000Z",
+          "likes": 298,
+          "reposts": 155,
+          "replies": 0,
+          "quotes": 60,
+          "views": 21272
+        },
+        {
+          "id": "2120728290939781579",
+          "url": "https://x.com/honkaistarrail/status/2120728290939781579",
+          "created_at": "2026-11-12T04:00:00.000Z",
+          "likes": 4431,
+          "reposts": 806,
+          "replies": 30,
+          "quotes": 49,
+          "views": 141520
+        },
+        {
           "id": "2120365910573617204",
           "url": "https://x.com/honkaisr_kr/status/2120365910573617204",
           "created_at": "2026-11-11T04:00:02.000Z",
-          "likes": 367,
-          "reposts": 146,
+          "likes": 399,
+          "reposts": 153,
           "replies": 0,
-          "quotes": 66,
-          "views": 24297
+          "quotes": 71,
+          "views": 27688
         },
         {
           "id": "2120365902713573601",
           "url": "https://x.com/honkaistarrail/status/2120365902713573601",
           "created_at": "2026-11-11T04:00:00.000Z",
-          "likes": 7398,
-          "reposts": 1361,
+          "likes": 8012,
+          "reposts": 1469,
           "replies": 67,
-          "quotes": 235,
-          "views": 308012
+          "quotes": 247,
+          "views": 397096
         },
         {
           "id": "2120353509065285792",
           "url": "https://x.com/honkaistarrail/status/2120353509065285792",
           "created_at": "2026-11-11T03:10:45.000Z",
-          "likes": 409,
-          "reposts": 72,
-          "replies": 24,
-          "quotes": 7,
-          "views": 20480
+          "likes": 458,
+          "reposts": 84,
+          "replies": 26,
+          "quotes": 8,
+          "views": 26562
         },
         {
           "id": "2120353320858452416",
           "url": "https://x.com/honkaisr_kr/status/2120353320858452416",
           "created_at": "2026-11-11T03:10:00.000Z",
-          "likes": 406,
-          "reposts": 190,
-          "replies": 100,
-          "quotes": 37,
-          "views": 467167
+          "likes": 441,
+          "reposts": 204,
+          "replies": 109,
+          "quotes": 43,
+          "views": 873281
         },
         {
           "id": "2120350806763241821",
           "url": "https://x.com/honkaistarrail/status/2120350806763241821",
           "created_at": "2026-11-11T03:00:01.000Z",
-          "likes": 2785,
-          "reposts": 256,
-          "replies": 21,
-          "quotes": 23,
-          "views": 134046
+          "likes": 2932,
+          "reposts": 272,
+          "replies": 23,
+          "quotes": 25,
+          "views": 146988
         },
         {
           "id": "2120350806549348476",
           "url": "https://x.com/honkaisr_kr/status/2120350806549348476",
           "created_at": "2026-11-11T03:00:01.000Z",
-          "likes": 327,
-          "reposts": 118,
+          "likes": 341,
+          "reposts": 119,
           "replies": 1,
-          "quotes": 75,
-          "views": 17929
+          "quotes": 78,
+          "views": 19410
         },
         {
           "id": "2120339203150238154",
           "url": "https://x.com/honkaistarrail/status/2120339203150238154",
           "created_at": "2026-11-11T02:13:54.000Z",
-          "likes": 5545,
-          "reposts": 384,
+          "likes": 6081,
+          "reposts": 417,
           "replies": 16,
           "quotes": 7,
-          "views": 134595
+          "views": 150530
         },
         {
           "id": "2120094113781412124",
           "url": "https://x.com/honkaistarrail/status/2120094113781412124",
           "created_at": "2026-11-10T10:00:00.000Z",
-          "likes": 5961,
-          "reposts": 681,
+          "likes": 6020,
+          "reposts": 689,
           "replies": 32,
           "quotes": 45,
-          "views": 161868
+          "views": 167262
         },
         {
           "id": "2120094113752056060",
           "url": "https://x.com/honkaisr_kr/status/2120094113752056060",
           "created_at": "2026-11-10T10:00:00.000Z",
-          "likes": 405,
-          "reposts": 126,
+          "likes": 411,
+          "reposts": 127,
           "replies": 0,
           "quotes": 22,
-          "views": 21049
+          "views": 21840
         },
         {
           "id": "2119988418708955289",
           "url": "https://x.com/honkaistarrail/status/2119988418708955289",
           "created_at": "2026-11-10T03:00:01.000Z",
-          "likes": 13553,
-          "reposts": 1052,
+          "likes": 13584,
+          "reposts": 1058,
           "replies": 71,
           "quotes": 280,
-          "views": 391762
+          "views": 399496
         },
         {
           "id": "2119988418599961077",
           "url": "https://x.com/honkaisr_kr/status/2119988418599961077",
           "created_at": "2026-11-10T03:00:01.000Z",
-          "likes": 936,
-          "reposts": 364,
+          "likes": 941,
+          "reposts": 365,
           "replies": 3,
           "quotes": 296,
-          "views": 62957
+          "views": 64146
         },
         {
           "id": "2119731724816961555",
           "url": "https://x.com/honkaisr_kr/status/2119731724816961555",
           "created_at": "2026-11-09T10:00:00.000Z",
-          "likes": 570,
-          "reposts": 209,
+          "likes": 571,
+          "reposts": 210,
           "replies": 0,
-          "quotes": 159,
-          "views": 46538
+          "quotes": 160,
+          "views": 47322
         },
         {
           "id": "2119731724791771402",
           "url": "https://x.com/houkaistarrail/status/2119731724791771402",
           "created_at": "2026-11-09T10:00:00.000Z",
-          "likes": 6917,
-          "reposts": 1165,
+          "likes": 6928,
+          "reposts": 1166,
           "replies": 18,
           "quotes": 90,
-          "views": 506702
+          "views": 512475
         },
         {
           "id": "2119731724749844584",
           "url": "https://x.com/honkaistarrail/status/2119731724749844584",
           "created_at": "2026-11-09T10:00:00.000Z",
-          "likes": 6535,
-          "reposts": 775,
+          "likes": 6549,
+          "reposts": 776,
           "replies": 31,
           "quotes": 101,
-          "views": 285220
+          "views": 288481
         },
         {
           "id": "2119626037415878919",
           "url": "https://x.com/honkaistarrail/status/2119626037415878919",
           "created_at": "2026-11-09T03:00:02.000Z",
-          "likes": 20385,
-          "reposts": 3616,
+          "likes": 20427,
+          "reposts": 3631,
           "replies": 84,
           "quotes": 576,
-          "views": 535932
+          "views": 539367
         },
         {
           "id": "2119369338473840778",
           "url": "https://x.com/honkaistarrail/status/2119369338473840778",
           "created_at": "2026-11-08T10:00:00.000Z",
-          "likes": 5311,
-          "reposts": 792,
+          "likes": 5321,
+          "reposts": 794,
           "replies": 27,
           "quotes": 56,
-          "views": 187921
+          "views": 190059
         },
         {
           "id": "2119278742082142688",
           "url": "https://x.com/honkaistarrail/status/2119278742082142688",
           "created_at": "2026-11-08T04:00:01.000Z",
-          "likes": 18057,
-          "reposts": 4705,
-          "replies": 281,
-          "quotes": 1015,
-          "views": 1041024
+          "likes": 18103,
+          "reposts": 4713,
+          "replies": 282,
+          "quotes": 1018,
+          "views": 1053679
         },
         {
           "id": "2119278738659549378",
           "url": "https://x.com/honkaisr_kr/status/2119278738659549378",
           "created_at": "2026-11-08T04:00:00.000Z",
-          "likes": 1094,
-          "reposts": 918,
+          "likes": 1120,
+          "reposts": 930,
           "replies": 2,
-          "quotes": 295,
-          "views": 89715
+          "quotes": 296,
+          "views": 97861
         },
         {
           "id": "2119263641174216816",
           "url": "https://x.com/honkaistarrail/status/2119263641174216816",
           "created_at": "2026-11-08T03:00:00.000Z",
-          "likes": 24098,
+          "likes": 24112,
           "reposts": 1568,
           "replies": 743,
           "quotes": 324,
-          "views": 548993
+          "views": 552346
         },
         {
           "id": "2119263641174208735",
           "url": "https://x.com/honkaisr_kr/status/2119263641174208735",
           "created_at": "2026-11-08T03:00:00.000Z",
-          "likes": 672,
+          "likes": 674,
           "reposts": 98,
           "replies": 31,
           "quotes": 54,
-          "views": 42441
+          "views": 42719
         },
         {
           "id": "2119006950306263487",
           "url": "https://x.com/honkaistarrail/status/2119006950306263487",
           "created_at": "2026-11-07T10:00:00.000Z",
-          "likes": 22872,
-          "reposts": 3846,
+          "likes": 22885,
+          "reposts": 3849,
           "replies": 102,
           "quotes": 724,
-          "views": 410763
+          "views": 414295
         },
         {
           "id": "2118901254348849616",
           "url": "https://x.com/honkaisr_kr/status/2118901254348849616",
           "created_at": "2026-11-07T03:00:00.000Z",
-          "likes": 556,
+          "likes": 557,
           "reposts": 116,
           "replies": 4,
           "quotes": 10,
-          "views": 24544
+          "views": 24729
         },
         {
           "id": "2118901254227104026",
           "url": "https://x.com/honkaistarrail/status/2118901254227104026",
           "created_at": "2026-11-07T03:00:00.000Z",
-          "likes": 6750,
-          "reposts": 637,
+          "likes": 6764,
+          "reposts": 643,
           "replies": 89,
           "quotes": 126,
-          "views": 429634
+          "views": 433856
         },
         {
           "id": "2118644561459159132",
           "url": "https://x.com/honkaistarrail/status/2118644561459159132",
           "created_at": "2026-11-06T10:00:00.000Z",
-          "likes": 14264,
+          "likes": 14280,
           "reposts": 1657,
           "replies": 60,
           "quotes": 128,
-          "views": 344856
+          "views": 346823
         },
         {
           "id": "2118644561358529017",
           "url": "https://x.com/houkaistarrail/status/2118644561358529017",
           "created_at": "2026-11-06T10:00:00.000Z",
-          "likes": 14822,
-          "reposts": 2014,
+          "likes": 14825,
+          "reposts": 2015,
           "replies": 23,
           "quotes": 83,
-          "views": 516273
+          "views": 518492
         },
         {
           "id": "2118644561262080405",
@@ -1267,198 +1357,258 @@
           "reposts": 370,
           "replies": 1,
           "quotes": 101,
-          "views": 49077
+          "views": 49310
         },
         {
           "id": "2118282176126923018",
           "url": "https://x.com/honkaisr_kr/status/2118282176126923018",
           "created_at": "2026-11-05T10:00:01.000Z",
-          "likes": 296,
+          "likes": 297,
           "reposts": 75,
           "replies": 1,
           "quotes": 9,
-          "views": 22812
+          "views": 22965
         },
         {
           "id": "2118282176114348468",
           "url": "https://x.com/honkaistarrail/status/2118282176114348468",
           "created_at": "2026-11-05T10:00:01.000Z",
-          "likes": 3060,
+          "likes": 3066,
           "reposts": 316,
           "replies": 15,
           "quotes": 52,
-          "views": 197656
+          "views": 199334
         },
         {
           "id": "2117829190598770993",
           "url": "https://x.com/honkaistarrail/status/2117829190598770993",
           "created_at": "2026-11-04T04:00:01.000Z",
-          "likes": 18509,
-          "reposts": 2824,
-          "replies": 182,
-          "quotes": 682,
-          "views": 1192339
+          "likes": 18727,
+          "reposts": 2847,
+          "replies": 183,
+          "quotes": 683,
+          "views": 1236475
         },
         {
           "id": "2117829188799664243",
           "url": "https://x.com/honkaisr_kr/status/2117829188799664243",
           "created_at": "2026-11-04T04:00:00.000Z",
-          "likes": 594,
+          "likes": 598,
           "reposts": 334,
           "replies": 1,
           "quotes": 88,
-          "views": 36656
+          "views": 36939
         },
         {
           "id": "2117814093306310997",
           "url": "https://x.com/honkaistarrail/status/2117814093306310997",
           "created_at": "2026-11-04T03:00:01.000Z",
-          "likes": 7314,
+          "likes": 7319,
           "reposts": 663,
           "replies": 9,
           "quotes": 27,
-          "views": 193531
+          "views": 194359
         },
         {
           "id": "2117814088550019207",
           "url": "https://x.com/honkaisr_kr/status/2117814088550019207",
           "created_at": "2026-11-04T03:00:00.000Z",
-          "likes": 442,
+          "likes": 443,
           "reposts": 153,
           "replies": 1,
           "quotes": 40,
-          "views": 24708
+          "views": 24839
         },
         {
           "id": "2117466806491271249",
           "url": "https://x.com/honkaisr_kr/status/2117466806491271249",
           "created_at": "2026-11-03T04:00:01.000Z",
-          "likes": 536,
+          "likes": 537,
           "reposts": 283,
           "replies": 3,
           "quotes": 105,
-          "views": 62181
+          "views": 62359
         },
         {
           "id": "2117466799386108360",
           "url": "https://x.com/honkaistarrail/status/2117466799386108360",
           "created_at": "2026-11-03T04:00:00.000Z",
-          "likes": 5465,
+          "likes": 5469,
           "reposts": 794,
           "replies": 36,
           "quotes": 103,
-          "views": 261042
+          "views": 262128
         },
         {
           "id": "2116153145034187117",
           "url": "https://x.com/honkaistarrail/status/2116153145034187117",
           "created_at": "2026-10-30T13:00:00.000Z",
-          "likes": 3476,
+          "likes": 3481,
           "reposts": 554,
           "replies": 10,
           "quotes": 20,
-          "views": 159769
+          "views": 160376
         },
         {
           "id": "2116149370248737040",
           "url": "https://x.com/honkaisr_kr/status/2116149370248737040",
           "created_at": "2026-10-30T12:45:00.000Z",
-          "likes": 721,
+          "likes": 722,
           "reposts": 213,
           "replies": 0,
           "quotes": 119,
-          "views": 51048
+          "views": 51162
         },
         {
           "id": "2116143079304409482",
           "url": "https://x.com/honkaistarrail/status/2116143079304409482",
           "created_at": "2026-10-30T12:20:00.000Z",
-          "likes": 2883,
+          "likes": 2887,
           "reposts": 383,
           "replies": 20,
           "quotes": 23,
-          "views": 170200
+          "views": 170818
         },
         {
           "id": "2116141819834642583",
           "url": "https://x.com/honkaistarrail/status/2116141819834642583",
           "created_at": "2026-10-30T12:15:00.000Z",
-          "likes": 5930,
-          "reposts": 1776,
+          "likes": 5952,
+          "reposts": 1777,
           "replies": 64,
           "quotes": 124,
-          "views": 259045
+          "views": 260852
         },
         {
           "id": "2116141819071234369",
           "url": "https://x.com/honkaisr_kr/status/2116141819071234369",
           "created_at": "2026-10-30T12:15:00.000Z",
-          "likes": 651,
+          "likes": 652,
           "reposts": 680,
           "replies": 0,
           "quotes": 106,
-          "views": 35788
+          "views": 35983
         },
         {
           "id": "2115654862767546563",
           "url": "https://x.com/honkaistarrail/status/2115654862767546563",
           "created_at": "2026-10-29T04:00:00.000Z",
-          "likes": 28937,
+          "likes": 28934,
           "reposts": 5004,
           "replies": 240,
-          "quotes": 1454,
-          "views": 2491912
+          "quotes": 1455,
+          "views": 2493998
         },
         {
           "id": "2115654861098229944",
           "url": "https://x.com/honkaisr_kr/status/2115654861098229944",
           "created_at": "2026-10-29T04:00:00.000Z",
-          "likes": 998,
+          "likes": 997,
           "reposts": 664,
           "replies": 0,
           "quotes": 276,
-          "views": 112959
+          "views": 113055
         }
       ],
       "totals": {
-        "likes": 262114,
-        "reposts": 41952,
-        "replies": 2413,
-        "views": 12075441
+        "likes": 270298,
+        "reposts": 43292,
+        "replies": 2462,
+        "views": 12988976
       },
       "status": "ok"
     },
     "nte-elim": {
       "posts": [
         {
+          "id": "2120728293875810595",
+          "url": "https://x.com/NTE_GL/status/2120728293875810595",
+          "created_at": "2026-11-12T04:00:01.000Z",
+          "likes": 557,
+          "reposts": 55,
+          "replies": 6,
+          "quotes": 0,
+          "views": 20421
+        },
+        {
+          "id": "2120728296782766442",
+          "url": "https://x.com/NTE_JP/status/2120728296782766442",
+          "created_at": "2026-11-12T04:00:01.000Z",
+          "likes": 775,
+          "reposts": 144,
+          "replies": 0,
+          "quotes": 5,
+          "views": 56760
+        },
+        {
+          "id": "2120728290499367381",
+          "url": "https://x.com/NTE_KO/status/2120728290499367381",
+          "created_at": "2026-11-12T04:00:00.000Z",
+          "likes": 43,
+          "reposts": 11,
+          "replies": 0,
+          "quotes": 3,
+          "views": 2888
+        },
+        {
+          "id": "2120713207228629229",
+          "url": "https://x.com/NTE_KO/status/2120713207228629229",
+          "created_at": "2026-11-12T03:00:04.000Z",
+          "likes": 151,
+          "reposts": 62,
+          "replies": 3,
+          "quotes": 19,
+          "views": 9555
+        },
+        {
+          "id": "2120713203793670505",
+          "url": "https://x.com/NTE_JP/status/2120713203793670505",
+          "created_at": "2026-11-12T03:00:03.000Z",
+          "likes": 2072,
+          "reposts": 549,
+          "replies": 7,
+          "quotes": 54,
+          "views": 104289
+        },
+        {
+          "id": "2120713199888822690",
+          "url": "https://x.com/NTE_GL/status/2120713199888822690",
+          "created_at": "2026-11-12T03:00:02.000Z",
+          "likes": 71,
+          "reposts": 5,
+          "replies": 1,
+          "quotes": 0,
+          "views": 7153
+        },
+        {
           "id": "2120358357509054921",
           "url": "https://x.com/NTE_KO/status/2120358357509054921",
           "created_at": "2026-11-11T03:30:01.000Z",
-          "likes": 125,
-          "reposts": 45,
+          "likes": 150,
+          "reposts": 51,
           "replies": 3,
-          "quotes": 77,
-          "views": 9533
+          "quotes": 88,
+          "views": 11190
         },
         {
           "id": "2120350810999800074",
           "url": "https://x.com/NTE_KO/status/2120350810999800074",
           "created_at": "2026-11-11T03:00:02.000Z",
-          "likes": 82,
-          "reposts": 28,
+          "likes": 92,
+          "reposts": 30,
           "replies": 0,
-          "quotes": 4,
-          "views": 3220
+          "quotes": 6,
+          "views": 3754
         },
         {
           "id": "2120094111181000760",
           "url": "https://x.com/NTE_KO/status/2120094111181000760",
           "created_at": "2026-11-10T10:00:00.000Z",
-          "likes": 183,
+          "likes": 188,
           "reposts": 75,
           "replies": 0,
           "quotes": 23,
-          "views": 7440
+          "views": 7840
         },
         {
           "id": "2120033719729950803",
@@ -1468,7 +1618,7 @@
           "reposts": 25,
           "replies": 0,
           "quotes": 4,
-          "views": 5442
+          "views": 5663
         },
         {
           "id": "2119626032114200819",
@@ -1478,27 +1628,27 @@
           "reposts": 24,
           "replies": 0,
           "quotes": 5,
-          "views": 5110
+          "views": 5239
         },
         {
           "id": "2119610935056662814",
           "url": "https://x.com/NTE_KO/status/2119610935056662814",
           "created_at": "2026-11-09T02:00:02.000Z",
-          "likes": 158,
+          "likes": 159,
           "reposts": 37,
           "replies": 1,
           "quotes": 9,
-          "views": 4958
+          "views": 5064
         },
         {
           "id": "2119263651513217186",
           "url": "https://x.com/NTE_KO/status/2119263651513217186",
           "created_at": "2026-11-08T03:00:03.000Z",
-          "likes": 325,
-          "reposts": 467,
+          "likes": 327,
+          "reposts": 476,
           "replies": 1,
           "quotes": 13,
-          "views": 9084
+          "views": 9279
         },
         {
           "id": "2118916351037227324",
@@ -1508,7 +1658,7 @@
           "reposts": 46,
           "replies": 0,
           "quotes": 10,
-          "views": 6439
+          "views": 6569
         },
         {
           "id": "2118886159963075054",
@@ -1518,7 +1668,7 @@
           "reposts": 38,
           "replies": 0,
           "quotes": 5,
-          "views": 5360
+          "views": 5454
         },
         {
           "id": "2118584163234406655",
@@ -1527,8 +1677,8 @@
           "likes": 87,
           "reposts": 21,
           "replies": 0,
-          "quotes": 3,
-          "views": 4336
+          "quotes": 4,
+          "views": 4442
         },
         {
           "id": "2118553968058245162",
@@ -1538,7 +1688,7 @@
           "reposts": 46,
           "replies": 1,
           "quotes": 7,
-          "views": 4930
+          "views": 5008
         },
         {
           "id": "2118523765336195557",
@@ -1548,27 +1698,27 @@
           "reposts": 50,
           "replies": 1,
           "quotes": 10,
-          "views": 6577
+          "views": 6706
         },
         {
           "id": "2118176817396011343",
           "url": "https://x.com/NTE_GL/status/2118176817396011343",
           "created_at": "2026-11-05T03:01:21.000Z",
-          "likes": 126,
+          "likes": 127,
           "reposts": 9,
           "replies": 0,
           "quotes": 0,
-          "views": 13112
+          "views": 13351
         },
         {
           "id": "2118176497873662241",
           "url": "https://x.com/NTE_JP/status/2118176497873662241",
           "created_at": "2026-11-05T03:00:05.000Z",
-          "likes": 2654,
+          "likes": 2653,
           "reposts": 671,
           "replies": 8,
           "quotes": 40,
-          "views": 141148
+          "views": 142138
         },
         {
           "id": "2118176477099540660",
@@ -1578,47 +1728,47 @@
           "reposts": 51,
           "replies": 1,
           "quotes": 5,
-          "views": 6203
+          "views": 6315
         },
         {
           "id": "2117798988317397425",
           "url": "https://x.com/NTE_KO/status/2117798988317397425",
           "created_at": "2026-11-04T02:00:00.000Z",
-          "likes": 237,
+          "likes": 238,
           "reposts": 47,
           "replies": 0,
           "quotes": 6,
-          "views": 6872
+          "views": 6937
         },
         {
           "id": "2115644921596297354",
           "url": "https://x.com/NTE_GL/status/2115644921596297354",
           "created_at": "2026-10-29T03:20:30.000Z",
-          "likes": 99,
+          "likes": 100,
           "reposts": 9,
           "replies": 0,
           "quotes": 0,
-          "views": 12979
+          "views": 13105
         },
         {
           "id": "2115644670399385795",
           "url": "https://x.com/NTE_KO/status/2115644670399385795",
           "created_at": "2026-10-29T03:19:30.000Z",
-          "likes": 132,
+          "likes": 133,
           "reposts": 44,
           "replies": 0,
           "quotes": 3,
-          "views": 6803
+          "views": 6864
         },
         {
           "id": "2115639775336259935",
           "url": "https://x.com/NTE_JP/status/2115639775336259935",
           "created_at": "2026-10-29T03:00:03.000Z",
-          "likes": 2064,
-          "reposts": 519,
+          "likes": 2065,
+          "reposts": 520,
           "replies": 5,
           "quotes": 18,
-          "views": 169249
+          "views": 169631
         },
         {
           "id": "2115639761364983843",
@@ -1628,38 +1778,68 @@
           "reposts": 13,
           "replies": 2,
           "quotes": 2,
-          "views": 14227
+          "views": 14231
         }
       ],
       "totals": {
-        "likes": 7420,
-        "reposts": 2265,
-        "replies": 23,
-        "views": 443022
+        "likes": 11136,
+        "reposts": 3109,
+        "replies": 40,
+        "views": 649846
       },
       "status": "ok"
     },
     "nte-exe": {
       "posts": [
         {
+          "id": "2120713207228629229",
+          "url": "https://x.com/NTE_KO/status/2120713207228629229",
+          "created_at": "2026-11-12T03:00:04.000Z",
+          "likes": 151,
+          "reposts": 62,
+          "replies": 3,
+          "quotes": 19,
+          "views": 9555
+        },
+        {
+          "id": "2120713203793670505",
+          "url": "https://x.com/NTE_JP/status/2120713203793670505",
+          "created_at": "2026-11-12T03:00:03.000Z",
+          "likes": 2072,
+          "reposts": 549,
+          "replies": 7,
+          "quotes": 54,
+          "views": 104289
+        },
+        {
+          "id": "2120713199888822690",
+          "url": "https://x.com/NTE_GL/status/2120713199888822690",
+          "created_at": "2026-11-12T03:00:02.000Z",
+          "likes": 71,
+          "reposts": 5,
+          "replies": 1,
+          "quotes": 0,
+          "views": 7153
+        },
+        {
           "id": "2118176817396011343",
           "url": "https://x.com/NTE_GL/status/2118176817396011343",
           "created_at": "2026-11-05T03:01:21.000Z",
-          "likes": 126,
+          "likes": 127,
           "reposts": 9,
           "replies": 0,
           "quotes": 0,
-          "views": 13112
+          "views": 13351
         },
         {
           "id": "2118176497873662241",
           "url": "https://x.com/NTE_JP/status/2118176497873662241",
           "created_at": "2026-11-05T03:00:05.000Z",
-          "likes": 2654,
+          "likes": 2653,
           "reposts": 671,
           "replies": 8,
           "quotes": 40,
-          "views": 141148
+          "views": 142138
         },
         {
           "id": "2118176477099540660",
@@ -1669,37 +1849,37 @@
           "reposts": 51,
           "replies": 1,
           "quotes": 5,
-          "views": 6203
+          "views": 6315
         },
         {
           "id": "2115644921596297354",
           "url": "https://x.com/NTE_GL/status/2115644921596297354",
           "created_at": "2026-10-29T03:20:30.000Z",
-          "likes": 99,
+          "likes": 100,
           "reposts": 9,
           "replies": 0,
           "quotes": 0,
-          "views": 12979
+          "views": 13105
         },
         {
           "id": "2115644670399385795",
           "url": "https://x.com/NTE_KO/status/2115644670399385795",
           "created_at": "2026-10-29T03:19:30.000Z",
-          "likes": 132,
+          "likes": 133,
           "reposts": 44,
           "replies": 0,
           "quotes": 3,
-          "views": 6803
+          "views": 6864
         },
         {
           "id": "2115639775336259935",
           "url": "https://x.com/NTE_JP/status/2115639775336259935",
           "created_at": "2026-10-29T03:00:03.000Z",
-          "likes": 2064,
-          "reposts": 519,
+          "likes": 2065,
+          "reposts": 520,
           "replies": 5,
           "quotes": 18,
-          "views": 169249
+          "views": 169631
         },
         {
           "id": "2115639761364983843",
@@ -1709,14 +1889,14 @@
           "reposts": 13,
           "replies": 2,
           "quotes": 2,
-          "views": 14227
+          "views": 14231
         }
       ],
       "totals": {
-        "likes": 5398,
-        "reposts": 1316,
-        "replies": 16,
-        "views": 363721
+        "likes": 7695,
+        "reposts": 1933,
+        "replies": 27,
+        "views": 486632
       },
       "status": "ok"
     },
@@ -1726,81 +1906,81 @@
           "id": "2119278741645873612",
           "url": "https://x.com/GenshinImpact/status/2119278741645873612",
           "created_at": "2026-11-08T04:00:00.000Z",
-          "likes": 18259,
-          "reposts": 3597,
-          "replies": 64,
-          "quotes": 516,
-          "views": 536794
+          "likes": 18329,
+          "reposts": 3600,
+          "replies": 65,
+          "quotes": 517,
+          "views": 548377
         },
         {
           "id": "2119278741427810805",
           "url": "https://x.com/genshinimpactkr/status/2119278741427810805",
           "created_at": "2026-11-08T04:00:00.000Z",
-          "likes": 2367,
-          "reposts": 840,
+          "likes": 2378,
+          "reposts": 842,
           "replies": 0,
-          "quotes": 221,
-          "views": 73275
+          "quotes": 222,
+          "views": 74565
         },
         {
           "id": "2118648337813364859",
           "url": "https://x.com/GenshinImpact/status/2118648337813364859",
           "created_at": "2026-11-06T10:15:00.000Z",
-          "likes": 10314,
-          "reposts": 1141,
-          "replies": 74,
+          "likes": 10361,
+          "reposts": 1144,
+          "replies": 75,
           "quotes": 189,
-          "views": 398380
+          "views": 403117
         },
         {
           "id": "2118647078536527881",
           "url": "https://x.com/genshinimpactkr/status/2118647078536527881",
           "created_at": "2026-11-06T10:10:00.000Z",
           "likes": 600,
-          "reposts": 110,
+          "reposts": 111,
           "replies": 1,
           "quotes": 7,
-          "views": 26913
+          "views": 27161
         },
         {
           "id": "2117829192708432028",
           "url": "https://x.com/GenshinImpact/status/2117829192708432028",
           "created_at": "2026-11-04T04:00:01.000Z",
-          "likes": 5394,
-          "reposts": 589,
-          "replies": 303,
-          "quotes": 19,
-          "views": 324156
+          "likes": 5414,
+          "reposts": 590,
+          "replies": 319,
+          "quotes": 20,
+          "views": 326577
         },
         {
           "id": "2117816609498640806",
           "url": "https://x.com/GenshinImpact/status/2117816609498640806",
           "created_at": "2026-11-04T03:10:01.000Z",
-          "likes": 301,
+          "likes": 304,
           "reposts": 14,
           "replies": 2,
           "quotes": 0,
-          "views": 70013
+          "views": 70753
         },
         {
           "id": "2117816607338602656",
           "url": "https://x.com/GenshinImpact/status/2117816607338602656",
           "created_at": "2026-11-04T03:10:00.000Z",
-          "likes": 2918,
+          "likes": 2926,
           "reposts": 177,
-          "replies": 22,
+          "replies": 23,
           "quotes": 25,
-          "views": 375142
+          "views": 376122
         },
         {
           "id": "2117467059583930428",
           "url": "https://x.com/GenshinImpact/status/2117467059583930428",
           "created_at": "2026-11-03T04:01:02.000Z",
-          "likes": 564,
+          "likes": 569,
           "reposts": 61,
           "replies": 3,
           "quotes": 5,
-          "views": 142546
+          "views": 143360
         },
         {
           "id": "2117467057583169980",
@@ -1810,87 +1990,87 @@
           "reposts": 11,
           "replies": 1,
           "quotes": 3,
-          "views": 16748
+          "views": 16855
         },
         {
           "id": "2117467054924025874",
           "url": "https://x.com/GenshinImpact/status/2117467054924025874",
           "created_at": "2026-11-03T04:01:01.000Z",
-          "likes": 35753,
-          "reposts": 8682,
+          "likes": 35765,
+          "reposts": 8689,
           "replies": 311,
-          "quotes": 3191,
-          "views": 1699598
+          "quotes": 3192,
+          "views": 1705500
         },
         {
           "id": "2117467054752075849",
           "url": "https://x.com/genshinimpactkr/status/2117467054752075849",
           "created_at": "2026-11-03T04:01:01.000Z",
-          "likes": 2223,
+          "likes": 2226,
           "reposts": 1067,
           "replies": 4,
           "quotes": 571,
-          "views": 143552
+          "views": 144169
         },
         {
           "id": "2117104439093776528",
           "url": "https://x.com/GenshinImpact/status/2117104439093776528",
           "created_at": "2026-11-02T04:00:06.000Z",
-          "likes": 186,
+          "likes": 190,
           "reposts": 13,
           "replies": 0,
           "quotes": 0,
-          "views": 74315
+          "views": 74739
         },
         {
           "id": "2117104414943072330",
           "url": "https://x.com/GenshinImpact/status/2117104414943072330",
           "created_at": "2026-11-02T04:00:01.000Z",
-          "likes": 24181,
+          "likes": 24186,
           "reposts": 2436,
           "replies": 169,
           "quotes": 1674,
-          "views": 798250
+          "views": 800287
         },
         {
           "id": "2116700501102223555",
           "url": "https://x.com/GenshinImpact/status/2116700501102223555",
           "created_at": "2026-11-01T01:15:00.000Z",
-          "likes": 19792,
+          "likes": 19794,
           "reposts": 2228,
           "replies": 80,
           "quotes": 69,
-          "views": 413360
+          "views": 413991
         },
         {
           "id": "2116697308805091662",
           "url": "https://x.com/genshinimpactkr/status/2116697308805091662",
           "created_at": "2026-11-01T01:02:19.000Z",
-          "likes": 1509,
+          "likes": 1510,
           "reposts": 257,
           "replies": 2,
           "quotes": 37,
-          "views": 47606
+          "views": 47690
         },
         {
           "id": "2116017249370685692",
           "url": "https://x.com/genshinimpactkr/status/2116017249370685692",
           "created_at": "2026-10-30T04:00:00.000Z",
-          "likes": 2032,
+          "likes": 2036,
           "reposts": 774,
           "replies": 1,
           "quotes": 231,
-          "views": 69004
+          "views": 69253
         },
         {
           "id": "2116017249215537267",
           "url": "https://x.com/GenshinImpact/status/2116017249215537267",
           "created_at": "2026-10-30T04:00:00.000Z",
-          "likes": 17896,
-          "reposts": 3900,
+          "likes": 17911,
+          "reposts": 3904,
           "replies": 131,
           "quotes": 713,
-          "views": 879933
+          "views": 881037
         },
         {
           "id": "2115655128460001625",
@@ -1900,124 +2080,124 @@
           "reposts": 7,
           "replies": 0,
           "quotes": 0,
-          "views": 17499
+          "views": 17551
         },
         {
           "id": "2115655127935713469",
           "url": "https://x.com/GenshinImpact/status/2115655127935713469",
           "created_at": "2026-10-29T04:01:04.000Z",
-          "likes": 619,
-          "reposts": 73,
+          "likes": 621,
+          "reposts": 74,
           "replies": 1,
           "quotes": 3,
-          "views": 132875
+          "views": 133222
         },
         {
           "id": "2115655111435317380",
           "url": "https://x.com/GenshinImpact/status/2115655111435317380",
           "created_at": "2026-10-29T04:01:00.000Z",
-          "likes": 28875,
-          "reposts": 7330,
+          "likes": 28888,
+          "reposts": 7336,
           "replies": 261,
           "quotes": 1861,
-          "views": 998974
+          "views": 1000937
         },
         {
           "id": "2115655111267520797",
           "url": "https://x.com/genshinimpactkr/status/2115655111267520797",
           "created_at": "2026-10-29T04:01:00.000Z",
-          "likes": 2468,
+          "likes": 2472,
           "reposts": 1100,
           "replies": 1,
-          "quotes": 453,
-          "views": 136772
+          "quotes": 454,
+          "views": 137121
         },
         {
           "id": "2115390621389099388",
           "url": "https://x.com/GenshinImpact/status/2115390621389099388",
           "created_at": "2026-10-28T10:30:00.000Z",
-          "likes": 9449,
-          "reposts": 1590,
+          "likes": 9454,
+          "reposts": 1591,
           "replies": 50,
           "quotes": 210,
-          "views": 365812
+          "views": 366345
         },
         {
           "id": "2115390621280002051",
           "url": "https://x.com/genshinimpactkr/status/2115390621280002051",
           "created_at": "2026-10-28T10:30:00.000Z",
-          "likes": 1178,
+          "likes": 1180,
           "reposts": 354,
           "replies": 0,
           "quotes": 89,
-          "views": 45566
+          "views": 45672
         },
         {
           "id": "2114932602226278733",
           "url": "https://x.com/genshinimpactkr/status/2114932602226278733",
           "created_at": "2026-10-27T04:10:00.000Z",
-          "likes": 2119,
+          "likes": 2125,
           "reposts": 586,
           "replies": 1,
           "quotes": 101,
-          "views": 54770
+          "views": 54902
         },
         {
           "id": "2114932602213699681",
           "url": "https://x.com/GenshinImpact/status/2114932602213699681",
           "created_at": "2026-10-27T04:10:00.000Z",
-          "likes": 25252,
-          "reposts": 3642,
+          "likes": 25268,
+          "reposts": 3645,
           "replies": 63,
           "quotes": 307,
-          "views": 575670
+          "views": 576636
         },
         {
           "id": "2114931421370319258",
           "url": "https://x.com/GenshinImpact/status/2114931421370319258",
           "created_at": "2026-10-27T04:05:19.000Z",
-          "likes": 261,
+          "likes": 262,
           "reposts": 19,
           "replies": 0,
           "quotes": 0,
-          "views": 79996
+          "views": 80211
         },
         {
           "id": "2114931342949429636",
           "url": "https://x.com/GenshinImpact/status/2114931342949429636",
           "created_at": "2026-10-27T04:05:00.000Z",
-          "likes": 16184,
+          "likes": 16187,
           "reposts": 2689,
           "replies": 70,
           "quotes": 315,
-          "views": 462113
+          "views": 462650
         },
         {
           "id": "2113625249807782077",
           "url": "https://x.com/GenshinImpact/status/2113625249807782077",
           "created_at": "2026-10-23T13:35:03.000Z",
-          "likes": 274,
+          "likes": 276,
           "reposts": 24,
           "replies": 1,
           "quotes": 1,
-          "views": 100301
+          "views": 100500
         },
         {
           "id": "2113625238508335611",
           "url": "https://x.com/GenshinImpact/status/2113625238508335611",
           "created_at": "2026-10-23T13:35:00.000Z",
-          "likes": 6049,
+          "likes": 6054,
           "reposts": 646,
           "replies": 24,
           "quotes": 59,
-          "views": 391743
+          "views": 392105
         }
       ],
       "totals": {
-        "likes": 237111,
-        "reposts": 43957,
-        "replies": 1640,
-        "views": 9451676
+        "likes": 237380,
+        "reposts": 43989,
+        "replies": 1659,
+        "views": 9491405
       },
       "status": "ok"
     },
@@ -2031,27 +2211,27 @@
           "reposts": 8,
           "replies": 0,
           "quotes": 0,
-          "views": 14459
+          "views": 14533
         },
         {
           "id": "2117104673748361459",
           "url": "https://x.com/GenshinImpact/status/2117104673748361459",
           "created_at": "2026-11-02T04:01:02.000Z",
-          "likes": 501,
+          "likes": 505,
           "reposts": 42,
           "replies": 0,
           "quotes": 1,
-          "views": 104684
+          "views": 105332
         },
         {
           "id": "2117104662675353725",
           "url": "https://x.com/GenshinImpact/status/2117104662675353725",
           "created_at": "2026-11-02T04:01:00.000Z",
-          "likes": 21074,
-          "reposts": 3232,
+          "likes": 21098,
+          "reposts": 3234,
           "replies": 118,
-          "quotes": 646,
-          "views": 543623
+          "quotes": 648,
+          "views": 545784
         },
         {
           "id": "2117104662608253421",
@@ -2061,17 +2241,17 @@
           "reposts": 507,
           "replies": 1,
           "quotes": 237,
-          "views": 61188
+          "views": 61552
         },
         {
           "id": "2115292492371206282",
           "url": "https://x.com/GenshinImpact/status/2115292492371206282",
           "created_at": "2026-10-28T04:00:05.000Z",
-          "likes": 257,
+          "likes": 259,
           "reposts": 25,
           "replies": 0,
           "quotes": 0,
-          "views": 77924
+          "views": 78158
         },
         {
           "id": "2115292491863719938",
@@ -2081,17 +2261,17 @@
           "reposts": 6,
           "replies": 0,
           "quotes": 0,
-          "views": 13188
+          "views": 13211
         },
         {
           "id": "2115292473584926732",
           "url": "https://x.com/GenshinImpact/status/2115292473584926732",
           "created_at": "2026-10-28T04:00:00.000Z",
-          "likes": 6483,
+          "likes": 6486,
           "reposts": 657,
           "replies": 54,
           "quotes": 61,
-          "views": 288553
+          "views": 288943
         },
         {
           "id": "2115292473543057501",
@@ -2101,14 +2281,14 @@
           "reposts": 196,
           "replies": 1,
           "quotes": 45,
-          "views": 49551
+          "views": 49615
         }
       ],
       "totals": {
-        "likes": 30223,
-        "reposts": 4673,
+        "likes": 30256,
+        "reposts": 4675,
         "replies": 174,
-        "views": 1153170
+        "views": 1157128
       },
       "status": "ok"
     },
@@ -2118,331 +2298,331 @@
           "id": "2120365902671597889",
           "url": "https://x.com/ZZZ_EN/status/2120365902671597889",
           "created_at": "2026-11-11T04:00:00.000Z",
-          "likes": 3451,
-          "reposts": 183,
-          "replies": 21,
+          "likes": 3726,
+          "reposts": 191,
+          "replies": 22,
           "quotes": 25,
-          "views": 86350
+          "views": 97000
         },
         {
           "id": "2120365902541591027",
           "url": "https://x.com/ZZZ_KO/status/2120365902541591027",
           "created_at": "2026-11-11T04:00:00.000Z",
-          "likes": 130,
-          "reposts": 28,
+          "likes": 139,
+          "reposts": 29,
           "replies": 0,
           "quotes": 5,
-          "views": 7425
+          "views": 8688
         },
         {
           "id": "2120003514315231679",
           "url": "https://x.com/ZZZ_EN/status/2120003514315231679",
           "created_at": "2026-11-10T04:00:00.000Z",
-          "likes": 3565,
-          "reposts": 134,
+          "likes": 3598,
+          "reposts": 136,
           "replies": 19,
           "quotes": 6,
-          "views": 129805
+          "views": 135314
         },
         {
           "id": "2120003514243875324",
           "url": "https://x.com/ZZZ_JP/status/2120003514243875324",
           "created_at": "2026-11-10T04:00:00.000Z",
-          "likes": 3349,
-          "reposts": 413,
+          "likes": 3383,
+          "reposts": 418,
           "replies": 4,
           "quotes": 15,
-          "views": 234864
+          "views": 243392
         },
         {
           "id": "2119648679376114019",
           "url": "https://x.com/ZZZ_KO/status/2119648679376114019",
           "created_at": "2026-11-09T04:30:00.000Z",
-          "likes": 809,
+          "likes": 813,
           "reposts": 278,
           "replies": 0,
           "quotes": 151,
-          "views": 32788
+          "views": 33512
         },
         {
           "id": "2119648679325802759",
           "url": "https://x.com/ZZZ_JP/status/2119648679325802759",
           "created_at": "2026-11-09T04:30:00.000Z",
-          "likes": 15388,
-          "reposts": 3537,
+          "likes": 15463,
+          "reposts": 3557,
           "replies": 22,
-          "quotes": 360,
-          "views": 474285
+          "quotes": 363,
+          "views": 482568
         },
         {
           "id": "2119641131155931413",
           "url": "https://x.com/ZZZ_KO/status/2119641131155931413",
           "created_at": "2026-11-09T04:00:01.000Z",
-          "likes": 625,
-          "reposts": 765,
+          "likes": 629,
+          "reposts": 771,
           "replies": 3,
           "quotes": 84,
-          "views": 25358
+          "views": 26103
         },
         {
           "id": "2119641129134195078",
           "url": "https://x.com/ZZZ_EN/status/2119641129134195078",
           "created_at": "2026-11-09T04:00:00.000Z",
-          "likes": 7076,
-          "reposts": 2491,
+          "likes": 7124,
+          "reposts": 2511,
           "replies": 130,
-          "quotes": 324,
-          "views": 292484
+          "quotes": 329,
+          "views": 305071
         },
         {
           "id": "2119641127498506433",
           "url": "https://x.com/ZZZ_JP/status/2119641127498506433",
           "created_at": "2026-11-09T04:00:00.000Z",
-          "likes": 8358,
-          "reposts": 7560,
+          "likes": 8422,
+          "reposts": 7632,
           "replies": 21,
-          "quotes": 245,
-          "views": 408606
+          "quotes": 248,
+          "views": 418097
         },
         {
           "id": "2119610930174550181",
           "url": "https://x.com/ZZZ_JP/status/2119610930174550181",
           "created_at": "2026-11-09T02:00:00.000Z",
-          "likes": 12315,
-          "reposts": 11726,
+          "likes": 12363,
+          "reposts": 11811,
           "replies": 31,
-          "quotes": 89,
-          "views": 444902
+          "quotes": 90,
+          "views": 452791
         },
         {
           "id": "2119278741461315586",
           "url": "https://x.com/ZZZ_JP/status/2119278741461315586",
           "created_at": "2026-11-08T04:00:00.000Z",
-          "likes": 17665,
-          "reposts": 3795,
+          "likes": 17720,
+          "reposts": 3806,
           "replies": 24,
-          "quotes": 993,
-          "views": 2208314
+          "quotes": 997,
+          "views": 2251649
         },
         {
           "id": "2119278741410959510",
           "url": "https://x.com/ZZZ_KO/status/2119278741410959510",
           "created_at": "2026-11-08T04:00:00.000Z",
-          "likes": 543,
-          "reposts": 203,
+          "likes": 556,
+          "reposts": 204,
           "replies": 2,
-          "quotes": 87,
-          "views": 25371
+          "quotes": 91,
+          "views": 36594
         },
         {
           "id": "2119006950184595741",
           "url": "https://x.com/ZZZ_JP/status/2119006950184595741",
           "created_at": "2026-11-07T10:00:00.000Z",
-          "likes": 14161,
-          "reposts": 3191,
+          "likes": 14205,
+          "reposts": 3198,
           "replies": 15,
           "quotes": 248,
-          "views": 438808
+          "views": 442893
         },
         {
           "id": "2119006950172066030",
           "url": "https://x.com/ZZZ_EN/status/2119006950172066030",
           "created_at": "2026-11-07T10:00:00.000Z",
-          "likes": 11161,
-          "reposts": 1808,
+          "likes": 11215,
+          "reposts": 1818,
           "replies": 48,
-          "quotes": 183,
-          "views": 225563
+          "quotes": 184,
+          "views": 229842
         },
         {
           "id": "2119006950167851059",
           "url": "https://x.com/ZZZ_KO/status/2119006950167851059",
           "created_at": "2026-11-07T10:00:00.000Z",
-          "likes": 817,
-          "reposts": 331,
+          "likes": 818,
+          "reposts": 332,
           "replies": 3,
           "quotes": 128,
-          "views": 42206
+          "views": 42989
         },
         {
           "id": "2118931451194270165",
           "url": "https://x.com/ZZZ_EN/status/2118931451194270165",
           "created_at": "2026-11-07T05:00:00.000Z",
-          "likes": 4946,
-          "reposts": 625,
+          "likes": 4967,
+          "reposts": 626,
           "replies": 29,
           "quotes": 38,
-          "views": 117084
+          "views": 118698
         },
         {
           "id": "2118931451097792526",
           "url": "https://x.com/ZZZ_KO/status/2118931451097792526",
           "created_at": "2026-11-07T05:00:00.000Z",
-          "likes": 259,
-          "reposts": 77,
+          "likes": 258,
+          "reposts": 78,
           "replies": 0,
           "quotes": 14,
-          "views": 12456
+          "views": 12621
         },
         {
           "id": "2118931451055861856",
           "url": "https://x.com/ZZZ_JP/status/2118931451055861856",
           "created_at": "2026-11-07T05:00:00.000Z",
-          "likes": 7179,
-          "reposts": 1417,
+          "likes": 7190,
+          "reposts": 1418,
           "replies": 6,
           "quotes": 51,
-          "views": 309723
+          "views": 312222
         },
         {
           "id": "2118644562981740637",
           "url": "https://x.com/ZZZ_EN/status/2118644562981740637",
           "created_at": "2026-11-06T10:00:00.000Z",
-          "likes": 19558,
-          "reposts": 3154,
+          "likes": 19677,
+          "reposts": 3168,
           "replies": 192,
-          "quotes": 957,
-          "views": 570799
+          "quotes": 959,
+          "views": 579693
         },
         {
           "id": "2118644562956517416",
           "url": "https://x.com/ZZZ_KO/status/2118644562956517416",
           "created_at": "2026-11-06T10:00:00.000Z",
-          "likes": 1197,
-          "reposts": 451,
+          "likes": 1205,
+          "reposts": 454,
           "replies": 5,
-          "quotes": 307,
-          "views": 74768
+          "quotes": 309,
+          "views": 75837
         },
         {
           "id": "2118644562516222121",
           "url": "https://x.com/ZZZ_JP/status/2118644562516222121",
           "created_at": "2026-11-06T10:00:00.000Z",
-          "likes": 24711,
-          "reposts": 6368,
-          "replies": 45,
-          "quotes": 1168,
-          "views": 792720
+          "likes": 24806,
+          "reposts": 6386,
+          "replies": 46,
+          "quotes": 1172,
+          "views": 803294
         },
         {
           "id": "2118553969387827228",
           "url": "https://x.com/ZZZ_JP/status/2118553969387827228",
           "created_at": "2026-11-06T04:00:01.000Z",
-          "likes": 27865,
-          "reposts": 8480,
+          "likes": 27937,
+          "reposts": 8498,
           "replies": 65,
-          "quotes": 1130,
-          "views": 1650966
+          "quotes": 1134,
+          "views": 1659459
         },
         {
           "id": "2118553968263528759",
           "url": "https://x.com/ZZZ_KO/status/2118553968263528759",
           "created_at": "2026-11-06T04:00:01.000Z",
-          "likes": 871,
-          "reposts": 439,
+          "likes": 870,
+          "reposts": 440,
           "replies": 6,
           "quotes": 220,
-          "views": 53198
+          "views": 53667
         },
         {
           "id": "2118553967278071856",
           "url": "https://x.com/ZZZ_EN/status/2118553967278071856",
           "created_at": "2026-11-06T04:00:01.000Z",
-          "likes": 21946,
+          "likes": 21970,
           "reposts": 3319,
           "replies": 197,
           "quotes": 550,
-          "views": 925157
+          "views": 933327
         },
         {
           "id": "2118191578028065059",
           "url": "https://x.com/ZZZ_EN/status/2118191578028065059",
           "created_at": "2026-11-05T04:00:00.000Z",
-          "likes": 10099,
+          "likes": 10117,
           "reposts": 1328,
           "replies": 64,
           "quotes": 159,
-          "views": 238489
+          "views": 240015
         },
         {
           "id": "2118191577868669164",
           "url": "https://x.com/ZZZ_JP/status/2118191577868669164",
           "created_at": "2026-11-05T04:00:00.000Z",
-          "likes": 13664,
-          "reposts": 3733,
+          "likes": 13699,
+          "reposts": 3743,
           "replies": 17,
           "quotes": 486,
-          "views": 755213
+          "views": 758640
         },
         {
           "id": "2118191577843507609",
           "url": "https://x.com/ZZZ_KO/status/2118191577843507609",
           "created_at": "2026-11-05T04:00:00.000Z",
-          "likes": 492,
+          "likes": 493,
           "reposts": 226,
           "replies": 0,
-          "quotes": 110,
-          "views": 23914
+          "quotes": 111,
+          "views": 24171
         },
         {
           "id": "2117836739511263541",
           "url": "https://x.com/ZZZ_EN/status/2117836739511263541",
           "created_at": "2026-11-04T04:30:00.000Z",
-          "likes": 8124,
+          "likes": 8132,
           "reposts": 1124,
           "replies": 53,
           "quotes": 185,
-          "views": 319091
+          "views": 320748
         },
         {
           "id": "2117836739502907763",
           "url": "https://x.com/ZZZ_JP/status/2117836739502907763",
           "created_at": "2026-11-04T04:30:00.000Z",
-          "likes": 12358,
-          "reposts": 3716,
+          "likes": 12363,
+          "reposts": 3720,
           "replies": 29,
-          "quotes": 546,
-          "views": 724824
+          "quotes": 547,
+          "views": 727330
         },
         {
           "id": "2117836739498631190",
           "url": "https://x.com/ZZZ_KO/status/2117836739498631190",
           "created_at": "2026-11-04T04:30:00.000Z",
-          "likes": 525,
+          "likes": 522,
           "reposts": 238,
           "replies": 1,
           "quotes": 182,
-          "views": 36125
+          "views": 36410
         },
         {
           "id": "2117829190393241632",
           "url": "https://x.com/ZZZ_JP/status/2117829190393241632",
           "created_at": "2026-11-04T04:00:01.000Z",
-          "likes": 16394,
-          "reposts": 4482,
+          "likes": 16409,
+          "reposts": 4487,
           "replies": 18,
           "quotes": 410,
-          "views": 647149
+          "views": 649583
         },
         {
           "id": "2117829190334513388",
           "url": "https://x.com/ZZZ_EN/status/2117829190334513388",
           "created_at": "2026-11-04T04:00:00.000Z",
-          "likes": 15195,
-          "reposts": 2073,
+          "likes": 15223,
+          "reposts": 2076,
           "replies": 106,
-          "quotes": 288,
-          "views": 338009
+          "quotes": 289,
+          "views": 339966
         },
         {
           "id": "2117829190305063017",
           "url": "https://x.com/ZZZ_KO/status/2117829190305063017",
           "created_at": "2026-11-04T04:00:00.000Z",
           "likes": 962,
-          "reposts": 325,
+          "reposts": 326,
           "replies": 5,
           "quotes": 123,
-          "views": 44344
+          "views": 44603
         },
         {
           "id": "2113488084692017547",
@@ -2452,24 +2632,24 @@
           "reposts": 40,
           "replies": 1,
           "quotes": 23,
-          "views": 18924
+          "views": 18955
         },
         {
           "id": "2113488084683694545",
           "url": "https://x.com/ZZZ_JP/status/2113488084683694545",
           "created_at": "2026-10-23T04:30:00.000Z",
-          "likes": 4778,
+          "likes": 4779,
           "reposts": 561,
           "replies": 6,
           "quotes": 40,
-          "views": 402763
+          "views": 403300
         }
       ],
       "totals": {
-        "likes": 290730,
-        "reposts": 78619,
-        "replies": 1188,
-        "views": 13132845
+        "likes": 291947,
+        "reposts": 78948,
+        "replies": 1190,
+        "views": 13319042
       },
       "status": "ok"
     }
