@@ -9,7 +9,7 @@
  "is_rerun": false,
  "reveal_date": "2026-10-23",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-13T13:12:22+09:00",
+ "last_seen_at": "2026-11-13T16:35:23+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 140190.0,
  "peak_lift": 1.181,
@@ -219,6 +219,11 @@
    "at": "2026-11-13T13:12:22+09:00",
    "video_id": "OcDcxORlzmY",
    "views": 140190.0
+  },
+  {
+   "at": "2026-11-13T16:35:23+09:00",
+   "video_id": "OcDcxORlzmY",
+   "views": 140190.0
   }
  ],
  "pv_series_by_video": [
@@ -397,6 +402,10 @@
     {
      "at": "2026-11-13T13:12:22+09:00",
      "views": 140190.0
+    },
+    {
+     "at": "2026-11-13T16:35:23+09:00",
+     "views": 140190.0
     }
    ]
   }
@@ -424,21 +433,16 @@
   "hold": false,
   "hold_reason": null,
   "absolute_views": 140190,
-  "lift_vs_game_baseline": 1.177,
+  "lift_vs_game_baseline": null,
   "growth_rate_7d": null,
   "related_posts": [
    {
     "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 어제 시작, 노르마 복각까지",
     "url": "https://news84034.tistory.com/22",
     "published": "Thu, 12 Nov 2026 15:36:54 +0900"
-   },
-   {
-    "title": "ZZZ 3.3 후반 D-1 | 피닉스 배너 내일 오전 11시 59분 종료, 세베리안 준비 체크",
-    "url": "https://news84034.tistory.com/15",
-    "published": "Tue, 10 Nov 2026 14:49:46 +0900"
    }
   ],
-  "last_updated": "2026-11-13T13:12:22+09:00",
+  "last_updated": "2026-11-13T16:35:23+09:00",
   "note": "current score does not include all-time records"
  }
 }

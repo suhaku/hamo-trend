@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-13T13:08:55+09:00",
+ "generated_at": "2026-11-13T16:32:09+09:00",
  "rule": "최근 관심 성장 속도(주로 7일 조회수 증가분) · 복각 제외 · 스냅샷 부족 시 데이터 없음",
  "top": {
   "character_id": "wuwa-lily",
@@ -15,7 +15,7 @@
   "growth_window": "24h",
   "absolute_views": 282020,
   "hold": false,
-  "last_updated": "2026-11-13T13:08:55+09:00",
+  "last_updated": "2026-11-13T16:32:09+09:00",
   "rank": 1
  },
  "ranking": [
@@ -32,7 +32,7 @@
    "growth_window": "24h",
    "absolute_views": 282020,
    "hold": false,
-   "last_updated": "2026-11-13T13:08:55+09:00",
+   "last_updated": "2026-11-13T16:32:09+09:00",
    "rank": 1
   },
   {
@@ -48,7 +48,7 @@
    "growth_window": "24h",
    "absolute_views": 402131,
    "hold": false,
-   "last_updated": "2026-11-13T13:08:55+09:00",
+   "last_updated": "2026-11-13T16:32:09+09:00",
    "rank": 2
   },
   {
@@ -64,7 +64,7 @@
    "growth_window": "24h",
    "absolute_views": 140190,
    "hold": false,
-   "last_updated": "2026-11-13T13:08:55+09:00",
+   "last_updated": "2026-11-13T16:32:09+09:00",
    "rank": 3
   },
   {
@@ -80,7 +80,7 @@
    "growth_window": "24h",
    "absolute_views": 41065,
    "hold": false,
-   "last_updated": "2026-11-13T13:08:55+09:00",
+   "last_updated": "2026-11-13T16:32:09+09:00",
    "rank": 4
   },
   {
@@ -97,7 +97,7 @@
    "growth_window": "24h",
    "absolute_views": 90261,
    "hold": false,
-   "last_updated": "2026-11-13T13:08:55+09:00",
+   "last_updated": "2026-11-13T16:32:09+09:00",
    "rank": 5
   },
   {
@@ -113,7 +113,7 @@
    "growth_window": "24h",
    "absolute_views": 54064,
    "hold": false,
-   "last_updated": "2026-11-13T13:08:55+09:00",
+   "last_updated": "2026-11-13T16:32:09+09:00",
    "rank": 6
   },
   {
@@ -130,7 +130,7 @@
    "growth_window": "24h",
    "absolute_views": 71369,
    "hold": false,
-   "last_updated": "2026-11-13T13:08:55+09:00",
+   "last_updated": "2026-11-13T16:32:09+09:00",
    "rank": 7
   }
  ]
