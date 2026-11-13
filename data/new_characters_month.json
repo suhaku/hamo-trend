@@ -1,7 +1,7 @@
 {
  "status": "ok",
  "month": "2026-11",
- "generated_at": "2026-11-13T10:25:35+09:00",
+ "generated_at": "2026-11-13T13:08:55+09:00",
  "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
  "items": [
   {
@@ -46,7 +46,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-13T10:25:35+09:00",
+   "last_updated": "2026-11-13T13:08:55+09:00",
    "related_posts": [
     {
      "title": "명조 3.8 오늘 시작 | 릴리 픽업 열린다, 영혼 열차 타러 가자",
@@ -98,7 +98,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-13T10:25:35+09:00",
+   "last_updated": "2026-11-13T13:08:55+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/Genshin_7/status/2118916353574715817",
    "x_status": "연동(일 1회)"
@@ -139,7 +139,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-13T10:25:35+09:00",
+   "last_updated": "2026-11-13T13:08:55+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/Genshin_7/status/2118553962706055661",
    "x_status": "연동(일 1회)"
@@ -187,7 +187,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-13T10:25:35+09:00",
+   "last_updated": "2026-11-13T13:08:55+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/Trickcal_Re/status/2117528978894516275",
    "x_status": "연동(일 1회)"
@@ -239,7 +239,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-13T10:25:35+09:00",
+   "last_updated": "2026-11-13T13:08:55+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/AKEndfieldJP/status/2117452958560297343",
    "x_status": "연동(일 1회)"
@@ -301,8 +301,13 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-13T10:25:35+09:00",
+   "last_updated": "2026-11-13T13:08:55+09:00",
    "related_posts": [
+    {
+     "title": "스타레일 EP 「무로부터의 창조」 들었어 | 아하가 처음 울리는 순간, 4.7 클라이맥스 곡 정리",
+     "url": "https://news84034.tistory.com/24",
+     "published": "Fri, 13 Nov 2026 12:25:17 +0900"
+    },
     {
      "title": "스타레일 4.7 아하 밈 모음 | 공식 계정이 제일 웃긴 3개 (사도 모집&middot;엄마?&middot;어벤져스)",
      "url": "https://news84034.tistory.com/20",
@@ -361,7 +366,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-13T10:25:35+09:00",
+   "last_updated": "2026-11-13T13:08:55+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
    "x_status": "연동(일 1회)"
@@ -401,7 +406,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-13T10:25:35+09:00",
+   "last_updated": "2026-11-13T13:08:55+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
    "x_status": "연동(일 1회)"
@@ -456,7 +461,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-13T10:25:35+09:00",
+   "last_updated": "2026-11-13T13:08:55+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/GenshinImpact/status/2117467054924025874",
    "x_status": "연동(일 1회)"
@@ -510,7 +515,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-13T10:25:35+09:00",
+   "last_updated": "2026-11-13T13:08:55+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/GenshinImpact/status/2117104662675353725",
    "x_status": "연동(일 1회)"
@@ -567,7 +572,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-13T10:25:35+09:00",
+   "last_updated": "2026-11-13T13:08:55+09:00",
    "related_posts": [
     {
      "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 어제 시작, 노르마 복각까지",

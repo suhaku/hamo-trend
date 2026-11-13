@@ -9,13 +9,13 @@
  "is_rerun": false,
  "reveal_date": "2026-10-30",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-13T10:28:48+09:00",
+ "last_seen_at": "2026-11-13T13:12:22+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 397843.0,
- "peak_lift": 4.346,
+ "peak_pv_views": 402131.0,
+ "peak_lift": 4.382,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 29166.0,
+  "d24h": 31114.0,
   "d7d": null,
   "d30d": null
  },
@@ -214,6 +214,11 @@
    "at": "2026-11-13T10:28:48+09:00",
    "video_id": "T1d3GwCDG8w",
    "views": 397843.0
+  },
+  {
+   "at": "2026-11-13T13:12:22+09:00",
+   "video_id": "T1d3GwCDG8w",
+   "views": 402131.0
   }
  ],
  "pv_series_by_video": [
@@ -394,6 +399,10 @@
     {
      "at": "2026-11-13T10:28:48+09:00",
      "views": 397843.0
+    },
+    {
+     "at": "2026-11-13T13:12:22+09:00",
+     "views": 402131.0
     }
    ]
   }
@@ -407,7 +416,7 @@
     "ko": "에이언즈★아하",
     "en": "Aha"
    },
-   "peak_pv_views": 397843.0,
+   "peak_pv_views": 402131.0,
    "alltime_rank": 1
   },
   {
@@ -440,10 +449,15 @@
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 397843,
-  "lift_vs_game_baseline": null,
+  "absolute_views": 402131,
+  "lift_vs_game_baseline": 4.382,
   "growth_rate_7d": null,
   "related_posts": [
+   {
+    "title": "스타레일 EP 「무로부터의 창조」 들었어 | 아하가 처음 울리는 순간, 4.7 클라이맥스 곡 정리",
+    "url": "https://news84034.tistory.com/24",
+    "published": "Fri, 13 Nov 2026 12:25:17 +0900"
+   },
    {
     "title": "스타레일 4.7 아하 밈 모음 | 공식 계정이 제일 웃긴 3개 (사도 모집&middot;엄마?&middot;어벤져스)",
     "url": "https://news84034.tistory.com/20",
@@ -460,7 +474,7 @@
     "published": "Wed, 11 Nov 2026 12:45:53 +0900"
    }
   ],
-  "last_updated": "2026-11-13T10:28:48+09:00",
+  "last_updated": "2026-11-13T13:12:22+09:00",
   "note": "current score does not include all-time records"
  }
 }
