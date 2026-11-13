@@ -9,13 +9,13 @@
  "is_rerun": false,
  "reveal_date": "2026-10-29",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-13T19:17:58+09:00",
+ "last_seen_at": "2026-11-13T22:29:46+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 54099.0,
+ "peak_pv_views": 54122.0,
  "peak_lift": 14.398,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 264.0,
+  "d24h": 227.0,
   "d7d": null,
   "d30d": null
  },
@@ -229,6 +229,11 @@
    "at": "2026-11-13T19:17:58+09:00",
    "video_id": "MK4bIOILTHM",
    "views": 54099.0
+  },
+  {
+   "at": "2026-11-13T22:29:46+09:00",
+   "video_id": "MK4bIOILTHM",
+   "views": 54122.0
   }
  ],
  "pv_series_by_video": [
@@ -415,6 +420,10 @@
     {
      "at": "2026-11-13T19:17:58+09:00",
      "views": 54099.0
+    },
+    {
+     "at": "2026-11-13T22:29:46+09:00",
+     "views": 54122.0
     }
    ]
   }
@@ -428,7 +437,7 @@
     "ko": "엘림",
     "en": null
    },
-   "peak_pv_views": 54099.0,
+   "peak_pv_views": 54122.0,
    "alltime_rank": 1
   },
   {
@@ -513,18 +522,18 @@
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
-  "score": 80.45,
-  "score_raw": 80.45,
+  "score": 80.4,
+  "score_raw": 80.4,
   "coverage": 0.6667,
   "reliability": 0.6667,
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 54099,
-  "lift_vs_game_baseline": 11.205,
+  "absolute_views": 54122,
+  "lift_vs_game_baseline": 11.164,
   "growth_rate_7d": null,
   "related_posts": [],
-  "last_updated": "2026-11-13T19:17:58+09:00",
+  "last_updated": "2026-11-13T22:29:46+09:00",
   "note": "current score does not include all-time records"
  }
 }
