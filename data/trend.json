@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T22:29:46+09:00",
+ "generated_at": "2026-11-14T01:06:56+09:00",
  "timezone": "Asia/Seoul",
  "product": "new-character reveals + PV popularity (no game ranking)",
  "sections": [
@@ -12,7 +12,7 @@
  "new_characters": {
   "status": "ok",
   "month": "2026-11",
-  "generated_at": "2026-11-13T22:26:00+09:00",
+  "generated_at": "2026-11-14T01:02:26+09:00",
   "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
   "items": [
    {
@@ -57,7 +57,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": [
      {
       "title": "명조 3.8 오늘 시작 | 릴리 픽업 열린다, 영혼 열차 타러 가자",
@@ -109,7 +109,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/Genshin_7/status/2118916353574715817",
     "x_status": "연동(일 1회)"
@@ -150,7 +150,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/Genshin_7/status/2118553962706055661",
     "x_status": "연동(일 1회)"
@@ -198,7 +198,7 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/Trickcal_Re/status/2117528978894516275",
     "x_status": "연동(일 1회)"
@@ -250,7 +250,7 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/AKEndfieldJP/status/2117452958560297343",
     "x_status": "연동(일 1회)"
@@ -312,7 +312,7 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": [
      {
       "title": "스타레일 EP 「무로부터의 창조」 들었어 | 아하가 처음 울리는 순간, 4.7 클라이맥스 곡 정리",
@@ -377,7 +377,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
     "x_status": "연동(일 1회)"
@@ -417,7 +417,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
     "x_status": "연동(일 1회)"
@@ -473,7 +473,7 @@
     },
     "verification": "official_new_marker_or_debut_featured",
     "is_new": true,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/GenshinImpact/status/2117467054924025874",
     "x_status": "연동(일 1회)"
@@ -527,7 +527,7 @@
     },
     "verification": "official_new_marker_or_debut_featured",
     "is_new": true,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/GenshinImpact/status/2117104662675353725",
     "x_status": "연동(일 1회)"
@@ -584,7 +584,7 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": [
      {
       "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 어제 시작, 노르마 복각까지",
@@ -600,7 +600,7 @@
  },
  "pv_ranking": {
   "status": "ok",
-  "generated_at": "2026-11-13T22:26:00+09:00",
+  "generated_at": "2026-11-14T01:02:26+09:00",
   "rule": "공식 채널 PV 실측 조회수 · 절대 조회수와 성장 순위 분리 · 같은 게임 과거 신캐 대비 보정",
   "hold_policy": "PV 게시 후 24시간 미만이거나 조회수 없으면 순위 보류",
   "absolute_ranking": [
@@ -617,11 +617,11 @@
     "rank_absolute": 1,
     "rank_growth": null,
     "absolute": {
-     "views": 415099,
-     "lift_vs_game_baseline": 3.719
+     "views": 420345,
+     "lift_vs_game_baseline": 3.76
     },
     "growth": {
-     "delta_24h": 35159,
+     "delta_24h": 32735,
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 0,
@@ -635,26 +635,26 @@
      "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-08T13:00:19+09:00",
-     "age_hours": 129.4,
-     "views_absolute": 415099,
+     "age_hours": 132.0,
+     "views_absolute": 420345,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 415099,
-      "delta_24h": 35159,
+      "views_now": 420345,
+      "delta_24h": 32735,
       "delta_7d": null,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": null,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 111606,
-     "lift_vs_game_baseline": 3.719,
+     "game_baseline_median_views": 111781,
+     "lift_vs_game_baseline": 3.76,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-     "fetched_at": "2026-11-13T22:26:00+09:00"
+     "fetched_at": "2026-11-14T01:02:26+09:00"
     },
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "character_id": "wuwa-lily",
@@ -669,11 +669,11 @@
     "rank_absolute": 2,
     "rank_growth": null,
     "absolute": {
-     "views": 349824,
-     "lift_vs_game_baseline": 1.675
+     "views": 388747,
+     "lift_vs_game_baseline": 1.633
     },
     "growth": {
-     "delta_24h": 186084,
+     "delta_24h": 213055,
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 39432,
@@ -687,26 +687,26 @@
      "thumb": "https://i.ytimg.com/vi/nNuN0rPi2YA/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-10T12:00:00+09:00",
-     "age_hours": 82.4,
-     "views_absolute": 349824,
+     "age_hours": 85.0,
+     "views_absolute": 388747,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 349824,
-      "delta_24h": 186084,
+      "views_now": 388747,
+      "delta_24h": 213055,
       "delta_7d": null,
       "delta_30d": null,
       "since_publish_24h": 39432,
       "since_publish_7d": null,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 208888.0,
-     "lift_vs_game_baseline": 1.675,
+     "game_baseline_median_views": 238066.0,
+     "lift_vs_game_baseline": 1.633,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
-     "fetched_at": "2026-11-13T22:26:00+09:00"
+     "fetched_at": "2026-11-14T01:02:26+09:00"
     },
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "character_id": "zzz-severian",
@@ -721,11 +721,11 @@
     "rank_absolute": 3,
     "rank_growth": null,
     "absolute": {
-     "views": 140687,
-     "lift_vs_game_baseline": 1.175
+     "views": 140894,
+     "lift_vs_game_baseline": 1.176
     },
     "growth": {
-     "delta_24h": 5388,
+     "delta_24h": 3427,
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 0,
@@ -739,26 +739,26 @@
      "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-06T12:59:56+09:00",
-     "age_hours": 177.4,
-     "views_absolute": 140687,
+     "age_hours": 180.0,
+     "views_absolute": 140894,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 140687,
-      "delta_24h": 5388,
+      "views_now": 140894,
+      "delta_24h": 3427,
       "delta_7d": null,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 32736,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 119736,
-     "lift_vs_game_baseline": 1.175,
+     "game_baseline_median_views": 119797,
+     "lift_vs_game_baseline": 1.176,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-     "fetched_at": "2026-11-13T22:26:00+09:00"
+     "fetched_at": "2026-11-14T01:02:26+09:00"
     },
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "character_id": "genshin-de1daf6f79",
@@ -775,7 +775,7 @@
     "rank_growth": null,
     "absolute": {
      "views": 71369,
-     "lift_vs_game_baseline": 2.825
+     "lift_vs_game_baseline": 2.82
     },
     "growth": {
      "delta_24h": 0,
@@ -792,7 +792,7 @@
      "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-02T13:00:00+09:00",
-     "age_hours": 273.4,
+     "age_hours": 276.0,
      "views_absolute": 71369,
      "likes": null,
      "comments": null,
@@ -806,12 +806,12 @@
       "since_publish_7d": 0,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 25263,
-     "lift_vs_game_baseline": 2.825,
+     "game_baseline_median_views": 25309,
+     "lift_vs_game_baseline": 2.82,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-13T22:26:00+09:00"
+     "fetched_at": "2026-11-14T01:02:26+09:00"
     },
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "character_id": "nte-elim",
@@ -826,11 +826,11 @@
     "rank_absolute": 5,
     "rank_growth": null,
     "absolute": {
-     "views": 54122,
-     "lift_vs_game_baseline": 11.164
+     "views": 54164,
+     "lift_vs_game_baseline": 11.061
     },
     "growth": {
-     "delta_24h": 227,
+     "delta_24h": 208,
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 0,
@@ -844,26 +844,26 @@
      "thumb": "https://i.ytimg.com/vi/MK4bIOILTHM/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-05T12:00:30+09:00",
-     "age_hours": 202.4,
-     "views_absolute": 54122,
+     "age_hours": 205.0,
+     "views_absolute": 54164,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 54122,
-      "delta_24h": 227,
+      "views_now": 54164,
+      "delta_24h": 208,
       "delta_7d": null,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 869,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 4848,
-     "lift_vs_game_baseline": 11.164,
+     "game_baseline_median_views": 4897,
+     "lift_vs_game_baseline": 11.061,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-     "fetched_at": "2026-11-13T22:26:00+09:00"
+     "fetched_at": "2026-11-14T01:02:26+09:00"
     },
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "character_id": "endfield-mingha",
@@ -878,11 +878,11 @@
     "rank_absolute": 6,
     "rank_growth": null,
     "absolute": {
-     "views": 42459,
-     "lift_vs_game_baseline": 8.528
+     "views": 42903,
+     "lift_vs_game_baseline": 8.594
     },
     "growth": {
-     "delta_24h": 2276,
+     "delta_24h": 2720,
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 0,
@@ -896,26 +896,26 @@
      "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T19:00:38+09:00",
-     "age_hours": 243.4,
-     "views_absolute": 42459,
+     "age_hours": 246.0,
+     "views_absolute": 42903,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 42459,
-      "delta_24h": 2276,
+      "views_now": 42903,
+      "delta_24h": 2720,
       "delta_7d": null,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 3125,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 4979,
-     "lift_vs_game_baseline": 8.528,
+     "game_baseline_median_views": 4992,
+     "lift_vs_game_baseline": 8.594,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-     "fetched_at": "2026-11-13T22:26:00+09:00"
+     "fetched_at": "2026-11-14T01:02:26+09:00"
     },
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "character_id": "genshin-a2fbc1b95d",
@@ -932,10 +932,10 @@
     "rank_growth": null,
     "absolute": {
      "views": 41385,
-     "lift_vs_game_baseline": 1.638
+     "lift_vs_game_baseline": 1.635
     },
     "growth": {
-     "delta_24h": 468,
+     "delta_24h": 354,
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 0,
@@ -949,26 +949,26 @@
      "thumb": "https://i.ytimg.com/vi/Gh8mhHe4aXU/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T13:04:08+09:00",
-     "age_hours": 249.4,
+     "age_hours": 252.0,
      "views_absolute": 41385,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
       "views_now": 41385,
-      "delta_24h": 468,
+      "delta_24h": 354,
       "delta_7d": null,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 459,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 25263,
-     "lift_vs_game_baseline": 1.638,
+     "game_baseline_median_views": 25309,
+     "lift_vs_game_baseline": 1.635,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-13T22:26:00+09:00"
+     "fetched_at": "2026-11-14T01:02:26+09:00"
     },
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    }
   ],
   "growth_ranking": [],
@@ -988,10 +988,10 @@
     "rank_growth": null,
     "absolute": {
      "views": 41385,
-     "lift_vs_game_baseline": 1.638
+     "lift_vs_game_baseline": 1.635
     },
     "growth": {
-     "delta_24h": 468,
+     "delta_24h": 354,
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 0,
@@ -1005,26 +1005,26 @@
      "thumb": "https://i.ytimg.com/vi/Gh8mhHe4aXU/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T13:04:08+09:00",
-     "age_hours": 249.4,
+     "age_hours": 252.0,
      "views_absolute": 41385,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
       "views_now": 41385,
-      "delta_24h": 468,
+      "delta_24h": 354,
       "delta_7d": null,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 459,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 25263,
-     "lift_vs_game_baseline": 1.638,
+     "game_baseline_median_views": 25309,
+     "lift_vs_game_baseline": 1.635,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-13T22:26:00+09:00"
+     "fetched_at": "2026-11-14T01:02:26+09:00"
     },
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": []
    },
    {
@@ -1042,7 +1042,7 @@
     "rank_growth": null,
     "absolute": {
      "views": 71369,
-     "lift_vs_game_baseline": 2.825
+     "lift_vs_game_baseline": 2.82
     },
     "growth": {
      "delta_24h": 0,
@@ -1059,7 +1059,7 @@
      "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-02T13:00:00+09:00",
-     "age_hours": 273.4,
+     "age_hours": 276.0,
      "views_absolute": 71369,
      "likes": null,
      "comments": null,
@@ -1073,12 +1073,12 @@
       "since_publish_7d": 0,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 25263,
-     "lift_vs_game_baseline": 2.825,
+     "game_baseline_median_views": 25309,
+     "lift_vs_game_baseline": 2.82,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-13T22:26:00+09:00"
+     "fetched_at": "2026-11-14T01:02:26+09:00"
     },
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": []
    },
    {
@@ -1094,11 +1094,11 @@
     "rank_absolute": 1,
     "rank_growth": null,
     "absolute": {
-     "views": 415099,
-     "lift_vs_game_baseline": 3.719
+     "views": 420345,
+     "lift_vs_game_baseline": 3.76
     },
     "growth": {
-     "delta_24h": 35159,
+     "delta_24h": 32735,
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 0,
@@ -1112,26 +1112,26 @@
      "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-08T13:00:19+09:00",
-     "age_hours": 129.4,
-     "views_absolute": 415099,
+     "age_hours": 132.0,
+     "views_absolute": 420345,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 415099,
-      "delta_24h": 35159,
+      "views_now": 420345,
+      "delta_24h": 32735,
       "delta_7d": null,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": null,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 111606,
-     "lift_vs_game_baseline": 3.719,
+     "game_baseline_median_views": 111781,
+     "lift_vs_game_baseline": 3.76,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-     "fetched_at": "2026-11-13T22:26:00+09:00"
+     "fetched_at": "2026-11-14T01:02:26+09:00"
     },
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": [
      {
       "title": "스타레일 EP 「무로부터의 창조」 들었어 | 아하가 처음 울리는 순간, 4.7 클라이맥스 곡 정리",
@@ -1180,7 +1180,7 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": []
    },
    {
@@ -1208,7 +1208,7 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": []
    },
    {
@@ -1224,11 +1224,11 @@
     "rank_absolute": 3,
     "rank_growth": null,
     "absolute": {
-     "views": 140687,
-     "lift_vs_game_baseline": 1.175
+     "views": 140894,
+     "lift_vs_game_baseline": 1.176
     },
     "growth": {
-     "delta_24h": 5388,
+     "delta_24h": 3427,
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 0,
@@ -1242,26 +1242,26 @@
      "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-06T12:59:56+09:00",
-     "age_hours": 177.4,
-     "views_absolute": 140687,
+     "age_hours": 180.0,
+     "views_absolute": 140894,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 140687,
-      "delta_24h": 5388,
+      "views_now": 140894,
+      "delta_24h": 3427,
       "delta_7d": null,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 32736,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 119736,
-     "lift_vs_game_baseline": 1.175,
+     "game_baseline_median_views": 119797,
+     "lift_vs_game_baseline": 1.176,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-     "fetched_at": "2026-11-13T22:26:00+09:00"
+     "fetched_at": "2026-11-14T01:02:26+09:00"
     },
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": [
      {
       "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 어제 시작, 노르마 복각까지",
@@ -1283,11 +1283,11 @@
     "rank_absolute": 2,
     "rank_growth": null,
     "absolute": {
-     "views": 349824,
-     "lift_vs_game_baseline": 1.675
+     "views": 388747,
+     "lift_vs_game_baseline": 1.633
     },
     "growth": {
-     "delta_24h": 186084,
+     "delta_24h": 213055,
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 39432,
@@ -1301,26 +1301,26 @@
      "thumb": "https://i.ytimg.com/vi/nNuN0rPi2YA/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-10T12:00:00+09:00",
-     "age_hours": 82.4,
-     "views_absolute": 349824,
+     "age_hours": 85.0,
+     "views_absolute": 388747,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 349824,
-      "delta_24h": 186084,
+      "views_now": 388747,
+      "delta_24h": 213055,
       "delta_7d": null,
       "delta_30d": null,
       "since_publish_24h": 39432,
       "since_publish_7d": null,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 208888.0,
-     "lift_vs_game_baseline": 1.675,
+     "game_baseline_median_views": 238066.0,
+     "lift_vs_game_baseline": 1.633,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
-     "fetched_at": "2026-11-13T22:26:00+09:00"
+     "fetched_at": "2026-11-14T01:02:26+09:00"
     },
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": [
      {
       "title": "명조 3.8 오늘 시작 | 릴리 픽업 열린다, 영혼 열차 타러 가자",
@@ -1347,11 +1347,11 @@
     "rank_absolute": 5,
     "rank_growth": null,
     "absolute": {
-     "views": 54122,
-     "lift_vs_game_baseline": 11.164
+     "views": 54164,
+     "lift_vs_game_baseline": 11.061
     },
     "growth": {
-     "delta_24h": 227,
+     "delta_24h": 208,
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 0,
@@ -1365,26 +1365,26 @@
      "thumb": "https://i.ytimg.com/vi/MK4bIOILTHM/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-05T12:00:30+09:00",
-     "age_hours": 202.4,
-     "views_absolute": 54122,
+     "age_hours": 205.0,
+     "views_absolute": 54164,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 54122,
-      "delta_24h": 227,
+      "views_now": 54164,
+      "delta_24h": 208,
       "delta_7d": null,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 869,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 4848,
-     "lift_vs_game_baseline": 11.164,
+     "game_baseline_median_views": 4897,
+     "lift_vs_game_baseline": 11.061,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-     "fetched_at": "2026-11-13T22:26:00+09:00"
+     "fetched_at": "2026-11-14T01:02:26+09:00"
     },
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": []
    },
    {
@@ -1412,7 +1412,7 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": []
    },
    {
@@ -1428,11 +1428,11 @@
     "rank_absolute": 6,
     "rank_growth": null,
     "absolute": {
-     "views": 42459,
-     "lift_vs_game_baseline": 8.528
+     "views": 42903,
+     "lift_vs_game_baseline": 8.594
     },
     "growth": {
-     "delta_24h": 2276,
+     "delta_24h": 2720,
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 0,
@@ -1446,26 +1446,26 @@
      "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T19:00:38+09:00",
-     "age_hours": 243.4,
-     "views_absolute": 42459,
+     "age_hours": 246.0,
+     "views_absolute": 42903,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 42459,
-      "delta_24h": 2276,
+      "views_now": 42903,
+      "delta_24h": 2720,
       "delta_7d": null,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 3125,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 4979,
-     "lift_vs_game_baseline": 8.528,
+     "game_baseline_median_views": 4992,
+     "lift_vs_game_baseline": 8.594,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-     "fetched_at": "2026-11-13T22:26:00+09:00"
+     "fetched_at": "2026-11-14T01:02:26+09:00"
     },
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": []
    },
    {
@@ -1493,7 +1493,7 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "related_posts": []
    }
   ],
@@ -1501,7 +1501,7 @@
  },
  "character_ranking": {
   "status": "ok",
-  "generated_at": "2026-11-13T22:29:46+09:00",
+  "generated_at": "2026-11-14T01:06:56+09:00",
   "rule": "100점 만점 · 없는 지표는 0점 처리 없이 나머지로 다시 계산 · 수집률이 낮으면 잠정 또는 보류 · 신뢰도 따로 표시 · 복각 제외 · 역대 기록은 점수에 안 넣음",
   "weights": {
    "youtube_pv": 0.35,
@@ -1523,8 +1523,8 @@
     "score": 98.73,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 415099,
-     "youtube_pv_lift": 3.719,
+     "youtube_pv_views": 420345,
+     "youtube_pv_lift": 3.76,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -1542,9 +1542,9 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 415099,
+    "absolute_views": 420345,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
+    "last_updated": "2026-11-14T01:06:56+09:00",
     "score_raw": 98.73,
     "coverage": 0.6667,
     "provisional": false,
@@ -1566,7 +1566,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 3.719,
+    "lift_vs_game_baseline": 3.76,
     "pv_video_id": "T1d3GwCDG8w",
     "related_posts": [
      {
@@ -1609,11 +1609,11 @@
     "hold": false,
     "hold_reason": null,
     "rank": 2,
-    "score": 97.63,
+    "score": 98.09,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 349824,
-     "youtube_pv_lift": 1.675,
+     "youtube_pv_views": 388747,
+     "youtube_pv_lift": 1.633,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -1631,10 +1631,10 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 349824,
+    "absolute_views": 388747,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
-    "score_raw": 97.63,
+    "last_updated": "2026-11-14T01:06:56+09:00",
+    "score_raw": 98.09,
     "coverage": 0.6667,
     "provisional": false,
     "used_weights": {
@@ -1646,7 +1646,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 98.68,
+     "youtube_pv": 99.4,
      "x": 95.79
     },
     "weights_config": {
@@ -1655,7 +1655,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 1.675,
+    "lift_vs_game_baseline": 1.633,
     "pv_video_id": "nNuN0rPi2YA",
     "related_posts": [
      {
@@ -1688,11 +1688,11 @@
     "hold": false,
     "hold_reason": null,
     "rank": 3,
-    "score": 94.03,
+    "score": 93.98,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 140687,
-     "youtube_pv_lift": 1.175,
+     "youtube_pv_views": 140894,
+     "youtube_pv_lift": 1.176,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -1710,10 +1710,10 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 140687,
+    "absolute_views": 140894,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
-    "score_raw": 94.03,
+    "last_updated": "2026-11-14T01:06:56+09:00",
+    "score_raw": 93.98,
     "coverage": 0.6667,
     "provisional": false,
     "used_weights": {
@@ -1725,7 +1725,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 91.64,
+     "youtube_pv": 91.56,
      "x": 98.22
     },
     "weights_config": {
@@ -1734,7 +1734,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 1.175,
+    "lift_vs_game_baseline": 1.176,
     "pv_video_id": "OcDcxORlzmY",
     "related_posts": [
      {
@@ -1763,11 +1763,11 @@
     "hold": false,
     "hold_reason": null,
     "rank": 4,
-    "score": 87.13,
+    "score": 87.08,
     "reliability": 0.6667,
     "signals": {
      "youtube_pv_views": 41385,
-     "youtube_pv_lift": 1.638,
+     "youtube_pv_lift": 1.635,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -1787,8 +1787,8 @@
     },
     "absolute_views": 41385,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
-    "score_raw": 87.13,
+    "last_updated": "2026-11-14T01:06:56+09:00",
+    "score_raw": 87.08,
     "coverage": 0.6667,
     "provisional": false,
     "used_weights": {
@@ -1800,7 +1800,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 82.18,
+     "youtube_pv": 82.1,
      "x": 95.79
     },
     "weights_config": {
@@ -1809,7 +1809,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 1.638,
+    "lift_vs_game_baseline": 1.635,
     "pv_video_id": "Gh8mhHe4aXU",
     "related_posts": [],
     "x": {
@@ -1834,8 +1834,8 @@
     "score": 85.19,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 42459,
-     "youtube_pv_lift": 8.528,
+     "youtube_pv_views": 42903,
+     "youtube_pv_lift": 8.594,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -1853,9 +1853,9 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 42459,
+    "absolute_views": 42903,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
+    "last_updated": "2026-11-14T01:06:56+09:00",
     "score_raw": 85.19,
     "coverage": 0.6667,
     "provisional": false,
@@ -1877,7 +1877,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 8.528,
+    "lift_vs_game_baseline": 8.594,
     "pv_video_id": "HWsEtcPe1d4",
     "related_posts": [],
     "x": {
@@ -1900,11 +1900,11 @@
     "hold": false,
     "hold_reason": null,
     "rank": 6,
-    "score": 84.03,
+    "score": 83.98,
     "reliability": 0.6667,
     "signals": {
      "youtube_pv_views": 71369,
-     "youtube_pv_lift": 2.825,
+     "youtube_pv_lift": 2.82,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -1924,8 +1924,8 @@
     },
     "absolute_views": 71369,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
-    "score_raw": 84.03,
+    "last_updated": "2026-11-14T01:06:56+09:00",
+    "score_raw": 83.98,
     "coverage": 0.6667,
     "provisional": false,
     "used_weights": {
@@ -1937,7 +1937,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 86.39,
+     "youtube_pv": 86.31,
      "x": 79.9
     },
     "weights_config": {
@@ -1946,7 +1946,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 2.825,
+    "lift_vs_game_baseline": 2.82,
     "pv_video_id": "tCeXHmvg3ko",
     "related_posts": [],
     "x": {
@@ -1968,11 +1968,11 @@
     "hold": false,
     "hold_reason": null,
     "rank": 7,
-    "score": 80.4,
+    "score": 80.35,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 54122,
-     "youtube_pv_lift": 11.164,
+     "youtube_pv_views": 54164,
+     "youtube_pv_lift": 11.061,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -1990,10 +1990,10 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 54122,
+    "absolute_views": 54164,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
-    "score_raw": 80.4,
+    "last_updated": "2026-11-14T01:06:56+09:00",
+    "score_raw": 80.35,
     "coverage": 0.6667,
     "provisional": false,
     "used_weights": {
@@ -2005,7 +2005,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 84.25,
+     "youtube_pv": 84.18,
      "x": 73.66
     },
     "weights_config": {
@@ -2014,7 +2014,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 11.164,
+    "lift_vs_game_baseline": 11.061,
     "pv_video_id": "MK4bIOILTHM",
     "related_posts": [],
     "x": {
@@ -2062,7 +2062,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
+    "last_updated": "2026-11-14T01:06:56+09:00",
     "score_raw": 94.79,
     "coverage": 0.3333,
     "provisional": false,
@@ -2127,7 +2127,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
+    "last_updated": "2026-11-14T01:06:56+09:00",
     "score_raw": 100.0,
     "coverage": 0.3333,
     "provisional": false,
@@ -2192,7 +2192,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
+    "last_updated": "2026-11-14T01:06:56+09:00",
     "score_raw": 70.59,
     "coverage": 0.3333,
     "provisional": false,
@@ -2257,7 +2257,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
+    "last_updated": "2026-11-14T01:06:56+09:00",
     "score_raw": 60.03,
     "coverage": 0.3333,
     "provisional": false,
@@ -2301,11 +2301,11 @@
     "hold": false,
     "hold_reason": null,
     "rank": 4,
-    "score": 87.13,
+    "score": 87.08,
     "reliability": 0.6667,
     "signals": {
      "youtube_pv_views": 41385,
-     "youtube_pv_lift": 1.638,
+     "youtube_pv_lift": 1.635,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -2325,8 +2325,8 @@
     },
     "absolute_views": 41385,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
-    "score_raw": 87.13,
+    "last_updated": "2026-11-14T01:06:56+09:00",
+    "score_raw": 87.08,
     "coverage": 0.6667,
     "provisional": false,
     "used_weights": {
@@ -2338,7 +2338,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 82.18,
+     "youtube_pv": 82.1,
      "x": 95.79
     },
     "weights_config": {
@@ -2347,7 +2347,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 1.638,
+    "lift_vs_game_baseline": 1.635,
     "pv_video_id": "Gh8mhHe4aXU",
     "related_posts": [],
     "x": {
@@ -2370,11 +2370,11 @@
     "hold": false,
     "hold_reason": null,
     "rank": 6,
-    "score": 84.03,
+    "score": 83.98,
     "reliability": 0.6667,
     "signals": {
      "youtube_pv_views": 71369,
-     "youtube_pv_lift": 2.825,
+     "youtube_pv_lift": 2.82,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -2394,8 +2394,8 @@
     },
     "absolute_views": 71369,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
-    "score_raw": 84.03,
+    "last_updated": "2026-11-14T01:06:56+09:00",
+    "score_raw": 83.98,
     "coverage": 0.6667,
     "provisional": false,
     "used_weights": {
@@ -2407,7 +2407,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 86.39,
+     "youtube_pv": 86.31,
      "x": 79.9
     },
     "weights_config": {
@@ -2416,7 +2416,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 2.825,
+    "lift_vs_game_baseline": 2.82,
     "pv_video_id": "tCeXHmvg3ko",
     "related_posts": [],
     "x": {
@@ -2441,8 +2441,8 @@
     "score": 98.73,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 415099,
-     "youtube_pv_lift": 3.719,
+     "youtube_pv_views": 420345,
+     "youtube_pv_lift": 3.76,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -2460,9 +2460,9 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 415099,
+    "absolute_views": 420345,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
+    "last_updated": "2026-11-14T01:06:56+09:00",
     "score_raw": 98.73,
     "coverage": 0.6667,
     "provisional": false,
@@ -2484,7 +2484,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 3.719,
+    "lift_vs_game_baseline": 3.76,
     "pv_video_id": "T1d3GwCDG8w",
     "related_posts": [
      {
@@ -2551,7 +2551,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
+    "last_updated": "2026-11-14T01:06:56+09:00",
     "score_raw": 94.79,
     "coverage": 0.3333,
     "provisional": false,
@@ -2616,7 +2616,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
+    "last_updated": "2026-11-14T01:06:56+09:00",
     "score_raw": 100.0,
     "coverage": 0.3333,
     "provisional": false,
@@ -2657,11 +2657,11 @@
     "hold": false,
     "hold_reason": null,
     "rank": 3,
-    "score": 94.03,
+    "score": 93.98,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 140687,
-     "youtube_pv_lift": 1.175,
+     "youtube_pv_views": 140894,
+     "youtube_pv_lift": 1.176,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -2679,10 +2679,10 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 140687,
+    "absolute_views": 140894,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
-    "score_raw": 94.03,
+    "last_updated": "2026-11-14T01:06:56+09:00",
+    "score_raw": 93.98,
     "coverage": 0.6667,
     "provisional": false,
     "used_weights": {
@@ -2694,7 +2694,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 91.64,
+     "youtube_pv": 91.56,
      "x": 98.22
     },
     "weights_config": {
@@ -2703,7 +2703,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 1.175,
+    "lift_vs_game_baseline": 1.176,
     "pv_video_id": "OcDcxORlzmY",
     "related_posts": [
      {
@@ -2731,11 +2731,11 @@
     "hold": false,
     "hold_reason": null,
     "rank": 2,
-    "score": 97.63,
+    "score": 98.09,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 349824,
-     "youtube_pv_lift": 1.675,
+     "youtube_pv_views": 388747,
+     "youtube_pv_lift": 1.633,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -2753,10 +2753,10 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 349824,
+    "absolute_views": 388747,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
-    "score_raw": 97.63,
+    "last_updated": "2026-11-14T01:06:56+09:00",
+    "score_raw": 98.09,
     "coverage": 0.6667,
     "provisional": false,
     "used_weights": {
@@ -2768,7 +2768,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 98.68,
+     "youtube_pv": 99.4,
      "x": 95.79
     },
     "weights_config": {
@@ -2777,7 +2777,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 1.675,
+    "lift_vs_game_baseline": 1.633,
     "pv_video_id": "nNuN0rPi2YA",
     "related_posts": [
      {
@@ -2810,11 +2810,11 @@
     "hold": false,
     "hold_reason": null,
     "rank": 7,
-    "score": 80.4,
+    "score": 80.35,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 54122,
-     "youtube_pv_lift": 11.164,
+     "youtube_pv_views": 54164,
+     "youtube_pv_lift": 11.061,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -2832,10 +2832,10 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 54122,
+    "absolute_views": 54164,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
-    "score_raw": 80.4,
+    "last_updated": "2026-11-14T01:06:56+09:00",
+    "score_raw": 80.35,
     "coverage": 0.6667,
     "provisional": false,
     "used_weights": {
@@ -2847,7 +2847,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 84.25,
+     "youtube_pv": 84.18,
      "x": 73.66
     },
     "weights_config": {
@@ -2856,7 +2856,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 11.164,
+    "lift_vs_game_baseline": 11.061,
     "pv_video_id": "MK4bIOILTHM",
     "related_posts": [],
     "x": {
@@ -2902,7 +2902,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
+    "last_updated": "2026-11-14T01:06:56+09:00",
     "score_raw": 70.59,
     "coverage": 0.3333,
     "provisional": false,
@@ -2946,8 +2946,8 @@
     "score": 85.19,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 42459,
-     "youtube_pv_lift": 8.528,
+     "youtube_pv_views": 42903,
+     "youtube_pv_lift": 8.594,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -2965,9 +2965,9 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 42459,
+    "absolute_views": 42903,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
+    "last_updated": "2026-11-14T01:06:56+09:00",
     "score_raw": 85.19,
     "coverage": 0.6667,
     "provisional": false,
@@ -2989,7 +2989,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 8.528,
+    "lift_vs_game_baseline": 8.594,
     "pv_video_id": "HWsEtcPe1d4",
     "related_posts": [],
     "x": {
@@ -3035,7 +3035,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-13T22:29:46+09:00",
+    "last_updated": "2026-11-14T01:06:56+09:00",
     "score_raw": 60.03,
     "coverage": 0.3333,
     "provisional": false,
@@ -3079,7 +3079,7 @@
  },
  "rising_character": {
   "status": "ok",
-  "generated_at": "2026-11-13T22:26:00+09:00",
+  "generated_at": "2026-11-14T01:02:26+09:00",
   "rule": "최근 관심 성장 속도(주로 7일 조회수 증가분) · 복각 제외 · 스냅샷 부족 시 데이터 없음",
   "top": {
    "character_id": "wuwa-lily",
@@ -3088,13 +3088,13 @@
     "en": "Lily"
    },
    "game_id": "wuwa",
-   "delta_24h": 186084,
+   "delta_24h": 213055,
    "delta_7d": null,
-   "growth_metric": 186084,
+   "growth_metric": 213055,
    "growth_window": "24h",
-   "absolute_views": 349824,
+   "absolute_views": 388747,
    "hold": false,
-   "last_updated": "2026-11-13T22:26:00+09:00",
+   "last_updated": "2026-11-14T01:02:26+09:00",
    "rank": 1
   },
   "ranking": [
@@ -3105,13 +3105,13 @@
      "en": "Lily"
     },
     "game_id": "wuwa",
-    "delta_24h": 186084,
+    "delta_24h": 213055,
     "delta_7d": null,
-    "growth_metric": 186084,
+    "growth_metric": 213055,
     "growth_window": "24h",
-    "absolute_views": 349824,
+    "absolute_views": 388747,
     "hold": false,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "rank": 1
    },
    {
@@ -3121,13 +3121,13 @@
      "en": "Aha"
     },
     "game_id": "starrail",
-    "delta_24h": 35159,
+    "delta_24h": 32735,
     "delta_7d": null,
-    "growth_metric": 35159,
+    "growth_metric": 32735,
     "growth_window": "24h",
-    "absolute_views": 415099,
+    "absolute_views": 420345,
     "hold": false,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "rank": 2
    },
    {
@@ -3137,13 +3137,13 @@
      "en": null
     },
     "game_id": "zzz",
-    "delta_24h": 5388,
+    "delta_24h": 3427,
     "delta_7d": null,
-    "growth_metric": 5388,
+    "growth_metric": 3427,
     "growth_window": "24h",
-    "absolute_views": 140687,
+    "absolute_views": 140894,
     "hold": false,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "rank": 3
    },
    {
@@ -3153,13 +3153,13 @@
      "en": null
     },
     "game_id": "endfield",
-    "delta_24h": 2276,
+    "delta_24h": 2720,
     "delta_7d": null,
-    "growth_metric": 2276,
+    "growth_metric": 2720,
     "growth_window": "24h",
-    "absolute_views": 42459,
+    "absolute_views": 42903,
     "hold": false,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "rank": 4
    },
    {
@@ -3170,13 +3170,13 @@
      "ja": null
     },
     "game_id": "genshin",
-    "delta_24h": 468,
+    "delta_24h": 354,
     "delta_7d": null,
-    "growth_metric": 468,
+    "growth_metric": 354,
     "growth_window": "24h",
     "absolute_views": 41385,
     "hold": false,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "rank": 5
    },
    {
@@ -3186,13 +3186,13 @@
      "en": null
     },
     "game_id": "nte",
-    "delta_24h": 227,
+    "delta_24h": 208,
     "delta_7d": null,
-    "growth_metric": 227,
+    "growth_metric": 208,
     "growth_window": "24h",
-    "absolute_views": 54122,
+    "absolute_views": 54164,
     "hold": false,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "rank": 6
    },
    {
@@ -3209,14 +3209,14 @@
     "growth_window": "24h",
     "absolute_views": 71369,
     "hold": false,
-    "last_updated": "2026-11-13T22:26:00+09:00",
+    "last_updated": "2026-11-14T01:02:26+09:00",
     "rank": 7
    }
   ]
  },
  "pickup_schedule": {
   "status": "ok",
-  "generated_at": "2026-11-13T22:26:00+09:00",
+  "generated_at": "2026-11-14T01:02:26+09:00",
   "month": "2026-11",
   "rule": "공식 공지만 · 시작/종료/출처 필수 · 신규 중심, 복각은 따로 표시",
   "items": [
@@ -3257,7 +3257,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "game_id": "genshin",
@@ -3289,7 +3289,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": null,
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "game_id": "trickcal",
@@ -3321,7 +3321,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
     "api_source": null,
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "game_id": "starrail",
@@ -3364,7 +3364,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47385253",
     "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "game_id": "zzz",
@@ -3399,7 +3399,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47375931",
     "api_source": null,
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    }
   ],
   "reruns": [
@@ -3432,7 +3432,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47131668",
     "api_source": null,
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "game_id": "trickcal",
@@ -3461,7 +3461,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
     "api_source": null,
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "game_id": "genshin",
@@ -3497,7 +3497,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "game_id": "nte",
@@ -3530,7 +3530,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
     "api_source": null,
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    }
   ],
   "all": [
@@ -3563,7 +3563,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47131668",
     "api_source": null,
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "game_id": "trickcal",
@@ -3592,7 +3592,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
     "api_source": null,
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "game_id": "genshin",
@@ -3631,7 +3631,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "game_id": "genshin",
@@ -3667,7 +3667,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "game_id": "genshin",
@@ -3699,7 +3699,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": null,
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "game_id": "trickcal",
@@ -3731,7 +3731,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
     "api_source": null,
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "game_id": "starrail",
@@ -3774,7 +3774,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47385253",
     "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "game_id": "nte",
@@ -3807,7 +3807,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
     "api_source": null,
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    },
    {
     "game_id": "zzz",
@@ -3842,7 +3842,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47375931",
     "api_source": null,
-    "last_updated": "2026-11-13T22:26:00+09:00"
+    "last_updated": "2026-11-14T01:02:26+09:00"
    }
   ]
  },

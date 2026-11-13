@@ -158,7 +158,7 @@
     "url": "https://www.youtube.com/watch?v=T1d3GwCDG8w",
     "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
     "published": "2026-11-08T13:00:19+09:00",
-    "views": 415099,
+    "views": 420345,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw"
    },
@@ -296,7 +296,7 @@
     "url": "https://www.youtube.com/watch?v=OcDcxORlzmY",
     "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
     "published": "2026-11-06T12:59:56+09:00",
-    "views": 140687,
+    "views": 140894,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA"
    },
@@ -345,7 +345,7 @@
     "url": "https://www.youtube.com/watch?v=nNuN0rPi2YA",
     "thumb": "https://i.ytimg.com/vi/nNuN0rPi2YA/hqdefault.jpg",
     "published": "2026-11-10T12:00:00+09:00",
-    "views": 349824,
+    "views": 388747,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug"
    },
@@ -391,7 +391,7 @@
     "url": "https://www.youtube.com/watch?v=MK4bIOILTHM",
     "thumb": "https://i.ytimg.com/vi/MK4bIOILTHM/hqdefault.jpg",
     "published": "2026-11-05T12:00:30+09:00",
-    "views": 54122,
+    "views": 54164,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA"
    },
@@ -475,7 +475,7 @@
     "url": "https://www.youtube.com/shorts/HWsEtcPe1d4",
     "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
     "published": "2026-11-03T19:00:38+09:00",
-    "views": 42459,
+    "views": 42903,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ"
    },
@@ -602,6 +602,6 @@
    "verification": "auto_official_reveal: HoYoLAB 공식 캐릭터 소개"
   }
  ],
- "last_updated": "2026-11-13T22:26:00+09:00",
+ "last_updated": "2026-11-14T01:02:26+09:00",
  "purged_this_run": []
 }
