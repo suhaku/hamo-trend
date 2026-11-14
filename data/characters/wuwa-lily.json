@@ -9,13 +9,13 @@
  "is_rerun": false,
  "reveal_date": "2026-11-07",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-14T13:09:50+09:00",
+ "last_seen_at": "2026-11-14T16:23:16+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 446662.0,
  "peak_lift": 2.293,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 198084.0,
+  "d24h": 164642.0,
   "d7d": null,
   "d30d": null
  },
@@ -259,6 +259,11 @@
    "at": "2026-11-14T13:09:50+09:00",
    "video_id": "nNuN0rPi2YA",
    "views": 446662.0
+  },
+  {
+   "at": "2026-11-14T16:23:16+09:00",
+   "video_id": "nNuN0rPi2YA",
+   "views": 446662.0
   }
  ],
  "pv_series_by_video": [
@@ -475,6 +480,10 @@
     {
      "at": "2026-11-14T13:09:50+09:00",
      "views": 446662.0
+    },
+    {
+     "at": "2026-11-14T16:23:16+09:00",
+     "views": 446662.0
     }
    ]
   }
@@ -509,14 +518,9 @@
     "title": "명조 3.8 오늘 시작 | 릴리 픽업 열린다, 영혼 열차 타러 가자",
     "url": "https://news84034.tistory.com/21",
     "published": "Thu, 12 Nov 2026 12:58:51 +0900"
-   },
-   {
-    "title": "명조 3.8 D-1 | 내일 새벽 5시 점검, 릴리 픽업 + 점검 보상 정리",
-    "url": "https://news84034.tistory.com/18",
-    "published": "Wed, 11 Nov 2026 14:25:18 +0900"
    }
   ],
-  "last_updated": "2026-11-14T13:09:50+09:00",
+  "last_updated": "2026-11-14T16:23:16+09:00",
   "note": "current score does not include all-time records"
  }
 }
