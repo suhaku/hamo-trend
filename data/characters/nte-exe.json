@@ -9,7 +9,7 @@
  "is_rerun": false,
  "reveal_date": "2026-10-29",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-14T16:23:16+09:00",
+ "last_seen_at": "2026-11-14T19:01:54+09:00",
  "alltime_rank": null,
  "peak_pv_views": null,
  "peak_lift": null,
@@ -30,7 +30,7 @@
     "ko": "엘림",
     "en": null
    },
-   "peak_pv_views": 54220.0,
+   "peak_pv_views": 54301.0,
    "alltime_rank": 1
   },
   {
@@ -125,8 +125,14 @@
   "absolute_views": null,
   "lift_vs_game_baseline": null,
   "growth_rate_7d": null,
-  "related_posts": [],
-  "last_updated": "2026-11-14T16:23:16+09:00",
+  "related_posts": [
+   {
+    "title": "이환 1.5 버전 「지금 거신 번호는」 시작했어 | 신규 S급 엘림 + 시티 오너 정리",
+    "url": "https://news84034.tistory.com/29",
+    "published": "Sat, 14 Nov 2026 18:06:54 +0900"
+   }
+  ],
+  "last_updated": "2026-11-14T19:01:54+09:00",
   "note": "current score does not include all-time records"
  }
 }
