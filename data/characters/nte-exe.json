@@ -9,7 +9,7 @@
  "is_rerun": false,
  "reveal_date": "2026-10-29",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-14T19:01:54+09:00",
+ "last_seen_at": "2026-11-14T22:12:05+09:00",
  "alltime_rank": null,
  "peak_pv_views": null,
  "peak_lift": null,
@@ -30,7 +30,7 @@
     "ko": "엘림",
     "en": null
    },
-   "peak_pv_views": 54301.0,
+   "peak_pv_views": 54314.0,
    "alltime_rank": 1
   },
   {
@@ -132,7 +132,7 @@
     "published": "Sat, 14 Nov 2026 18:06:54 +0900"
    }
   ],
-  "last_updated": "2026-11-14T19:01:54+09:00",
+  "last_updated": "2026-11-14T22:12:05+09:00",
   "note": "current score does not include all-time records"
  }
 }
