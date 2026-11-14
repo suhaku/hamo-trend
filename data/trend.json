@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T10:22:56+09:00",
+ "generated_at": "2026-11-14T13:09:50+09:00",
  "timezone": "Asia/Seoul",
  "product": "new-character reveals + PV popularity (no game ranking)",
  "sections": [
@@ -12,7 +12,7 @@
  "new_characters": {
   "status": "ok",
   "month": "2026-11",
-  "generated_at": "2026-11-14T10:19:45+09:00",
+  "generated_at": "2026-11-14T13:06:06+09:00",
   "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
   "items": [
    {
@@ -57,7 +57,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": [
      {
       "title": "명조 3.8 오늘 시작 | 릴리 픽업 열린다, 영혼 열차 타러 가자",
@@ -109,7 +109,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/Genshin_7/status/2118916353574715817",
     "x_status": "연동(일 1회)"
@@ -150,7 +150,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/Genshin_7/status/2118553962706055661",
     "x_status": "연동(일 1회)"
@@ -198,7 +198,7 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/Trickcal_Re/status/2117528978894516275",
     "x_status": "연동(일 1회)"
@@ -250,7 +250,7 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/AKEndfieldJP/status/2117452958560297343",
     "x_status": "연동(일 1회)"
@@ -312,7 +312,7 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": [
      {
       "title": "스타레일 EP 「무로부터의 창조」 들었어 | 아하가 처음 울리는 순간, 4.7 클라이맥스 곡 정리",
@@ -328,11 +328,6 @@
       "title": "스타레일 단편 애니메이션 「달빛 아래의 유쾌한 장례식」 첫인상 | 아하의 편지가 남긴 말",
       "url": "https://news84034.tistory.com/19",
       "published": "Wed, 11 Nov 2026 17:29:40 +0900"
-     },
-     {
-      "title": "스타레일 4.7 오늘 시작 | 낮 12시 서버 오픈, 아하 픽업 + 무료 5성 챙기기",
-      "url": "https://news84034.tistory.com/17",
-      "published": "Wed, 11 Nov 2026 12:45:53 +0900"
      }
     ],
     "x_top_post_url": "https://x.com/honkaistarrail/status/2115654862767546563",
@@ -377,7 +372,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
     "x_status": "연동(일 1회)"
@@ -417,7 +412,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
     "x_status": "연동(일 1회)"
@@ -473,7 +468,7 @@
     },
     "verification": "official_new_marker_or_debut_featured",
     "is_new": true,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/GenshinImpact/status/2117467054924025874",
     "x_status": "연동(일 1회)"
@@ -527,7 +522,7 @@
     },
     "verification": "official_new_marker_or_debut_featured",
     "is_new": true,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/GenshinImpact/status/2117104662675353725",
     "x_status": "연동(일 1회)"
@@ -584,7 +579,7 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": [
      {
       "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 어제 시작, 노르마 복각까지",
@@ -600,7 +595,7 @@
  },
  "pv_ranking": {
   "status": "ok",
-  "generated_at": "2026-11-14T10:19:45+09:00",
+  "generated_at": "2026-11-14T13:06:06+09:00",
   "rule": "공식 채널 PV 실측 조회수 · 절대 조회수와 성장 순위 분리 · 같은 게임 과거 신캐 대비 보정",
   "hold_policy": "PV 게시 후 24시간 미만이거나 조회수 없으면 순위 보류",
   "absolute_ranking": [
@@ -635,7 +630,7 @@
      "thumb": "https://i.ytimg.com/vi/nNuN0rPi2YA/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-10T12:00:00+09:00",
-     "age_hours": 94.3,
+     "age_hours": 97.1,
      "views_absolute": 446662,
      "likes": null,
      "comments": null,
@@ -652,9 +647,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
-     "fetched_at": "2026-11-14T10:19:45+09:00"
+     "fetched_at": "2026-11-14T13:06:06+09:00"
     },
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "character_id": "starrail-aha",
@@ -687,7 +682,7 @@
      "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-08T13:00:19+09:00",
-     "age_hours": 141.3,
+     "age_hours": 144.1,
      "views_absolute": 425744,
      "likes": null,
      "comments": null,
@@ -704,9 +699,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-     "fetched_at": "2026-11-14T10:19:45+09:00"
+     "fetched_at": "2026-11-14T13:06:06+09:00"
     },
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "character_id": "zzz-severian",
@@ -739,7 +734,7 @@
      "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-06T12:59:56+09:00",
-     "age_hours": 189.3,
+     "age_hours": 192.1,
      "views_absolute": 141079,
      "likes": null,
      "comments": null,
@@ -756,9 +751,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-     "fetched_at": "2026-11-14T10:19:45+09:00"
+     "fetched_at": "2026-11-14T13:06:06+09:00"
     },
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "character_id": "genshin-de1daf6f79",
@@ -792,7 +787,7 @@
      "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-02T13:00:00+09:00",
-     "age_hours": 285.3,
+     "age_hours": 288.1,
      "views_absolute": 71369,
      "likes": null,
      "comments": null,
@@ -809,9 +804,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-14T10:19:45+09:00"
+     "fetched_at": "2026-11-14T13:06:06+09:00"
     },
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "character_id": "nte-elim",
@@ -844,7 +839,7 @@
      "thumb": "https://i.ytimg.com/vi/MK4bIOILTHM/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-05T12:00:30+09:00",
-     "age_hours": 214.3,
+     "age_hours": 217.1,
      "views_absolute": 54220,
      "likes": null,
      "comments": null,
@@ -861,9 +856,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-     "fetched_at": "2026-11-14T10:19:45+09:00"
+     "fetched_at": "2026-11-14T13:06:06+09:00"
     },
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "character_id": "endfield-mingha",
@@ -896,7 +891,7 @@
      "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T19:00:38+09:00",
-     "age_hours": 255.3,
+     "age_hours": 258.1,
      "views_absolute": 43230,
      "likes": null,
      "comments": null,
@@ -913,9 +908,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-     "fetched_at": "2026-11-14T10:19:45+09:00"
+     "fetched_at": "2026-11-14T13:06:06+09:00"
     },
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "character_id": "genshin-a2fbc1b95d",
@@ -949,7 +944,7 @@
      "thumb": "https://i.ytimg.com/vi/Gh8mhHe4aXU/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T13:04:08+09:00",
-     "age_hours": 261.3,
+     "age_hours": 264.0,
      "views_absolute": 41488,
      "likes": null,
      "comments": null,
@@ -966,9 +961,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-14T10:19:45+09:00"
+     "fetched_at": "2026-11-14T13:06:06+09:00"
     },
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    }
   ],
   "growth_ranking": [],
@@ -1005,7 +1000,7 @@
      "thumb": "https://i.ytimg.com/vi/Gh8mhHe4aXU/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T13:04:08+09:00",
-     "age_hours": 261.3,
+     "age_hours": 264.0,
      "views_absolute": 41488,
      "likes": null,
      "comments": null,
@@ -1022,9 +1017,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-14T10:19:45+09:00"
+     "fetched_at": "2026-11-14T13:06:06+09:00"
     },
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": []
    },
    {
@@ -1059,7 +1054,7 @@
      "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-02T13:00:00+09:00",
-     "age_hours": 285.3,
+     "age_hours": 288.1,
      "views_absolute": 71369,
      "likes": null,
      "comments": null,
@@ -1076,9 +1071,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-14T10:19:45+09:00"
+     "fetched_at": "2026-11-14T13:06:06+09:00"
     },
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": []
    },
    {
@@ -1112,7 +1107,7 @@
      "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-08T13:00:19+09:00",
-     "age_hours": 141.3,
+     "age_hours": 144.1,
      "views_absolute": 425744,
      "likes": null,
      "comments": null,
@@ -1129,9 +1124,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-     "fetched_at": "2026-11-14T10:19:45+09:00"
+     "fetched_at": "2026-11-14T13:06:06+09:00"
     },
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": [
      {
       "title": "스타레일 EP 「무로부터의 창조」 들었어 | 아하가 처음 울리는 순간, 4.7 클라이맥스 곡 정리",
@@ -1147,11 +1142,6 @@
       "title": "스타레일 단편 애니메이션 「달빛 아래의 유쾌한 장례식」 첫인상 | 아하의 편지가 남긴 말",
       "url": "https://news84034.tistory.com/19",
       "published": "Wed, 11 Nov 2026 17:29:40 +0900"
-     },
-     {
-      "title": "스타레일 4.7 오늘 시작 | 낮 12시 서버 오픈, 아하 픽업 + 무료 5성 챙기기",
-      "url": "https://news84034.tistory.com/17",
-      "published": "Wed, 11 Nov 2026 12:45:53 +0900"
      }
     ]
    },
@@ -1180,7 +1170,7 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": []
    },
    {
@@ -1208,7 +1198,7 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": []
    },
    {
@@ -1242,7 +1232,7 @@
      "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-06T12:59:56+09:00",
-     "age_hours": 189.3,
+     "age_hours": 192.1,
      "views_absolute": 141079,
      "likes": null,
      "comments": null,
@@ -1259,9 +1249,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-     "fetched_at": "2026-11-14T10:19:45+09:00"
+     "fetched_at": "2026-11-14T13:06:06+09:00"
     },
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": [
      {
       "title": "ZZZ 3.3 후반 세베리안 픽업 정리 | 어제 시작, 노르마 복각까지",
@@ -1301,7 +1291,7 @@
      "thumb": "https://i.ytimg.com/vi/nNuN0rPi2YA/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-10T12:00:00+09:00",
-     "age_hours": 94.3,
+     "age_hours": 97.1,
      "views_absolute": 446662,
      "likes": null,
      "comments": null,
@@ -1318,9 +1308,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
-     "fetched_at": "2026-11-14T10:19:45+09:00"
+     "fetched_at": "2026-11-14T13:06:06+09:00"
     },
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": [
      {
       "title": "명조 3.8 오늘 시작 | 릴리 픽업 열린다, 영혼 열차 타러 가자",
@@ -1365,7 +1355,7 @@
      "thumb": "https://i.ytimg.com/vi/MK4bIOILTHM/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-05T12:00:30+09:00",
-     "age_hours": 214.3,
+     "age_hours": 217.1,
      "views_absolute": 54220,
      "likes": null,
      "comments": null,
@@ -1382,9 +1372,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-     "fetched_at": "2026-11-14T10:19:45+09:00"
+     "fetched_at": "2026-11-14T13:06:06+09:00"
     },
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": []
    },
    {
@@ -1412,7 +1402,7 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": []
    },
    {
@@ -1446,7 +1436,7 @@
      "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T19:00:38+09:00",
-     "age_hours": 255.3,
+     "age_hours": 258.1,
      "views_absolute": 43230,
      "likes": null,
      "comments": null,
@@ -1463,9 +1453,9 @@
      "game_baseline_median_views": null,
      "lift_vs_game_baseline": null,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-     "fetched_at": "2026-11-14T10:19:45+09:00"
+     "fetched_at": "2026-11-14T13:06:06+09:00"
     },
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": []
    },
    {
@@ -1493,7 +1483,7 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "related_posts": []
    }
   ],
@@ -1501,7 +1491,7 @@
  },
  "character_ranking": {
   "status": "ok",
-  "generated_at": "2026-11-14T10:22:56+09:00",
+  "generated_at": "2026-11-14T13:09:50+09:00",
   "rule": "100점 만점 · 없는 지표는 0점 처리 없이 나머지로 다시 계산 · 수집률이 낮으면 잠정 또는 보류 · 신뢰도 따로 표시 · 복각 제외 · 역대 기록은 점수에 안 넣음",
   "weights": {
    "youtube_pv": 0.35,
@@ -1544,7 +1534,7 @@
     },
     "absolute_views": 446662,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 98.53,
     "coverage": 0.6667,
     "provisional": false,
@@ -1623,7 +1613,7 @@
     },
     "absolute_views": 425744,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 98.51,
     "coverage": 0.6667,
     "provisional": false,
@@ -1662,11 +1652,6 @@
       "title": "스타레일 단편 애니메이션 「달빛 아래의 유쾌한 장례식」 첫인상 | 아하의 편지가 남긴 말",
       "url": "https://news84034.tistory.com/19",
       "published": "Wed, 11 Nov 2026 17:29:40 +0900"
-     },
-     {
-      "title": "스타레일 4.7 오늘 시작 | 낮 12시 서버 오픈, 아하 픽업 + 무료 5성 챙기기",
-      "url": "https://news84034.tistory.com/17",
-      "published": "Wed, 11 Nov 2026 12:45:53 +0900"
      }
     ],
     "x": {
@@ -1712,7 +1697,7 @@
     },
     "absolute_views": 141079,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 93.72,
     "coverage": 0.6667,
     "provisional": false,
@@ -1787,7 +1772,7 @@
     },
     "absolute_views": 41488,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 86.85,
     "coverage": 0.6667,
     "provisional": false,
@@ -1855,7 +1840,7 @@
     },
     "absolute_views": 43230,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 84.98,
     "coverage": 0.6667,
     "provisional": false,
@@ -1924,7 +1909,7 @@
     },
     "absolute_views": 71369,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 83.72,
     "coverage": 0.6667,
     "provisional": false,
@@ -1992,7 +1977,7 @@
     },
     "absolute_views": 54220,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 80.19,
     "coverage": 0.6667,
     "provisional": false,
@@ -2062,7 +2047,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 94.79,
     "coverage": 0.3333,
     "provisional": false,
@@ -2127,7 +2112,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 100.0,
     "coverage": 0.3333,
     "provisional": false,
@@ -2192,7 +2177,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 70.79,
     "coverage": 0.3333,
     "provisional": false,
@@ -2257,7 +2242,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 60.03,
     "coverage": 0.3333,
     "provisional": false,
@@ -2325,7 +2310,7 @@
     },
     "absolute_views": 41488,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 86.85,
     "coverage": 0.6667,
     "provisional": false,
@@ -2394,7 +2379,7 @@
     },
     "absolute_views": 71369,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 83.72,
     "coverage": 0.6667,
     "provisional": false,
@@ -2462,7 +2447,7 @@
     },
     "absolute_views": 425744,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 98.51,
     "coverage": 0.6667,
     "provisional": false,
@@ -2501,11 +2486,6 @@
       "title": "스타레일 단편 애니메이션 「달빛 아래의 유쾌한 장례식」 첫인상 | 아하의 편지가 남긴 말",
       "url": "https://news84034.tistory.com/19",
       "published": "Wed, 11 Nov 2026 17:29:40 +0900"
-     },
-     {
-      "title": "스타레일 4.7 오늘 시작 | 낮 12시 서버 오픈, 아하 픽업 + 무료 5성 챙기기",
-      "url": "https://news84034.tistory.com/17",
-      "published": "Wed, 11 Nov 2026 12:45:53 +0900"
      }
     ],
     "x": {
@@ -2551,7 +2531,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 94.79,
     "coverage": 0.3333,
     "provisional": false,
@@ -2616,7 +2596,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 100.0,
     "coverage": 0.3333,
     "provisional": false,
@@ -2681,7 +2661,7 @@
     },
     "absolute_views": 141079,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 93.72,
     "coverage": 0.6667,
     "provisional": false,
@@ -2755,7 +2735,7 @@
     },
     "absolute_views": 446662,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 98.53,
     "coverage": 0.6667,
     "provisional": false,
@@ -2834,7 +2814,7 @@
     },
     "absolute_views": 54220,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 80.19,
     "coverage": 0.6667,
     "provisional": false,
@@ -2902,7 +2882,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 70.79,
     "coverage": 0.3333,
     "provisional": false,
@@ -2967,7 +2947,7 @@
     },
     "absolute_views": 43230,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 84.98,
     "coverage": 0.6667,
     "provisional": false,
@@ -3035,7 +3015,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-14T10:22:56+09:00",
+    "last_updated": "2026-11-14T13:09:50+09:00",
     "score_raw": 60.03,
     "coverage": 0.3333,
     "provisional": false,
@@ -3079,7 +3059,7 @@
  },
  "rising_character": {
   "status": "ok",
-  "generated_at": "2026-11-14T10:19:45+09:00",
+  "generated_at": "2026-11-14T13:06:06+09:00",
   "rule": "최근 관심 성장 속도(주로 7일 조회수 증가분) · 복각 제외 · 스냅샷 부족 시 데이터 없음",
   "top": {
    "character_id": "wuwa-lily",
@@ -3094,7 +3074,7 @@
    "growth_window": "24h",
    "absolute_views": 446662,
    "hold": false,
-   "last_updated": "2026-11-14T10:19:45+09:00",
+   "last_updated": "2026-11-14T13:06:06+09:00",
    "rank": 1
   },
   "ranking": [
@@ -3111,7 +3091,7 @@
     "growth_window": "24h",
     "absolute_views": 446662,
     "hold": false,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "rank": 1
    },
    {
@@ -3127,7 +3107,7 @@
     "growth_window": "24h",
     "absolute_views": 425744,
     "hold": false,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "rank": 2
    },
    {
@@ -3143,7 +3123,7 @@
     "growth_window": "24h",
     "absolute_views": 43230,
     "hold": false,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "rank": 3
    },
    {
@@ -3159,7 +3139,7 @@
     "growth_window": "24h",
     "absolute_views": 141079,
     "hold": false,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "rank": 4
    },
    {
@@ -3176,7 +3156,7 @@
     "growth_window": "24h",
     "absolute_views": 41488,
     "hold": false,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "rank": 5
    },
    {
@@ -3192,7 +3172,7 @@
     "growth_window": "24h",
     "absolute_views": 54220,
     "hold": false,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "rank": 6
    },
    {
@@ -3209,14 +3189,14 @@
     "growth_window": "24h",
     "absolute_views": 71369,
     "hold": false,
-    "last_updated": "2026-11-14T10:19:45+09:00",
+    "last_updated": "2026-11-14T13:06:06+09:00",
     "rank": 7
    }
   ]
  },
  "pickup_schedule": {
   "status": "ok",
-  "generated_at": "2026-11-14T10:19:45+09:00",
+  "generated_at": "2026-11-14T13:06:06+09:00",
   "month": "2026-11",
   "rule": "공식 공지만 · 시작/종료/출처 필수 · 신규 중심, 복각은 따로 표시",
   "items": [
@@ -3257,7 +3237,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "game_id": "genshin",
@@ -3289,7 +3269,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": null,
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "game_id": "trickcal",
@@ -3321,7 +3301,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
     "api_source": null,
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "game_id": "starrail",
@@ -3364,7 +3344,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47385253",
     "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "game_id": "zzz",
@@ -3399,7 +3379,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47375931",
     "api_source": null,
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    }
   ],
   "reruns": [
@@ -3432,7 +3412,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47131668",
     "api_source": null,
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "game_id": "trickcal",
@@ -3461,7 +3441,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
     "api_source": null,
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "game_id": "genshin",
@@ -3497,7 +3477,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "game_id": "nte",
@@ -3530,7 +3510,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
     "api_source": null,
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    }
   ],
   "all": [
@@ -3563,7 +3543,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47131668",
     "api_source": null,
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "game_id": "trickcal",
@@ -3592,7 +3572,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
     "api_source": null,
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "game_id": "genshin",
@@ -3631,7 +3611,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "game_id": "genshin",
@@ -3667,7 +3647,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "game_id": "genshin",
@@ -3699,7 +3679,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": null,
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "game_id": "trickcal",
@@ -3731,7 +3711,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
     "api_source": null,
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "game_id": "starrail",
@@ -3774,7 +3754,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47385253",
     "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "game_id": "nte",
@@ -3807,7 +3787,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
     "api_source": null,
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    },
    {
     "game_id": "zzz",
@@ -3842,7 +3822,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47375931",
     "api_source": null,
-    "last_updated": "2026-11-14T10:19:45+09:00"
+    "last_updated": "2026-11-14T13:06:06+09:00"
    }
   ]
  },

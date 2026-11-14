@@ -9,7 +9,7 @@
  "is_rerun": false,
  "reveal_date": "2026-10-30",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-14T10:22:56+09:00",
+ "last_seen_at": "2026-11-14T13:09:50+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 425744.0,
  "peak_lift": 4.382,
@@ -254,6 +254,11 @@
    "at": "2026-11-14T10:22:56+09:00",
    "video_id": "T1d3GwCDG8w",
    "views": 425744.0
+  },
+  {
+   "at": "2026-11-14T13:09:50+09:00",
+   "video_id": "T1d3GwCDG8w",
+   "views": 425744.0
   }
  ],
  "pv_series_by_video": [
@@ -466,6 +471,10 @@
     {
      "at": "2026-11-14T10:22:56+09:00",
      "views": 425744.0
+    },
+    {
+     "at": "2026-11-14T13:09:50+09:00",
+     "views": 425744.0
     }
    ]
   }
@@ -530,14 +539,9 @@
     "title": "스타레일 단편 애니메이션 「달빛 아래의 유쾌한 장례식」 첫인상 | 아하의 편지가 남긴 말",
     "url": "https://news84034.tistory.com/19",
     "published": "Wed, 11 Nov 2026 17:29:40 +0900"
-   },
-   {
-    "title": "스타레일 4.7 오늘 시작 | 낮 12시 서버 오픈, 아하 픽업 + 무료 5성 챙기기",
-    "url": "https://news84034.tistory.com/17",
-    "published": "Wed, 11 Nov 2026 12:45:53 +0900"
    }
   ],
-  "last_updated": "2026-11-14T10:22:56+09:00",
+  "last_updated": "2026-11-14T13:09:50+09:00",
   "note": "current score does not include all-time records"
  }
 }
