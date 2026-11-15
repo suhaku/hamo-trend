@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-15T13:10:27+09:00",
+ "generated_at": "2026-11-15T16:25:24+09:00",
  "rule": "100점 만점 · 없는 지표는 0점 처리 없이 나머지로 다시 계산 · 수집률이 낮으면 잠정 또는 보류 · 신뢰도 따로 표시 · 복각 제외 · 역대 기록은 점수에 안 넣음",
  "weights": {
   "youtube_pv": 0.35,
@@ -43,7 +43,7 @@
    },
    "absolute_views": 687876,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 98.55,
    "coverage": 0.6667,
    "provisional": false,
@@ -67,13 +67,7 @@
    },
    "lift_vs_game_baseline": null,
    "pv_video_id": "nNuN0rPi2YA",
-   "related_posts": [
-    {
-     "title": "명조 3.8 오늘 시작 | 릴리 픽업 열린다, 영혼 열차 타러 가자",
-     "url": "https://news84034.tistory.com/21",
-     "published": "Thu, 12 Nov 2026 12:58:51 +0900"
-    }
-   ],
+   "related_posts": [],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-15T09:50:12+09:00",
@@ -117,7 +111,7 @@
    },
    "absolute_views": 451097,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 96.75,
    "coverage": 0.6667,
    "provisional": false,
@@ -143,14 +137,14 @@
    "pv_video_id": "T1d3GwCDG8w",
    "related_posts": [
     {
+     "title": "스타레일 아하 카카오톡 이모티콘 11월 20일 출시 | 이상 낙원 2탄 32종 + 카톡 테마 무료 다운로드",
+     "url": "https://news84034.tistory.com/31",
+     "published": "Sun, 15 Nov 2026 16:22:36 +0900"
+    },
+    {
      "title": "스타레일 EP 「무로부터의 창조」 들었어 | 아하가 처음 울리는 순간, 4.7 클라이맥스 곡 정리",
      "url": "https://news84034.tistory.com/24",
      "published": "Fri, 13 Nov 2026 12:25:17 +0900"
-    },
-    {
-     "title": "스타레일 4.7 아하 밈 모음 | 공식 계정이 제일 웃긴 3개 (사도 모집&middot;엄마?&middot;어벤져스)",
-     "url": "https://news84034.tistory.com/20",
-     "published": "Wed, 11 Nov 2026 21:19:53 +0900"
     }
    ],
    "x": {
@@ -196,7 +190,7 @@
    },
    "absolute_views": 141846,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 91.88,
    "coverage": 0.6667,
    "provisional": false,
@@ -271,7 +265,7 @@
    },
    "absolute_views": 41488,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 85.18,
    "coverage": 0.6667,
    "provisional": false,
@@ -339,7 +333,7 @@
    },
    "absolute_views": 45056,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 83.5,
    "coverage": 0.6667,
    "provisional": false,
@@ -414,7 +408,7 @@
    },
    "absolute_views": 71369,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 81.96,
    "coverage": 0.6667,
    "provisional": false,
@@ -482,7 +476,7 @@
    },
    "absolute_views": 54422,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 78.53,
    "coverage": 0.6667,
    "provisional": false,
@@ -558,7 +552,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 94.79,
    "coverage": 0.3333,
    "provisional": false,
@@ -623,7 +617,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 100.0,
    "coverage": 0.3333,
    "provisional": false,
@@ -688,7 +682,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 70.87,
    "coverage": 0.3333,
    "provisional": false,
@@ -759,7 +753,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 60.03,
    "coverage": 0.3333,
    "provisional": false,
@@ -827,7 +821,7 @@
    },
    "absolute_views": 41488,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 85.18,
    "coverage": 0.6667,
    "provisional": false,
@@ -896,7 +890,7 @@
    },
    "absolute_views": 71369,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 81.96,
    "coverage": 0.6667,
    "provisional": false,
@@ -964,7 +958,7 @@
    },
    "absolute_views": 451097,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 96.75,
    "coverage": 0.6667,
    "provisional": false,
@@ -990,14 +984,14 @@
    "pv_video_id": "T1d3GwCDG8w",
    "related_posts": [
     {
+     "title": "스타레일 아하 카카오톡 이모티콘 11월 20일 출시 | 이상 낙원 2탄 32종 + 카톡 테마 무료 다운로드",
+     "url": "https://news84034.tistory.com/31",
+     "published": "Sun, 15 Nov 2026 16:22:36 +0900"
+    },
+    {
      "title": "스타레일 EP 「무로부터의 창조」 들었어 | 아하가 처음 울리는 순간, 4.7 클라이맥스 곡 정리",
      "url": "https://news84034.tistory.com/24",
      "published": "Fri, 13 Nov 2026 12:25:17 +0900"
-    },
-    {
-     "title": "스타레일 4.7 아하 밈 모음 | 공식 계정이 제일 웃긴 3개 (사도 모집&middot;엄마?&middot;어벤져스)",
-     "url": "https://news84034.tistory.com/20",
-     "published": "Wed, 11 Nov 2026 21:19:53 +0900"
     }
    ],
    "x": {
@@ -1043,7 +1037,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 94.79,
    "coverage": 0.3333,
    "provisional": false,
@@ -1108,7 +1102,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 100.0,
    "coverage": 0.3333,
    "provisional": false,
@@ -1173,7 +1167,7 @@
    },
    "absolute_views": 141846,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 91.88,
    "coverage": 0.6667,
    "provisional": false,
@@ -1247,7 +1241,7 @@
    },
    "absolute_views": 687876,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 98.55,
    "coverage": 0.6667,
    "provisional": false,
@@ -1271,13 +1265,7 @@
    },
    "lift_vs_game_baseline": null,
    "pv_video_id": "nNuN0rPi2YA",
-   "related_posts": [
-    {
-     "title": "명조 3.8 오늘 시작 | 릴리 픽업 열린다, 영혼 열차 타러 가자",
-     "url": "https://news84034.tistory.com/21",
-     "published": "Thu, 12 Nov 2026 12:58:51 +0900"
-    }
-   ],
+   "related_posts": [],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-15T09:50:12+09:00",
@@ -1321,7 +1309,7 @@
    },
    "absolute_views": 54422,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 78.53,
    "coverage": 0.6667,
    "provisional": false,
@@ -1395,7 +1383,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 70.87,
    "coverage": 0.3333,
    "provisional": false,
@@ -1466,7 +1454,7 @@
    },
    "absolute_views": 45056,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 83.5,
    "coverage": 0.6667,
    "provisional": false,
@@ -1540,7 +1528,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-15T13:10:27+09:00",
+   "last_updated": "2026-11-15T16:25:24+09:00",
    "score_raw": 60.03,
    "coverage": 0.3333,
    "provisional": false,

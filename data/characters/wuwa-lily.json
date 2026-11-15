@@ -9,7 +9,7 @@
  "is_rerun": false,
  "reveal_date": "2026-11-07",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-15T13:10:27+09:00",
+ "last_seen_at": "2026-11-15T16:25:24+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 687876.0,
  "peak_lift": 2.293,
@@ -299,6 +299,11 @@
    "at": "2026-11-15T13:10:27+09:00",
    "video_id": "nNuN0rPi2YA",
    "views": 687876.0
+  },
+  {
+   "at": "2026-11-15T16:25:24+09:00",
+   "video_id": "nNuN0rPi2YA",
+   "views": 687876.0
   }
  ],
  "pv_series_by_video": [
@@ -547,6 +552,10 @@
     {
      "at": "2026-11-15T13:10:27+09:00",
      "views": 687876.0
+    },
+    {
+     "at": "2026-11-15T16:25:24+09:00",
+     "views": 687876.0
     }
    ]
   }
@@ -576,14 +585,8 @@
   "absolute_views": 687876,
   "lift_vs_game_baseline": null,
   "growth_rate_7d": null,
-  "related_posts": [
-   {
-    "title": "명조 3.8 오늘 시작 | 릴리 픽업 열린다, 영혼 열차 타러 가자",
-    "url": "https://news84034.tistory.com/21",
-    "published": "Thu, 12 Nov 2026 12:58:51 +0900"
-   }
-  ],
-  "last_updated": "2026-11-15T13:10:27+09:00",
+  "related_posts": [],
+  "last_updated": "2026-11-15T16:25:24+09:00",
   "note": "current score does not include all-time records"
  }
 }
