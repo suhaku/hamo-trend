@@ -9,13 +9,13 @@
  "is_rerun": false,
  "reveal_date": "2026-11-07",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-15T16:25:24+09:00",
+ "last_seen_at": "2026-11-15T19:03:02+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 687876.0,
+ "peak_pv_views": 707367.0,
  "peak_lift": 2.293,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 241214.0,
+  "d24h": 160323.0,
   "d7d": null,
   "d30d": null
  },
@@ -304,6 +304,11 @@
    "at": "2026-11-15T16:25:24+09:00",
    "video_id": "nNuN0rPi2YA",
    "views": 687876.0
+  },
+  {
+   "at": "2026-11-15T19:03:02+09:00",
+   "video_id": "nNuN0rPi2YA",
+   "views": 707367.0
   }
  ],
  "pv_series_by_video": [
@@ -556,6 +561,10 @@
     {
      "at": "2026-11-15T16:25:24+09:00",
      "views": 687876.0
+    },
+    {
+     "at": "2026-11-15T19:03:02+09:00",
+     "views": 707367.0
     }
    ]
   }
@@ -569,7 +578,7 @@
     "ko": "릴리",
     "en": "Lily"
    },
-   "peak_pv_views": 687876.0,
+   "peak_pv_views": 707367.0,
    "alltime_rank": 1
   }
  ],
@@ -582,11 +591,11 @@
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 687876,
-  "lift_vs_game_baseline": null,
+  "absolute_views": 707367,
+  "lift_vs_game_baseline": 1.538,
   "growth_rate_7d": null,
   "related_posts": [],
-  "last_updated": "2026-11-15T16:25:24+09:00",
+  "last_updated": "2026-11-15T19:03:02+09:00",
   "note": "current score does not include all-time records"
  }
 }
