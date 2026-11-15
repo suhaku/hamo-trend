@@ -9,13 +9,13 @@
  "is_rerun": false,
  "reveal_date": "2026-10-30",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-15T19:03:02+09:00",
+ "last_seen_at": "2026-11-15T22:13:14+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 458484.0,
+ "peak_pv_views": 459811.0,
  "peak_lift": 4.382,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 20136.0,
+  "d24h": 16092.0,
   "d7d": null,
   "d30d": null
  },
@@ -309,6 +309,11 @@
    "at": "2026-11-15T19:03:02+09:00",
    "video_id": "T1d3GwCDG8w",
    "views": 458484.0
+  },
+  {
+   "at": "2026-11-15T22:13:14+09:00",
+   "video_id": "T1d3GwCDG8w",
+   "views": 459811.0
   }
  ],
  "pv_series_by_video": [
@@ -565,6 +570,10 @@
     {
      "at": "2026-11-15T19:03:02+09:00",
      "views": 458484.0
+    },
+    {
+     "at": "2026-11-15T22:13:14+09:00",
+     "views": 459811.0
     }
    ]
   }
@@ -578,7 +587,7 @@
     "ko": "에이언즈★아하",
     "en": "Aha"
    },
-   "peak_pv_views": 458484.0,
+   "peak_pv_views": 459811.0,
    "alltime_rank": 1
   },
   {
@@ -604,15 +613,15 @@
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
-  "score": 96.7,
-  "score_raw": 96.7,
+  "score": 96.65,
+  "score_raw": 96.65,
   "coverage": 0.6667,
   "reliability": 0.6667,
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 458484,
-  "lift_vs_game_baseline": 4.029,
+  "absolute_views": 459811,
+  "lift_vs_game_baseline": 4.037,
   "growth_rate_7d": null,
   "related_posts": [
    {
@@ -626,7 +635,7 @@
     "published": "Fri, 13 Nov 2026 12:25:17 +0900"
    }
   ],
-  "last_updated": "2026-11-15T19:03:02+09:00",
+  "last_updated": "2026-11-15T22:13:14+09:00",
   "note": "current score does not include all-time records"
  }
 }
