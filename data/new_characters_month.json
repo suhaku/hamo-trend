@@ -1,7 +1,7 @@
 {
  "status": "ok",
  "month": "2026-11",
- "generated_at": "2026-11-16T10:39:54+09:00",
+ "generated_at": "2026-11-16T13:49:31+09:00",
  "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
  "items": [
   {
@@ -46,7 +46,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-16T10:39:54+09:00",
+   "last_updated": "2026-11-16T13:49:31+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/WW_JP_Official/status/2119988430176387499",
    "x_status": "연동(일 1회)"
@@ -87,7 +87,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-16T10:39:54+09:00",
+   "last_updated": "2026-11-16T13:49:31+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/Genshin_7/status/2118916353574715817",
    "x_status": "연동(일 1회)"
@@ -128,7 +128,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-16T10:39:54+09:00",
+   "last_updated": "2026-11-16T13:49:31+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/Genshin_7/status/2118553962706055661",
    "x_status": "연동(일 1회)"
@@ -176,8 +176,14 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-16T10:39:54+09:00",
-   "related_posts": [],
+   "last_updated": "2026-11-16T13:49:31+09:00",
+   "related_posts": [
+    {
+     "title": "트릭컬 두두 픽업 11월 19일 오전 10시 59분 종료 D-3 | 야광 보호막 스킬 정리, 다음 픽업은 확인 중",
+     "url": "https://news84034.tistory.com/34",
+     "published": "Mon, 16 Nov 2026 13:40:07 +0900"
+    }
+   ],
    "x_top_post_url": "https://x.com/Trickcal_Re/status/2117528978894516275",
    "x_status": "연동(일 1회)"
   },
@@ -228,7 +234,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-16T10:39:54+09:00",
+   "last_updated": "2026-11-16T13:49:31+09:00",
    "related_posts": [
     {
      "title": "명일방주 엔드필드 신규 6성 명하 왔어 | 은하수를 부르는 불꽃 픽업 + EP 봤어",
@@ -284,7 +290,7 @@
    "source_url": "https://www.youtube.com/watch?v=hcwRWe0UyKI",
    "source_label": null,
    "pickup": {
-    "start": "2026-11-10 11:00:00",
+    "start": "2026-11-10 04:00:00",
     "end": "2026-12-02 11:59:00",
     "tz": "UTC+8",
     "source_url": "https://www.hoyolab.com/article/47385253",
@@ -296,17 +302,12 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-16T10:39:54+09:00",
+   "last_updated": "2026-11-16T13:49:31+09:00",
    "related_posts": [
     {
      "title": "스타레일 아하 카카오톡 이모티콘 11월 20일 출시 | 이상 낙원 2탄 32종 + 카톡 테마 무료 다운로드",
      "url": "https://news84034.tistory.com/31",
      "published": "Sun, 15 Nov 2026 16:22:36 +0900"
-    },
-    {
-     "title": "스타레일 EP 「무로부터의 창조」 들었어 | 아하가 처음 울리는 순간, 4.7 클라이맥스 곡 정리",
-     "url": "https://news84034.tistory.com/24",
-     "published": "Fri, 13 Nov 2026 12:25:17 +0900"
     }
    ],
    "x_top_post_url": "https://x.com/honkaistarrail/status/2115654862767546563",
@@ -351,7 +352,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-16T10:39:54+09:00",
+   "last_updated": "2026-11-16T13:49:31+09:00",
    "related_posts": [
     {
      "title": "이환 1.5 버전 「지금 거신 번호는」 시작했어 | 신규 S급 엘림 + 시티 오너 정리",
@@ -397,7 +398,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-16T10:39:54+09:00",
+   "last_updated": "2026-11-16T13:49:31+09:00",
    "related_posts": [
     {
      "title": "이환 1.5 버전 「지금 거신 번호는」 시작했어 | 신규 S급 엘림 + 시티 오너 정리",
@@ -459,7 +460,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-16T10:39:54+09:00",
+   "last_updated": "2026-11-16T13:49:31+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/GenshinImpact/status/2117467054924025874",
    "x_status": "연동(일 1회)"
@@ -513,7 +514,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-16T10:39:54+09:00",
+   "last_updated": "2026-11-16T13:49:31+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/GenshinImpact/status/2117104662675353725",
    "x_status": "연동(일 1회)"
@@ -570,7 +571,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-16T10:39:54+09:00",
+   "last_updated": "2026-11-16T13:49:31+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/ZZZ_JP/status/2118553969387827228",
    "x_status": "연동(일 1회)"
