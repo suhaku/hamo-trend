@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-17T04:13:27+09:00",
+ "generated_at": "2026-11-17T07:00:27+09:00",
  "rule": "공식 채널 PV 실측 조회수 · 절대 조회수와 성장 순위 분리 · 같은 게임 과거 신캐 대비 보정",
  "hold_policy": "PV 게시 후 24시간 미만이거나 조회수 없으면 순위 보류",
  "absolute_ranking": [
@@ -17,11 +17,11 @@
    "rank_absolute": 1,
    "rank_growth": null,
    "absolute": {
-    "views": 737408,
-    "lift_vs_game_baseline": 1.521
+    "views": 737670,
+    "lift_vs_game_baseline": 1.522
    },
    "growth": {
-    "delta_24h": 8219,
+    "delta_24h": 6069,
     "delta_7d": null,
     "delta_30d": null,
     "since_publish_24h": 39432,
@@ -35,26 +35,26 @@
     "thumb": "https://i.ytimg.com/vi/nNuN0rPi2YA/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-10T12:00:00+09:00",
-    "age_hours": 160.2,
-    "views_absolute": 737408,
+    "age_hours": 163.0,
+    "views_absolute": 737670,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 737408,
-     "delta_24h": 8219,
+     "views_now": 737670,
+     "delta_24h": 6069,
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 39432,
      "since_publish_7d": null,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 484721.0,
-    "lift_vs_game_baseline": 1.521,
+    "game_baseline_median_views": 484739.5,
+    "lift_vs_game_baseline": 1.522,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00"
+   "last_updated": "2026-11-17T07:00:27+09:00"
   },
   {
    "character_id": "starrail-aha",
@@ -69,12 +69,12 @@
    "rank_absolute": 2,
    "rank_growth": 1,
    "absolute": {
-    "views": 469290,
-    "lift_vs_game_baseline": 4.093
+    "views": 469632,
+    "lift_vs_game_baseline": 4.096
    },
    "growth": {
-    "delta_24h": 6571,
-    "delta_7d": 195302,
+    "delta_24h": 6442,
+    "delta_7d": 192442,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 182851,
@@ -87,26 +87,26 @@
     "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-08T13:00:19+09:00",
-    "age_hours": 207.2,
-    "views_absolute": 469290,
+    "age_hours": 210.0,
+    "views_absolute": 469632,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 469290,
-     "delta_24h": 6571,
-     "delta_7d": 195302,
+     "views_now": 469632,
+     "delta_24h": 6442,
+     "delta_7d": 192442,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 182851,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 114663,
-    "lift_vs_game_baseline": 4.093,
+    "game_baseline_median_views": 114667,
+    "lift_vs_game_baseline": 4.096,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00"
+   "last_updated": "2026-11-17T07:00:27+09:00"
   },
   {
    "character_id": "zzz-severian",
@@ -121,12 +121,12 @@
    "rank_absolute": 3,
    "rank_growth": 2,
    "absolute": {
-    "views": 144904,
+    "views": 144950,
     "lift_vs_game_baseline": 1.171
    },
    "growth": {
-    "delta_24h": 805,
-    "delta_7d": 36563,
+    "delta_24h": 818,
+    "delta_7d": 36192,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 32736,
@@ -139,26 +139,26 @@
     "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-06T12:59:56+09:00",
-    "age_hours": 255.2,
-    "views_absolute": 144904,
+    "age_hours": 258.0,
+    "views_absolute": 144950,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 144904,
-     "delta_24h": 805,
-     "delta_7d": 36563,
+     "views_now": 144950,
+     "delta_24h": 818,
+     "delta_7d": 36192,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 32736,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 123694,
+    "game_baseline_median_views": 123763,
     "lift_vs_game_baseline": 1.171,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00"
+   "last_updated": "2026-11-17T07:00:27+09:00"
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -175,11 +175,11 @@
    "rank_growth": 6,
    "absolute": {
     "views": 71369,
-    "lift_vs_game_baseline": 2.376
+    "lift_vs_game_baseline": 2.375
    },
    "growth": {
     "delta_24h": 0,
-    "delta_7d": 769,
+    "delta_7d": 703,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 0,
@@ -192,7 +192,7 @@
     "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-02T13:00:00+09:00",
-    "age_hours": 351.2,
+    "age_hours": 354.0,
     "views_absolute": 71369,
     "likes": null,
     "comments": null,
@@ -200,18 +200,18 @@
     "deltas": {
      "views_now": 71369,
      "delta_24h": 0,
-     "delta_7d": 769,
+     "delta_7d": 703,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 0,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 30043,
-    "lift_vs_game_baseline": 2.376,
+    "game_baseline_median_views": 30046,
+    "lift_vs_game_baseline": 2.375,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00"
+   "last_updated": "2026-11-17T07:00:27+09:00"
   },
   {
    "character_id": "nte-elim",
@@ -226,12 +226,12 @@
    "rank_absolute": 5,
    "rank_growth": 4,
    "absolute": {
-    "views": 54322,
-    "lift_vs_game_baseline": 11.335
+    "views": 54347,
+    "lift_vs_game_baseline": 11.329
    },
    "growth": {
-    "delta_24h": 212,
-    "delta_7d": 9405,
+    "delta_24h": 239,
+    "delta_7d": 7151,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 12653,
@@ -244,26 +244,26 @@
     "thumb": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-08T12:00:21+09:00",
-    "age_hours": 208.2,
-    "views_absolute": 54322,
+    "age_hours": 211.0,
+    "views_absolute": 54347,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 54322,
-     "delta_24h": 212,
-     "delta_7d": 9405,
+     "views_now": 54347,
+     "delta_24h": 239,
+     "delta_7d": 7151,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 12653,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 4792.5,
-    "lift_vs_game_baseline": 11.335,
+    "game_baseline_median_views": 4797.0,
+    "lift_vs_game_baseline": 11.329,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00"
+   "last_updated": "2026-11-17T07:00:27+09:00"
   },
   {
    "character_id": "endfield-mingha",
@@ -279,11 +279,11 @@
    "rank_growth": 3,
    "absolute": {
     "views": 48081,
-    "lift_vs_game_baseline": 9.206
+    "lift_vs_game_baseline": 9.202
    },
    "growth": {
-    "delta_24h": 75,
-    "delta_7d": 20042,
+    "delta_24h": 0,
+    "delta_7d": 20018,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 3125,
@@ -296,26 +296,26 @@
     "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T19:00:38+09:00",
-    "age_hours": 321.2,
+    "age_hours": 324.0,
     "views_absolute": 48081,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
      "views_now": 48081,
-     "delta_24h": 75,
-     "delta_7d": 20042,
+     "delta_24h": 0,
+     "delta_7d": 20018,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 3125,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 5223,
-    "lift_vs_game_baseline": 9.206,
+    "game_baseline_median_views": 5225,
+    "lift_vs_game_baseline": 9.202,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00"
+   "last_updated": "2026-11-17T07:00:27+09:00"
   },
   {
    "character_id": "genshin-a2fbc1b95d",
@@ -336,7 +336,7 @@
    },
    "growth": {
     "delta_24h": 0,
-    "delta_7d": 1704,
+    "delta_7d": 1655,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 459,
@@ -349,7 +349,7 @@
     "thumb": "https://i.ytimg.com/vi/Gh8mhHe4aXU/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T13:04:08+09:00",
-    "age_hours": 327.2,
+    "age_hours": 329.9,
     "views_absolute": 41488,
     "likes": null,
     "comments": null,
@@ -357,18 +357,18 @@
     "deltas": {
      "views_now": 41488,
      "delta_24h": 0,
-     "delta_7d": 1704,
+     "delta_7d": 1655,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 459,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 30043,
+    "game_baseline_median_views": 30046,
     "lift_vs_game_baseline": 1.381,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00"
+   "last_updated": "2026-11-17T07:00:27+09:00"
   }
  ],
  "growth_ranking": [
@@ -385,12 +385,12 @@
    "rank_absolute": 2,
    "rank_growth": 1,
    "absolute": {
-    "views": 469290,
-    "lift_vs_game_baseline": 4.093
+    "views": 469632,
+    "lift_vs_game_baseline": 4.096
    },
    "growth": {
-    "delta_24h": 6571,
-    "delta_7d": 195302,
+    "delta_24h": 6442,
+    "delta_7d": 192442,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 182851,
@@ -403,26 +403,26 @@
     "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-08T13:00:19+09:00",
-    "age_hours": 207.2,
-    "views_absolute": 469290,
+    "age_hours": 210.0,
+    "views_absolute": 469632,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 469290,
-     "delta_24h": 6571,
-     "delta_7d": 195302,
+     "views_now": 469632,
+     "delta_24h": 6442,
+     "delta_7d": 192442,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 182851,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 114663,
-    "lift_vs_game_baseline": 4.093,
+    "game_baseline_median_views": 114667,
+    "lift_vs_game_baseline": 4.096,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00"
+   "last_updated": "2026-11-17T07:00:27+09:00"
   },
   {
    "character_id": "zzz-severian",
@@ -437,12 +437,12 @@
    "rank_absolute": 3,
    "rank_growth": 2,
    "absolute": {
-    "views": 144904,
+    "views": 144950,
     "lift_vs_game_baseline": 1.171
    },
    "growth": {
-    "delta_24h": 805,
-    "delta_7d": 36563,
+    "delta_24h": 818,
+    "delta_7d": 36192,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 32736,
@@ -455,26 +455,26 @@
     "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-06T12:59:56+09:00",
-    "age_hours": 255.2,
-    "views_absolute": 144904,
+    "age_hours": 258.0,
+    "views_absolute": 144950,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 144904,
-     "delta_24h": 805,
-     "delta_7d": 36563,
+     "views_now": 144950,
+     "delta_24h": 818,
+     "delta_7d": 36192,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 32736,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 123694,
+    "game_baseline_median_views": 123763,
     "lift_vs_game_baseline": 1.171,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00"
+   "last_updated": "2026-11-17T07:00:27+09:00"
   },
   {
    "character_id": "endfield-mingha",
@@ -490,11 +490,11 @@
    "rank_growth": 3,
    "absolute": {
     "views": 48081,
-    "lift_vs_game_baseline": 9.206
+    "lift_vs_game_baseline": 9.202
    },
    "growth": {
-    "delta_24h": 75,
-    "delta_7d": 20042,
+    "delta_24h": 0,
+    "delta_7d": 20018,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 3125,
@@ -507,26 +507,26 @@
     "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T19:00:38+09:00",
-    "age_hours": 321.2,
+    "age_hours": 324.0,
     "views_absolute": 48081,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
      "views_now": 48081,
-     "delta_24h": 75,
-     "delta_7d": 20042,
+     "delta_24h": 0,
+     "delta_7d": 20018,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 3125,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 5223,
-    "lift_vs_game_baseline": 9.206,
+    "game_baseline_median_views": 5225,
+    "lift_vs_game_baseline": 9.202,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00"
+   "last_updated": "2026-11-17T07:00:27+09:00"
   },
   {
    "character_id": "nte-elim",
@@ -541,12 +541,12 @@
    "rank_absolute": 5,
    "rank_growth": 4,
    "absolute": {
-    "views": 54322,
-    "lift_vs_game_baseline": 11.335
+    "views": 54347,
+    "lift_vs_game_baseline": 11.329
    },
    "growth": {
-    "delta_24h": 212,
-    "delta_7d": 9405,
+    "delta_24h": 239,
+    "delta_7d": 7151,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 12653,
@@ -559,26 +559,26 @@
     "thumb": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-08T12:00:21+09:00",
-    "age_hours": 208.2,
-    "views_absolute": 54322,
+    "age_hours": 211.0,
+    "views_absolute": 54347,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 54322,
-     "delta_24h": 212,
-     "delta_7d": 9405,
+     "views_now": 54347,
+     "delta_24h": 239,
+     "delta_7d": 7151,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 12653,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 4792.5,
-    "lift_vs_game_baseline": 11.335,
+    "game_baseline_median_views": 4797.0,
+    "lift_vs_game_baseline": 11.329,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00"
+   "last_updated": "2026-11-17T07:00:27+09:00"
   },
   {
    "character_id": "genshin-a2fbc1b95d",
@@ -599,7 +599,7 @@
    },
    "growth": {
     "delta_24h": 0,
-    "delta_7d": 1704,
+    "delta_7d": 1655,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 459,
@@ -612,7 +612,7 @@
     "thumb": "https://i.ytimg.com/vi/Gh8mhHe4aXU/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T13:04:08+09:00",
-    "age_hours": 327.2,
+    "age_hours": 329.9,
     "views_absolute": 41488,
     "likes": null,
     "comments": null,
@@ -620,18 +620,18 @@
     "deltas": {
      "views_now": 41488,
      "delta_24h": 0,
-     "delta_7d": 1704,
+     "delta_7d": 1655,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 459,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 30043,
+    "game_baseline_median_views": 30046,
     "lift_vs_game_baseline": 1.381,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00"
+   "last_updated": "2026-11-17T07:00:27+09:00"
   },
   {
    "character_id": "genshin-de1daf6f79",
@@ -648,11 +648,11 @@
    "rank_growth": 6,
    "absolute": {
     "views": 71369,
-    "lift_vs_game_baseline": 2.376
+    "lift_vs_game_baseline": 2.375
    },
    "growth": {
     "delta_24h": 0,
-    "delta_7d": 769,
+    "delta_7d": 703,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 0,
@@ -665,7 +665,7 @@
     "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-02T13:00:00+09:00",
-    "age_hours": 351.2,
+    "age_hours": 354.0,
     "views_absolute": 71369,
     "likes": null,
     "comments": null,
@@ -673,18 +673,18 @@
     "deltas": {
      "views_now": 71369,
      "delta_24h": 0,
-     "delta_7d": 769,
+     "delta_7d": 703,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 0,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 30043,
-    "lift_vs_game_baseline": 2.376,
+    "game_baseline_median_views": 30046,
+    "lift_vs_game_baseline": 2.375,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00"
+   "last_updated": "2026-11-17T07:00:27+09:00"
   }
  ],
  "all": [
@@ -707,7 +707,7 @@
    },
    "growth": {
     "delta_24h": 0,
-    "delta_7d": 1704,
+    "delta_7d": 1655,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 459,
@@ -720,7 +720,7 @@
     "thumb": "https://i.ytimg.com/vi/Gh8mhHe4aXU/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T13:04:08+09:00",
-    "age_hours": 327.2,
+    "age_hours": 329.9,
     "views_absolute": 41488,
     "likes": null,
     "comments": null,
@@ -728,18 +728,18 @@
     "deltas": {
      "views_now": 41488,
      "delta_24h": 0,
-     "delta_7d": 1704,
+     "delta_7d": 1655,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 459,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 30043,
+    "game_baseline_median_views": 30046,
     "lift_vs_game_baseline": 1.381,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00",
+   "last_updated": "2026-11-17T07:00:27+09:00",
    "related_posts": [
     {
      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
@@ -763,11 +763,11 @@
    "rank_growth": 6,
    "absolute": {
     "views": 71369,
-    "lift_vs_game_baseline": 2.376
+    "lift_vs_game_baseline": 2.375
    },
    "growth": {
     "delta_24h": 0,
-    "delta_7d": 769,
+    "delta_7d": 703,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 0,
@@ -780,7 +780,7 @@
     "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-02T13:00:00+09:00",
-    "age_hours": 351.2,
+    "age_hours": 354.0,
     "views_absolute": 71369,
     "likes": null,
     "comments": null,
@@ -788,18 +788,18 @@
     "deltas": {
      "views_now": 71369,
      "delta_24h": 0,
-     "delta_7d": 769,
+     "delta_7d": 703,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 0,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 30043,
-    "lift_vs_game_baseline": 2.376,
+    "game_baseline_median_views": 30046,
+    "lift_vs_game_baseline": 2.375,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00",
+   "last_updated": "2026-11-17T07:00:27+09:00",
    "related_posts": [
     {
      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
@@ -821,12 +821,12 @@
    "rank_absolute": 2,
    "rank_growth": 1,
    "absolute": {
-    "views": 469290,
-    "lift_vs_game_baseline": 4.093
+    "views": 469632,
+    "lift_vs_game_baseline": 4.096
    },
    "growth": {
-    "delta_24h": 6571,
-    "delta_7d": 195302,
+    "delta_24h": 6442,
+    "delta_7d": 192442,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 182851,
@@ -839,26 +839,26 @@
     "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-08T13:00:19+09:00",
-    "age_hours": 207.2,
-    "views_absolute": 469290,
+    "age_hours": 210.0,
+    "views_absolute": 469632,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 469290,
-     "delta_24h": 6571,
-     "delta_7d": 195302,
+     "views_now": 469632,
+     "delta_24h": 6442,
+     "delta_7d": 192442,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 182851,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 114663,
-    "lift_vs_game_baseline": 4.093,
+    "game_baseline_median_views": 114667,
+    "lift_vs_game_baseline": 4.096,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00",
+   "last_updated": "2026-11-17T07:00:27+09:00",
    "related_posts": [
     {
      "title": "스타레일 아하 카카오톡 이모티콘 11월 20일 출시 | 이상 낙원 2탄 32종 + 카톡 테마 무료 다운로드",
@@ -892,7 +892,7 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-17T04:13:27+09:00",
+   "last_updated": "2026-11-17T07:00:27+09:00",
    "related_posts": [
     {
      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
@@ -926,7 +926,7 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-17T04:13:27+09:00",
+   "last_updated": "2026-11-17T07:00:27+09:00",
    "related_posts": [
     {
      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
@@ -948,12 +948,12 @@
    "rank_absolute": 3,
    "rank_growth": 2,
    "absolute": {
-    "views": 144904,
+    "views": 144950,
     "lift_vs_game_baseline": 1.171
    },
    "growth": {
-    "delta_24h": 805,
-    "delta_7d": 36563,
+    "delta_24h": 818,
+    "delta_7d": 36192,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 32736,
@@ -966,26 +966,26 @@
     "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-06T12:59:56+09:00",
-    "age_hours": 255.2,
-    "views_absolute": 144904,
+    "age_hours": 258.0,
+    "views_absolute": 144950,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 144904,
-     "delta_24h": 805,
-     "delta_7d": 36563,
+     "views_now": 144950,
+     "delta_24h": 818,
+     "delta_7d": 36192,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 32736,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 123694,
+    "game_baseline_median_views": 123763,
     "lift_vs_game_baseline": 1.171,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00",
+   "last_updated": "2026-11-17T07:00:27+09:00",
    "related_posts": []
   },
   {
@@ -1001,11 +1001,11 @@
    "rank_absolute": 1,
    "rank_growth": null,
    "absolute": {
-    "views": 737408,
-    "lift_vs_game_baseline": 1.521
+    "views": 737670,
+    "lift_vs_game_baseline": 1.522
    },
    "growth": {
-    "delta_24h": 8219,
+    "delta_24h": 6069,
     "delta_7d": null,
     "delta_30d": null,
     "since_publish_24h": 39432,
@@ -1019,26 +1019,26 @@
     "thumb": "https://i.ytimg.com/vi/nNuN0rPi2YA/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-10T12:00:00+09:00",
-    "age_hours": 160.2,
-    "views_absolute": 737408,
+    "age_hours": 163.0,
+    "views_absolute": 737670,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 737408,
-     "delta_24h": 8219,
+     "views_now": 737670,
+     "delta_24h": 6069,
      "delta_7d": null,
      "delta_30d": null,
      "since_publish_24h": 39432,
      "since_publish_7d": null,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 484721.0,
-    "lift_vs_game_baseline": 1.521,
+    "game_baseline_median_views": 484739.5,
+    "lift_vs_game_baseline": 1.522,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00",
+   "last_updated": "2026-11-17T07:00:27+09:00",
    "related_posts": []
   },
   {
@@ -1054,12 +1054,12 @@
    "rank_absolute": 5,
    "rank_growth": 4,
    "absolute": {
-    "views": 54322,
-    "lift_vs_game_baseline": 11.335
+    "views": 54347,
+    "lift_vs_game_baseline": 11.329
    },
    "growth": {
-    "delta_24h": 212,
-    "delta_7d": 9405,
+    "delta_24h": 239,
+    "delta_7d": 7151,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 12653,
@@ -1072,26 +1072,26 @@
     "thumb": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-08T12:00:21+09:00",
-    "age_hours": 208.2,
-    "views_absolute": 54322,
+    "age_hours": 211.0,
+    "views_absolute": 54347,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
-     "views_now": 54322,
-     "delta_24h": 212,
-     "delta_7d": 9405,
+     "views_now": 54347,
+     "delta_24h": 239,
+     "delta_7d": 7151,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 12653,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 4792.5,
-    "lift_vs_game_baseline": 11.335,
+    "game_baseline_median_views": 4797.0,
+    "lift_vs_game_baseline": 11.329,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00",
+   "last_updated": "2026-11-17T07:00:27+09:00",
    "related_posts": [
     {
      "title": "이환 1.5 버전 「지금 거신 번호는」 시작했어 | 신규 S급 엘림 + 시티 오너 정리",
@@ -1125,7 +1125,7 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-17T04:13:27+09:00",
+   "last_updated": "2026-11-17T07:00:27+09:00",
    "related_posts": [
     {
      "title": "이환 1.5 버전 「지금 거신 번호는」 시작했어 | 신규 S급 엘림 + 시티 오너 정리",
@@ -1148,11 +1148,11 @@
    "rank_growth": 3,
    "absolute": {
     "views": 48081,
-    "lift_vs_game_baseline": 9.206
+    "lift_vs_game_baseline": 9.202
    },
    "growth": {
-    "delta_24h": 75,
-    "delta_7d": 20042,
+    "delta_24h": 0,
+    "delta_7d": 20018,
     "delta_30d": null,
     "since_publish_24h": 0,
     "since_publish_7d": 3125,
@@ -1165,26 +1165,26 @@
     "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
     "channel_region": "Global",
     "published": "2026-11-03T19:00:38+09:00",
-    "age_hours": 321.2,
+    "age_hours": 324.0,
     "views_absolute": 48081,
     "likes": null,
     "comments": null,
     "likes_comments_status": "미연동",
     "deltas": {
      "views_now": 48081,
-     "delta_24h": 75,
-     "delta_7d": 20042,
+     "delta_24h": 0,
+     "delta_7d": 20018,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 3125,
      "since_publish_30d": null
     },
-    "game_baseline_median_views": 5223,
-    "lift_vs_game_baseline": 9.206,
+    "game_baseline_median_views": 5225,
+    "lift_vs_game_baseline": 9.202,
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-    "fetched_at": "2026-11-17T04:13:27+09:00"
+    "fetched_at": "2026-11-17T07:00:27+09:00"
    },
-   "last_updated": "2026-11-17T04:13:27+09:00",
+   "last_updated": "2026-11-17T07:00:27+09:00",
    "related_posts": [
     {
      "title": "명일방주 엔드필드 신규 6성 명하 왔어 | 은하수를 부르는 불꽃 픽업 + EP 봤어",
@@ -1218,7 +1218,7 @@
     "since_publish_30d": null
    },
    "pv": null,
-   "last_updated": "2026-11-17T04:13:27+09:00",
+   "last_updated": "2026-11-17T07:00:27+09:00",
    "related_posts": [
     {
      "title": "트릭컬 두두 픽업 11월 19일 오전 10시 59분 종료 D-3 | 야광 보호막 스킬 정리, 다음 픽업은 확인 중",
