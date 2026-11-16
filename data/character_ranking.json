@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-16T13:52:43+09:00",
+ "generated_at": "2026-11-16T18:04:04+09:00",
  "rule": "100점 만점 · 없는 지표는 0점 처리 없이 나머지로 다시 계산 · 수집률이 낮으면 잠정 또는 보류 · 신뢰도 따로 표시 · 복각 제외 · 역대 기록은 점수에 안 넣음",
  "weights": {
   "youtube_pv": 0.35,
@@ -22,8 +22,8 @@
    "score": 98.56,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 731601,
-    "youtube_pv_lift": null,
+    "youtube_pv_views": 735549,
+    "youtube_pv_lift": 1.518,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -41,9 +41,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 731601,
+   "absolute_views": 735549,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
+   "last_updated": "2026-11-16T18:04:04+09:00",
    "score_raw": 98.56,
    "coverage": 0.6667,
    "provisional": false,
@@ -65,7 +65,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": null,
+   "lift_vs_game_baseline": 1.518,
    "pv_video_id": "nNuN0rPi2YA",
    "related_posts": [],
    "x": {
@@ -90,8 +90,8 @@
    "score": 96.59,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 463190,
-    "youtube_pv_lift": null,
+    "youtube_pv_views": 465308,
+    "youtube_pv_lift": 4.069,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -109,9 +109,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 463190,
+   "absolute_views": 465308,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
+   "last_updated": "2026-11-16T18:04:04+09:00",
    "score_raw": 96.59,
    "coverage": 0.6667,
    "provisional": false,
@@ -133,7 +133,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": null,
+   "lift_vs_game_baseline": 4.069,
    "pv_video_id": "T1d3GwCDG8w",
    "related_posts": [
     {
@@ -161,11 +161,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 3,
-   "score": 91.71,
+   "score": 91.7,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 144132,
-    "youtube_pv_lift": null,
+    "youtube_pv_views": 144435,
+    "youtube_pv_lift": 1.17,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -183,10 +183,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 144132,
+   "absolute_views": 144435,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
-   "score_raw": 91.71,
+   "last_updated": "2026-11-16T18:04:04+09:00",
+   "score_raw": 91.7,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -198,7 +198,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 87.97,
+    "youtube_pv": 87.95,
     "x": 98.25
    },
    "weights_config": {
@@ -207,7 +207,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": null,
+   "lift_vs_game_baseline": 1.17,
    "pv_video_id": "OcDcxORlzmY",
    "related_posts": [],
    "x": {
@@ -230,11 +230,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 4,
-   "score": 84.95,
+   "score": 84.93,
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 41488,
-    "youtube_pv_lift": null,
+    "youtube_pv_lift": 1.384,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -254,8 +254,8 @@
    },
    "absolute_views": 41488,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
-   "score_raw": 84.95,
+   "last_updated": "2026-11-16T18:04:04+09:00",
+   "score_raw": 84.93,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -267,7 +267,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 78.75,
+    "youtube_pv": 78.72,
     "x": 95.8
    },
    "weights_config": {
@@ -276,9 +276,15 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": null,
+   "lift_vs_game_baseline": 1.384,
    "pv_video_id": "Gh8mhHe4aXU",
-   "related_posts": [],
+   "related_posts": [
+    {
+     "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
+     "url": "https://news84034.tistory.com/35",
+     "published": "Mon, 16 Nov 2026 16:31:35 +0900"
+    }
+   ],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-16T09:46:27+09:00",
@@ -298,11 +304,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 5,
-   "score": 83.58,
+   "score": 83.56,
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 48081,
-    "youtube_pv_lift": null,
+    "youtube_pv_lift": 9.277,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -322,8 +328,8 @@
    },
    "absolute_views": 48081,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
-   "score_raw": 83.58,
+   "last_updated": "2026-11-16T18:04:04+09:00",
+   "score_raw": 83.56,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -335,7 +341,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 79.84,
+    "youtube_pv": 79.81,
     "x": 90.13
    },
    "weights_config": {
@@ -344,7 +350,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": null,
+   "lift_vs_game_baseline": 9.277,
    "pv_video_id": "HWsEtcPe1d4",
    "related_posts": [
     {
@@ -373,11 +379,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 6,
-   "score": 81.72,
+   "score": 81.7,
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 71369,
-    "youtube_pv_lift": null,
+    "youtube_pv_lift": 2.381,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -397,8 +403,8 @@
    },
    "absolute_views": 71369,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
-   "score_raw": 81.72,
+   "last_updated": "2026-11-16T18:04:04+09:00",
+   "score_raw": 81.7,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -410,7 +416,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 82.76,
+    "youtube_pv": 82.73,
     "x": 79.91
    },
    "weights_config": {
@@ -419,9 +425,15 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": null,
+   "lift_vs_game_baseline": 2.381,
    "pv_video_id": "tCeXHmvg3ko",
-   "related_posts": [],
+   "related_posts": [
+    {
+     "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
+     "url": "https://news84034.tistory.com/35",
+     "published": "Mon, 16 Nov 2026 16:31:35 +0900"
+    }
+   ],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-16T09:46:27+09:00",
@@ -441,11 +453,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 7,
-   "score": 78.32,
+   "score": 78.27,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 54612,
-    "youtube_pv_lift": null,
+    "youtube_pv_views": 54210,
+    "youtube_pv_lift": 11.427,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -463,10 +475,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 54612,
+   "absolute_views": 54210,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
-   "score_raw": 78.32,
+   "last_updated": "2026-11-16T18:04:04+09:00",
+   "score_raw": 78.27,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -478,7 +490,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 80.78,
+    "youtube_pv": 80.7,
     "x": 74.02
    },
    "weights_config": {
@@ -487,8 +499,8 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": null,
-   "pv_video_id": "MK4bIOILTHM",
+   "lift_vs_game_baseline": 11.427,
+   "pv_video_id": "ioTHCpW4RSo",
    "related_posts": [
     {
      "title": "이환 1.5 버전 「지금 거신 번호는」 시작했어 | 신규 S급 엘림 + 시티 오너 정리",
@@ -541,7 +553,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
+   "last_updated": "2026-11-16T18:04:04+09:00",
    "score_raw": 94.79,
    "coverage": 0.3333,
    "provisional": false,
@@ -562,7 +574,13 @@
    },
    "lift_vs_game_baseline": null,
    "pv_video_id": null,
-   "related_posts": [],
+   "related_posts": [
+    {
+     "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
+     "url": "https://news84034.tistory.com/35",
+     "published": "Mon, 16 Nov 2026 16:31:35 +0900"
+    }
+   ],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-16T09:46:27+09:00",
@@ -606,7 +624,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
+   "last_updated": "2026-11-16T18:04:04+09:00",
    "score_raw": 100.0,
    "coverage": 0.3333,
    "provisional": false,
@@ -627,7 +645,13 @@
    },
    "lift_vs_game_baseline": null,
    "pv_video_id": null,
-   "related_posts": [],
+   "related_posts": [
+    {
+     "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
+     "url": "https://news84034.tistory.com/35",
+     "published": "Mon, 16 Nov 2026 16:31:35 +0900"
+    }
+   ],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-16T09:46:27+09:00",
@@ -671,7 +695,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
+   "last_updated": "2026-11-16T18:04:04+09:00",
    "score_raw": 70.92,
    "coverage": 0.3333,
    "provisional": false,
@@ -742,7 +766,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
+   "last_updated": "2026-11-16T18:04:04+09:00",
    "score_raw": 60.03,
    "coverage": 0.3333,
    "provisional": false,
@@ -792,11 +816,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 4,
-   "score": 84.95,
+   "score": 84.93,
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 41488,
-    "youtube_pv_lift": null,
+    "youtube_pv_lift": 1.384,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -816,8 +840,8 @@
    },
    "absolute_views": 41488,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
-   "score_raw": 84.95,
+   "last_updated": "2026-11-16T18:04:04+09:00",
+   "score_raw": 84.93,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -829,7 +853,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 78.75,
+    "youtube_pv": 78.72,
     "x": 95.8
    },
    "weights_config": {
@@ -838,9 +862,15 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": null,
+   "lift_vs_game_baseline": 1.384,
    "pv_video_id": "Gh8mhHe4aXU",
-   "related_posts": [],
+   "related_posts": [
+    {
+     "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
+     "url": "https://news84034.tistory.com/35",
+     "published": "Mon, 16 Nov 2026 16:31:35 +0900"
+    }
+   ],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-16T09:46:27+09:00",
@@ -861,11 +891,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 6,
-   "score": 81.72,
+   "score": 81.7,
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 71369,
-    "youtube_pv_lift": null,
+    "youtube_pv_lift": 2.381,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -885,8 +915,8 @@
    },
    "absolute_views": 71369,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
-   "score_raw": 81.72,
+   "last_updated": "2026-11-16T18:04:04+09:00",
+   "score_raw": 81.7,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -898,7 +928,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 82.76,
+    "youtube_pv": 82.73,
     "x": 79.91
    },
    "weights_config": {
@@ -907,9 +937,15 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": null,
+   "lift_vs_game_baseline": 2.381,
    "pv_video_id": "tCeXHmvg3ko",
-   "related_posts": [],
+   "related_posts": [
+    {
+     "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
+     "url": "https://news84034.tistory.com/35",
+     "published": "Mon, 16 Nov 2026 16:31:35 +0900"
+    }
+   ],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-16T09:46:27+09:00",
@@ -932,8 +968,8 @@
    "score": 96.59,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 463190,
-    "youtube_pv_lift": null,
+    "youtube_pv_views": 465308,
+    "youtube_pv_lift": 4.069,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -951,9 +987,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 463190,
+   "absolute_views": 465308,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
+   "last_updated": "2026-11-16T18:04:04+09:00",
    "score_raw": 96.59,
    "coverage": 0.6667,
    "provisional": false,
@@ -975,7 +1011,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": null,
+   "lift_vs_game_baseline": 4.069,
    "pv_video_id": "T1d3GwCDG8w",
    "related_posts": [
     {
@@ -1027,7 +1063,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
+   "last_updated": "2026-11-16T18:04:04+09:00",
    "score_raw": 94.79,
    "coverage": 0.3333,
    "provisional": false,
@@ -1048,7 +1084,13 @@
    },
    "lift_vs_game_baseline": null,
    "pv_video_id": null,
-   "related_posts": [],
+   "related_posts": [
+    {
+     "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
+     "url": "https://news84034.tistory.com/35",
+     "published": "Mon, 16 Nov 2026 16:31:35 +0900"
+    }
+   ],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-16T09:46:27+09:00",
@@ -1092,7 +1134,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
+   "last_updated": "2026-11-16T18:04:04+09:00",
    "score_raw": 100.0,
    "coverage": 0.3333,
    "provisional": false,
@@ -1113,7 +1155,13 @@
    },
    "lift_vs_game_baseline": null,
    "pv_video_id": null,
-   "related_posts": [],
+   "related_posts": [
+    {
+     "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
+     "url": "https://news84034.tistory.com/35",
+     "published": "Mon, 16 Nov 2026 16:31:35 +0900"
+    }
+   ],
    "x": {
     "status": "연동(일 1회)",
     "generated_at": "2026-11-16T09:46:27+09:00",
@@ -1133,11 +1181,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 3,
-   "score": 91.71,
+   "score": 91.7,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 144132,
-    "youtube_pv_lift": null,
+    "youtube_pv_views": 144435,
+    "youtube_pv_lift": 1.17,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1155,10 +1203,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 144132,
+   "absolute_views": 144435,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
-   "score_raw": 91.71,
+   "last_updated": "2026-11-16T18:04:04+09:00",
+   "score_raw": 91.7,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -1170,7 +1218,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 87.97,
+    "youtube_pv": 87.95,
     "x": 98.25
    },
    "weights_config": {
@@ -1179,7 +1227,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": null,
+   "lift_vs_game_baseline": 1.17,
    "pv_video_id": "OcDcxORlzmY",
    "related_posts": [],
    "x": {
@@ -1204,8 +1252,8 @@
    "score": 98.56,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 731601,
-    "youtube_pv_lift": null,
+    "youtube_pv_views": 735549,
+    "youtube_pv_lift": 1.518,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1223,9 +1271,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 731601,
+   "absolute_views": 735549,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
+   "last_updated": "2026-11-16T18:04:04+09:00",
    "score_raw": 98.56,
    "coverage": 0.6667,
    "provisional": false,
@@ -1247,7 +1295,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": null,
+   "lift_vs_game_baseline": 1.518,
    "pv_video_id": "nNuN0rPi2YA",
    "related_posts": [],
    "x": {
@@ -1269,11 +1317,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 7,
-   "score": 78.32,
+   "score": 78.27,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 54612,
-    "youtube_pv_lift": null,
+    "youtube_pv_views": 54210,
+    "youtube_pv_lift": 11.427,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1291,10 +1339,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 54612,
+   "absolute_views": 54210,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
-   "score_raw": 78.32,
+   "last_updated": "2026-11-16T18:04:04+09:00",
+   "score_raw": 78.27,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -1306,7 +1354,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 80.78,
+    "youtube_pv": 80.7,
     "x": 74.02
    },
    "weights_config": {
@@ -1315,8 +1363,8 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": null,
-   "pv_video_id": "MK4bIOILTHM",
+   "lift_vs_game_baseline": 11.427,
+   "pv_video_id": "ioTHCpW4RSo",
    "related_posts": [
     {
      "title": "이환 1.5 버전 「지금 거신 번호는」 시작했어 | 신규 S급 엘림 + 시티 오너 정리",
@@ -1367,7 +1415,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
+   "last_updated": "2026-11-16T18:04:04+09:00",
    "score_raw": 70.92,
    "coverage": 0.3333,
    "provisional": false,
@@ -1414,11 +1462,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 5,
-   "score": 83.58,
+   "score": 83.56,
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 48081,
-    "youtube_pv_lift": null,
+    "youtube_pv_lift": 9.277,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1438,8 +1486,8 @@
    },
    "absolute_views": 48081,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
-   "score_raw": 83.58,
+   "last_updated": "2026-11-16T18:04:04+09:00",
+   "score_raw": 83.56,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -1451,7 +1499,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 79.84,
+    "youtube_pv": 79.81,
     "x": 90.13
    },
    "weights_config": {
@@ -1460,7 +1508,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": null,
+   "lift_vs_game_baseline": 9.277,
    "pv_video_id": "HWsEtcPe1d4",
    "related_posts": [
     {
@@ -1512,7 +1560,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-16T13:52:43+09:00",
+   "last_updated": "2026-11-16T18:04:04+09:00",
    "score_raw": 60.03,
    "coverage": 0.3333,
    "provisional": false,
