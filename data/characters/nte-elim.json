@@ -9,14 +9,14 @@
  "is_rerun": false,
  "reveal_date": "2026-10-29",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-17T00:25:17+09:00",
+ "last_seen_at": "2026-11-17T04:17:10+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 54612.0,
  "peak_lift": 14.398,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 243.0,
-  "d7d": null,
+  "d24h": 212.0,
+  "d7d": 9405.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -354,6 +354,11 @@
    "at": "2026-11-17T00:25:17+09:00",
    "video_id": "ioTHCpW4RSo",
    "views": 54250.0
+  },
+  {
+   "at": "2026-11-17T04:17:10+09:00",
+   "video_id": "ioTHCpW4RSo",
+   "views": 54322.0
   }
  ],
  "pv_series_by_video": [
@@ -646,6 +651,10 @@
     {
      "at": "2026-11-17T00:25:17+09:00",
      "views": 54250.0
+    },
+    {
+     "at": "2026-11-17T04:17:10+09:00",
+     "views": 54322.0
     }
    ]
   }
@@ -744,16 +753,16 @@
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
-  "score": 78.26,
-  "score_raw": 78.26,
+  "score": 78.27,
+  "score_raw": 78.27,
   "coverage": 0.6667,
   "reliability": 0.6667,
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 54250,
-  "lift_vs_game_baseline": 11.377,
-  "growth_rate_7d": null,
+  "absolute_views": 54322,
+  "lift_vs_game_baseline": 11.335,
+  "growth_rate_7d": 9405,
   "related_posts": [
    {
     "title": "이환 1.5 버전 「지금 거신 번호는」 시작했어 | 신규 S급 엘림 + 시티 오너 정리",
@@ -761,7 +770,7 @@
     "published": "Sat, 14 Nov 2026 18:06:54 +0900"
    }
   ],
-  "last_updated": "2026-11-17T00:25:17+09:00",
+  "last_updated": "2026-11-17T04:17:10+09:00",
   "note": "current score does not include all-time records"
  }
 }

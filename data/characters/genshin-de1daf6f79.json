@@ -10,14 +10,14 @@
  "is_rerun": false,
  "reveal_date": "2026-10-28",
  "first_seen_at": "2026-11-09T22:03:22+09:00",
- "last_seen_at": "2026-11-17T00:25:17+09:00",
+ "last_seen_at": "2026-11-17T04:17:10+09:00",
  "alltime_rank": 2,
  "peak_pv_views": 71369.0,
  "peak_lift": 3.184,
  "peak_trends": null,
  "recorded_deltas": {
   "d24h": 0.0,
-  "d7d": null,
+  "d7d": 769.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -375,6 +375,11 @@
    "at": "2026-11-17T00:25:17+09:00",
    "video_id": "tCeXHmvg3ko",
    "views": 71369.0
+  },
+  {
+   "at": "2026-11-17T04:17:10+09:00",
+   "video_id": "tCeXHmvg3ko",
+   "views": 71369.0
   }
  ],
  "pv_series_by_video": [
@@ -683,6 +688,10 @@
     {
      "at": "2026-11-17T00:25:17+09:00",
      "views": 71369.0
+    },
+    {
+     "at": "2026-11-17T04:17:10+09:00",
+     "views": 71369.0
     }
    ]
   }
@@ -809,8 +818,8 @@
   "hold": false,
   "hold_reason": null,
   "absolute_views": 71369,
-  "lift_vs_game_baseline": 2.377,
-  "growth_rate_7d": null,
+  "lift_vs_game_baseline": 2.376,
+  "growth_rate_7d": 769,
   "related_posts": [
    {
     "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
@@ -818,7 +827,7 @@
     "published": "Mon, 16 Nov 2026 16:31:35 +0900"
    }
   ],
-  "last_updated": "2026-11-17T00:25:17+09:00",
+  "last_updated": "2026-11-17T04:17:10+09:00",
   "note": "current score does not include all-time records"
  }
 }

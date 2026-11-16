@@ -9,14 +9,14 @@
  "is_rerun": false,
  "reveal_date": "2026-11-02",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-17T00:25:17+09:00",
+ "last_seen_at": "2026-11-17T04:17:10+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 48081.0,
  "peak_lift": 9.395,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 1436.0,
-  "d7d": null,
+  "d24h": 75.0,
+  "d7d": 20042.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -354,6 +354,11 @@
    "at": "2026-11-17T00:25:17+09:00",
    "video_id": "HWsEtcPe1d4",
    "views": 48081.0
+  },
+  {
+   "at": "2026-11-17T04:17:10+09:00",
+   "video_id": "HWsEtcPe1d4",
+   "views": 48081.0
   }
  ],
  "pv_series_by_video": [
@@ -640,6 +645,10 @@
     {
      "at": "2026-11-17T00:25:17+09:00",
      "views": 48081.0
+    },
+    {
+     "at": "2026-11-17T04:17:10+09:00",
+     "views": 48081.0
     }
    ]
   }
@@ -659,16 +668,16 @@
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
-  "score": 83.56,
-  "score_raw": 83.56,
+  "score": 83.55,
+  "score_raw": 83.55,
   "coverage": 0.6667,
   "reliability": 0.6667,
   "provisional": false,
   "hold": false,
   "hold_reason": null,
   "absolute_views": 48081,
-  "lift_vs_game_baseline": 9.229,
-  "growth_rate_7d": null,
+  "lift_vs_game_baseline": 9.206,
+  "growth_rate_7d": 20042,
   "related_posts": [
    {
     "title": "명일방주 엔드필드 신규 6성 명하 왔어 | 은하수를 부르는 불꽃 픽업 + EP 봤어",
@@ -676,7 +685,7 @@
     "published": "Sat, 14 Nov 2026 14:50:41 +0900"
    }
   ],
-  "last_updated": "2026-11-17T00:25:17+09:00",
+  "last_updated": "2026-11-17T04:17:10+09:00",
   "note": "current score does not include all-time records"
  }
 }
