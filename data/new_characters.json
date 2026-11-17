@@ -158,7 +158,7 @@
     "url": "https://www.youtube.com/watch?v=T1d3GwCDG8w",
     "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
     "published": "2026-11-08T13:00:19+09:00",
-    "views": 469632,
+    "views": 470174,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw"
    },
@@ -296,7 +296,7 @@
     "url": "https://www.youtube.com/watch?v=OcDcxORlzmY",
     "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
     "published": "2026-11-06T12:59:56+09:00",
-    "views": 144950,
+    "views": 144994,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA"
    },
@@ -345,7 +345,7 @@
     "url": "https://www.youtube.com/watch?v=nNuN0rPi2YA",
     "thumb": "https://i.ytimg.com/vi/nNuN0rPi2YA/hqdefault.jpg",
     "published": "2026-11-10T12:00:00+09:00",
-    "views": 737670,
+    "views": 737824,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug"
    },
@@ -391,7 +391,7 @@
     "url": "https://www.youtube.com/watch?v=ioTHCpW4RSo",
     "thumb": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
     "published": "2026-11-08T12:00:21+09:00",
-    "views": 54347,
+    "views": 54358,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA"
    },
@@ -602,6 +602,6 @@
    "verification": "auto_official_reveal: HoYoLAB 공식 캐릭터 소개"
   }
  ],
- "last_updated": "2026-11-17T07:00:27+09:00",
+ "last_updated": "2026-11-17T10:28:49+09:00",
  "purged_this_run": []
 }

@@ -10,7 +10,7 @@
  "is_rerun": false,
  "reveal_date": "2026-10-28",
  "first_seen_at": "2026-11-09T22:03:22+09:00",
- "last_seen_at": "2026-11-17T07:04:02+09:00",
+ "last_seen_at": "2026-11-17T10:32:16+09:00",
  "alltime_rank": 2,
  "peak_pv_views": 71369.0,
  "peak_lift": 3.184,
@@ -385,6 +385,11 @@
    "at": "2026-11-17T07:04:02+09:00",
    "video_id": "tCeXHmvg3ko",
    "views": 71369.0
+  },
+  {
+   "at": "2026-11-17T10:32:16+09:00",
+   "video_id": "tCeXHmvg3ko",
+   "views": 71369.0
   }
  ],
  "pv_series_by_video": [
@@ -701,6 +706,10 @@
     {
      "at": "2026-11-17T07:04:02+09:00",
      "views": 71369.0
+    },
+    {
+     "at": "2026-11-17T10:32:16+09:00",
+     "views": 71369.0
     }
    ]
   }
@@ -836,7 +845,7 @@
     "published": "Mon, 16 Nov 2026 16:31:35 +0900"
    }
   ],
-  "last_updated": "2026-11-17T07:04:02+09:00",
+  "last_updated": "2026-11-17T10:32:16+09:00",
   "note": "current score does not include all-time records"
  }
 }
