@@ -9,14 +9,14 @@
  "is_rerun": false,
  "reveal_date": "2026-10-30",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-17T16:39:52+09:00",
+ "last_seen_at": "2026-11-17T19:24:52+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 471421.0,
+ "peak_pv_views": 471967.0,
  "peak_lift": 4.382,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 8231.0,
-  "d7d": 194231.0,
+  "d24h": 8777.0,
+  "d7d": 170398.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -379,6 +379,11 @@
    "at": "2026-11-17T16:39:52+09:00",
    "video_id": "T1d3GwCDG8w",
    "views": 471421.0
+  },
+  {
+   "at": "2026-11-17T19:24:52+09:00",
+   "video_id": "T1d3GwCDG8w",
+   "views": 471967.0
   }
  ],
  "pv_series_by_video": [
@@ -691,6 +696,10 @@
     {
      "at": "2026-11-17T16:39:52+09:00",
      "views": 471421.0
+    },
+    {
+     "at": "2026-11-17T19:24:52+09:00",
+     "views": 471967.0
     }
    ]
   }
@@ -704,7 +713,7 @@
     "ko": "에이언즈★아하",
     "en": "Aha"
    },
-   "peak_pv_views": 471421.0,
+   "peak_pv_views": 471967.0,
    "alltime_rank": 1
   },
   {
@@ -730,16 +739,16 @@
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
-  "score": 96.62,
-  "score_raw": 96.62,
+  "score": 96.63,
+  "score_raw": 96.63,
   "coverage": 0.6667,
   "reliability": 0.6667,
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 471421,
-  "lift_vs_game_baseline": 4.104,
-  "growth_rate_7d": 194231,
+  "absolute_views": 471967,
+  "lift_vs_game_baseline": 4.109,
+  "growth_rate_7d": 170398,
   "related_posts": [
    {
     "title": "스타레일 아하 카카오톡 이모티콘 11월 20일 출시 | 이상 낙원 2탄 32종 + 카톡 테마 무료 다운로드",
@@ -747,7 +756,7 @@
     "published": "Sun, 15 Nov 2026 16:22:36 +0900"
    }
   ],
-  "last_updated": "2026-11-17T16:39:52+09:00",
+  "last_updated": "2026-11-17T19:24:52+09:00",
   "note": "current score does not include all-time records"
  }
 }

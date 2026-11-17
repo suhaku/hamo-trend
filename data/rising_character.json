@@ -1,24 +1,40 @@
 {
  "status": "ok",
- "generated_at": "2026-11-17T16:36:25+09:00",
+ "generated_at": "2026-11-17T19:21:07+09:00",
  "rule": "최근 관심 성장 속도(주로 7일 조회수 증가분) · 복각 제외 · 스냅샷 부족 시 데이터 없음",
  "top": {
-  "character_id": "starrail-aha",
+  "character_id": "wuwa-lily",
   "name": {
-   "ko": "에이언즈★아하",
-   "en": "Aha"
+   "ko": "릴리",
+   "en": "Lily"
   },
-  "game_id": "starrail",
-  "delta_24h": 8231,
-  "delta_7d": 194231,
-  "growth_metric": 194231,
+  "game_id": "wuwa",
+  "delta_24h": 5615,
+  "delta_7d": 674330,
+  "growth_metric": 674330,
   "growth_window": "7d",
-  "absolute_views": 471421,
+  "absolute_views": 737216,
   "hold": false,
-  "last_updated": "2026-11-17T16:36:25+09:00",
+  "last_updated": "2026-11-17T19:21:07+09:00",
   "rank": 1
  },
  "ranking": [
+  {
+   "character_id": "wuwa-lily",
+   "name": {
+    "ko": "릴리",
+    "en": "Lily"
+   },
+   "game_id": "wuwa",
+   "delta_24h": 5615,
+   "delta_7d": 674330,
+   "growth_metric": 674330,
+   "growth_window": "7d",
+   "absolute_views": 737216,
+   "hold": false,
+   "last_updated": "2026-11-17T19:21:07+09:00",
+   "rank": 1
+  },
   {
    "character_id": "starrail-aha",
    "name": {
@@ -26,14 +42,14 @@
     "en": "Aha"
    },
    "game_id": "starrail",
-   "delta_24h": 8231,
-   "delta_7d": 194231,
-   "growth_metric": 194231,
+   "delta_24h": 8777,
+   "delta_7d": 170398,
+   "growth_metric": 170398,
    "growth_window": "7d",
-   "absolute_views": 471421,
+   "absolute_views": 471967,
    "hold": false,
-   "last_updated": "2026-11-17T16:36:25+09:00",
-   "rank": 1
+   "last_updated": "2026-11-17T19:21:07+09:00",
+   "rank": 2
   },
   {
    "character_id": "zzz-severian",
@@ -42,14 +58,14 @@
     "en": null
    },
    "game_id": "zzz",
-   "delta_24h": 1004,
-   "delta_7d": 36378,
-   "growth_metric": 36378,
+   "delta_24h": 1054,
+   "delta_7d": 32159,
+   "growth_metric": 32159,
    "growth_window": "7d",
-   "absolute_views": 145136,
+   "absolute_views": 145186,
    "hold": false,
-   "last_updated": "2026-11-17T16:36:25+09:00",
-   "rank": 2
+   "last_updated": "2026-11-17T19:21:07+09:00",
+   "rank": 3
   },
   {
    "character_id": "endfield-mingha",
@@ -59,13 +75,13 @@
    },
    "game_id": "endfield",
    "delta_24h": 0,
-   "delta_7d": 20018,
-   "growth_metric": 20018,
+   "delta_7d": 17519,
+   "growth_metric": 17519,
    "growth_window": "7d",
    "absolute_views": 48081,
    "hold": false,
-   "last_updated": "2026-11-17T16:36:25+09:00",
-   "rank": 3
+   "last_updated": "2026-11-17T19:21:07+09:00",
+   "rank": 4
   },
   {
    "character_id": "nte-elim",
@@ -74,29 +90,13 @@
     "en": null
    },
    "game_id": "nte",
-   "delta_24h": 273,
-   "delta_7d": 7185,
-   "growth_metric": 7185,
+   "delta_24h": 277,
+   "delta_7d": 3593,
+   "growth_metric": 3593,
    "growth_window": "7d",
-   "absolute_views": 54381,
+   "absolute_views": 54385,
    "hold": false,
-   "last_updated": "2026-11-17T16:36:25+09:00",
-   "rank": 4
-  },
-  {
-   "character_id": "wuwa-lily",
-   "name": {
-    "ko": "릴리",
-    "en": "Lily"
-   },
-   "game_id": "wuwa",
-   "delta_24h": 6676,
-   "delta_7d": null,
-   "growth_metric": 6676,
-   "growth_window": "24h",
-   "absolute_views": 738277,
-   "hold": false,
-   "last_updated": "2026-11-17T16:36:25+09:00",
+   "last_updated": "2026-11-17T19:21:07+09:00",
    "rank": 5
   },
   {
@@ -108,12 +108,12 @@
    },
    "game_id": "genshin",
    "delta_24h": 0,
-   "delta_7d": 1655,
-   "growth_metric": 1655,
+   "delta_7d": 1454,
+   "growth_metric": 1454,
    "growth_window": "7d",
    "absolute_views": 41488,
    "hold": false,
-   "last_updated": "2026-11-17T16:36:25+09:00",
+   "last_updated": "2026-11-17T19:21:07+09:00",
    "rank": 6
   },
   {
@@ -125,12 +125,12 @@
    },
    "game_id": "genshin",
    "delta_24h": 0,
-   "delta_7d": 703,
-   "growth_metric": 703,
+   "delta_7d": 439,
+   "growth_metric": 439,
    "growth_window": "7d",
    "absolute_views": 71369,
    "hold": false,
-   "last_updated": "2026-11-17T16:36:25+09:00",
+   "last_updated": "2026-11-17T19:21:07+09:00",
    "rank": 7
   }
  ]
