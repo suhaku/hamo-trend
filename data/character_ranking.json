@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-17T19:24:52+09:00",
+ "generated_at": "2026-11-17T22:31:30+09:00",
  "rule": "100점 만점 · 없는 지표는 0점 처리 없이 나머지로 다시 계산 · 수집률이 낮으면 잠정 또는 보류 · 신뢰도 따로 표시 · 복각 제외 · 역대 기록은 점수에 안 넣음",
  "weights": {
   "youtube_pv": 0.35,
@@ -22,8 +22,8 @@
    "score": 98.64,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 737216,
-    "youtube_pv_lift": 1.52,
+    "youtube_pv_views": 737566,
+    "youtube_pv_lift": 1.524,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -41,9 +41,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 737216,
-   "growth_rate_7d": 674330,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "absolute_views": 737566,
+   "growth_rate_7d": 654903,
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 98.64,
    "coverage": 0.6667,
    "provisional": false,
@@ -65,7 +65,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.52,
+   "lift_vs_game_baseline": 1.524,
    "pv_video_id": "nNuN0rPi2YA",
    "related_posts": [],
    "x": {
@@ -87,11 +87,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 2,
-   "score": 96.63,
+   "score": 96.64,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 471967,
-    "youtube_pv_lift": 4.109,
+    "youtube_pv_views": 472974,
+    "youtube_pv_lift": 4.115,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -109,10 +109,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 471967,
-   "growth_rate_7d": 170398,
-   "last_updated": "2026-11-17T19:24:52+09:00",
-   "score_raw": 96.63,
+   "absolute_views": 472974,
+   "growth_rate_7d": 162040,
+   "last_updated": "2026-11-17T22:31:30+09:00",
+   "score_raw": 96.64,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -124,7 +124,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 96.7,
+    "youtube_pv": 96.71,
     "x": 96.52
    },
    "weights_config": {
@@ -133,7 +133,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 4.109,
+   "lift_vs_game_baseline": 4.115,
    "pv_video_id": "T1d3GwCDG8w",
    "related_posts": [
     {
@@ -161,11 +161,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 3,
-   "score": 91.51,
+   "score": 91.52,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 145186,
-    "youtube_pv_lift": 1.163,
+    "youtube_pv_views": 145307,
+    "youtube_pv_lift": 1.158,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -183,10 +183,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 145186,
-   "growth_rate_7d": 32159,
-   "last_updated": "2026-11-17T19:24:52+09:00",
-   "score_raw": 91.51,
+   "absolute_views": 145307,
+   "growth_rate_7d": 29730,
+   "last_updated": "2026-11-17T22:31:30+09:00",
+   "score_raw": 91.52,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -198,7 +198,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 87.97,
+    "youtube_pv": 87.98,
     "x": 97.71
    },
    "weights_config": {
@@ -207,7 +207,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.163,
+   "lift_vs_game_baseline": 1.158,
    "pv_video_id": "OcDcxORlzmY",
    "related_posts": [],
    "x": {
@@ -234,7 +234,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 41488,
-    "youtube_pv_lift": 1.38,
+    "youtube_pv_lift": 1.37,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -253,8 +253,8 @@
     "likes_comments": "미연동"
    },
    "absolute_views": 41488,
-   "growth_rate_7d": 1454,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "growth_rate_7d": 1435,
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 84.72,
    "coverage": 0.6667,
    "provisional": false,
@@ -276,9 +276,14 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.38,
+   "lift_vs_game_baseline": 1.37,
    "pv_video_id": "Gh8mhHe4aXU",
    "related_posts": [
+    {
+     "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
+     "url": "https://news84034.tistory.com/40",
+     "published": "Tue, 17 Nov 2026 20:44:36 +0900"
+    },
     {
      "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
      "url": "https://news84034.tistory.com/38",
@@ -313,7 +318,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 48081,
-    "youtube_pv_lift": 9.185,
+    "youtube_pv_lift": 9.178,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -332,8 +337,8 @@
     "likes_comments": "미연동"
    },
    "absolute_views": 48081,
-   "growth_rate_7d": 17519,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "growth_rate_7d": 15900,
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 83.37,
    "coverage": 0.6667,
    "provisional": false,
@@ -355,7 +360,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 9.185,
+   "lift_vs_game_baseline": 9.178,
    "pv_video_id": "HWsEtcPe1d4",
    "related_posts": [],
    "x": {
@@ -382,7 +387,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 71369,
-    "youtube_pv_lift": 2.374,
+    "youtube_pv_lift": 2.357,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -401,8 +406,8 @@
     "likes_comments": "미연동"
    },
    "absolute_views": 71369,
-   "growth_rate_7d": 439,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "growth_rate_7d": 342,
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 81.53,
    "coverage": 0.6667,
    "provisional": false,
@@ -415,7 +420,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 82.72,
+    "youtube_pv": 82.71,
     "x": 79.46
    },
    "weights_config": {
@@ -424,9 +429,14 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 2.374,
+   "lift_vs_game_baseline": 2.357,
    "pv_video_id": "tCeXHmvg3ko",
    "related_posts": [
+    {
+     "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
+     "url": "https://news84034.tistory.com/40",
+     "published": "Tue, 17 Nov 2026 20:44:36 +0900"
+    },
     {
      "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
      "url": "https://news84034.tistory.com/38",
@@ -460,8 +470,8 @@
    "score": 78.25,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 54385,
-    "youtube_pv_lift": 11.277,
+    "youtube_pv_views": 54414,
+    "youtube_pv_lift": 11.274,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -479,9 +489,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 54385,
-   "growth_rate_7d": 3593,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "absolute_views": 54414,
+   "growth_rate_7d": 3439,
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 78.25,
    "coverage": 0.6667,
    "provisional": false,
@@ -503,7 +513,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 11.277,
+   "lift_vs_game_baseline": 11.274,
    "pv_video_id": "ioTHCpW4RSo",
    "related_posts": [],
    "x": {
@@ -551,7 +561,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 94.27,
    "coverage": 0.3333,
    "provisional": false,
@@ -573,6 +583,11 @@
    "lift_vs_game_baseline": null,
    "pv_video_id": null,
    "related_posts": [
+    {
+     "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
+     "url": "https://news84034.tistory.com/40",
+     "published": "Tue, 17 Nov 2026 20:44:36 +0900"
+    },
     {
      "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
      "url": "https://news84034.tistory.com/38",
@@ -627,7 +642,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 100.0,
    "coverage": 0.3333,
    "provisional": false,
@@ -649,6 +664,11 @@
    "lift_vs_game_baseline": null,
    "pv_video_id": null,
    "related_posts": [
+    {
+     "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
+     "url": "https://news84034.tistory.com/40",
+     "published": "Tue, 17 Nov 2026 20:44:36 +0900"
+    },
     {
      "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
      "url": "https://news84034.tistory.com/38",
@@ -703,7 +723,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 70.55,
    "coverage": 0.3333,
    "provisional": false,
@@ -768,7 +788,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 59.7,
    "coverage": 0.3333,
    "provisional": false,
@@ -822,7 +842,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 41488,
-    "youtube_pv_lift": 1.38,
+    "youtube_pv_lift": 1.37,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -841,8 +861,8 @@
     "likes_comments": "미연동"
    },
    "absolute_views": 41488,
-   "growth_rate_7d": 1454,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "growth_rate_7d": 1435,
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 84.72,
    "coverage": 0.6667,
    "provisional": false,
@@ -864,9 +884,14 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.38,
+   "lift_vs_game_baseline": 1.37,
    "pv_video_id": "Gh8mhHe4aXU",
    "related_posts": [
+    {
+     "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
+     "url": "https://news84034.tistory.com/40",
+     "published": "Tue, 17 Nov 2026 20:44:36 +0900"
+    },
     {
      "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
      "url": "https://news84034.tistory.com/38",
@@ -902,7 +927,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 71369,
-    "youtube_pv_lift": 2.374,
+    "youtube_pv_lift": 2.357,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -921,8 +946,8 @@
     "likes_comments": "미연동"
    },
    "absolute_views": 71369,
-   "growth_rate_7d": 439,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "growth_rate_7d": 342,
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 81.53,
    "coverage": 0.6667,
    "provisional": false,
@@ -935,7 +960,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 82.72,
+    "youtube_pv": 82.71,
     "x": 79.46
    },
    "weights_config": {
@@ -944,9 +969,14 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 2.374,
+   "lift_vs_game_baseline": 2.357,
    "pv_video_id": "tCeXHmvg3ko",
    "related_posts": [
+    {
+     "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
+     "url": "https://news84034.tistory.com/40",
+     "published": "Tue, 17 Nov 2026 20:44:36 +0900"
+    },
     {
      "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
      "url": "https://news84034.tistory.com/38",
@@ -977,11 +1007,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 2,
-   "score": 96.63,
+   "score": 96.64,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 471967,
-    "youtube_pv_lift": 4.109,
+    "youtube_pv_views": 472974,
+    "youtube_pv_lift": 4.115,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -999,10 +1029,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 471967,
-   "growth_rate_7d": 170398,
-   "last_updated": "2026-11-17T19:24:52+09:00",
-   "score_raw": 96.63,
+   "absolute_views": 472974,
+   "growth_rate_7d": 162040,
+   "last_updated": "2026-11-17T22:31:30+09:00",
+   "score_raw": 96.64,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -1014,7 +1044,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 96.7,
+    "youtube_pv": 96.71,
     "x": 96.52
    },
    "weights_config": {
@@ -1023,7 +1053,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 4.109,
+   "lift_vs_game_baseline": 4.115,
    "pv_video_id": "T1d3GwCDG8w",
    "related_posts": [
     {
@@ -1075,7 +1105,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 94.27,
    "coverage": 0.3333,
    "provisional": false,
@@ -1097,6 +1127,11 @@
    "lift_vs_game_baseline": null,
    "pv_video_id": null,
    "related_posts": [
+    {
+     "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
+     "url": "https://news84034.tistory.com/40",
+     "published": "Tue, 17 Nov 2026 20:44:36 +0900"
+    },
     {
      "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
      "url": "https://news84034.tistory.com/38",
@@ -1151,7 +1186,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 100.0,
    "coverage": 0.3333,
    "provisional": false,
@@ -1173,6 +1208,11 @@
    "lift_vs_game_baseline": null,
    "pv_video_id": null,
    "related_posts": [
+    {
+     "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
+     "url": "https://news84034.tistory.com/40",
+     "published": "Tue, 17 Nov 2026 20:44:36 +0900"
+    },
     {
      "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
      "url": "https://news84034.tistory.com/38",
@@ -1203,11 +1243,11 @@
    "hold": false,
    "hold_reason": null,
    "rank": 3,
-   "score": 91.51,
+   "score": 91.52,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 145186,
-    "youtube_pv_lift": 1.163,
+    "youtube_pv_views": 145307,
+    "youtube_pv_lift": 1.158,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1225,10 +1265,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 145186,
-   "growth_rate_7d": 32159,
-   "last_updated": "2026-11-17T19:24:52+09:00",
-   "score_raw": 91.51,
+   "absolute_views": 145307,
+   "growth_rate_7d": 29730,
+   "last_updated": "2026-11-17T22:31:30+09:00",
+   "score_raw": 91.52,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -1240,7 +1280,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 87.97,
+    "youtube_pv": 87.98,
     "x": 97.71
    },
    "weights_config": {
@@ -1249,7 +1289,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.163,
+   "lift_vs_game_baseline": 1.158,
    "pv_video_id": "OcDcxORlzmY",
    "related_posts": [],
    "x": {
@@ -1274,8 +1314,8 @@
    "score": 98.64,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 737216,
-    "youtube_pv_lift": 1.52,
+    "youtube_pv_views": 737566,
+    "youtube_pv_lift": 1.524,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1293,9 +1333,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 737216,
-   "growth_rate_7d": 674330,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "absolute_views": 737566,
+   "growth_rate_7d": 654903,
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 98.64,
    "coverage": 0.6667,
    "provisional": false,
@@ -1317,7 +1357,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.52,
+   "lift_vs_game_baseline": 1.524,
    "pv_video_id": "nNuN0rPi2YA",
    "related_posts": [],
    "x": {
@@ -1342,8 +1382,8 @@
    "score": 78.25,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 54385,
-    "youtube_pv_lift": 11.277,
+    "youtube_pv_views": 54414,
+    "youtube_pv_lift": 11.274,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1361,9 +1401,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 54385,
-   "growth_rate_7d": 3593,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "absolute_views": 54414,
+   "growth_rate_7d": 3439,
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 78.25,
    "coverage": 0.6667,
    "provisional": false,
@@ -1385,7 +1425,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 11.277,
+   "lift_vs_game_baseline": 11.274,
    "pv_video_id": "ioTHCpW4RSo",
    "related_posts": [],
    "x": {
@@ -1431,7 +1471,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 70.55,
    "coverage": 0.3333,
    "provisional": false,
@@ -1476,7 +1516,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 48081,
-    "youtube_pv_lift": 9.185,
+    "youtube_pv_lift": 9.178,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1495,8 +1535,8 @@
     "likes_comments": "미연동"
    },
    "absolute_views": 48081,
-   "growth_rate_7d": 17519,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "growth_rate_7d": 15900,
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 83.37,
    "coverage": 0.6667,
    "provisional": false,
@@ -1518,7 +1558,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 9.185,
+   "lift_vs_game_baseline": 9.178,
    "pv_video_id": "HWsEtcPe1d4",
    "related_posts": [],
    "x": {
@@ -1564,7 +1604,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-17T19:24:52+09:00",
+   "last_updated": "2026-11-17T22:31:30+09:00",
    "score_raw": 59.7,
    "coverage": 0.3333,
    "provisional": false,

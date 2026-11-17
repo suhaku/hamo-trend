@@ -10,14 +10,14 @@
  "is_rerun": false,
  "reveal_date": "2026-10-28",
  "first_seen_at": "2026-11-09T22:03:22+09:00",
- "last_seen_at": "2026-11-17T19:24:52+09:00",
+ "last_seen_at": "2026-11-17T22:31:30+09:00",
  "alltime_rank": 2,
  "peak_pv_views": 71369.0,
  "peak_lift": 3.184,
  "peak_trends": null,
  "recorded_deltas": {
   "d24h": 0.0,
-  "d7d": 439.0,
+  "d7d": 342.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -405,6 +405,11 @@
    "at": "2026-11-17T19:24:52+09:00",
    "video_id": "tCeXHmvg3ko",
    "views": 71369.0
+  },
+  {
+   "at": "2026-11-17T22:31:30+09:00",
+   "video_id": "tCeXHmvg3ko",
+   "views": 71369.0
   }
  ],
  "pv_series_by_video": [
@@ -737,6 +742,10 @@
     {
      "at": "2026-11-17T19:24:52+09:00",
      "views": 71369.0
+    },
+    {
+     "at": "2026-11-17T22:31:30+09:00",
+     "views": 71369.0
     }
    ]
   }
@@ -863,9 +872,14 @@
   "hold": false,
   "hold_reason": null,
   "absolute_views": 71369,
-  "lift_vs_game_baseline": 2.374,
-  "growth_rate_7d": 439,
+  "lift_vs_game_baseline": 2.357,
+  "growth_rate_7d": 342,
   "related_posts": [
+   {
+    "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
+    "url": "https://news84034.tistory.com/40",
+    "published": "Tue, 17 Nov 2026 20:44:36 +0900"
+   },
    {
     "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
     "url": "https://news84034.tistory.com/38",
@@ -877,7 +891,7 @@
     "published": "Mon, 16 Nov 2026 16:31:35 +0900"
    }
   ],
-  "last_updated": "2026-11-17T19:24:52+09:00",
+  "last_updated": "2026-11-17T22:31:30+09:00",
   "note": "current score does not include all-time records"
  }
 }
