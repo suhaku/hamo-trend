@@ -10,7 +10,7 @@
  "is_rerun": false,
  "reveal_date": "2026-10-29",
  "first_seen_at": "2026-11-09T22:03:22+09:00",
- "last_seen_at": "2026-11-17T13:12:33+09:00",
+ "last_seen_at": "2026-11-17T16:39:52+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 141603.0,
  "peak_lift": 3.583,
@@ -395,6 +395,11 @@
    "at": "2026-11-17T13:12:33+09:00",
    "video_id": "Gh8mhHe4aXU",
    "views": 41488.0
+  },
+  {
+   "at": "2026-11-17T16:39:52+09:00",
+   "video_id": "Gh8mhHe4aXU",
+   "views": 41488.0
   }
  ],
  "pv_series_by_video": [
@@ -731,6 +736,10 @@
     {
      "at": "2026-11-17T13:12:33+09:00",
      "views": 41488.0
+    },
+    {
+     "at": "2026-11-17T16:39:52+09:00",
+     "views": 41488.0
     }
    ]
   }
@@ -857,16 +866,21 @@
   "hold": false,
   "hold_reason": null,
   "absolute_views": 41488,
-  "lift_vs_game_baseline": 1.381,
+  "lift_vs_game_baseline": 1.38,
   "growth_rate_7d": 1655,
   "related_posts": [
+   {
+    "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
+    "url": "https://news84034.tistory.com/38",
+    "published": "Tue, 17 Nov 2026 14:31:49 +0900"
+   },
    {
     "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
     "url": "https://news84034.tistory.com/35",
     "published": "Mon, 16 Nov 2026 16:31:35 +0900"
    }
   ],
-  "last_updated": "2026-11-17T13:12:33+09:00",
+  "last_updated": "2026-11-17T16:39:52+09:00",
   "note": "current score does not include all-time records"
  }
 }
