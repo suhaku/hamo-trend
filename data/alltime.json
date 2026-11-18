@@ -13,11 +13,11 @@
      "is_new": true,
      "is_rerun": false,
      "reveal_date": "2026-10-30",
-     "peak_pv_views": 477536.0,
+     "peak_pv_views": 478250.0,
      "peak_lift": 4.382,
      "peak_trends": null,
-     "recorded_delta_24h": 6841.0,
-     "recorded_delta_7d": 148332.0,
+     "recorded_delta_24h": 6829.0,
+     "recorded_delta_7d": 129898.0,
      "recorded_delta_30d": null,
      "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
      "alltime_rank": 1
@@ -70,11 +70,11 @@
     "is_new": true,
     "is_rerun": false,
     "reveal_date": "2026-10-30",
-    "peak_pv_views": 477536.0,
+    "peak_pv_views": 478250.0,
     "peak_lift": 4.382,
     "peak_trends": null,
-    "recorded_delta_24h": 6841.0,
-    "recorded_delta_7d": 148332.0,
+    "recorded_delta_24h": 6829.0,
+    "recorded_delta_7d": 129898.0,
     "recorded_delta_30d": null,
     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
     "alltime_rank": 1
@@ -171,7 +171,7 @@
      "peak_lift": 3.583,
      "peak_trends": null,
      "recorded_delta_24h": 0.0,
-     "recorded_delta_7d": 1244.0,
+     "recorded_delta_7d": 1140.0,
      "recorded_delta_30d": null,
      "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
      "alltime_rank": 1
@@ -190,7 +190,7 @@
      "peak_lift": 3.184,
      "peak_trends": null,
      "recorded_delta_24h": 0.0,
-     "recorded_delta_7d": 156.0,
+     "recorded_delta_7d": 0.0,
      "recorded_delta_30d": null,
      "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
      "alltime_rank": 2
@@ -379,7 +379,7 @@
     "peak_lift": 3.583,
     "peak_trends": null,
     "recorded_delta_24h": 0.0,
-    "recorded_delta_7d": 1244.0,
+    "recorded_delta_7d": 1140.0,
     "recorded_delta_30d": null,
     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
     "alltime_rank": 1
@@ -423,11 +423,11 @@
      "is_new": true,
      "is_rerun": false,
      "reveal_date": "2026-10-23",
-     "peak_pv_views": 145849.0,
+     "peak_pv_views": 145877.0,
      "peak_lift": 1.181,
      "peak_trends": null,
-     "recorded_delta_24h": 799.0,
-     "recorded_delta_7d": 27105.0,
+     "recorded_delta_24h": 741.0,
+     "recorded_delta_7d": 20972.0,
      "recorded_delta_30d": null,
      "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
      "alltime_rank": 1
@@ -442,11 +442,11 @@
     "is_new": true,
     "is_rerun": false,
     "reveal_date": "2026-10-23",
-    "peak_pv_views": 145849.0,
+    "peak_pv_views": 145877.0,
     "peak_lift": 1.181,
     "peak_trends": null,
-    "recorded_delta_24h": 799.0,
-    "recorded_delta_7d": 27105.0,
+    "recorded_delta_24h": 741.0,
+    "recorded_delta_7d": 20972.0,
     "recorded_delta_30d": null,
     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
     "alltime_rank": 1
@@ -485,8 +485,8 @@
      "peak_pv_views": 739248.0,
      "peak_lift": 153.378,
      "peak_trends": null,
-     "recorded_delta_24h": 1265.0,
-     "recorded_delta_7d": 636930.0,
+     "recorded_delta_24h": 507.0,
+     "recorded_delta_7d": 624237.0,
      "recorded_delta_30d": null,
      "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
      "alltime_rank": 1
@@ -504,8 +504,8 @@
     "peak_pv_views": 739248.0,
     "peak_lift": 153.378,
     "peak_trends": null,
-    "recorded_delta_24h": 1265.0,
-    "recorded_delta_7d": 636930.0,
+    "recorded_delta_24h": 507.0,
+    "recorded_delta_7d": 624237.0,
     "recorded_delta_30d": null,
     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
     "alltime_rank": 1
@@ -514,8 +514,46 @@
   },
   "nikke": {
    "game_id": "nikke",
-   "alltime_new_character_ranking": [],
-   "alltime_top_character": null,
+   "alltime_new_character_ranking": [
+    {
+     "character_id": "nikke-5be22bee4d",
+     "name": {
+      "ko": "스카이",
+      "en": null,
+      "ja": null
+     },
+     "is_new": true,
+     "is_rerun": false,
+     "reveal_date": "2026-11-18",
+     "peak_pv_views": 6727.0,
+     "peak_lift": 0.232,
+     "peak_trends": null,
+     "recorded_delta_24h": null,
+     "recorded_delta_7d": null,
+     "recorded_delta_30d": null,
+     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+     "alltime_rank": 1
+    }
+   ],
+   "alltime_top_character": {
+    "character_id": "nikke-5be22bee4d",
+    "name": {
+     "ko": "스카이",
+     "en": null,
+     "ja": null
+    },
+    "is_new": true,
+    "is_rerun": false,
+    "reveal_date": "2026-11-18",
+    "peak_pv_views": 6727.0,
+    "peak_lift": 0.232,
+    "peak_trends": null,
+    "recorded_delta_24h": null,
+    "recorded_delta_7d": null,
+    "recorded_delta_30d": null,
+    "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
+    "alltime_rank": 1
+   },
    "pickup_rerun_history": []
   },
   "trickcal": {
@@ -671,8 +709,8 @@
      "peak_pv_views": 54612.0,
      "peak_lift": 14.398,
      "peak_trends": null,
-     "recorded_delta_24h": 188.0,
-     "recorded_delta_7d": 3244.0,
+     "recorded_delta_24h": 173.0,
+     "recorded_delta_7d": 2726.0,
      "recorded_delta_30d": null,
      "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
      "alltime_rank": 1
@@ -841,8 +879,8 @@
     "peak_pv_views": 54612.0,
     "peak_lift": 14.398,
     "peak_trends": null,
-    "recorded_delta_24h": 188.0,
-    "recorded_delta_7d": 3244.0,
+    "recorded_delta_24h": 173.0,
+    "recorded_delta_7d": 2726.0,
     "recorded_delta_30d": null,
     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
     "alltime_rank": 1
@@ -906,7 +944,7 @@
      "peak_lift": 9.395,
      "peak_trends": null,
      "recorded_delta_24h": 0.0,
-     "recorded_delta_7d": 13827.0,
+     "recorded_delta_7d": 11637.0,
      "recorded_delta_30d": null,
      "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
      "alltime_rank": 1
@@ -925,7 +963,7 @@
     "peak_lift": 9.395,
     "peak_trends": null,
     "recorded_delta_24h": 0.0,
-    "recorded_delta_7d": 13827.0,
+    "recorded_delta_7d": 11637.0,
     "recorded_delta_30d": null,
     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
     "alltime_rank": 1
