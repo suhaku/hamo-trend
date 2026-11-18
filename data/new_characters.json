@@ -158,7 +158,7 @@
     "url": "https://www.youtube.com/watch?v=T1d3GwCDG8w",
     "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
     "published": "2026-11-08T13:00:19+09:00",
-    "views": 481264,
+    "views": 481664,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw"
    },
@@ -169,7 +169,7 @@
    },
    "portrait_zoom": 1.0,
    "pickup": {
-    "start": "2026-11-09 22:00:00",
+    "start": "2026-11-10 11:00:00",
     "end": "2026-12-02 11:59:00",
     "tz": "UTC+8",
     "source_url": "https://www.hoyolab.com/article/47385253",
@@ -296,7 +296,7 @@
     "url": "https://www.youtube.com/watch?v=OcDcxORlzmY",
     "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
     "published": "2026-11-06T12:59:56+09:00",
-    "views": 146203,
+    "views": 146240,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA"
    },
@@ -345,7 +345,7 @@
     "url": "https://www.youtube.com/watch?v=nNuN0rPi2YA",
     "thumb": "https://i.ytimg.com/vi/nNuN0rPi2YA/hqdefault.jpg",
     "published": "2026-11-10T12:00:00+09:00",
-    "views": 739704,
+    "views": 739739,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug"
    },
@@ -391,7 +391,7 @@
     "url": "https://www.youtube.com/watch?v=ioTHCpW4RSo",
     "thumb": "https://i.ytimg.com/vi/ioTHCpW4RSo/hqdefault.jpg",
     "published": "2026-11-08T12:00:21+09:00",
-    "views": 54664,
+    "views": 54672,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA"
    },
@@ -632,12 +632,12 @@
     "url": "https://www.youtube.com/shorts/_u6X7FCG2Fw",
     "thumb": "https://i.ytimg.com/vi/_u6X7FCG2Fw/hqdefault.jpg",
     "published": "2026-11-18T17:00:11+09:00",
-    "views": 24407,
+    "views": 25464,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzoVPjV8FF2om0Zj3XRPwVw"
    }
   }
  ],
- "last_updated": "2026-11-19T04:13:18+09:00",
+ "last_updated": "2026-11-19T07:03:58+09:00",
  "purged_this_run": []
 }
