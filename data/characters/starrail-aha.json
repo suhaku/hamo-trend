@@ -9,14 +9,14 @@
  "is_rerun": false,
  "reveal_date": "2026-10-30",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-19T01:20:14+09:00",
+ "last_seen_at": "2026-11-19T04:17:01+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 480331.0,
+ "peak_pv_views": 481264.0,
  "peak_lift": 4.382,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 6305.0,
-  "d7d": 120691.0,
+  "d24h": 7238.0,
+  "d7d": 121624.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -434,6 +434,11 @@
    "at": "2026-11-19T01:20:14+09:00",
    "video_id": "T1d3GwCDG8w",
    "views": 480331.0
+  },
+  {
+   "at": "2026-11-19T04:17:01+09:00",
+   "video_id": "T1d3GwCDG8w",
+   "views": 481264.0
   }
  ],
  "pv_series_by_video": [
@@ -790,6 +795,10 @@
     {
      "at": "2026-11-19T01:20:14+09:00",
      "views": 480331.0
+    },
+    {
+     "at": "2026-11-19T04:17:01+09:00",
+     "views": 481264.0
     }
    ]
   }
@@ -803,7 +812,7 @@
     "ko": "에이언즈★아하",
     "en": "Aha"
    },
-   "peak_pv_views": 480331.0,
+   "peak_pv_views": 481264.0,
    "alltime_rank": 1
   },
   {
@@ -829,18 +838,18 @@
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
-  "score": 96.7,
-  "score_raw": 96.7,
+  "score": 96.71,
+  "score_raw": 96.71,
   "coverage": 0.6667,
   "reliability": 0.6667,
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 480331,
-  "lift_vs_game_baseline": 4.157,
-  "growth_rate_7d": 120691,
+  "absolute_views": 481264,
+  "lift_vs_game_baseline": 4.164,
+  "growth_rate_7d": 121624,
   "related_posts": [],
-  "last_updated": "2026-11-19T01:20:14+09:00",
+  "last_updated": "2026-11-19T04:17:01+09:00",
   "note": "current score does not include all-time records"
  }
 }

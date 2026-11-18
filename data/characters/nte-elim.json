@@ -9,14 +9,14 @@
  "is_rerun": false,
  "reveal_date": "2026-10-29",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-19T01:20:14+09:00",
+ "last_seen_at": "2026-11-19T04:17:01+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 54622.0,
+ "peak_pv_views": 54664.0,
  "peak_lift": 14.398,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 187.0,
-  "d7d": 2500.0,
+  "d24h": 229.0,
+  "d7d": 2542.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -434,6 +434,11 @@
    "at": "2026-11-19T01:20:14+09:00",
    "video_id": "ioTHCpW4RSo",
    "views": 54622.0
+  },
+  {
+   "at": "2026-11-19T04:17:01+09:00",
+   "video_id": "ioTHCpW4RSo",
+   "views": 54664.0
   }
  ],
  "pv_series_by_video": [
@@ -790,6 +795,10 @@
     {
      "at": "2026-11-19T01:20:14+09:00",
      "views": 54622.0
+    },
+    {
+     "at": "2026-11-19T04:17:01+09:00",
+     "views": 54664.0
     }
    ]
   }
@@ -803,7 +812,7 @@
     "ko": "엘림",
     "en": null
    },
-   "peak_pv_views": 54622.0,
+   "peak_pv_views": 54664.0,
    "alltime_rank": 1
   },
   {
@@ -895,11 +904,11 @@
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 54622,
-  "lift_vs_game_baseline": 11.193,
-  "growth_rate_7d": 2500,
+  "absolute_views": 54664,
+  "lift_vs_game_baseline": 11.195,
+  "growth_rate_7d": 2542,
   "related_posts": [],
-  "last_updated": "2026-11-19T01:20:14+09:00",
+  "last_updated": "2026-11-19T04:17:01+09:00",
   "note": "current score does not include all-time records"
  }
 }
