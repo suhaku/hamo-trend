@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:17:43+09:00",
+ "generated_at": "2026-11-19T16:39:46+09:00",
  "timezone": "Asia/Seoul",
  "product": "new-character reveals + PV popularity (no game ranking)",
  "sections": [
@@ -12,7 +12,7 @@
  "new_characters": {
   "status": "ok",
   "month": "2026-11",
-  "generated_at": "2026-11-19T13:14:17+09:00",
+  "generated_at": "2026-11-19T16:36:18+09:00",
   "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
   "items": [
    {
@@ -50,8 +50,13 @@
     "pickup": null,
     "verification": "auto_official_reveal: 공식 유튜브 캐릭터 공개 영상",
     "is_new": true,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [
+     {
+      "title": "니케 스카이 오늘 점검 끝나고 시작 | 특수 모집 12월 3일까지, 마일리지 200장이면 교환",
+      "url": "https://news84034.tistory.com/45",
+      "published": "Thu, 19 Nov 2026 15:16:38 +0900"
+     },
      {
       "title": "니케 마리안:퀸 오늘 밤 끝난다 | 11월 19일 새벽 4시 59분 종료, 스카이는 점검 후 시작",
       "url": "https://news84034.tistory.com/41",
@@ -103,7 +108,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/WW_JP_Official/status/2119988430176387499",
     "x_status": "연동(일 1회)"
@@ -144,7 +149,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [
      {
       "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
@@ -155,11 +160,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ],
     "x_top_post_url": "https://x.com/Genshin_7/status/2118916353574715817",
@@ -201,7 +201,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [
      {
       "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
@@ -212,11 +212,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ],
     "x_top_post_url": "https://x.com/Genshin_7/status/2118553962706055661",
@@ -265,7 +260,7 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [
      {
       "title": "트릭컬 두두 픽업 내일 오전 10시 59분 종료 | 테마극장&middot;스페셜 선택 모집도 같이 끝남",
@@ -323,7 +318,7 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [
      {
       "title": "명일방주 엔드필드 11월 19일 퍼즐 공간 3종 추가 | 명하 픽업&middot;1주년 페스티벌 신청도 체크",
@@ -379,7 +374,7 @@
     "source_url": "https://www.youtube.com/watch?v=hcwRWe0UyKI",
     "source_label": null,
     "pickup": {
-     "start": "2026-11-10 04:00:00",
+     "start": "2026-11-10 11:00:00",
      "end": "2026-12-02 11:59:00",
      "tz": "UTC+8",
      "source_url": "https://www.hoyolab.com/article/47385253",
@@ -391,7 +386,7 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/honkaistarrail/status/2115654862767546563",
     "x_status": "연동(일 1회)"
@@ -435,7 +430,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
     "x_status": "연동(일 1회)"
@@ -475,7 +470,7 @@
     "pickup": null,
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
     "x_status": "연동(일 1회)"
@@ -531,7 +526,7 @@
     },
     "verification": "official_new_marker_or_debut_featured",
     "is_new": true,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [
      {
       "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
@@ -542,11 +537,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ],
     "x_top_post_url": "https://x.com/GenshinImpact/status/2117467054924025874",
@@ -601,7 +591,7 @@
     },
     "verification": "official_new_marker_or_debut_featured",
     "is_new": true,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [
      {
       "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
@@ -612,11 +602,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ],
     "x_top_post_url": "https://x.com/GenshinImpact/status/2117104662675353725",
@@ -674,7 +659,7 @@
     },
     "verification": "manual_verified_official_source",
     "is_new": true,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [],
     "x_top_post_url": "https://x.com/ZZZ_JP/status/2118553969387827228",
     "x_status": "연동(일 1회)"
@@ -684,7 +669,7 @@
  },
  "pv_ranking": {
   "status": "ok",
-  "generated_at": "2026-11-19T13:14:17+09:00",
+  "generated_at": "2026-11-19T16:36:18+09:00",
   "rule": "공식 채널 PV 실측 조회수 · 절대 조회수와 성장 순위 분리 · 같은 게임 과거 신캐 대비 보정",
   "hold_policy": "PV 게시 후 24시간 미만이거나 조회수 없으면 순위 보류",
   "absolute_ranking": [
@@ -701,12 +686,12 @@
     "rank_absolute": 1,
     "rank_growth": 1,
     "absolute": {
-     "views": 740015,
-     "lift_vs_game_baseline": 7.06
+     "views": 739874,
+     "lift_vs_game_baseline": 6.89
     },
     "growth": {
-     "delta_24h": 1348,
-     "delta_7d": 615292,
+     "delta_24h": 626,
+     "delta_7d": 615151,
      "delta_30d": null,
      "since_publish_24h": 39432,
      "since_publish_7d": 675097,
@@ -719,26 +704,26 @@
      "thumb": "https://i.ytimg.com/vi/nNuN0rPi2YA/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-10T12:00:00+09:00",
-     "age_hours": 217.2,
-     "views_absolute": 740015,
+     "age_hours": 220.6,
+     "views_absolute": 739874,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 740015,
-      "delta_24h": 1348,
-      "delta_7d": 615292,
+      "views_now": 739874,
+      "delta_24h": 626,
+      "delta_7d": 615151,
       "delta_30d": null,
       "since_publish_24h": 39432,
       "since_publish_7d": 675097,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 104817,
-     "lift_vs_game_baseline": 7.06,
+     "game_baseline_median_views": 107389,
+     "lift_vs_game_baseline": 6.89,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "character_id": "starrail-aha",
@@ -753,12 +738,12 @@
     "rank_absolute": 2,
     "rank_growth": 2,
     "absolute": {
-     "views": 482586,
-     "lift_vs_game_baseline": 4.174
+     "views": 483282,
+     "lift_vs_game_baseline": 4.176
     },
     "growth": {
-     "delta_24h": 5980,
-     "delta_7d": 111569,
+     "delta_24h": 5746,
+     "delta_7d": 112265,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 182851,
@@ -771,26 +756,26 @@
      "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-08T13:00:19+09:00",
-     "age_hours": 264.2,
-     "views_absolute": 482586,
+     "age_hours": 267.6,
+     "views_absolute": 483282,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 482586,
-      "delta_24h": 5980,
-      "delta_7d": 111569,
+      "views_now": 483282,
+      "delta_24h": 5746,
+      "delta_7d": 112265,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 182851,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 115631,
-     "lift_vs_game_baseline": 4.174,
+     "game_baseline_median_views": 115733,
+     "lift_vs_game_baseline": 4.176,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "character_id": "zzz-severian",
@@ -805,12 +790,12 @@
     "rank_absolute": 3,
     "rank_growth": 3,
     "absolute": {
-     "views": 146338,
-     "lift_vs_game_baseline": 1.127
+     "views": 146374,
+     "lift_vs_game_baseline": 1.124
     },
     "growth": {
-     "delta_24h": 598,
-     "delta_7d": 15120,
+     "delta_24h": 525,
+     "delta_7d": 15156,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 32736,
@@ -823,26 +808,26 @@
      "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-06T12:59:56+09:00",
-     "age_hours": 312.2,
-     "views_absolute": 146338,
+     "age_hours": 315.6,
+     "views_absolute": 146374,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 146338,
-      "delta_24h": 598,
-      "delta_7d": 15120,
+      "views_now": 146374,
+      "delta_24h": 525,
+      "delta_7d": 15156,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 32736,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 129798,
-     "lift_vs_game_baseline": 1.127,
+     "game_baseline_median_views": 130235,
+     "lift_vs_game_baseline": 1.124,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "character_id": "genshin-de1daf6f79",
@@ -859,7 +844,7 @@
     "rank_growth": 7,
     "absolute": {
      "views": 71369,
-     "lift_vs_game_baseline": 2.259
+     "lift_vs_game_baseline": 2.248
     },
     "growth": {
      "delta_24h": 0,
@@ -876,7 +861,7 @@
      "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-02T13:00:00+09:00",
-     "age_hours": 408.2,
+     "age_hours": 411.6,
      "views_absolute": 71369,
      "likes": null,
      "comments": null,
@@ -890,12 +875,12 @@
       "since_publish_7d": 0,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 31590,
-     "lift_vs_game_baseline": 2.259,
+     "game_baseline_median_views": 31751,
+     "lift_vs_game_baseline": 2.248,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "character_id": "endfield-mingha",
@@ -911,7 +896,7 @@
     "rank_growth": 4,
     "absolute": {
      "views": 48081,
-     "lift_vs_game_baseline": 8.969
+     "lift_vs_game_baseline": 8.894
     },
     "growth": {
      "delta_24h": 0,
@@ -928,7 +913,7 @@
      "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T19:00:38+09:00",
-     "age_hours": 378.2,
+     "age_hours": 381.6,
      "views_absolute": 48081,
      "likes": null,
      "comments": null,
@@ -942,12 +927,12 @@
       "since_publish_7d": 3125,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 5361,
-     "lift_vs_game_baseline": 8.969,
+     "game_baseline_median_views": 5406,
+     "lift_vs_game_baseline": 8.894,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "character_id": "genshin-a2fbc1b95d",
@@ -964,7 +949,7 @@
     "rank_growth": 6,
     "absolute": {
      "views": 41488,
-     "lift_vs_game_baseline": 1.313
+     "lift_vs_game_baseline": 1.307
     },
     "growth": {
      "delta_24h": 0,
@@ -981,7 +966,7 @@
      "thumb": "https://i.ytimg.com/vi/Gh8mhHe4aXU/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T13:04:08+09:00",
-     "age_hours": 384.2,
+     "age_hours": 387.5,
      "views_absolute": 41488,
      "likes": null,
      "comments": null,
@@ -995,12 +980,12 @@
       "since_publish_7d": 459,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 31590,
-     "lift_vs_game_baseline": 1.313,
+     "game_baseline_median_views": 31751,
+     "lift_vs_game_baseline": 1.307,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "character_id": "nte-elim",
@@ -1015,12 +1000,12 @@
     "rank_absolute": 7,
     "rank_growth": 5,
     "absolute": {
-     "views": 5790,
-     "lift_vs_game_baseline": 1.451
+     "views": 5795,
+     "lift_vs_game_baseline": 1.452
     },
     "growth": {
-     "delta_24h": 55,
-     "delta_7d": 1252,
+     "delta_24h": 44,
+     "delta_7d": 1257,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 2026,
@@ -1033,26 +1018,26 @@
      "thumb": "https://i.ytimg.com/vi/jVxR-Xj_CtY/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-08T17:10:00+09:00",
-     "age_hours": 260.1,
-     "views_absolute": 5790,
+     "age_hours": 263.4,
+     "views_absolute": 5795,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 5790,
-      "delta_24h": 55,
-      "delta_7d": 1252,
+      "views_now": 5795,
+      "delta_24h": 44,
+      "delta_7d": 1257,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 2026,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 3990,
-     "lift_vs_game_baseline": 1.451,
+     "game_baseline_median_views": 3992,
+     "lift_vs_game_baseline": 1.452,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    }
   ],
   "growth_ranking": [
@@ -1069,12 +1054,12 @@
     "rank_absolute": 1,
     "rank_growth": 1,
     "absolute": {
-     "views": 740015,
-     "lift_vs_game_baseline": 7.06
+     "views": 739874,
+     "lift_vs_game_baseline": 6.89
     },
     "growth": {
-     "delta_24h": 1348,
-     "delta_7d": 615292,
+     "delta_24h": 626,
+     "delta_7d": 615151,
      "delta_30d": null,
      "since_publish_24h": 39432,
      "since_publish_7d": 675097,
@@ -1087,26 +1072,26 @@
      "thumb": "https://i.ytimg.com/vi/nNuN0rPi2YA/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-10T12:00:00+09:00",
-     "age_hours": 217.2,
-     "views_absolute": 740015,
+     "age_hours": 220.6,
+     "views_absolute": 739874,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 740015,
-      "delta_24h": 1348,
-      "delta_7d": 615292,
+      "views_now": 739874,
+      "delta_24h": 626,
+      "delta_7d": 615151,
       "delta_30d": null,
       "since_publish_24h": 39432,
       "since_publish_7d": 675097,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 104817,
-     "lift_vs_game_baseline": 7.06,
+     "game_baseline_median_views": 107389,
+     "lift_vs_game_baseline": 6.89,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "character_id": "starrail-aha",
@@ -1121,12 +1106,12 @@
     "rank_absolute": 2,
     "rank_growth": 2,
     "absolute": {
-     "views": 482586,
-     "lift_vs_game_baseline": 4.174
+     "views": 483282,
+     "lift_vs_game_baseline": 4.176
     },
     "growth": {
-     "delta_24h": 5980,
-     "delta_7d": 111569,
+     "delta_24h": 5746,
+     "delta_7d": 112265,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 182851,
@@ -1139,26 +1124,26 @@
      "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-08T13:00:19+09:00",
-     "age_hours": 264.2,
-     "views_absolute": 482586,
+     "age_hours": 267.6,
+     "views_absolute": 483282,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 482586,
-      "delta_24h": 5980,
-      "delta_7d": 111569,
+      "views_now": 483282,
+      "delta_24h": 5746,
+      "delta_7d": 112265,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 182851,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 115631,
-     "lift_vs_game_baseline": 4.174,
+     "game_baseline_median_views": 115733,
+     "lift_vs_game_baseline": 4.176,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "character_id": "zzz-severian",
@@ -1173,12 +1158,12 @@
     "rank_absolute": 3,
     "rank_growth": 3,
     "absolute": {
-     "views": 146338,
-     "lift_vs_game_baseline": 1.127
+     "views": 146374,
+     "lift_vs_game_baseline": 1.124
     },
     "growth": {
-     "delta_24h": 598,
-     "delta_7d": 15120,
+     "delta_24h": 525,
+     "delta_7d": 15156,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 32736,
@@ -1191,26 +1176,26 @@
      "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-06T12:59:56+09:00",
-     "age_hours": 312.2,
-     "views_absolute": 146338,
+     "age_hours": 315.6,
+     "views_absolute": 146374,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 146338,
-      "delta_24h": 598,
-      "delta_7d": 15120,
+      "views_now": 146374,
+      "delta_24h": 525,
+      "delta_7d": 15156,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 32736,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 129798,
-     "lift_vs_game_baseline": 1.127,
+     "game_baseline_median_views": 130235,
+     "lift_vs_game_baseline": 1.124,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "character_id": "endfield-mingha",
@@ -1226,7 +1211,7 @@
     "rank_growth": 4,
     "absolute": {
      "views": 48081,
-     "lift_vs_game_baseline": 8.969
+     "lift_vs_game_baseline": 8.894
     },
     "growth": {
      "delta_24h": 0,
@@ -1243,7 +1228,7 @@
      "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T19:00:38+09:00",
-     "age_hours": 378.2,
+     "age_hours": 381.6,
      "views_absolute": 48081,
      "likes": null,
      "comments": null,
@@ -1257,12 +1242,12 @@
       "since_publish_7d": 3125,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 5361,
-     "lift_vs_game_baseline": 8.969,
+     "game_baseline_median_views": 5406,
+     "lift_vs_game_baseline": 8.894,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "character_id": "nte-elim",
@@ -1277,12 +1262,12 @@
     "rank_absolute": 7,
     "rank_growth": 5,
     "absolute": {
-     "views": 5790,
-     "lift_vs_game_baseline": 1.451
+     "views": 5795,
+     "lift_vs_game_baseline": 1.452
     },
     "growth": {
-     "delta_24h": 55,
-     "delta_7d": 1252,
+     "delta_24h": 44,
+     "delta_7d": 1257,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 2026,
@@ -1295,26 +1280,26 @@
      "thumb": "https://i.ytimg.com/vi/jVxR-Xj_CtY/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-08T17:10:00+09:00",
-     "age_hours": 260.1,
-     "views_absolute": 5790,
+     "age_hours": 263.4,
+     "views_absolute": 5795,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 5790,
-      "delta_24h": 55,
-      "delta_7d": 1252,
+      "views_now": 5795,
+      "delta_24h": 44,
+      "delta_7d": 1257,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 2026,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 3990,
-     "lift_vs_game_baseline": 1.451,
+     "game_baseline_median_views": 3992,
+     "lift_vs_game_baseline": 1.452,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "character_id": "genshin-a2fbc1b95d",
@@ -1331,7 +1316,7 @@
     "rank_growth": 6,
     "absolute": {
      "views": 41488,
-     "lift_vs_game_baseline": 1.313
+     "lift_vs_game_baseline": 1.307
     },
     "growth": {
      "delta_24h": 0,
@@ -1348,7 +1333,7 @@
      "thumb": "https://i.ytimg.com/vi/Gh8mhHe4aXU/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T13:04:08+09:00",
-     "age_hours": 384.2,
+     "age_hours": 387.5,
      "views_absolute": 41488,
      "likes": null,
      "comments": null,
@@ -1362,12 +1347,12 @@
       "since_publish_7d": 459,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 31590,
-     "lift_vs_game_baseline": 1.313,
+     "game_baseline_median_views": 31751,
+     "lift_vs_game_baseline": 1.307,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "character_id": "genshin-de1daf6f79",
@@ -1384,7 +1369,7 @@
     "rank_growth": 7,
     "absolute": {
      "views": 71369,
-     "lift_vs_game_baseline": 2.259
+     "lift_vs_game_baseline": 2.248
     },
     "growth": {
      "delta_24h": 0,
@@ -1401,7 +1386,7 @@
      "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-02T13:00:00+09:00",
-     "age_hours": 408.2,
+     "age_hours": 411.6,
      "views_absolute": 71369,
      "likes": null,
      "comments": null,
@@ -1415,12 +1400,12 @@
       "since_publish_7d": 0,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 31590,
-     "lift_vs_game_baseline": 2.259,
+     "game_baseline_median_views": 31751,
+     "lift_vs_game_baseline": 2.248,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    }
   ],
   "all": [
@@ -1439,7 +1424,7 @@
     "rank_growth": 6,
     "absolute": {
      "views": 41488,
-     "lift_vs_game_baseline": 1.313
+     "lift_vs_game_baseline": 1.307
     },
     "growth": {
      "delta_24h": 0,
@@ -1456,7 +1441,7 @@
      "thumb": "https://i.ytimg.com/vi/Gh8mhHe4aXU/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T13:04:08+09:00",
-     "age_hours": 384.2,
+     "age_hours": 387.5,
      "views_absolute": 41488,
      "likes": null,
      "comments": null,
@@ -1470,12 +1455,12 @@
       "since_publish_7d": 459,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 31590,
-     "lift_vs_game_baseline": 1.313,
+     "game_baseline_median_views": 31751,
+     "lift_vs_game_baseline": 1.307,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [
      {
       "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
@@ -1486,11 +1471,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ]
    },
@@ -1509,7 +1489,7 @@
     "rank_growth": 7,
     "absolute": {
      "views": 71369,
-     "lift_vs_game_baseline": 2.259
+     "lift_vs_game_baseline": 2.248
     },
     "growth": {
      "delta_24h": 0,
@@ -1526,7 +1506,7 @@
      "thumb": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-02T13:00:00+09:00",
-     "age_hours": 408.2,
+     "age_hours": 411.6,
      "views_absolute": 71369,
      "likes": null,
      "comments": null,
@@ -1540,12 +1520,12 @@
       "since_publish_7d": 0,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 31590,
-     "lift_vs_game_baseline": 2.259,
+     "game_baseline_median_views": 31751,
+     "lift_vs_game_baseline": 2.248,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcum1rCJ5GJeQ_xv0xrohqg",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [
      {
       "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
@@ -1556,11 +1536,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ]
    },
@@ -1577,12 +1552,12 @@
     "rank_absolute": 2,
     "rank_growth": 2,
     "absolute": {
-     "views": 482586,
-     "lift_vs_game_baseline": 4.174
+     "views": 483282,
+     "lift_vs_game_baseline": 4.176
     },
     "growth": {
-     "delta_24h": 5980,
-     "delta_7d": 111569,
+     "delta_24h": 5746,
+     "delta_7d": 112265,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 182851,
@@ -1595,26 +1570,26 @@
      "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-08T13:00:19+09:00",
-     "age_hours": 264.2,
-     "views_absolute": 482586,
+     "age_hours": 267.6,
+     "views_absolute": 483282,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 482586,
-      "delta_24h": 5980,
-      "delta_7d": 111569,
+      "views_now": 483282,
+      "delta_24h": 5746,
+      "delta_7d": 112265,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 182851,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 115631,
-     "lift_vs_game_baseline": 4.174,
+     "game_baseline_median_views": 115733,
+     "lift_vs_game_baseline": 4.176,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": []
    },
    {
@@ -1642,7 +1617,7 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [
      {
       "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
@@ -1653,11 +1628,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ]
    },
@@ -1686,7 +1656,7 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [
      {
       "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
@@ -1697,11 +1667,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ]
    },
@@ -1718,12 +1683,12 @@
     "rank_absolute": 3,
     "rank_growth": 3,
     "absolute": {
-     "views": 146338,
-     "lift_vs_game_baseline": 1.127
+     "views": 146374,
+     "lift_vs_game_baseline": 1.124
     },
     "growth": {
-     "delta_24h": 598,
-     "delta_7d": 15120,
+     "delta_24h": 525,
+     "delta_7d": 15156,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 32736,
@@ -1736,26 +1701,26 @@
      "thumb": "https://i.ytimg.com/vi/OcDcxORlzmY/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-06T12:59:56+09:00",
-     "age_hours": 312.2,
-     "views_absolute": 146338,
+     "age_hours": 315.6,
+     "views_absolute": 146374,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 146338,
-      "delta_24h": 598,
-      "delta_7d": 15120,
+      "views_now": 146374,
+      "delta_24h": 525,
+      "delta_7d": 15156,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 32736,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 129798,
-     "lift_vs_game_baseline": 1.127,
+     "game_baseline_median_views": 130235,
+     "lift_vs_game_baseline": 1.124,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": []
    },
    {
@@ -1771,12 +1736,12 @@
     "rank_absolute": 1,
     "rank_growth": 1,
     "absolute": {
-     "views": 740015,
-     "lift_vs_game_baseline": 7.06
+     "views": 739874,
+     "lift_vs_game_baseline": 6.89
     },
     "growth": {
-     "delta_24h": 1348,
-     "delta_7d": 615292,
+     "delta_24h": 626,
+     "delta_7d": 615151,
      "delta_30d": null,
      "since_publish_24h": 39432,
      "since_publish_7d": 675097,
@@ -1789,26 +1754,26 @@
      "thumb": "https://i.ytimg.com/vi/nNuN0rPi2YA/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-10T12:00:00+09:00",
-     "age_hours": 217.2,
-     "views_absolute": 740015,
+     "age_hours": 220.6,
+     "views_absolute": 739874,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 740015,
-      "delta_24h": 1348,
-      "delta_7d": 615292,
+      "views_now": 739874,
+      "delta_24h": 626,
+      "delta_7d": 615151,
       "delta_30d": null,
       "since_publish_24h": 39432,
       "since_publish_7d": 675097,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 104817,
-     "lift_vs_game_baseline": 7.06,
+     "game_baseline_median_views": 107389,
+     "lift_vs_game_baseline": 6.89,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKuq0c-RXYaulECSuu5hFug",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": []
    },
    {
@@ -1824,12 +1789,12 @@
     "rank_absolute": 7,
     "rank_growth": 5,
     "absolute": {
-     "views": 5790,
-     "lift_vs_game_baseline": 1.451
+     "views": 5795,
+     "lift_vs_game_baseline": 1.452
     },
     "growth": {
-     "delta_24h": 55,
-     "delta_7d": 1252,
+     "delta_24h": 44,
+     "delta_7d": 1257,
      "delta_30d": null,
      "since_publish_24h": 0,
      "since_publish_7d": 2026,
@@ -1842,26 +1807,26 @@
      "thumb": "https://i.ytimg.com/vi/jVxR-Xj_CtY/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-08T17:10:00+09:00",
-     "age_hours": 260.1,
-     "views_absolute": 5790,
+     "age_hours": 263.4,
+     "views_absolute": 5795,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 5790,
-      "delta_24h": 55,
-      "delta_7d": 1252,
+      "views_now": 5795,
+      "delta_24h": 44,
+      "delta_7d": 1257,
       "delta_30d": null,
       "since_publish_24h": 0,
       "since_publish_7d": 2026,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 3990,
-     "lift_vs_game_baseline": 1.451,
+     "game_baseline_median_views": 3992,
+     "lift_vs_game_baseline": 1.452,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": []
    },
    {
@@ -1889,7 +1854,7 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": []
    },
    {
@@ -1906,7 +1871,7 @@
     "rank_growth": 4,
     "absolute": {
      "views": 48081,
-     "lift_vs_game_baseline": 8.969
+     "lift_vs_game_baseline": 8.894
     },
     "growth": {
      "delta_24h": 0,
@@ -1923,7 +1888,7 @@
      "thumb": "https://i.ytimg.com/vi/HWsEtcPe1d4/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-03T19:00:38+09:00",
-     "age_hours": 378.2,
+     "age_hours": 381.6,
      "views_absolute": 48081,
      "likes": null,
      "comments": null,
@@ -1937,12 +1902,12 @@
       "since_publish_7d": 3125,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 5361,
-     "lift_vs_game_baseline": 8.969,
+     "game_baseline_median_views": 5406,
+     "lift_vs_game_baseline": 8.894,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [
      {
       "title": "명일방주 엔드필드 11월 19일 퍼즐 공간 3종 추가 | 명하 픽업&middot;1주년 페스티벌 신청도 체크",
@@ -1976,7 +1941,7 @@
      "since_publish_30d": null
     },
     "pv": null,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [
      {
       "title": "트릭컬 두두 픽업 내일 오전 10시 59분 종료 | 테마극장&middot;스페셜 선택 모집도 같이 끝남",
@@ -1999,8 +1964,8 @@
     "rank_absolute": null,
     "rank_growth": null,
     "absolute": {
-     "views": 28543,
-     "lift_vs_game_baseline": 0.975
+     "views": 30790,
+     "lift_vs_game_baseline": 1.0
     },
     "growth": {
      "delta_24h": null,
@@ -2017,13 +1982,13 @@
      "thumb": "https://i.ytimg.com/vi/_u6X7FCG2Fw/hqdefault.jpg",
      "channel_region": "Global",
      "published": "2026-11-18T17:00:11+09:00",
-     "age_hours": 20.2,
-     "views_absolute": 28543,
+     "age_hours": 23.6,
+     "views_absolute": 30790,
      "likes": null,
      "comments": null,
      "likes_comments_status": "미연동",
      "deltas": {
-      "views_now": 28543,
+      "views_now": 30790,
       "delta_24h": null,
       "delta_7d": null,
       "delta_30d": null,
@@ -2031,13 +1996,18 @@
       "since_publish_7d": null,
       "since_publish_30d": null
      },
-     "game_baseline_median_views": 29277,
-     "lift_vs_game_baseline": 0.975,
+     "game_baseline_median_views": 30790,
+     "lift_vs_game_baseline": 1.0,
      "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzoVPjV8FF2om0Zj3XRPwVw",
-     "fetched_at": "2026-11-19T13:14:17+09:00"
+     "fetched_at": "2026-11-19T16:36:18+09:00"
     },
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "related_posts": [
+     {
+      "title": "니케 스카이 오늘 점검 끝나고 시작 | 특수 모집 12월 3일까지, 마일리지 200장이면 교환",
+      "url": "https://news84034.tistory.com/45",
+      "published": "Thu, 19 Nov 2026 15:16:38 +0900"
+     },
      {
       "title": "니케 마리안:퀸 오늘 밤 끝난다 | 11월 19일 새벽 4시 59분 종료, 스카이는 점검 후 시작",
       "url": "https://news84034.tistory.com/41",
@@ -2050,7 +2020,7 @@
  },
  "character_ranking": {
   "status": "ok",
-  "generated_at": "2026-11-19T13:17:43+09:00",
+  "generated_at": "2026-11-19T16:39:46+09:00",
   "rule": "100점 만점 · 없는 지표는 0점 처리 없이 나머지로 다시 계산 · 수집률이 낮으면 잠정 또는 보류 · 신뢰도 따로 표시 · 복각 제외 · 역대 기록은 점수에 안 넣음",
   "weights": {
    "youtube_pv": 0.35,
@@ -2072,8 +2042,8 @@
     "score": 98.64,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 740015,
-     "youtube_pv_lift": 7.06,
+     "youtube_pv_views": 739874,
+     "youtube_pv_lift": 6.89,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -2091,9 +2061,9 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 740015,
-    "growth_rate_7d": 615292,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "absolute_views": 739874,
+    "growth_rate_7d": 615151,
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 98.64,
     "coverage": 0.6667,
     "provisional": false,
@@ -2115,7 +2085,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 7.06,
+    "lift_vs_game_baseline": 6.89,
     "pv_video_id": "nNuN0rPi2YA",
     "related_posts": [],
     "x": {
@@ -2137,11 +2107,11 @@
     "hold": false,
     "hold_reason": null,
     "rank": 2,
-    "score": 96.72,
+    "score": 96.73,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 482586,
-     "youtube_pv_lift": 4.174,
+     "youtube_pv_views": 483282,
+     "youtube_pv_lift": 4.176,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -2159,10 +2129,10 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 482586,
-    "growth_rate_7d": 111569,
-    "last_updated": "2026-11-19T13:17:43+09:00",
-    "score_raw": 96.72,
+    "absolute_views": 483282,
+    "growth_rate_7d": 112265,
+    "last_updated": "2026-11-19T16:39:46+09:00",
+    "score_raw": 96.73,
     "coverage": 0.6667,
     "provisional": false,
     "used_weights": {
@@ -2174,7 +2144,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 96.84,
+     "youtube_pv": 96.85,
      "x": 96.52
     },
     "weights_config": {
@@ -2183,7 +2153,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 4.174,
+    "lift_vs_game_baseline": 4.176,
     "pv_video_id": "T1d3GwCDG8w",
     "related_posts": [],
     "x": {
@@ -2208,8 +2178,8 @@
     "score": 91.54,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 146338,
-     "youtube_pv_lift": 1.127,
+     "youtube_pv_views": 146374,
+     "youtube_pv_lift": 1.124,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -2227,9 +2197,9 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 146338,
-    "growth_rate_7d": 15120,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "absolute_views": 146374,
+    "growth_rate_7d": 15156,
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 91.54,
     "coverage": 0.6667,
     "provisional": false,
@@ -2251,7 +2221,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 1.127,
+    "lift_vs_game_baseline": 1.124,
     "pv_video_id": "OcDcxORlzmY",
     "related_posts": [],
     "x": {
@@ -2278,7 +2248,7 @@
     "reliability": 0.6667,
     "signals": {
      "youtube_pv_views": 41488,
-     "youtube_pv_lift": 1.313,
+     "youtube_pv_lift": 1.307,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -2298,7 +2268,7 @@
     },
     "absolute_views": 41488,
     "growth_rate_7d": 685,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 84.71,
     "coverage": 0.6667,
     "provisional": false,
@@ -2320,7 +2290,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 1.313,
+    "lift_vs_game_baseline": 1.307,
     "pv_video_id": "Gh8mhHe4aXU",
     "related_posts": [
      {
@@ -2332,11 +2302,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ],
     "x": {
@@ -2362,7 +2327,7 @@
     "reliability": 0.6667,
     "signals": {
      "youtube_pv_views": 48081,
-     "youtube_pv_lift": 8.969,
+     "youtube_pv_lift": 8.894,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -2382,7 +2347,7 @@
     },
     "absolute_views": 48081,
     "growth_rate_7d": 8475,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 83.36,
     "coverage": 0.6667,
     "provisional": false,
@@ -2404,7 +2369,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 8.969,
+    "lift_vs_game_baseline": 8.894,
     "pv_video_id": "HWsEtcPe1d4",
     "related_posts": [
      {
@@ -2437,7 +2402,7 @@
     "reliability": 0.6667,
     "signals": {
      "youtube_pv_views": 71369,
-     "youtube_pv_lift": 2.259,
+     "youtube_pv_lift": 2.248,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -2457,7 +2422,7 @@
     },
     "absolute_views": 71369,
     "growth_rate_7d": 0,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 81.52,
     "coverage": 0.6667,
     "provisional": false,
@@ -2470,7 +2435,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 82.69,
+     "youtube_pv": 82.7,
      "x": 79.46
     },
     "weights_config": {
@@ -2479,7 +2444,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 2.259,
+    "lift_vs_game_baseline": 2.248,
     "pv_video_id": "tCeXHmvg3ko",
     "related_posts": [
      {
@@ -2491,11 +2456,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ],
     "x": {
@@ -2520,8 +2480,8 @@
     "score": 67.69,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 5790,
-     "youtube_pv_lift": 1.451,
+     "youtube_pv_views": 5795,
+     "youtube_pv_lift": 1.452,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -2539,9 +2499,9 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 5790,
-    "growth_rate_7d": 1252,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "absolute_views": 5795,
+    "growth_rate_7d": 1257,
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 67.69,
     "coverage": 0.6667,
     "provisional": false,
@@ -2554,7 +2514,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 64.11,
+     "youtube_pv": 64.12,
      "x": 73.95
     },
     "weights_config": {
@@ -2563,7 +2523,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 1.451,
+    "lift_vs_game_baseline": 1.452,
     "pv_video_id": "jVxR-Xj_CtY",
     "related_posts": [],
     "x": {
@@ -2611,7 +2571,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 94.27,
     "coverage": 0.3333,
     "provisional": false,
@@ -2642,11 +2602,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ],
     "x": {
@@ -2692,7 +2647,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 100.0,
     "coverage": 0.3333,
     "provisional": false,
@@ -2723,11 +2678,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ],
     "x": {
@@ -2773,7 +2723,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 70.55,
     "coverage": 0.3333,
     "provisional": false,
@@ -2838,7 +2788,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 59.7,
     "coverage": 0.3333,
     "provisional": false,
@@ -2889,8 +2839,8 @@
     "score": null,
     "reliability": 0.5,
     "signals": {
-     "youtube_pv_views": 28543,
-     "youtube_pv_lift": 0.975,
+     "youtube_pv_views": 30790,
+     "youtube_pv_lift": 1.0,
      "google_trends": null,
      "google_trends_lift": null,
      "x": null,
@@ -2903,10 +2853,10 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 28543,
+    "absolute_views": 30790,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-19T13:17:43+09:00",
-    "score_raw": 75.91,
+    "last_updated": "2026-11-19T16:39:46+09:00",
+    "score_raw": 76.47,
     "coverage": 0.5,
     "provisional": false,
     "used_weights": {
@@ -2916,7 +2866,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 75.91
+     "youtube_pv": 76.47
     },
     "weights_config": {
      "youtube_pv": 0.35,
@@ -2924,9 +2874,14 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 0.975,
+    "lift_vs_game_baseline": 1.0,
     "pv_video_id": "_u6X7FCG2Fw",
     "related_posts": [
+     {
+      "title": "니케 스카이 오늘 점검 끝나고 시작 | 특수 모집 12월 3일까지, 마일리지 200장이면 교환",
+      "url": "https://news84034.tistory.com/45",
+      "published": "Thu, 19 Nov 2026 15:16:38 +0900"
+     },
      {
       "title": "니케 마리안:퀸 오늘 밤 끝난다 | 11월 19일 새벽 4시 59분 종료, 스카이는 점검 후 시작",
       "url": "https://news84034.tistory.com/41",
@@ -2954,7 +2909,7 @@
     "reliability": 0.6667,
     "signals": {
      "youtube_pv_views": 41488,
-     "youtube_pv_lift": 1.313,
+     "youtube_pv_lift": 1.307,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -2974,7 +2929,7 @@
     },
     "absolute_views": 41488,
     "growth_rate_7d": 685,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 84.71,
     "coverage": 0.6667,
     "provisional": false,
@@ -2996,7 +2951,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 1.313,
+    "lift_vs_game_baseline": 1.307,
     "pv_video_id": "Gh8mhHe4aXU",
     "related_posts": [
      {
@@ -3008,11 +2963,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ],
     "x": {
@@ -3039,7 +2989,7 @@
     "reliability": 0.6667,
     "signals": {
      "youtube_pv_views": 71369,
-     "youtube_pv_lift": 2.259,
+     "youtube_pv_lift": 2.248,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -3059,7 +3009,7 @@
     },
     "absolute_views": 71369,
     "growth_rate_7d": 0,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 81.52,
     "coverage": 0.6667,
     "provisional": false,
@@ -3072,7 +3022,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 82.69,
+     "youtube_pv": 82.7,
      "x": 79.46
     },
     "weights_config": {
@@ -3081,7 +3031,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 2.259,
+    "lift_vs_game_baseline": 2.248,
     "pv_video_id": "tCeXHmvg3ko",
     "related_posts": [
      {
@@ -3093,11 +3043,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ],
     "x": {
@@ -3119,11 +3064,11 @@
     "hold": false,
     "hold_reason": null,
     "rank": 2,
-    "score": 96.72,
+    "score": 96.73,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 482586,
-     "youtube_pv_lift": 4.174,
+     "youtube_pv_views": 483282,
+     "youtube_pv_lift": 4.176,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -3141,10 +3086,10 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 482586,
-    "growth_rate_7d": 111569,
-    "last_updated": "2026-11-19T13:17:43+09:00",
-    "score_raw": 96.72,
+    "absolute_views": 483282,
+    "growth_rate_7d": 112265,
+    "last_updated": "2026-11-19T16:39:46+09:00",
+    "score_raw": 96.73,
     "coverage": 0.6667,
     "provisional": false,
     "used_weights": {
@@ -3156,7 +3101,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 96.84,
+     "youtube_pv": 96.85,
      "x": 96.52
     },
     "weights_config": {
@@ -3165,7 +3110,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 4.174,
+    "lift_vs_game_baseline": 4.176,
     "pv_video_id": "T1d3GwCDG8w",
     "related_posts": [],
     "x": {
@@ -3211,7 +3156,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 94.27,
     "coverage": 0.3333,
     "provisional": false,
@@ -3242,11 +3187,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ],
     "x": {
@@ -3292,7 +3232,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 100.0,
     "coverage": 0.3333,
     "provisional": false,
@@ -3323,11 +3263,6 @@
       "title": "원신 존속시련 이벤트 참여 방법 | 응원할 신 고르고 원석 40개 받기, 기간은 공지 확인",
       "url": "https://news84034.tistory.com/38",
       "published": "Tue, 17 Nov 2026 14:31:49 +0900"
-     },
-     {
-      "title": "원신 7.2 미탸&middot;푸리나 픽업 11월 24일 종료 D-8 | 전반기 마감 전 체크",
-      "url": "https://news84034.tistory.com/35",
-      "published": "Mon, 16 Nov 2026 16:31:35 +0900"
      }
     ],
     "x": {
@@ -3352,8 +3287,8 @@
     "score": 91.54,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 146338,
-     "youtube_pv_lift": 1.127,
+     "youtube_pv_views": 146374,
+     "youtube_pv_lift": 1.124,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -3371,9 +3306,9 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 146338,
-    "growth_rate_7d": 15120,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "absolute_views": 146374,
+    "growth_rate_7d": 15156,
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 91.54,
     "coverage": 0.6667,
     "provisional": false,
@@ -3395,7 +3330,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 1.127,
+    "lift_vs_game_baseline": 1.124,
     "pv_video_id": "OcDcxORlzmY",
     "related_posts": [],
     "x": {
@@ -3420,8 +3355,8 @@
     "score": 98.64,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 740015,
-     "youtube_pv_lift": 7.06,
+     "youtube_pv_views": 739874,
+     "youtube_pv_lift": 6.89,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -3439,9 +3374,9 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 740015,
-    "growth_rate_7d": 615292,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "absolute_views": 739874,
+    "growth_rate_7d": 615151,
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 98.64,
     "coverage": 0.6667,
     "provisional": false,
@@ -3463,7 +3398,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 7.06,
+    "lift_vs_game_baseline": 6.89,
     "pv_video_id": "nNuN0rPi2YA",
     "related_posts": [],
     "x": {
@@ -3488,8 +3423,8 @@
     "score": 67.69,
     "reliability": 0.6667,
     "signals": {
-     "youtube_pv_views": 5790,
-     "youtube_pv_lift": 1.451,
+     "youtube_pv_views": 5795,
+     "youtube_pv_lift": 1.452,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -3507,9 +3442,9 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 5790,
-    "growth_rate_7d": 1252,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "absolute_views": 5795,
+    "growth_rate_7d": 1257,
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 67.69,
     "coverage": 0.6667,
     "provisional": false,
@@ -3522,7 +3457,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 64.11,
+     "youtube_pv": 64.12,
      "x": 73.95
     },
     "weights_config": {
@@ -3531,7 +3466,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 1.451,
+    "lift_vs_game_baseline": 1.452,
     "pv_video_id": "jVxR-Xj_CtY",
     "related_posts": [],
     "x": {
@@ -3577,7 +3512,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 70.55,
     "coverage": 0.3333,
     "provisional": false,
@@ -3622,7 +3557,7 @@
     "reliability": 0.6667,
     "signals": {
      "youtube_pv_views": 48081,
-     "youtube_pv_lift": 8.969,
+     "youtube_pv_lift": 8.894,
      "google_trends": null,
      "google_trends_lift": null,
      "x": {
@@ -3642,7 +3577,7 @@
     },
     "absolute_views": 48081,
     "growth_rate_7d": 8475,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 83.36,
     "coverage": 0.6667,
     "provisional": false,
@@ -3664,7 +3599,7 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 8.969,
+    "lift_vs_game_baseline": 8.894,
     "pv_video_id": "HWsEtcPe1d4",
     "related_posts": [
      {
@@ -3716,7 +3651,7 @@
     },
     "absolute_views": null,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-19T13:17:43+09:00",
+    "last_updated": "2026-11-19T16:39:46+09:00",
     "score_raw": 59.7,
     "coverage": 0.3333,
     "provisional": false,
@@ -3767,8 +3702,8 @@
     "score": null,
     "reliability": 0.5,
     "signals": {
-     "youtube_pv_views": 28543,
-     "youtube_pv_lift": 0.975,
+     "youtube_pv_views": 30790,
+     "youtube_pv_lift": 1.0,
      "google_trends": null,
      "google_trends_lift": null,
      "x": null,
@@ -3781,10 +3716,10 @@
      "community": "데이터 없음",
      "likes_comments": "미연동"
     },
-    "absolute_views": 28543,
+    "absolute_views": 30790,
     "growth_rate_7d": null,
-    "last_updated": "2026-11-19T13:17:43+09:00",
-    "score_raw": 75.91,
+    "last_updated": "2026-11-19T16:39:46+09:00",
+    "score_raw": 76.47,
     "coverage": 0.5,
     "provisional": false,
     "used_weights": {
@@ -3794,7 +3729,7 @@
      "youtube_pv"
     ],
     "signal_scores_0_100": {
-     "youtube_pv": 75.91
+     "youtube_pv": 76.47
     },
     "weights_config": {
      "youtube_pv": 0.35,
@@ -3802,9 +3737,14 @@
      "x": 0.2,
      "community": 0.2
     },
-    "lift_vs_game_baseline": 0.975,
+    "lift_vs_game_baseline": 1.0,
     "pv_video_id": "_u6X7FCG2Fw",
     "related_posts": [
+     {
+      "title": "니케 스카이 오늘 점검 끝나고 시작 | 특수 모집 12월 3일까지, 마일리지 200장이면 교환",
+      "url": "https://news84034.tistory.com/45",
+      "published": "Thu, 19 Nov 2026 15:16:38 +0900"
+     },
      {
       "title": "니케 마리안:퀸 오늘 밤 끝난다 | 11월 19일 새벽 4시 59분 종료, 스카이는 점검 후 시작",
       "url": "https://news84034.tistory.com/41",
@@ -3828,7 +3768,7 @@
  },
  "rising_character": {
   "status": "ok",
-  "generated_at": "2026-11-19T13:14:17+09:00",
+  "generated_at": "2026-11-19T16:36:18+09:00",
   "rule": "최근 관심 성장 속도(주로 7일 조회수 증가분) · 복각 제외 · 스냅샷 부족 시 데이터 없음",
   "top": {
    "character_id": "wuwa-lily",
@@ -3837,13 +3777,13 @@
     "en": "Lily"
    },
    "game_id": "wuwa",
-   "delta_24h": 1348,
-   "delta_7d": 615292,
-   "growth_metric": 615292,
+   "delta_24h": 626,
+   "delta_7d": 615151,
+   "growth_metric": 615151,
    "growth_window": "7d",
-   "absolute_views": 740015,
+   "absolute_views": 739874,
    "hold": false,
-   "last_updated": "2026-11-19T13:14:17+09:00",
+   "last_updated": "2026-11-19T16:36:18+09:00",
    "rank": 1
   },
   "ranking": [
@@ -3854,13 +3794,13 @@
      "en": "Lily"
     },
     "game_id": "wuwa",
-    "delta_24h": 1348,
-    "delta_7d": 615292,
-    "growth_metric": 615292,
+    "delta_24h": 626,
+    "delta_7d": 615151,
+    "growth_metric": 615151,
     "growth_window": "7d",
-    "absolute_views": 740015,
+    "absolute_views": 739874,
     "hold": false,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "rank": 1
    },
    {
@@ -3870,13 +3810,13 @@
      "en": "Aha"
     },
     "game_id": "starrail",
-    "delta_24h": 5980,
-    "delta_7d": 111569,
-    "growth_metric": 111569,
+    "delta_24h": 5746,
+    "delta_7d": 112265,
+    "growth_metric": 112265,
     "growth_window": "7d",
-    "absolute_views": 482586,
+    "absolute_views": 483282,
     "hold": false,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "rank": 2
    },
    {
@@ -3886,13 +3826,13 @@
      "en": null
     },
     "game_id": "zzz",
-    "delta_24h": 598,
-    "delta_7d": 15120,
-    "growth_metric": 15120,
+    "delta_24h": 525,
+    "delta_7d": 15156,
+    "growth_metric": 15156,
     "growth_window": "7d",
-    "absolute_views": 146338,
+    "absolute_views": 146374,
     "hold": false,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "rank": 3
    },
    {
@@ -3908,7 +3848,7 @@
     "growth_window": "7d",
     "absolute_views": 48081,
     "hold": false,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "rank": 4
    },
    {
@@ -3918,13 +3858,13 @@
      "en": null
     },
     "game_id": "nte",
-    "delta_24h": 55,
-    "delta_7d": 1252,
-    "growth_metric": 1252,
+    "delta_24h": 44,
+    "delta_7d": 1257,
+    "growth_metric": 1257,
     "growth_window": "7d",
-    "absolute_views": 5790,
+    "absolute_views": 5795,
     "hold": false,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "rank": 5
    },
    {
@@ -3941,7 +3881,7 @@
     "growth_window": "7d",
     "absolute_views": 41488,
     "hold": false,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "rank": 6
    },
    {
@@ -3958,14 +3898,14 @@
     "growth_window": "7d",
     "absolute_views": 71369,
     "hold": false,
-    "last_updated": "2026-11-19T13:14:17+09:00",
+    "last_updated": "2026-11-19T16:36:18+09:00",
     "rank": 7
    }
   ]
  },
  "pickup_schedule": {
   "status": "ok",
-  "generated_at": "2026-11-19T13:14:17+09:00",
+  "generated_at": "2026-11-19T16:36:18+09:00",
   "month": "2026-11",
   "rule": "공식 공지만 · 시작/종료/출처 필수 · 신규 중심, 복각은 따로 표시",
   "items": [
@@ -4006,7 +3946,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "game_id": "genshin",
@@ -4038,7 +3978,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": null,
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "game_id": "trickcal",
@@ -4070,7 +4010,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
     "api_source": null,
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "game_id": "starrail",
@@ -4102,7 +4042,7 @@
      "y": 50.0
     },
     "portrait_zoom": 1.0,
-    "start": "2026-11-10 04:00:00",
+    "start": "2026-11-10 11:00:00",
     "end": "2026-12-02 11:59:00",
     "tz": "UTC+8",
     "is_new": true,
@@ -4113,7 +4053,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47385253",
     "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "game_id": "zzz",
@@ -4148,7 +4088,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47375931",
     "api_source": null,
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    }
   ],
   "reruns": [
@@ -4181,7 +4121,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47131668",
     "api_source": null,
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "game_id": "trickcal",
@@ -4210,7 +4150,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
     "api_source": null,
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "game_id": "genshin",
@@ -4246,7 +4186,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "game_id": "nte",
@@ -4279,7 +4219,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
     "api_source": null,
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    }
   ],
   "all": [
@@ -4312,7 +4252,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47131668",
     "api_source": null,
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "game_id": "trickcal",
@@ -4341,7 +4281,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
     "api_source": null,
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "game_id": "genshin",
@@ -4380,7 +4320,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "game_id": "genshin",
@@ -4416,7 +4356,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "game_id": "genshin",
@@ -4448,7 +4388,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47284168",
     "api_source": null,
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "game_id": "trickcal",
@@ -4480,7 +4420,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
     "api_source": null,
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "game_id": "starrail",
@@ -4512,7 +4452,7 @@
      "y": 50.0
     },
     "portrait_zoom": 1.0,
-    "start": "2026-11-10 04:00:00",
+    "start": "2026-11-10 11:00:00",
     "end": "2026-12-02 11:59:00",
     "tz": "UTC+8",
     "is_new": true,
@@ -4523,7 +4463,7 @@
     "source_label": "호요버스 공식 인게임 공지",
     "source_url": "https://www.hoyolab.com/article/47385253",
     "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "game_id": "nte",
@@ -4556,7 +4496,7 @@
     "source_label": "네이버 게임 라운지 공식 공지",
     "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
     "api_source": null,
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    },
    {
     "game_id": "zzz",
@@ -4591,7 +4531,7 @@
     "source_label": "HoYoLAB 공식 공지",
     "source_url": "https://www.hoyolab.com/article/47375931",
     "api_source": null,
-    "last_updated": "2026-11-19T13:14:17+09:00"
+    "last_updated": "2026-11-19T16:36:18+09:00"
    }
   ]
  },
