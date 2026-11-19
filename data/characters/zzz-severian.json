@@ -9,14 +9,14 @@
  "is_rerun": false,
  "reveal_date": "2026-10-23",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-19T10:33:02+09:00",
+ "last_seen_at": "2026-11-19T13:17:43+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 146266.0,
+ "peak_pv_views": 146338.0,
  "peak_lift": 1.181,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 640.0,
-  "d7d": 15048.0,
+  "d24h": 598.0,
+  "d7d": 15120.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -449,6 +449,11 @@
    "at": "2026-11-19T10:33:02+09:00",
    "video_id": "OcDcxORlzmY",
    "views": 146266.0
+  },
+  {
+   "at": "2026-11-19T13:17:43+09:00",
+   "video_id": "OcDcxORlzmY",
+   "views": 146338.0
   }
  ],
  "pv_series_by_video": [
@@ -811,6 +816,10 @@
     {
      "at": "2026-11-19T10:33:02+09:00",
      "views": 146266.0
+    },
+    {
+     "at": "2026-11-19T13:17:43+09:00",
+     "views": 146338.0
     }
    ]
   }
@@ -824,7 +833,7 @@
     "ko": "세베리안",
     "en": null
    },
-   "peak_pv_views": 146266.0,
+   "peak_pv_views": 146338.0,
    "alltime_rank": 1
   }
  ],
@@ -837,11 +846,11 @@
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 146266,
-  "lift_vs_game_baseline": 1.128,
-  "growth_rate_7d": 15048,
+  "absolute_views": 146338,
+  "lift_vs_game_baseline": 1.127,
+  "growth_rate_7d": 15120,
   "related_posts": [],
-  "last_updated": "2026-11-19T10:33:02+09:00",
+  "last_updated": "2026-11-19T13:17:43+09:00",
   "note": "current score does not include all-time records"
  }
 }
