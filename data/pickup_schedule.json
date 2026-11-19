@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-19T16:36:18+09:00",
+ "generated_at": "2026-11-19T19:21:42+09:00",
  "month": "2026-11",
  "rule": "공식 공지만 · 시작/종료/출처 필수 · 신규 중심, 복각은 따로 표시",
  "items": [
@@ -41,7 +41,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   },
   {
    "game_id": "genshin",
@@ -73,7 +73,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": null,
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   },
   {
    "game_id": "trickcal",
@@ -105,7 +105,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
    "api_source": null,
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   },
   {
    "game_id": "starrail",
@@ -148,7 +148,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47385253",
    "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   },
   {
    "game_id": "zzz",
@@ -183,7 +183,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47375931",
    "api_source": null,
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   }
  ],
  "reruns": [
@@ -216,7 +216,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47131668",
    "api_source": null,
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   },
   {
    "game_id": "trickcal",
@@ -245,7 +245,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
    "api_source": null,
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   },
   {
    "game_id": "genshin",
@@ -281,7 +281,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   },
   {
    "game_id": "nte",
@@ -314,7 +314,77 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
    "api_source": null,
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
+  },
+  {
+   "game_id": "genshin",
+   "game_name": "원신",
+   "title": "「사직 의례」 기원: 「샘물에 숨은 세월·자백(바위)」 확률 UP!",
+   "characters": [
+    "자백",
+    "일루가",
+    "아이노",
+    "응광"
+   ],
+   "new_characters": null,
+   "rerun_characters": [
+    "자백",
+    "일루가",
+    "아이노",
+    "응광"
+   ],
+   "featured_character": "자백",
+   "featured_character_id": null,
+   "portrait_url": null,
+   "portrait_focus": null,
+   "portrait_zoom": null,
+   "start": "2026-11-19 16:00:00",
+   "end": "2026-12-15 14:59:59",
+   "tz": "UTC+8",
+   "is_new": false,
+   "is_rerun": true,
+   "type": "복각",
+   "image": null,
+   "source": "호요버스 공식 인게임 공지",
+   "source_label": "호요버스 공식 인게임 공지",
+   "source_url": "https://www.hoyolab.com/article/47494924",
+   "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
+   "last_updated": "2026-11-19T19:21:42+09:00"
+  },
+  {
+   "game_id": "genshin",
+   "game_name": "원신",
+   "title": "「야호 박물지」 기원: 「신비한 박물학자·린네아(바위)」 확률 UP!",
+   "characters": [
+    "린네아",
+    "일루가",
+    "아이노",
+    "응광"
+   ],
+   "new_characters": null,
+   "rerun_characters": [
+    "린네아",
+    "일루가",
+    "아이노",
+    "응광"
+   ],
+   "featured_character": "린네아",
+   "featured_character_id": null,
+   "portrait_url": null,
+   "portrait_focus": null,
+   "portrait_zoom": null,
+   "start": "2026-11-19 16:00:00",
+   "end": "2026-12-15 14:59:59",
+   "tz": "UTC+8",
+   "is_new": false,
+   "is_rerun": true,
+   "type": "복각",
+   "image": null,
+   "source": "호요버스 공식 인게임 공지",
+   "source_label": "호요버스 공식 인게임 공지",
+   "source_url": "https://www.hoyolab.com/article/47494924",
+   "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
+   "last_updated": "2026-11-19T19:21:42+09:00"
   }
  ],
  "all": [
@@ -347,7 +417,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47131668",
    "api_source": null,
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   },
   {
    "game_id": "trickcal",
@@ -376,7 +446,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
    "api_source": null,
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   },
   {
    "game_id": "genshin",
@@ -415,7 +485,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   },
   {
    "game_id": "genshin",
@@ -451,7 +521,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   },
   {
    "game_id": "genshin",
@@ -483,7 +553,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": null,
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   },
   {
    "game_id": "trickcal",
@@ -515,7 +585,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
    "api_source": null,
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   },
   {
    "game_id": "starrail",
@@ -558,7 +628,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47385253",
    "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   },
   {
    "game_id": "nte",
@@ -591,7 +661,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
    "api_source": null,
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
   },
   {
    "game_id": "zzz",
@@ -626,7 +696,77 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47375931",
    "api_source": null,
-   "last_updated": "2026-11-19T16:36:18+09:00"
+   "last_updated": "2026-11-19T19:21:42+09:00"
+  },
+  {
+   "game_id": "genshin",
+   "game_name": "원신",
+   "title": "「사직 의례」 기원: 「샘물에 숨은 세월·자백(바위)」 확률 UP!",
+   "characters": [
+    "자백",
+    "일루가",
+    "아이노",
+    "응광"
+   ],
+   "new_characters": null,
+   "rerun_characters": [
+    "자백",
+    "일루가",
+    "아이노",
+    "응광"
+   ],
+   "featured_character": "자백",
+   "featured_character_id": null,
+   "portrait_url": null,
+   "portrait_focus": null,
+   "portrait_zoom": null,
+   "start": "2026-11-19 16:00:00",
+   "end": "2026-12-15 14:59:59",
+   "tz": "UTC+8",
+   "is_new": false,
+   "is_rerun": true,
+   "type": "복각",
+   "image": null,
+   "source": "호요버스 공식 인게임 공지",
+   "source_label": "호요버스 공식 인게임 공지",
+   "source_url": "https://www.hoyolab.com/article/47494924",
+   "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
+   "last_updated": "2026-11-19T19:21:42+09:00"
+  },
+  {
+   "game_id": "genshin",
+   "game_name": "원신",
+   "title": "「야호 박물지」 기원: 「신비한 박물학자·린네아(바위)」 확률 UP!",
+   "characters": [
+    "린네아",
+    "일루가",
+    "아이노",
+    "응광"
+   ],
+   "new_characters": null,
+   "rerun_characters": [
+    "린네아",
+    "일루가",
+    "아이노",
+    "응광"
+   ],
+   "featured_character": "린네아",
+   "featured_character_id": null,
+   "portrait_url": null,
+   "portrait_focus": null,
+   "portrait_zoom": null,
+   "start": "2026-11-19 16:00:00",
+   "end": "2026-12-15 14:59:59",
+   "tz": "UTC+8",
+   "is_new": false,
+   "is_rerun": true,
+   "type": "복각",
+   "image": null,
+   "source": "호요버스 공식 인게임 공지",
+   "source_label": "호요버스 공식 인게임 공지",
+   "source_url": "https://www.hoyolab.com/article/47494924",
+   "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
+   "last_updated": "2026-11-19T19:21:42+09:00"
   }
  ]
 }
