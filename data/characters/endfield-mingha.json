@@ -9,14 +9,14 @@
  "is_rerun": false,
  "reveal_date": "2026-11-02",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-19T07:07:53+09:00",
+ "last_seen_at": "2026-11-19T10:33:02+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 48081.0,
  "peak_lift": 9.395,
  "peak_trends": null,
  "recorded_deltas": {
   "d24h": 0.0,
-  "d7d": 8706.0,
+  "d7d": 8475.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -444,6 +444,11 @@
    "at": "2026-11-19T07:07:53+09:00",
    "video_id": "HWsEtcPe1d4",
    "views": 48081.0
+  },
+  {
+   "at": "2026-11-19T10:33:02+09:00",
+   "video_id": "HWsEtcPe1d4",
+   "views": 48081.0
   }
  ],
  "pv_series_by_video": [
@@ -802,6 +807,10 @@
     {
      "at": "2026-11-19T07:07:53+09:00",
      "views": 48081.0
+    },
+    {
+     "at": "2026-11-19T10:33:02+09:00",
+     "views": 48081.0
     }
    ]
   }
@@ -829,8 +838,8 @@
   "hold": false,
   "hold_reason": null,
   "absolute_views": 48081,
-  "lift_vs_game_baseline": 9.099,
-  "growth_rate_7d": 8706,
+  "lift_vs_game_baseline": 9.082,
+  "growth_rate_7d": 8475,
   "related_posts": [
    {
     "title": "명일방주 엔드필드 11월 19일 퍼즐 공간 3종 추가 | 명하 픽업&middot;1주년 페스티벌 신청도 체크",
@@ -838,7 +847,7 @@
     "published": "Wed, 18 Nov 2026 14:34:32 +0900"
    }
   ],
-  "last_updated": "2026-11-19T07:07:53+09:00",
+  "last_updated": "2026-11-19T10:33:02+09:00",
   "note": "current score does not include all-time records"
  }
 }
