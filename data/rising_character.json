@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-20T16:33:57+09:00",
+ "generated_at": "2026-11-20T19:21:28+09:00",
  "rule": "최근 관심 성장 속도(주로 7일 조회수 증가분) · 복각 제외 · 스냅샷 부족 시 데이터 없음",
  "top": {
   "character_id": "wuwa-lily",
@@ -9,13 +9,13 @@
    "en": "Lily"
   },
   "game_id": "wuwa",
-  "delta_24h": 1196,
-  "delta_7d": 459191,
-  "growth_metric": 459191,
+  "delta_24h": 1510,
+  "delta_7d": 435020,
+  "growth_metric": 435020,
   "growth_window": "7d",
-  "absolute_views": 741211,
+  "absolute_views": 741384,
   "hold": false,
-  "last_updated": "2026-11-20T16:33:57+09:00",
+  "last_updated": "2026-11-20T19:21:28+09:00",
   "rank": 1
  },
  "ranking": [
@@ -26,13 +26,13 @@
     "en": "Lily"
    },
    "game_id": "wuwa",
-   "delta_24h": 1196,
-   "delta_7d": 459191,
-   "growth_metric": 459191,
+   "delta_24h": 1510,
+   "delta_7d": 435020,
+   "growth_metric": 435020,
    "growth_window": "7d",
-   "absolute_views": 741211,
+   "absolute_views": 741384,
    "hold": false,
-   "last_updated": "2026-11-20T16:33:57+09:00",
+   "last_updated": "2026-11-20T19:21:28+09:00",
    "rank": 1
   },
   {
@@ -42,14 +42,30 @@
     "en": "Aha"
    },
    "game_id": "starrail",
-   "delta_24h": 5865,
-   "delta_7d": 86320,
-   "growth_metric": 86320,
+   "delta_24h": 6045,
+   "delta_7d": 79576,
+   "growth_metric": 79576,
    "growth_window": "7d",
-   "absolute_views": 488451,
+   "absolute_views": 489327,
    "hold": false,
-   "last_updated": "2026-11-20T16:33:57+09:00",
+   "last_updated": "2026-11-20T19:21:28+09:00",
    "rank": 2
+  },
+  {
+   "character_id": "zzz-severian",
+   "name": {
+    "ko": "세베리안",
+    "en": null
+   },
+   "game_id": "zzz",
+   "delta_24h": 682,
+   "delta_7d": 6538,
+   "growth_metric": 6538,
+   "growth_window": "7d",
+   "absolute_views": 147056,
+   "hold": false,
+   "last_updated": "2026-11-20T19:21:28+09:00",
+   "rank": 3
   },
   {
    "character_id": "endfield-mingha",
@@ -59,28 +75,12 @@
    },
    "game_id": "endfield",
    "delta_24h": 0,
-   "delta_7d": 7016,
-   "growth_metric": 7016,
+   "delta_7d": 6207,
+   "growth_metric": 6207,
    "growth_window": "7d",
    "absolute_views": 48081,
    "hold": false,
-   "last_updated": "2026-11-20T16:33:57+09:00",
-   "rank": 3
-  },
-  {
-   "character_id": "zzz-severian",
-   "name": {
-    "ko": "세베리안",
-    "en": null
-   },
-   "game_id": "zzz",
-   "delta_24h": 636,
-   "delta_7d": 6784,
-   "growth_metric": 6784,
-   "growth_window": "7d",
-   "absolute_views": 146974,
-   "hold": false,
-   "last_updated": "2026-11-20T16:33:57+09:00",
+   "last_updated": "2026-11-20T19:21:28+09:00",
    "rank": 4
   },
   {
@@ -91,13 +91,13 @@
     "ja": null
    },
    "game_id": "nikke",
-   "delta_24h": 6267,
+   "delta_24h": 4235,
    "delta_7d": null,
-   "growth_metric": 6267,
+   "growth_metric": 4235,
    "growth_window": "24h",
-   "absolute_views": 34810,
+   "absolute_views": 35025,
    "hold": false,
-   "last_updated": "2026-11-20T16:33:57+09:00",
+   "last_updated": "2026-11-20T19:21:28+09:00",
    "rank": 5
   },
   {
@@ -107,13 +107,13 @@
     "en": null
    },
    "game_id": "nte",
-   "delta_24h": 50,
-   "delta_7d": 1074,
-   "growth_metric": 1074,
+   "delta_24h": 48,
+   "delta_7d": 1015,
+   "growth_metric": 1015,
    "growth_window": "7d",
-   "absolute_views": 5840,
+   "absolute_views": 5843,
    "hold": false,
-   "last_updated": "2026-11-20T16:33:57+09:00",
+   "last_updated": "2026-11-20T19:21:28+09:00",
    "rank": 6
   },
   {
@@ -125,12 +125,12 @@
    },
    "game_id": "genshin",
    "delta_24h": 0,
-   "delta_7d": 235,
-   "growth_metric": 235,
+   "delta_7d": 179,
+   "growth_metric": 179,
    "growth_window": "7d",
    "absolute_views": 41488,
    "hold": false,
-   "last_updated": "2026-11-20T16:33:57+09:00",
+   "last_updated": "2026-11-20T19:21:28+09:00",
    "rank": 7
   },
   {
@@ -147,7 +147,7 @@
    "growth_window": "7d",
    "absolute_views": 71369,
    "hold": false,
-   "last_updated": "2026-11-20T16:33:57+09:00",
+   "last_updated": "2026-11-20T19:21:28+09:00",
    "rank": 8
   }
  ]
