@@ -9,14 +9,14 @@
  "is_rerun": false,
  "reveal_date": "2026-10-29",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-21T16:30:50+09:00",
+ "last_seen_at": "2026-11-21T19:05:05+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 54675.0,
  "peak_lift": 14.398,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 41.0,
-  "d7d": 958.0,
+  "d24h": 36.0,
+  "d7d": 792.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -539,6 +539,11 @@
    "at": "2026-11-21T16:30:50+09:00",
    "video_id": "jVxR-Xj_CtY",
    "views": 5873.0
+  },
+  {
+   "at": "2026-11-21T19:05:05+09:00",
+   "video_id": "jVxR-Xj_CtY",
+   "views": 5876.0
   }
  ],
  "pv_series_by_video": [
@@ -985,6 +990,10 @@
     {
      "at": "2026-11-21T16:30:50+09:00",
      "views": 5873.0
+    },
+    {
+     "at": "2026-11-21T19:05:05+09:00",
+     "views": 5876.0
     }
    ]
   }
@@ -1090,9 +1099,9 @@
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 5873,
+  "absolute_views": 5876,
   "lift_vs_game_baseline": 0.688,
-  "growth_rate_7d": 958,
+  "growth_rate_7d": 792,
   "related_posts": [
    {
     "title": "이환 엘림 한정 보드 12월 2일까지 | 1.5 버전 「지금 거신 번호는」 아직 안 봤으면 체크",
@@ -1100,7 +1109,7 @@
     "published": "Fri, 20 Nov 2026 14:53:25 +0900"
    }
   ],
-  "last_updated": "2026-11-21T16:30:50+09:00",
+  "last_updated": "2026-11-21T19:05:05+09:00",
   "note": "current score does not include all-time records"
  }
 }
