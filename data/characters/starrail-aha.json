@@ -9,14 +9,14 @@
  "is_rerun": false,
  "reveal_date": "2026-10-30",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-21T19:05:05+09:00",
+ "last_seen_at": "2026-11-21T22:17:57+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 495981.0,
+ "peak_pv_views": 497021.0,
  "peak_lift": 4.382,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 7530.0,
-  "d7d": 57633.0,
+  "d24h": 7694.0,
+  "d7d": 53302.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -544,6 +544,11 @@
    "at": "2026-11-21T19:05:05+09:00",
    "video_id": "T1d3GwCDG8w",
    "views": 495981.0
+  },
+  {
+   "at": "2026-11-21T22:17:57+09:00",
+   "video_id": "T1d3GwCDG8w",
+   "views": 497021.0
   }
  ],
  "pv_series_by_video": [
@@ -988,6 +993,10 @@
     {
      "at": "2026-11-21T19:05:05+09:00",
      "views": 495981.0
+    },
+    {
+     "at": "2026-11-21T22:17:57+09:00",
+     "views": 497021.0
     }
    ]
   }
@@ -1001,7 +1010,7 @@
     "ko": "에이언즈★아하",
     "en": "Aha"
    },
-   "peak_pv_views": 495981.0,
+   "peak_pv_views": 497021.0,
    "alltime_rank": 1
   },
   {
@@ -1034,11 +1043,11 @@
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 495981,
-  "lift_vs_game_baseline": 4.26,
-  "growth_rate_7d": 57633,
+  "absolute_views": 497021,
+  "lift_vs_game_baseline": 4.266,
+  "growth_rate_7d": 53302,
   "related_posts": [],
-  "last_updated": "2026-11-21T19:05:05+09:00",
+  "last_updated": "2026-11-21T22:17:57+09:00",
   "note": "current score does not include all-time records"
  }
 }
