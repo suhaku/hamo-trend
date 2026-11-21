@@ -10,7 +10,7 @@
  "is_rerun": false,
  "reveal_date": "2026-10-28",
  "first_seen_at": "2026-11-09T22:03:22+09:00",
- "last_seen_at": "2026-11-21T13:09:51+09:00",
+ "last_seen_at": "2026-11-21T16:30:50+09:00",
  "alltime_rank": 2,
  "peak_pv_views": 71369.0,
  "peak_lift": 3.184,
@@ -555,6 +555,11 @@
    "at": "2026-11-21T13:09:51+09:00",
    "video_id": "tCeXHmvg3ko",
    "views": 71369.0
+  },
+  {
+   "at": "2026-11-21T16:30:50+09:00",
+   "video_id": "tCeXHmvg3ko",
+   "views": 71369.0
   }
  ],
  "pv_series_by_video": [
@@ -1007,6 +1012,10 @@
     {
      "at": "2026-11-21T13:09:51+09:00",
      "views": 71369.0
+    },
+    {
+     "at": "2026-11-21T16:30:50+09:00",
+     "views": 71369.0
     }
    ]
   }
@@ -1133,16 +1142,10 @@
   "hold": false,
   "hold_reason": null,
   "absolute_views": 71369,
-  "lift_vs_game_baseline": 2.185,
+  "lift_vs_game_baseline": 2.174,
   "growth_rate_7d": 0,
-  "related_posts": [
-   {
-    "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
-    "url": "https://news84034.tistory.com/40",
-    "published": "Tue, 17 Nov 2026 20:44:36 +0900"
-   }
-  ],
-  "last_updated": "2026-11-21T13:09:51+09:00",
+  "related_posts": [],
+  "last_updated": "2026-11-21T16:30:50+09:00",
   "note": "current score does not include all-time records"
  }
 }
