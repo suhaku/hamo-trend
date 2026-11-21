@@ -1,7 +1,7 @@
 {
  "status": "ok",
  "month": "2026-11",
- "generated_at": "2026-11-21T07:02:13+09:00",
+ "generated_at": "2026-11-21T10:28:58+09:00",
  "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
  "items": [
   {
@@ -39,7 +39,7 @@
    "pickup": null,
    "verification": "auto_official_reveal: 공식 유튜브 캐릭터 공개 영상",
    "is_new": true,
-   "last_updated": "2026-11-21T07:02:13+09:00",
+   "last_updated": "2026-11-21T10:28:58+09:00",
    "related_posts": [
     {
      "title": "니케 스카이 오늘 점검 끝나고 시작 | 특수 모집 12월 3일까지, 마일리지 200장이면 교환",
@@ -52,8 +52,8 @@
      "published": "Wed, 18 Nov 2026 11:41:22 +0900"
     }
    ],
-   "x_top_post_url": null,
-   "x_status": "데이터 없음"
+   "x_top_post_url": "https://x.com/NIKKE_japan/status/2121407773011522025",
+   "x_status": "연동(일 1회)"
   },
   {
    "id": "wuwa-lily",
@@ -97,7 +97,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-21T07:02:13+09:00",
+   "last_updated": "2026-11-21T10:28:58+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/WW_JP_Official/status/2119988430176387499",
    "x_status": "연동(일 1회)"
@@ -138,7 +138,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-21T07:02:13+09:00",
+   "last_updated": "2026-11-21T10:28:58+09:00",
    "related_posts": [
     {
      "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
@@ -185,7 +185,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-21T07:02:13+09:00",
+   "last_updated": "2026-11-21T10:28:58+09:00",
    "related_posts": [
     {
      "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
@@ -239,7 +239,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-21T07:02:13+09:00",
+   "last_updated": "2026-11-21T10:28:58+09:00",
    "related_posts": [
     {
      "title": "트릭컬 두두 픽업 내일 오전 10시 59분 종료 | 테마극장&middot;스페셜 선택 모집도 같이 끝남",
@@ -297,7 +297,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-21T07:02:13+09:00",
+   "last_updated": "2026-11-21T10:28:58+09:00",
    "related_posts": [
     {
      "title": "명일방주 엔드필드 11월 19일 퍼즐 공간 3종 추가 | 명하 픽업&middot;1주년 페스티벌 신청도 체크",
@@ -365,7 +365,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-21T07:02:13+09:00",
+   "last_updated": "2026-11-21T10:28:58+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/honkaistarrail/status/2115654862767546563",
    "x_status": "연동(일 1회)"
@@ -409,7 +409,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-21T07:02:13+09:00",
+   "last_updated": "2026-11-21T10:28:58+09:00",
    "related_posts": [
     {
      "title": "이환 엘림 한정 보드 12월 2일까지 | 1.5 버전 「지금 거신 번호는」 아직 안 봤으면 체크",
@@ -455,7 +455,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-21T07:02:13+09:00",
+   "last_updated": "2026-11-21T10:28:58+09:00",
    "related_posts": [
     {
      "title": "이환 엘림 한정 보드 12월 2일까지 | 1.5 버전 「지금 거신 번호는」 아직 안 봤으면 체크",
@@ -517,7 +517,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-21T07:02:13+09:00",
+   "last_updated": "2026-11-21T10:28:58+09:00",
    "related_posts": [
     {
      "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
@@ -577,7 +577,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-21T07:02:13+09:00",
+   "last_updated": "2026-11-21T10:28:58+09:00",
    "related_posts": [
     {
      "title": "원신 페이몬의 스케치 54 이모티콘 웃긴 포인트 | HoYoLAB에 새로 나온 SD 이모티콘",
@@ -640,7 +640,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-21T07:02:13+09:00",
+   "last_updated": "2026-11-21T10:28:58+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/ZZZ_JP/status/2118553969387827228",
    "x_status": "연동(일 1회)"
