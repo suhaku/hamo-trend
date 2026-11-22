@@ -10,10 +10,10 @@
  "is_rerun": false,
  "reveal_date": "2026-11-22",
  "first_seen_at": "2026-11-22T13:12:20+09:00",
- "last_seen_at": "2026-11-22T16:31:22+09:00",
+ "last_seen_at": "2026-11-22T19:03:53+09:00",
  "alltime_rank": 2,
- "peak_pv_views": 10909.0,
- "peak_lift": 0.407,
+ "peak_pv_views": 16561.0,
+ "peak_lift": 0.569,
  "peak_trends": null,
  "recorded_deltas": {
   "d24h": null,
@@ -30,6 +30,11 @@
    "at": "2026-11-22T16:31:22+09:00",
    "video_id": "SiI1ZcwqqxM",
    "views": 10909.0
+  },
+  {
+   "at": "2026-11-22T19:03:53+09:00",
+   "video_id": "SiI1ZcwqqxM",
+   "views": 16561.0
   }
  ],
  "pv_series_by_video": [
@@ -44,6 +49,10 @@
     {
      "at": "2026-11-22T16:31:22+09:00",
      "views": 10909.0
+    },
+    {
+     "at": "2026-11-22T19:03:53+09:00",
+     "views": 16561.0
     }
    ]
   }
@@ -67,24 +76,24 @@
     "en": null,
     "ja": null
    },
-   "peak_pv_views": 10909.0,
+   "peak_pv_views": 16561.0,
    "alltime_rank": 2
   }
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
   "score": null,
-  "score_raw": 68.78,
+  "score_raw": 71.87,
   "coverage": 0.5,
   "reliability": 0.5,
   "provisional": false,
   "hold": true,
   "hold_reason": "PV 게시 후 24시간 미만",
-  "absolute_views": 10909,
-  "lift_vs_game_baseline": 0.407,
+  "absolute_views": 16561,
+  "lift_vs_game_baseline": 0.569,
   "growth_rate_7d": null,
   "related_posts": [],
-  "last_updated": "2026-11-22T16:31:22+09:00",
+  "last_updated": "2026-11-22T19:03:53+09:00",
   "note": "current score does not include all-time records"
  }
 }
