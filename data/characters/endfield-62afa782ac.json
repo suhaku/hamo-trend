@@ -1,0 +1,91 @@
+{
+ "character_id": "endfield-62afa782ac",
+ "game_id": "endfield",
+ "name": {
+  "ko": "케르​",
+  "en": null,
+  "ja": null
+ },
+ "is_new": true,
+ "is_rerun": false,
+ "reveal_date": "2026-11-22",
+ "first_seen_at": "2026-11-22T22:17:14+09:00",
+ "last_seen_at": "2026-11-22T22:17:14+09:00",
+ "alltime_rank": 3,
+ "peak_pv_views": 5525.0,
+ "peak_lift": 0.282,
+ "peak_trends": null,
+ "recorded_deltas": {
+  "d24h": null,
+  "d7d": null,
+  "d30d": null
+ },
+ "pv_growth_series": [
+  {
+   "at": "2026-11-22T22:17:14+09:00",
+   "video_id": "90b2uemZI2k",
+   "views": 5525.0
+  }
+ ],
+ "pv_series_by_video": [
+  {
+   "video_id": "90b2uemZI2k",
+   "started_at": "2026-11-22T22:17:14+09:00",
+   "points": [
+    {
+     "at": "2026-11-22T22:17:14+09:00",
+     "views": 5525.0
+    }
+   ]
+  }
+ ],
+ "pv_series_note": "video_id가 바뀌면 새 시리즈. video_id=null은 video_id 기록 이전 스냅샷(다른 PV와 섞어 그리지 말 것).",
+ "trends_series": [],
+ "comparison_to_past_new_chars": [
+  {
+   "character_id": "endfield-mingha",
+   "name": {
+    "ko": "명하",
+    "en": null
+   },
+   "peak_pv_views": 48081.0,
+   "alltime_rank": 1
+  },
+  {
+   "character_id": "endfield-642fd4bcd2",
+   "name": {
+    "ko": "케르",
+    "en": null,
+    "ja": null
+   },
+   "peak_pv_views": 19615.0,
+   "alltime_rank": 2
+  },
+  {
+   "character_id": "endfield-62afa782ac",
+   "name": {
+    "ko": "케르​",
+    "en": null,
+    "ja": null
+   },
+   "peak_pv_views": 5525.0,
+   "alltime_rank": 3
+  }
+ ],
+ "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
+ "current": {
+  "score": null,
+  "score_raw": 63.75,
+  "coverage": 0.5,
+  "reliability": 0.5,
+  "provisional": false,
+  "hold": true,
+  "hold_reason": "PV 게시 후 24시간 미만",
+  "absolute_views": 5525,
+  "lift_vs_game_baseline": 0.282,
+  "growth_rate_7d": null,
+  "related_posts": [],
+  "last_updated": "2026-11-22T22:17:14+09:00",
+  "note": "current score does not include all-time records"
+ }
+}
