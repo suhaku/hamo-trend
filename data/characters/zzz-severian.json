@@ -9,14 +9,14 @@
  "is_rerun": false,
  "reveal_date": "2026-10-23",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-23T07:00:32+09:00",
+ "last_seen_at": "2026-11-23T10:34:13+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 148695.0,
+ "peak_pv_views": 148726.0,
  "peak_lift": 2.63,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 508.0,
-  "d7d": 4563.0,
+  "d24h": 525.0,
+  "d7d": 4594.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -604,6 +604,11 @@
    "at": "2026-11-23T07:00:32+09:00",
    "video_id": "OcDcxORlzmY",
    "views": 148695.0
+  },
+  {
+   "at": "2026-11-23T10:34:13+09:00",
+   "video_id": "OcDcxORlzmY",
+   "views": 148726.0
   }
  ],
  "pv_series_by_video": [
@@ -1090,6 +1095,10 @@
     {
      "at": "2026-11-23T07:00:32+09:00",
      "views": 148695.0
+    },
+    {
+     "at": "2026-11-23T10:34:13+09:00",
+     "views": 148726.0
     }
    ]
   }
@@ -1103,22 +1112,22 @@
     "ko": "세베리안",
     "en": null
    },
-   "peak_pv_views": 148695.0,
+   "peak_pv_views": 148726.0,
    "alltime_rank": 1
   }
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
-  "score": 91.68,
-  "score_raw": 91.68,
+  "score": 91.65,
+  "score_raw": 91.65,
   "coverage": 0.6667,
   "reliability": 0.6667,
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 148695,
-  "lift_vs_game_baseline": 2.29,
-  "growth_rate_7d": 4563,
+  "absolute_views": 148726,
+  "lift_vs_game_baseline": 2.282,
+  "growth_rate_7d": 4594,
   "related_posts": [
    {
     "title": "젠레스 존 제로 3.4 12월 2일 출시 | 로빈 로그인 무료 지급 + DJMAX 콜라보 DLC 확정",
@@ -1126,7 +1135,7 @@
     "published": "Sat, 21 Nov 2026 17:11:56 +0900"
    }
   ],
-  "last_updated": "2026-11-23T07:00:32+09:00",
+  "last_updated": "2026-11-23T10:34:13+09:00",
   "note": "current score does not include all-time records"
  }
 }
