@@ -9,14 +9,14 @@
  "is_rerun": false,
  "reveal_date": "2026-10-30",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-24T22:36:32+09:00",
+ "last_seen_at": "2026-11-25T01:30:02+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 513074.0,
+ "peak_pv_views": 513913.0,
  "peak_lift": 4.382,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 5807.0,
-  "d7d": 40100.0,
+  "d24h": 4758.0,
+  "d7d": 39887.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -669,6 +669,11 @@
    "at": "2026-11-24T22:36:32+09:00",
    "video_id": "T1d3GwCDG8w",
    "views": 513074.0
+  },
+  {
+   "at": "2026-11-25T01:30:02+09:00",
+   "video_id": "T1d3GwCDG8w",
+   "views": 513913.0
   }
  ],
  "pv_series_by_video": [
@@ -1213,6 +1218,10 @@
     {
      "at": "2026-11-24T22:36:32+09:00",
      "views": 513074.0
+    },
+    {
+     "at": "2026-11-25T01:30:02+09:00",
+     "views": 513913.0
     }
    ]
   }
@@ -1226,7 +1235,7 @@
     "ko": "에이언즈★아하",
     "en": "Aha"
    },
-   "peak_pv_views": 513074.0,
+   "peak_pv_views": 513913.0,
    "alltime_rank": 1
   },
   {
@@ -1259,9 +1268,9 @@
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 513074,
-  "lift_vs_game_baseline": 4.372,
-  "growth_rate_7d": 40100,
+  "absolute_views": 513913,
+  "lift_vs_game_baseline": 4.376,
+  "growth_rate_7d": 39887,
   "related_posts": [
    {
     "title": "원신 라이오슬리 생일 11월 23일 | 스티커 내기랑 차 좋아하는 공작님",
@@ -1269,7 +1278,7 @@
     "published": "Tue, 24 Nov 2026 20:37:36 +0900"
    }
   ],
-  "last_updated": "2026-11-24T22:36:32+09:00",
+  "last_updated": "2026-11-25T01:30:02+09:00",
   "note": "current score does not include all-time records"
  }
 }

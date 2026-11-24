@@ -9,7 +9,7 @@
  "is_rerun": false,
  "reveal_date": "2026-11-02",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-24T22:36:32+09:00",
+ "last_seen_at": "2026-11-25T01:30:02+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 48081.0,
  "peak_lift": 9.395,
@@ -669,6 +669,11 @@
    "at": "2026-11-24T22:36:32+09:00",
    "video_id": "HWsEtcPe1d4",
    "views": 48081.0
+  },
+  {
+   "at": "2026-11-25T01:30:02+09:00",
+   "video_id": "HWsEtcPe1d4",
+   "views": 48081.0
   }
  ],
  "pv_series_by_video": [
@@ -1207,6 +1212,10 @@
     {
      "at": "2026-11-24T22:36:32+09:00",
      "views": 48081.0
+    },
+    {
+     "at": "2026-11-25T01:30:02+09:00",
+     "views": 48081.0
     }
    ]
   }
@@ -1230,7 +1239,7 @@
     "en": null,
     "ja": null
    },
-   "peak_pv_views": 45173.0,
+   "peak_pv_views": 46131.0,
    "alltime_rank": 2
   },
   {
@@ -1240,7 +1249,7 @@
     "en": null,
     "ja": null
    },
-   "peak_pv_views": 17560.0,
+   "peak_pv_views": 17740.0,
    "alltime_rank": 3
   }
  ],
@@ -1254,10 +1263,10 @@
   "hold": false,
   "hold_reason": null,
   "absolute_views": 48081,
-  "lift_vs_game_baseline": 1.383,
+  "lift_vs_game_baseline": 1.361,
   "growth_rate_7d": 0,
   "related_posts": [],
-  "last_updated": "2026-11-24T22:36:32+09:00",
+  "last_updated": "2026-11-25T01:30:02+09:00",
   "note": "current score does not include all-time records"
  }
 }
