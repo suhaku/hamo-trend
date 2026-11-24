@@ -10,9 +10,9 @@
  "is_rerun": false,
  "reveal_date": "2026-11-22",
  "first_seen_at": "2026-11-22T13:12:20+09:00",
- "last_seen_at": "2026-11-24T07:09:16+09:00",
+ "last_seen_at": "2026-11-24T10:33:30+09:00",
  "alltime_rank": 2,
- "peak_pv_views": 35590.0,
+ "peak_pv_views": 36684.0,
  "peak_lift": 1.24,
  "peak_trends": null,
  "recorded_deltas": {
@@ -95,6 +95,11 @@
    "at": "2026-11-24T07:09:16+09:00",
    "video_id": "zC1T7jlhPpQ",
    "views": 35590.0
+  },
+  {
+   "at": "2026-11-24T10:33:30+09:00",
+   "video_id": "zC1T7jlhPpQ",
+   "views": 36684.0
   }
  ],
  "pv_series_by_video": [
@@ -167,6 +172,10 @@
     {
      "at": "2026-11-24T07:09:16+09:00",
      "views": 35590.0
+    },
+    {
+     "at": "2026-11-24T10:33:30+09:00",
+     "views": 36684.0
     }
    ]
   }
@@ -190,7 +199,7 @@
     "en": null,
     "ja": null
    },
-   "peak_pv_views": 35590.0,
+   "peak_pv_views": 36684.0,
    "alltime_rank": 2
   },
   {
@@ -200,24 +209,24 @@
     "en": null,
     "ja": null
    },
-   "peak_pv_views": 16502.0,
+   "peak_pv_views": 16683.0,
    "alltime_rank": 3
   }
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
   "score": null,
-  "score_raw": 83.15,
+  "score_raw": 83.43,
   "coverage": 0.6667,
   "reliability": 0.6667,
   "provisional": false,
   "hold": true,
   "hold_reason": "PV 게시 후 24시간 미만",
-  "absolute_views": 35590,
-  "lift_vs_game_baseline": 1.199,
+  "absolute_views": 36684,
+  "lift_vs_game_baseline": 1.211,
   "growth_rate_7d": null,
   "related_posts": [],
-  "last_updated": "2026-11-24T07:09:16+09:00",
+  "last_updated": "2026-11-24T10:33:30+09:00",
   "note": "current score does not include all-time records"
  }
 }
