@@ -9,14 +9,14 @@
  "is_rerun": false,
  "reveal_date": "2026-10-23",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-24T19:26:42+09:00",
+ "last_seen_at": "2026-11-24T22:36:32+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 149337.0,
+ "peak_pv_views": 149394.0,
  "peak_lift": 2.63,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 503.0,
-  "d7d": 4151.0,
+  "d24h": 513.0,
+  "d7d": 4087.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -664,6 +664,11 @@
    "at": "2026-11-24T19:26:42+09:00",
    "video_id": "OcDcxORlzmY",
    "views": 149337.0
+  },
+  {
+   "at": "2026-11-24T22:36:32+09:00",
+   "video_id": "OcDcxORlzmY",
+   "views": 149394.0
   }
  ],
  "pv_series_by_video": [
@@ -1198,6 +1203,10 @@
     {
      "at": "2026-11-24T19:26:42+09:00",
      "views": 149337.0
+    },
+    {
+     "at": "2026-11-24T22:36:32+09:00",
+     "views": 149394.0
     }
    ]
   }
@@ -1211,7 +1220,7 @@
     "ko": "세베리안",
     "en": null
    },
-   "peak_pv_views": 149337.0,
+   "peak_pv_views": 149394.0,
    "alltime_rank": 1
   }
  ],
@@ -1224,17 +1233,11 @@
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 149337,
-  "lift_vs_game_baseline": 2.172,
-  "growth_rate_7d": 4151,
-  "related_posts": [
-   {
-    "title": "젠레스 존 제로 3.4 12월 2일 출시 | 로빈 로그인 무료 지급 + DJMAX 콜라보 DLC 확정",
-    "url": "https://news84034.tistory.com/52",
-    "published": "Sat, 21 Nov 2026 17:11:56 +0900"
-   }
-  ],
-  "last_updated": "2026-11-24T19:26:42+09:00",
+  "absolute_views": 149394,
+  "lift_vs_game_baseline": 2.164,
+  "growth_rate_7d": 4087,
+  "related_posts": [],
+  "last_updated": "2026-11-24T22:36:32+09:00",
   "note": "current score does not include all-time records"
  }
 }
