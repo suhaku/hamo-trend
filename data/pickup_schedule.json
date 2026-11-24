@@ -1,27 +1,20 @@
 {
  "status": "ok",
- "generated_at": "2026-11-24T16:38:50+09:00",
+ "generated_at": "2026-11-24T19:23:14+09:00",
  "month": "2026-11",
  "rule": "공식 공지만 · 시작/종료/출처 필수 · 신규 중심, 복각은 따로 표시",
  "items": [
   {
    "game_id": "genshin",
    "game_name": "원신",
-   "title": "「만물의 법칙」 기원: 「규칙 파괴자·미탸(번개)」 확률 UP!",
+   "title": "신규 캐릭터 「미탸」 픽업",
    "characters": [
-    "미탸",
-    "발레리",
-    "샤를로트",
-    "로자리아"
+    "미탸"
    ],
    "new_characters": [
-    "미탸",
-    "발레리"
+    "미탸"
    ],
-   "rerun_characters": [
-    "샤를로트",
-    "로자리아"
-   ],
+   "rerun_characters": null,
    "featured_character": "미탸",
    "featured_character_id": "genshin-a2fbc1b95d",
    "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
@@ -36,12 +29,12 @@
    "is_new": true,
    "is_rerun": false,
    "type": "신규",
-   "image": null,
+   "image": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
    "source": "호요버스 공식 인게임 공지",
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
-   "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "api_source": null,
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "genshin",
@@ -73,7 +66,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": null,
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "trickcal",
@@ -105,7 +98,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
    "api_source": null,
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "starrail",
@@ -148,7 +141,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47385253",
    "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "zzz",
@@ -183,7 +176,39 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47375931",
    "api_source": null,
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
+  },
+  {
+   "game_id": "trickcal",
+   "game_name": "트릭컬 리바이브",
+   "title": "[이벤트] 신규 픽업 엘다인 사도 모집 진행 예정 안내(~12월 3일)",
+   "characters": [
+    "아이리스",
+    "리뉴아"
+   ],
+   "new_characters": [
+    "아이리스"
+   ],
+   "rerun_characters": [
+    "리뉴아"
+   ],
+   "featured_character": "아이리스",
+   "featured_character_id": "trickcal-c8ef43955b",
+   "portrait_url": "https://nng-phinf.pstatic.net/MjAyNjExMjRfMTMg/MDAxNzk1NTA0MjI5NDAw.rEyl26_HcZuLW-ICW1ico0-XQgSfZ5y5GH4Ic_pYjcgg.0iiKXONAczmJwCPUw3ki3vk6OvHjTV2PuprKvVmc4X8g.GIF/3.gif",
+   "portrait_focus": null,
+   "portrait_zoom": null,
+   "start": "2026-11-26",
+   "end": "2026-12-03",
+   "tz": "KST",
+   "is_new": true,
+   "is_rerun": false,
+   "type": "신규",
+   "image": "https://nng-phinf.pstatic.net/MjAyNjExMjRfMTMg/MDAxNzk1NTA0MjI5NDAw.rEyl26_HcZuLW-ICW1ico0-XQgSfZ5y5GH4Ic_pYjcgg.0iiKXONAczmJwCPUw3ki3vk6OvHjTV2PuprKvVmc4X8g.GIF/3.gif",
+   "source": "네이버 게임 라운지 공식 GM 공지",
+   "source_label": "네이버 게임 라운지 공식 공지",
+   "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8503277",
+   "api_source": null,
+   "last_updated": "2026-11-24T19:23:14+09:00"
   }
  ],
  "reruns": [
@@ -216,7 +241,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47131668",
    "api_source": null,
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "trickcal",
@@ -245,43 +270,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
    "api_source": null,
-   "last_updated": "2026-11-24T16:38:50+09:00"
-  },
-  {
-   "game_id": "genshin",
-   "game_name": "원신",
-   "title": "「물들의 찬송시」 기원: 「멈추지 않는 독무·푸리나(물)」 확률 UP!",
-   "characters": [
-    "발레리",
-    "푸리나",
-    "샤를로트",
-    "로자리아"
-   ],
-   "new_characters": [
-    "발레리"
-   ],
-   "rerun_characters": [
-    "푸리나",
-    "샤를로트",
-    "로자리아"
-   ],
-   "featured_character": "푸리나",
-   "featured_character_id": null,
-   "portrait_url": null,
-   "portrait_focus": null,
-   "portrait_zoom": null,
-   "start": "2026-11-02 12:00:00",
-   "end": "2026-11-24 17:59:00",
-   "tz": "UTC+8",
-   "is_new": false,
-   "is_rerun": true,
-   "type": "복각",
-   "image": null,
-   "source": "호요버스 공식 인게임 공지",
-   "source_label": "호요버스 공식 인게임 공지",
-   "source_url": "https://www.hoyolab.com/article/47284168",
-   "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "nte",
@@ -314,7 +303,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
    "api_source": null,
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "genshin",
@@ -349,7 +338,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47494924",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "genshin",
@@ -384,7 +373,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47494924",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   }
  ],
  "all": [
@@ -417,7 +406,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47131668",
    "api_source": null,
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "trickcal",
@@ -446,26 +435,19 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8373555",
    "api_source": null,
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "genshin",
    "game_name": "원신",
-   "title": "「만물의 법칙」 기원: 「규칙 파괴자·미탸(번개)」 확률 UP!",
+   "title": "신규 캐릭터 「미탸」 픽업",
    "characters": [
-    "미탸",
-    "발레리",
-    "샤를로트",
-    "로자리아"
+    "미탸"
    ],
    "new_characters": [
-    "미탸",
-    "발레리"
+    "미탸"
    ],
-   "rerun_characters": [
-    "샤를로트",
-    "로자리아"
-   ],
+   "rerun_characters": null,
    "featured_character": "미탸",
    "featured_character_id": "genshin-a2fbc1b95d",
    "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
@@ -480,48 +462,12 @@
    "is_new": true,
    "is_rerun": false,
    "type": "신규",
-   "image": null,
+   "image": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
    "source": "호요버스 공식 인게임 공지",
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
-   "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-24T16:38:50+09:00"
-  },
-  {
-   "game_id": "genshin",
-   "game_name": "원신",
-   "title": "「물들의 찬송시」 기원: 「멈추지 않는 독무·푸리나(물)」 확률 UP!",
-   "characters": [
-    "발레리",
-    "푸리나",
-    "샤를로트",
-    "로자리아"
-   ],
-   "new_characters": [
-    "발레리"
-   ],
-   "rerun_characters": [
-    "푸리나",
-    "샤를로트",
-    "로자리아"
-   ],
-   "featured_character": "푸리나",
-   "featured_character_id": null,
-   "portrait_url": null,
-   "portrait_focus": null,
-   "portrait_zoom": null,
-   "start": "2026-11-02 12:00:00",
-   "end": "2026-11-24 17:59:00",
-   "tz": "UTC+8",
-   "is_new": false,
-   "is_rerun": true,
-   "type": "복각",
-   "image": null,
-   "source": "호요버스 공식 인게임 공지",
-   "source_label": "호요버스 공식 인게임 공지",
-   "source_url": "https://www.hoyolab.com/article/47284168",
-   "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "api_source": null,
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "genshin",
@@ -553,7 +499,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47284168",
    "api_source": null,
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "trickcal",
@@ -585,7 +531,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8404607",
    "api_source": null,
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "starrail",
@@ -628,7 +574,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47385253",
    "api_source": "https://sg-hkrpg-api.hoyoverse.com/common/hkrpg_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "nte",
@@ -661,7 +607,7 @@
    "source_label": "네이버 게임 라운지 공식 공지",
    "source_url": "https://game.naver.com/lounge/NTE/board/detail/8434668",
    "api_source": null,
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "zzz",
@@ -696,7 +642,7 @@
    "source_label": "HoYoLAB 공식 공지",
    "source_url": "https://www.hoyolab.com/article/47375931",
    "api_source": null,
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "genshin",
@@ -731,7 +677,7 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47494924",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
   },
   {
    "game_id": "genshin",
@@ -766,7 +712,39 @@
    "source_label": "호요버스 공식 인게임 공지",
    "source_url": "https://www.hoyolab.com/article/47494924",
    "api_source": "https://sg-hk4e-api.hoyoverse.com/common/hk4e_global/announcement/api/getAnnList",
-   "last_updated": "2026-11-24T16:38:50+09:00"
+   "last_updated": "2026-11-24T19:23:14+09:00"
+  },
+  {
+   "game_id": "trickcal",
+   "game_name": "트릭컬 리바이브",
+   "title": "[이벤트] 신규 픽업 엘다인 사도 모집 진행 예정 안내(~12월 3일)",
+   "characters": [
+    "아이리스",
+    "리뉴아"
+   ],
+   "new_characters": [
+    "아이리스"
+   ],
+   "rerun_characters": [
+    "리뉴아"
+   ],
+   "featured_character": "아이리스",
+   "featured_character_id": "trickcal-c8ef43955b",
+   "portrait_url": "https://nng-phinf.pstatic.net/MjAyNjExMjRfMTMg/MDAxNzk1NTA0MjI5NDAw.rEyl26_HcZuLW-ICW1ico0-XQgSfZ5y5GH4Ic_pYjcgg.0iiKXONAczmJwCPUw3ki3vk6OvHjTV2PuprKvVmc4X8g.GIF/3.gif",
+   "portrait_focus": null,
+   "portrait_zoom": null,
+   "start": "2026-11-26",
+   "end": "2026-12-03",
+   "tz": "KST",
+   "is_new": true,
+   "is_rerun": false,
+   "type": "신규",
+   "image": "https://nng-phinf.pstatic.net/MjAyNjExMjRfMTMg/MDAxNzk1NTA0MjI5NDAw.rEyl26_HcZuLW-ICW1ico0-XQgSfZ5y5GH4Ic_pYjcgg.0iiKXONAczmJwCPUw3ki3vk6OvHjTV2PuprKvVmc4X8g.GIF/3.gif",
+   "source": "네이버 게임 라운지 공식 GM 공지",
+   "source_label": "네이버 게임 라운지 공식 공지",
+   "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8503277",
+   "api_source": null,
+   "last_updated": "2026-11-24T19:23:14+09:00"
   }
  ]
 }

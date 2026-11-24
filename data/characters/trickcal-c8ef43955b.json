@@ -1,0 +1,64 @@
+{
+ "character_id": "trickcal-c8ef43955b",
+ "game_id": "trickcal",
+ "name": {
+  "ko": "아이리스",
+  "en": null,
+  "ja": null
+ },
+ "is_new": true,
+ "is_rerun": false,
+ "reveal_date": "2026-11-24",
+ "first_seen_at": "2026-11-24T19:26:42+09:00",
+ "last_seen_at": "2026-11-24T19:26:42+09:00",
+ "alltime_rank": null,
+ "peak_pv_views": null,
+ "peak_lift": null,
+ "peak_trends": null,
+ "recorded_deltas": {
+  "d24h": null,
+  "d7d": null,
+  "d30d": null
+ },
+ "pv_growth_series": [],
+ "pv_series_by_video": [],
+ "pv_series_note": "video_id가 바뀌면 새 시리즈. video_id=null은 video_id 기록 이전 스냅샷(다른 PV와 섞어 그리지 말 것).",
+ "trends_series": [],
+ "comparison_to_past_new_chars": [
+  {
+   "character_id": "trickcal-dudu",
+   "name": {
+    "ko": "두두",
+    "en": null
+   },
+   "peak_pv_views": null,
+   "alltime_rank": null
+  },
+  {
+   "character_id": "trickcal-c8ef43955b",
+   "name": {
+    "ko": "아이리스",
+    "en": null,
+    "ja": null
+   },
+   "peak_pv_views": null,
+   "alltime_rank": null
+  }
+ ],
+ "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
+ "current": {
+  "score": null,
+  "score_raw": null,
+  "coverage": 0.0,
+  "reliability": 0.0,
+  "provisional": false,
+  "hold": true,
+  "hold_reason": "실측 신호 0<1",
+  "absolute_views": null,
+  "lift_vs_game_baseline": null,
+  "growth_rate_7d": null,
+  "related_posts": [],
+  "last_updated": "2026-11-24T19:26:42+09:00",
+  "note": "current score does not include all-time records"
+ }
+}

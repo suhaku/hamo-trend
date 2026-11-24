@@ -1,9 +1,58 @@
 {
  "status": "ok",
  "month": "2026-11",
- "generated_at": "2026-11-24T16:38:50+09:00",
+ "generated_at": "2026-11-24T19:23:14+09:00",
  "rule": "이번 달 공식 공개된 신규 캐릭터만 (복각·기존 캐릭터 제외)",
  "items": [
+  {
+   "id": "trickcal-c8ef43955b",
+   "game_id": "trickcal",
+   "game_name": "트릭컬 리바이브",
+   "name": {
+    "ko": "아이리스",
+    "en": null,
+    "ja": null
+   },
+   "aliases": {
+    "ko": [
+     "아이리스"
+    ],
+    "en": [],
+    "ja": []
+   },
+   "reveal_date": "2026-11-24",
+   "reveal_note": null,
+   "month_reason": "이달 공개",
+   "release_date": null,
+   "release_note": null,
+   "status": "revealed",
+   "illustration_url": "https://nng-phinf.pstatic.net/MjAyNjExMjRfMTMg/MDAxNzk1NTA0MjI5NDAw.rEyl26_HcZuLW-ICW1ico0-XQgSfZ5y5GH4Ic_pYjcgg.0iiKXONAczmJwCPUw3ki3vk6OvHjTV2PuprKvVmc4X8g.GIF/3.gif",
+   "portrait_url": "https://nng-phinf.pstatic.net/MjAyNjExMjRfMTMg/MDAxNzk1NTA0MjI5NDAw.rEyl26_HcZuLW-ICW1ico0-XQgSfZ5y5GH4Ic_pYjcgg.0iiKXONAczmJwCPUw3ki3vk6OvHjTV2PuprKvVmc4X8g.GIF/3.gif",
+   "portrait_focus": null,
+   "portrait_zoom": null,
+   "source_urls": [
+    "https://game.naver.com/lounge/trickcal/board/detail/8503277"
+   ],
+   "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8503277",
+   "source_label": null,
+   "pickup": {
+    "start": "2026-11-26",
+    "end": "2026-12-03",
+    "tz": null,
+    "source_url": "https://game.naver.com/lounge/trickcal/board/detail/8503277",
+    "source_label": "네이버 게임 라운지 공식 공지",
+    "api_source": null,
+    "source": "네이버 게임 라운지 공식 GM 공지",
+    "is_rerun": false,
+    "is_new": true
+   },
+   "verification": "auto_official_reveal: 공식 픽업 공지 신규 표기",
+   "is_new": true,
+   "last_updated": "2026-11-24T19:23:14+09:00",
+   "related_posts": [],
+   "x_top_post_url": null,
+   "x_status": "데이터 없음"
+  },
   {
    "id": "endfield-642fd4bcd2",
    "game_id": "endfield",
@@ -39,7 +88,7 @@
    "pickup": null,
    "verification": "auto_official_reveal: 공식 유튜브 캐릭터 공개 영상",
    "is_new": true,
-   "last_updated": "2026-11-24T16:38:50+09:00",
+   "last_updated": "2026-11-24T19:23:14+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/AKEndfieldJP/status/2124104930323788111",
    "x_status": "연동(일 1회)"
@@ -78,7 +127,7 @@
    "pickup": null,
    "verification": "auto_official_reveal: 공식 유튜브 캐릭터 공개 영상",
    "is_new": true,
-   "last_updated": "2026-11-24T16:38:50+09:00",
+   "last_updated": "2026-11-24T19:23:14+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/AKEndfieldJP/status/2124104930323788111",
    "x_status": "연동(일 1회)"
@@ -118,7 +167,7 @@
    "pickup": null,
    "verification": "auto_official_reveal: 공식 유튜브 캐릭터 공개 영상",
    "is_new": true,
-   "last_updated": "2026-11-24T16:38:50+09:00",
+   "last_updated": "2026-11-24T19:23:14+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/NIKKE_japan/status/2121407773011522025",
    "x_status": "연동(일 1회)"
@@ -165,7 +214,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-24T16:38:50+09:00",
+   "last_updated": "2026-11-24T19:23:14+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/WW_JP_Official/status/2119988430176387499",
    "x_status": "연동(일 1회)"
@@ -206,7 +255,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-24T16:38:50+09:00",
+   "last_updated": "2026-11-24T19:23:14+09:00",
    "related_posts": [
     {
      "title": "원신 자백&middot;린네아 복각 내일 시작 | 7.2 후반 픽업 11월 24일~12월 15일",
@@ -253,7 +302,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-24T16:38:50+09:00",
+   "last_updated": "2026-11-24T19:23:14+09:00",
    "related_posts": [
     {
      "title": "원신 자백&middot;린네아 복각 내일 시작 | 7.2 후반 픽업 11월 24일~12월 15일",
@@ -307,7 +356,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-24T16:38:50+09:00",
+   "last_updated": "2026-11-24T19:23:14+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/Trickcal_Re/status/2117528978894516275",
    "x_status": "연동(일 1회)"
@@ -359,7 +408,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-24T16:38:50+09:00",
+   "last_updated": "2026-11-24T19:23:14+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/AKEndfieldJP/status/2117452958560297343",
    "x_status": "연동(일 1회)"
@@ -421,7 +470,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-24T16:38:50+09:00",
+   "last_updated": "2026-11-24T19:23:14+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/honkaistarrail/status/2115654862767546563",
    "x_status": "연동(일 1회)"
@@ -465,7 +514,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-24T16:38:50+09:00",
+   "last_updated": "2026-11-24T19:23:14+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
    "x_status": "연동(일 1회)"
@@ -505,7 +554,7 @@
    "pickup": null,
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-24T16:38:50+09:00",
+   "last_updated": "2026-11-24T19:23:14+09:00",
    "related_posts": [],
    "x_top_post_url": "https://x.com/NTE_JP/status/2118176497873662241",
    "x_status": "연동(일 1회)"
@@ -531,7 +580,7 @@
    "month_reason": "이달 픽업",
    "release_date": null,
    "release_note": null,
-   "status": "pickup_live",
+   "status": "ended",
    "illustration_url": "https://i.ytimg.com/vi/6V0kctC2-Tg/hqdefault.jpg",
    "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-a2fbc1b95d-face.png",
    "portrait_focus": {
@@ -561,7 +610,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-24T16:38:50+09:00",
+   "last_updated": "2026-11-24T19:23:14+09:00",
    "related_posts": [
     {
      "title": "원신 자백&middot;린네아 복각 내일 시작 | 7.2 후반 픽업 11월 24일~12월 15일",
@@ -593,7 +642,7 @@
    "month_reason": "이달 픽업",
    "release_date": null,
    "release_note": null,
-   "status": "pickup_live",
+   "status": "ended",
    "illustration_url": "https://i.ytimg.com/vi/tCeXHmvg3ko/hqdefault.jpg",
    "portrait_url": "https://suhaku.github.io/hamo-trend/data/portraits/genshin-de1daf6f79-face.png",
    "portrait_focus": {
@@ -621,7 +670,7 @@
    },
    "verification": "official_new_marker_or_debut_featured",
    "is_new": true,
-   "last_updated": "2026-11-24T16:38:50+09:00",
+   "last_updated": "2026-11-24T19:23:14+09:00",
    "related_posts": [
     {
      "title": "원신 자백&middot;린네아 복각 내일 시작 | 7.2 후반 픽업 11월 24일~12월 15일",
@@ -684,7 +733,7 @@
    },
    "verification": "manual_verified_official_source",
    "is_new": true,
-   "last_updated": "2026-11-24T16:38:50+09:00",
+   "last_updated": "2026-11-24T19:23:14+09:00",
    "related_posts": [
     {
      "title": "젠레스 존 제로 3.4 12월 2일 출시 | 로빈 로그인 무료 지급 + DJMAX 콜라보 DLC 확정",
@@ -696,5 +745,5 @@
    "x_status": "연동(일 1회)"
   }
  ],
- "count": 14
+ "count": 15
 }
