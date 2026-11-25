@@ -10,13 +10,13 @@
  "is_rerun": false,
  "reveal_date": "2026-11-22",
  "first_seen_at": "2026-11-22T13:12:20+09:00",
- "last_seen_at": "2026-11-25T10:38:53+09:00",
+ "last_seen_at": "2026-11-25T13:28:25+09:00",
  "alltime_rank": 2,
- "peak_pv_views": 47389.0,
- "peak_lift": 1.313,
+ "peak_pv_views": 47896.0,
+ "peak_lift": 1.926,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 10705.0,
+  "d24h": 9156.0,
   "d7d": null,
   "d30d": null
  },
@@ -140,6 +140,11 @@
    "at": "2026-11-25T10:38:53+09:00",
    "video_id": "zC1T7jlhPpQ",
    "views": 47389.0
+  },
+  {
+   "at": "2026-11-25T13:28:25+09:00",
+   "video_id": "zC1T7jlhPpQ",
+   "views": 47896.0
   }
  ],
  "pv_series_by_video": [
@@ -248,6 +253,10 @@
     {
      "at": "2026-11-25T10:38:53+09:00",
      "views": 47389.0
+    },
+    {
+     "at": "2026-11-25T13:28:25+09:00",
+     "views": 47896.0
     }
    ]
   }
@@ -271,7 +280,7 @@
     "en": null,
     "ja": null
    },
-   "peak_pv_views": 47389.0,
+   "peak_pv_views": 47896.0,
    "alltime_rank": 2
   },
   {
@@ -281,24 +290,30 @@
     "en": null,
     "ja": null
    },
-   "peak_pv_views": 18200.0,
+   "peak_pv_views": 18370.0,
    "alltime_rank": 3
   }
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
-  "score": 84.66,
-  "score_raw": 84.66,
+  "score": 84.7,
+  "score_raw": 84.7,
   "coverage": 0.6667,
   "reliability": 0.6667,
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 47389,
-  "lift_vs_game_baseline": 1.313,
+  "absolute_views": 47896,
+  "lift_vs_game_baseline": 1.926,
   "growth_rate_7d": null,
-  "related_posts": [],
-  "last_updated": "2026-11-25T10:38:53+09:00",
+  "related_posts": [
+   {
+    "title": "엔드필드 1.7 「뜻밖의 만남, 버섯 동산 대모험」 오늘 11월 25일 시작 | 케르 합류&middot;옛 댐 탐험 정리",
+    "url": "https://news84034.tistory.com/63",
+    "published": "Wed, 25 Nov 2026 12:36:24 +0900"
+   }
+  ],
+  "last_updated": "2026-11-25T13:28:25+09:00",
   "note": "current score does not include all-time records"
  }
 }
