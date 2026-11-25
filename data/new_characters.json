@@ -158,7 +158,7 @@
     "url": "https://www.youtube.com/watch?v=T1d3GwCDG8w",
     "thumb": "https://i.ytimg.com/vi/T1d3GwCDG8w/hqdefault.jpg",
     "published": "2026-11-08T13:00:19+09:00",
-    "views": 519066,
+    "views": 519728,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH33CJMcI0XZUpIhWRHiUuw"
    },
@@ -391,7 +391,7 @@
     "url": "https://www.youtube.com/shorts/jVxR-Xj_CtY",
     "thumb": "https://i.ytimg.com/vi/jVxR-Xj_CtY/hqdefault.jpg",
     "published": "2026-11-08T17:10:00+09:00",
-    "views": 6008,
+    "views": 6013,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0042GfGERAl0AzXR0j8TPA"
    },
@@ -608,7 +608,7 @@
     "url": "https://www.youtube.com/watch?v=ZNf4RekyVJ8",
     "thumb": "https://i.ytimg.com/vi/ZNf4RekyVJ8/hqdefault.jpg",
     "published": "2026-11-25T13:00:00+09:00",
-    "views": 134922,
+    "views": 143520,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmry1hfaRHI_iTfxUMhC8mA"
    }
@@ -680,7 +680,7 @@
     "url": "https://www.youtube.com/watch?v=zC1T7jlhPpQ",
     "thumb": "https://i.ytimg.com/vi/zC1T7jlhPpQ/hqdefault.jpg",
     "published": "2026-11-23T12:00:19+09:00",
-    "views": 50886,
+    "views": 51234,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ"
    }
@@ -715,7 +715,7 @@
     "url": "https://www.youtube.com/shorts/90b2uemZI2k",
     "thumb": "https://i.ytimg.com/vi/90b2uemZI2k/hqdefault.jpg",
     "published": "2026-11-22T19:00:19+09:00",
-    "views": 18718,
+    "views": 18792,
     "channel_region": "Global",
     "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIf9gYpmmIJV7flBhUhuqYQ"
    }
@@ -757,6 +757,6 @@
    }
   }
  ],
- "last_updated": "2026-11-26T01:24:44+09:00",
+ "last_updated": "2026-11-26T04:11:03+09:00",
  "purged_this_run": []
 }
