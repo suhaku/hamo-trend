@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-25T07:12:08+09:00",
+ "generated_at": "2026-11-25T10:35:09+09:00",
  "rule": "최근 관심 성장 속도(주로 7일 조회수 증가분) · 복각 제외 · 스냅샷 부족 시 데이터 없음",
  "top": {
   "character_id": "starrail-aha",
@@ -9,13 +9,13 @@
    "en": "Aha"
   },
   "game_id": "starrail",
-  "delta_24h": 4884,
-  "delta_7d": 39597,
-  "growth_metric": 39597,
+  "delta_24h": 4889,
+  "delta_7d": 39427,
+  "growth_metric": 39427,
   "growth_window": "7d",
-  "absolute_views": 515082,
+  "absolute_views": 515495,
   "hold": false,
-  "last_updated": "2026-11-25T07:12:08+09:00",
+  "last_updated": "2026-11-25T10:35:09+09:00",
   "rank": 1
  },
  "ranking": [
@@ -26,13 +26,13 @@
     "en": "Aha"
    },
    "game_id": "starrail",
-   "delta_24h": 4884,
-   "delta_7d": 39597,
-   "growth_metric": 39597,
+   "delta_24h": 4889,
+   "delta_7d": 39427,
+   "growth_metric": 39427,
    "growth_window": "7d",
-   "absolute_views": 515082,
+   "absolute_views": 515495,
    "hold": false,
-   "last_updated": "2026-11-25T07:12:08+09:00",
+   "last_updated": "2026-11-25T10:35:09+09:00",
    "rank": 1
   },
   {
@@ -43,13 +43,13 @@
     "ja": null
    },
    "game_id": "endfield",
-   "delta_24h": 11362,
+   "delta_24h": 10705,
    "delta_7d": null,
-   "growth_metric": 11362,
+   "growth_metric": 10705,
    "growth_window": "24h",
-   "absolute_views": 46952,
+   "absolute_views": 47389,
    "hold": false,
-   "last_updated": "2026-11-25T07:12:08+09:00",
+   "last_updated": "2026-11-25T10:35:09+09:00",
    "rank": 2
   },
   {
@@ -59,13 +59,13 @@
     "en": null
    },
    "game_id": "zzz",
-   "delta_24h": 415,
-   "delta_7d": 3935,
-   "growth_metric": 3935,
+   "delta_24h": 356,
+   "delta_7d": 3880,
+   "growth_metric": 3880,
    "growth_window": "7d",
-   "absolute_views": 149561,
+   "absolute_views": 149570,
    "hold": false,
-   "last_updated": "2026-11-25T07:12:08+09:00",
+   "last_updated": "2026-11-25T10:35:09+09:00",
    "rank": 3
   },
   {
@@ -76,12 +76,12 @@
    },
    "game_id": "wuwa",
    "delta_24h": 0,
-   "delta_7d": 3875,
-   "growth_metric": 3875,
+   "delta_7d": 3763,
+   "growth_metric": 3763,
    "growth_window": "7d",
    "absolute_views": 742304,
    "hold": false,
-   "last_updated": "2026-11-25T07:12:08+09:00",
+   "last_updated": "2026-11-25T10:35:09+09:00",
    "rank": 4
   },
   {
@@ -92,13 +92,13 @@
     "ja": null
    },
    "game_id": "endfield",
-   "delta_24h": 1524,
+   "delta_24h": 1517,
    "delta_7d": null,
-   "growth_metric": 1524,
+   "growth_metric": 1517,
    "growth_window": "24h",
-   "absolute_views": 18026,
+   "absolute_views": 18200,
    "hold": false,
-   "last_updated": "2026-11-25T07:12:08+09:00",
+   "last_updated": "2026-11-25T10:35:09+09:00",
    "rank": 5
   },
   {
@@ -109,13 +109,13 @@
     "ja": null
    },
    "game_id": "nikke",
-   "delta_24h": 873,
+   "delta_24h": 880,
    "delta_7d": null,
-   "growth_metric": 873,
+   "growth_metric": 880,
    "growth_window": "24h",
-   "absolute_views": 40086,
+   "absolute_views": 40176,
    "hold": false,
-   "last_updated": "2026-11-25T07:12:08+09:00",
+   "last_updated": "2026-11-25T10:35:09+09:00",
    "rank": 6
   },
   {
@@ -125,13 +125,13 @@
     "en": null
    },
    "game_id": "nte",
-   "delta_24h": 36,
-   "delta_7d": 263,
-   "growth_metric": 263,
+   "delta_24h": 38,
+   "delta_7d": 264,
+   "growth_metric": 264,
    "growth_window": "7d",
-   "absolute_views": 5993,
+   "absolute_views": 5997,
    "hold": false,
-   "last_updated": "2026-11-25T07:12:08+09:00",
+   "last_updated": "2026-11-25T10:35:09+09:00",
    "rank": 7
   },
   {
@@ -148,7 +148,7 @@
    "growth_window": "7d",
    "absolute_views": 41488,
    "hold": false,
-   "last_updated": "2026-11-25T07:12:08+09:00",
+   "last_updated": "2026-11-25T10:35:09+09:00",
    "rank": 8
   },
   {
@@ -165,7 +165,7 @@
    "growth_window": "7d",
    "absolute_views": 71369,
    "hold": false,
-   "last_updated": "2026-11-25T07:12:08+09:00",
+   "last_updated": "2026-11-25T10:35:09+09:00",
    "rank": 9
   },
   {
@@ -181,7 +181,7 @@
    "growth_window": "7d",
    "absolute_views": 48081,
    "hold": false,
-   "last_updated": "2026-11-25T07:12:08+09:00",
+   "last_updated": "2026-11-25T10:35:09+09:00",
    "rank": 10
   }
  ]
