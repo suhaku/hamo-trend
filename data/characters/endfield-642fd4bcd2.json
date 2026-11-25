@@ -10,13 +10,13 @@
  "is_rerun": false,
  "reveal_date": "2026-11-22",
  "first_seen_at": "2026-11-22T13:12:20+09:00",
- "last_seen_at": "2026-11-25T13:28:25+09:00",
- "alltime_rank": 2,
- "peak_pv_views": 47896.0,
- "peak_lift": 1.926,
+ "last_seen_at": "2026-11-25T16:45:14+09:00",
+ "alltime_rank": 1,
+ "peak_pv_views": 48947.0,
+ "peak_lift": 1.959,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 9156.0,
+  "d24h": 6741.0,
   "d7d": null,
   "d30d": null
  },
@@ -145,6 +145,11 @@
    "at": "2026-11-25T13:28:25+09:00",
    "video_id": "zC1T7jlhPpQ",
    "views": 47896.0
+  },
+  {
+   "at": "2026-11-25T16:45:14+09:00",
+   "video_id": "zC1T7jlhPpQ",
+   "views": 48947.0
   }
  ],
  "pv_series_by_video": [
@@ -257,6 +262,10 @@
     {
      "at": "2026-11-25T13:28:25+09:00",
      "views": 47896.0
+    },
+    {
+     "at": "2026-11-25T16:45:14+09:00",
+     "views": 48947.0
     }
    ]
   }
@@ -265,22 +274,22 @@
  "trends_series": [],
  "comparison_to_past_new_chars": [
   {
-   "character_id": "endfield-mingha",
-   "name": {
-    "ko": "명하",
-    "en": null
-   },
-   "peak_pv_views": 48081.0,
-   "alltime_rank": 1
-  },
-  {
    "character_id": "endfield-642fd4bcd2",
    "name": {
     "ko": "케르",
     "en": null,
     "ja": null
    },
-   "peak_pv_views": 47896.0,
+   "peak_pv_views": 48947.0,
+   "alltime_rank": 1
+  },
+  {
+   "character_id": "endfield-mingha",
+   "name": {
+    "ko": "명하",
+    "en": null
+   },
+   "peak_pv_views": 48081.0,
    "alltime_rank": 2
   },
   {
@@ -290,21 +299,21 @@
     "en": null,
     "ja": null
    },
-   "peak_pv_views": 18370.0,
+   "peak_pv_views": 18474.0,
    "alltime_rank": 3
   }
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
-  "score": 84.7,
-  "score_raw": 84.7,
+  "score": 84.81,
+  "score_raw": 84.81,
   "coverage": 0.6667,
   "reliability": 0.6667,
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 47896,
-  "lift_vs_game_baseline": 1.926,
+  "absolute_views": 48947,
+  "lift_vs_game_baseline": 1.959,
   "growth_rate_7d": null,
   "related_posts": [
    {
@@ -313,7 +322,7 @@
     "published": "Wed, 25 Nov 2026 12:36:24 +0900"
    }
   ],
-  "last_updated": "2026-11-25T13:28:25+09:00",
+  "last_updated": "2026-11-25T16:45:14+09:00",
   "note": "current score does not include all-time records"
  }
 }
