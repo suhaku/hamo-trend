@@ -9,14 +9,14 @@
  "is_rerun": false,
  "reveal_date": "2026-10-30",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-26T19:29:26+09:00",
+ "last_seen_at": "2026-11-26T22:42:04+09:00",
  "alltime_rank": 1,
- "peak_pv_views": 522424.0,
- "peak_lift": 4.43,
+ "peak_pv_views": 523356.0,
+ "peak_lift": 4.436,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 5469.0,
-  "d7d": 38543.0,
+  "d24h": 6401.0,
+  "d7d": 38554.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -744,6 +744,11 @@
    "at": "2026-11-26T19:29:26+09:00",
    "video_id": "T1d3GwCDG8w",
    "views": 522424.0
+  },
+  {
+   "at": "2026-11-26T22:42:04+09:00",
+   "video_id": "T1d3GwCDG8w",
+   "views": 523356.0
   }
  ],
  "pv_series_by_video": [
@@ -1348,6 +1353,10 @@
     {
      "at": "2026-11-26T19:29:26+09:00",
      "views": 522424.0
+    },
+    {
+     "at": "2026-11-26T22:42:04+09:00",
+     "views": 523356.0
     }
    ]
   }
@@ -1361,7 +1370,7 @@
     "ko": "에이언즈★아하",
     "en": "Aha"
    },
-   "peak_pv_views": 522424.0,
+   "peak_pv_views": 523356.0,
    "alltime_rank": 1
   },
   {
@@ -1387,16 +1396,16 @@
  ],
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
-  "score": 97.11,
-  "score_raw": 97.11,
+  "score": 97.12,
+  "score_raw": 97.12,
   "coverage": 0.6667,
   "reliability": 0.6667,
   "provisional": false,
   "hold": false,
   "hold_reason": null,
-  "absolute_views": 522424,
-  "lift_vs_game_baseline": 4.43,
-  "growth_rate_7d": 38543,
+  "absolute_views": 523356,
+  "lift_vs_game_baseline": 4.436,
+  "growth_rate_7d": 38554,
   "related_posts": [
    {
     "title": "원신 라이오슬리 생일 11월 23일 | 스티커 내기랑 차 좋아하는 공작님",
@@ -1404,7 +1413,7 @@
     "published": "Tue, 24 Nov 2026 20:37:36 +0900"
    }
   ],
-  "last_updated": "2026-11-26T19:29:26+09:00",
+  "last_updated": "2026-11-26T22:42:04+09:00",
   "note": "current score does not include all-time records"
  }
 }
