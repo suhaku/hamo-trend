@@ -10,7 +10,7 @@
  "is_rerun": false,
  "reveal_date": "2026-10-29",
  "first_seen_at": "2026-11-09T22:03:22+09:00",
- "last_seen_at": "2026-11-26T13:24:20+09:00",
+ "last_seen_at": "2026-11-26T16:44:16+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 141603.0,
  "peak_lift": 3.583,
@@ -755,6 +755,11 @@
    "at": "2026-11-26T13:24:20+09:00",
    "video_id": "Gh8mhHe4aXU",
    "views": 41488.0
+  },
+  {
+   "at": "2026-11-26T16:44:16+09:00",
+   "video_id": "Gh8mhHe4aXU",
+   "views": 41488.0
   }
  ],
  "pv_series_by_video": [
@@ -1379,6 +1384,10 @@
     {
      "at": "2026-11-26T13:24:20+09:00",
      "views": 41488.0
+    },
+    {
+     "at": "2026-11-26T16:44:16+09:00",
+     "views": 41488.0
     }
    ]
   }
@@ -1505,21 +1514,16 @@
   "hold": false,
   "hold_reason": null,
   "absolute_views": 41488,
-  "lift_vs_game_baseline": 1.2,
+  "lift_vs_game_baseline": 1.199,
   "growth_rate_7d": 0,
   "related_posts": [
    {
     "title": "원신 라이오슬리 생일 11월 23일 | 스티커 내기랑 차 좋아하는 공작님",
     "url": "https://news84034.tistory.com/62",
     "published": "Tue, 24 Nov 2026 20:37:36 +0900"
-   },
-   {
-    "title": "원신 자백&middot;린네아 복각 내일 시작 | 7.2 후반 픽업 11월 24일~12월 15일",
-    "url": "https://news84034.tistory.com/57",
-    "published": "Mon, 23 Nov 2026 12:54:45 +0900"
    }
   ],
-  "last_updated": "2026-11-26T13:24:20+09:00",
+  "last_updated": "2026-11-26T16:44:16+09:00",
   "note": "current score does not include all-time records"
  }
 }
