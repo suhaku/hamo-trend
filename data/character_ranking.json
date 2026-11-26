@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-27T04:20:44+09:00",
+ "generated_at": "2026-11-27T07:14:06+09:00",
  "rule": "100점 만점 · 없는 지표는 0점 처리 없이 나머지로 다시 계산 · 수집률이 낮으면 잠정 또는 보류 · 신뢰도 따로 표시 · 복각 제외 · 역대 기록은 점수에 안 넣음",
  "weights": {
   "youtube_pv": 0.35,
@@ -23,7 +23,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 742304,
-    "youtube_pv_lift": 5.798,
+    "youtube_pv_lift": 5.796,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -42,8 +42,8 @@
     "likes_comments": "미연동"
    },
    "absolute_views": 742304,
-   "growth_rate_7d": 1556,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "growth_rate_7d": 1459,
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 98.89,
    "coverage": 0.6667,
    "provisional": false,
@@ -65,7 +65,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 5.798,
+   "lift_vs_game_baseline": 5.796,
    "pv_video_id": "nNuN0rPi2YA",
    "related_posts": [],
    "x": {
@@ -90,8 +90,8 @@
    "score": 97.13,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 525036,
-    "youtube_pv_lift": 4.447,
+    "youtube_pv_views": 525334,
+    "youtube_pv_lift": 4.448,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -109,9 +109,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 525036,
-   "growth_rate_7d": 38562,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "absolute_views": 525334,
+   "growth_rate_7d": 38526,
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 97.13,
    "coverage": 0.6667,
    "provisional": false,
@@ -133,7 +133,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 4.447,
+   "lift_vs_game_baseline": 4.448,
    "pv_video_id": "T1d3GwCDG8w",
    "related_posts": [
     {
@@ -165,7 +165,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 150539,
-    "youtube_pv_lift": 1.44,
+    "youtube_pv_lift": 1.433,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -184,8 +184,8 @@
     "likes_comments": "미연동"
    },
    "absolute_views": 150539,
-   "growth_rate_7d": 3779,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "growth_rate_7d": 3727,
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 91.71,
    "coverage": 0.6667,
    "provisional": false,
@@ -207,7 +207,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.44,
+   "lift_vs_game_baseline": 1.433,
    "pv_video_id": "OcDcxORlzmY",
    "related_posts": [],
    "x": {
@@ -233,7 +233,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 48081,
-    "youtube_pv_lift": 3.464,
+    "youtube_pv_lift": 3.452,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -253,7 +253,7 @@
    },
    "absolute_views": 48081,
    "growth_rate_7d": 0,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 87.11,
    "coverage": 0.6667,
    "provisional": false,
@@ -275,7 +275,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 3.464,
+   "lift_vs_game_baseline": 3.452,
    "pv_video_id": "HWsEtcPe1d4",
    "related_posts": [],
    "x": {
@@ -302,7 +302,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 51914,
-    "youtube_pv_lift": 3.74,
+    "youtube_pv_lift": 3.728,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -322,7 +322,7 @@
    },
    "absolute_views": 51914,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 85.11,
    "coverage": 0.6667,
    "provisional": false,
@@ -344,7 +344,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 3.74,
+   "lift_vs_game_baseline": 3.728,
    "pv_video_id": "zC1T7jlhPpQ",
    "related_posts": [
     {
@@ -397,7 +397,7 @@
    },
    "absolute_views": 41488,
    "growth_rate_7d": 0,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 84.63,
    "coverage": 0.6667,
    "provisional": false,
@@ -448,10 +448,10 @@
    "hold": false,
    "hold_reason": null,
    "rank": 7,
-   "score": 82.79,
+   "score": 82.8,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 41323,
+    "youtube_pv_views": 41382,
     "youtube_pv_lift": 1.0,
     "google_trends": null,
     "google_trends_lift": null,
@@ -470,10 +470,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 41323,
-   "growth_rate_7d": 7224,
-   "last_updated": "2026-11-27T04:20:44+09:00",
-   "score_raw": 82.79,
+   "absolute_views": 41382,
+   "growth_rate_7d": 7166,
+   "last_updated": "2026-11-27T07:14:06+09:00",
+   "score_raw": 82.8,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -485,7 +485,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 78.63,
+    "youtube_pv": 78.64,
     "x": 90.08
    },
    "weights_config": {
@@ -541,7 +541,7 @@
    },
    "absolute_views": 71369,
    "growth_rate_7d": 0,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 81.51,
    "coverage": 0.6667,
    "provisional": false,
@@ -596,7 +596,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 18897,
-    "youtube_pv_lift": 1.361,
+    "youtube_pv_lift": 1.357,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -616,7 +616,7 @@
    },
    "absolute_views": 18897,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 80.35,
    "coverage": 0.6667,
    "provisional": false,
@@ -638,7 +638,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.361,
+   "lift_vs_game_baseline": 1.357,
    "pv_video_id": "90b2uemZI2k",
    "related_posts": [],
    "x": {
@@ -664,7 +664,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 6016,
-    "youtube_pv_lift": 0.687,
+    "youtube_pv_lift": 0.686,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -683,8 +683,8 @@
     "likes_comments": "미연동"
    },
    "absolute_views": 6016,
-   "growth_rate_7d": 197,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "growth_rate_7d": 189,
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 67.98,
    "coverage": 0.6667,
    "provisional": false,
@@ -706,7 +706,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 0.687,
+   "lift_vs_game_baseline": 0.686,
    "pv_video_id": "jVxR-Xj_CtY",
    "related_posts": [
     {
@@ -760,7 +760,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 94.26,
    "coverage": 0.3333,
    "provisional": false,
@@ -831,7 +831,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 100.0,
    "coverage": 0.3333,
    "provisional": false,
@@ -881,8 +881,8 @@
    "score": null,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 7788,
-    "youtube_pv_lift": 0.89,
+    "youtube_pv_views": 7987,
+    "youtube_pv_lift": 0.911,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -900,10 +900,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 7788,
+   "absolute_views": 7987,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-27T04:20:44+09:00",
-   "score_raw": 68.84,
+   "last_updated": "2026-11-27T07:14:06+09:00",
+   "score_raw": 68.96,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -915,7 +915,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 66.29,
+    "youtube_pv": 66.47,
     "x": 73.31
    },
    "weights_config": {
@@ -924,7 +924,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 0.89,
+   "lift_vs_game_baseline": 0.911,
    "pv_video_id": "ex-JoebggiE",
    "related_posts": [
     {
@@ -976,7 +976,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 59.67,
    "coverage": 0.3333,
    "provisional": false,
@@ -1042,7 +1042,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 55.22,
    "coverage": 0.3333,
    "provisional": false,
@@ -1110,7 +1110,7 @@
    },
    "absolute_views": 41488,
    "growth_rate_7d": 0,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 84.63,
    "coverage": 0.6667,
    "provisional": false,
@@ -1185,7 +1185,7 @@
    },
    "absolute_views": 71369,
    "growth_rate_7d": 0,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 81.51,
    "coverage": 0.6667,
    "provisional": false,
@@ -1238,8 +1238,8 @@
    "score": 97.13,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 525036,
-    "youtube_pv_lift": 4.447,
+    "youtube_pv_views": 525334,
+    "youtube_pv_lift": 4.448,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1257,9 +1257,9 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 525036,
-   "growth_rate_7d": 38562,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "absolute_views": 525334,
+   "growth_rate_7d": 38526,
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 97.13,
    "coverage": 0.6667,
    "provisional": false,
@@ -1281,7 +1281,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 4.447,
+   "lift_vs_game_baseline": 4.448,
    "pv_video_id": "T1d3GwCDG8w",
    "related_posts": [
     {
@@ -1333,7 +1333,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 94.26,
    "coverage": 0.3333,
    "provisional": false,
@@ -1404,7 +1404,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 100.0,
    "coverage": 0.3333,
    "provisional": false,
@@ -1455,7 +1455,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 150539,
-    "youtube_pv_lift": 1.44,
+    "youtube_pv_lift": 1.433,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1474,8 +1474,8 @@
     "likes_comments": "미연동"
    },
    "absolute_views": 150539,
-   "growth_rate_7d": 3779,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "growth_rate_7d": 3727,
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 91.71,
    "coverage": 0.6667,
    "provisional": false,
@@ -1497,7 +1497,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.44,
+   "lift_vs_game_baseline": 1.433,
    "pv_video_id": "OcDcxORlzmY",
    "related_posts": [],
    "x": {
@@ -1523,7 +1523,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 742304,
-    "youtube_pv_lift": 5.798,
+    "youtube_pv_lift": 5.796,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1542,8 +1542,8 @@
     "likes_comments": "미연동"
    },
    "absolute_views": 742304,
-   "growth_rate_7d": 1556,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "growth_rate_7d": 1459,
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 98.89,
    "coverage": 0.6667,
    "provisional": false,
@@ -1565,7 +1565,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 5.798,
+   "lift_vs_game_baseline": 5.796,
    "pv_video_id": "nNuN0rPi2YA",
    "related_posts": [],
    "x": {
@@ -1591,7 +1591,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 6016,
-    "youtube_pv_lift": 0.687,
+    "youtube_pv_lift": 0.686,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1610,8 +1610,8 @@
     "likes_comments": "미연동"
    },
    "absolute_views": 6016,
-   "growth_rate_7d": 197,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "growth_rate_7d": 189,
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 67.98,
    "coverage": 0.6667,
    "provisional": false,
@@ -1633,7 +1633,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 0.687,
+   "lift_vs_game_baseline": 0.686,
    "pv_video_id": "jVxR-Xj_CtY",
    "related_posts": [
     {
@@ -1664,8 +1664,8 @@
    "score": null,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 7788,
-    "youtube_pv_lift": 0.89,
+    "youtube_pv_views": 7987,
+    "youtube_pv_lift": 0.911,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1683,10 +1683,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 7788,
+   "absolute_views": 7987,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-27T04:20:44+09:00",
-   "score_raw": 68.84,
+   "last_updated": "2026-11-27T07:14:06+09:00",
+   "score_raw": 68.96,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -1698,7 +1698,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 66.29,
+    "youtube_pv": 66.47,
     "x": 73.31
    },
    "weights_config": {
@@ -1707,7 +1707,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 0.89,
+   "lift_vs_game_baseline": 0.911,
    "pv_video_id": "ex-JoebggiE",
    "related_posts": [
     {
@@ -1739,7 +1739,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 48081,
-    "youtube_pv_lift": 3.464,
+    "youtube_pv_lift": 3.452,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1759,7 +1759,7 @@
    },
    "absolute_views": 48081,
    "growth_rate_7d": 0,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 87.11,
    "coverage": 0.6667,
    "provisional": false,
@@ -1781,7 +1781,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 3.464,
+   "lift_vs_game_baseline": 3.452,
    "pv_video_id": "HWsEtcPe1d4",
    "related_posts": [],
    "x": {
@@ -1827,7 +1827,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 59.67,
    "coverage": 0.3333,
    "provisional": false,
@@ -1869,10 +1869,10 @@
    "hold": false,
    "hold_reason": null,
    "rank": 7,
-   "score": 82.79,
+   "score": 82.8,
    "reliability": 0.6667,
    "signals": {
-    "youtube_pv_views": 41323,
+    "youtube_pv_views": 41382,
     "youtube_pv_lift": 1.0,
     "google_trends": null,
     "google_trends_lift": null,
@@ -1891,10 +1891,10 @@
     "community": "데이터 없음",
     "likes_comments": "미연동"
    },
-   "absolute_views": 41323,
-   "growth_rate_7d": 7224,
-   "last_updated": "2026-11-27T04:20:44+09:00",
-   "score_raw": 82.79,
+   "absolute_views": 41382,
+   "growth_rate_7d": 7166,
+   "last_updated": "2026-11-27T07:14:06+09:00",
+   "score_raw": 82.8,
    "coverage": 0.6667,
    "provisional": false,
    "used_weights": {
@@ -1906,7 +1906,7 @@
     "youtube_pv"
    ],
    "signal_scores_0_100": {
-    "youtube_pv": 78.63,
+    "youtube_pv": 78.64,
     "x": 90.08
    },
    "weights_config": {
@@ -1942,7 +1942,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 51914,
-    "youtube_pv_lift": 3.74,
+    "youtube_pv_lift": 3.728,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -1962,7 +1962,7 @@
    },
    "absolute_views": 51914,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 85.11,
    "coverage": 0.6667,
    "provisional": false,
@@ -1984,7 +1984,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 3.74,
+   "lift_vs_game_baseline": 3.728,
    "pv_video_id": "zC1T7jlhPpQ",
    "related_posts": [
     {
@@ -2017,7 +2017,7 @@
    "reliability": 0.6667,
    "signals": {
     "youtube_pv_views": 18897,
-    "youtube_pv_lift": 1.361,
+    "youtube_pv_lift": 1.357,
     "google_trends": null,
     "google_trends_lift": null,
     "x": {
@@ -2037,7 +2037,7 @@
    },
    "absolute_views": 18897,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 80.35,
    "coverage": 0.6667,
    "provisional": false,
@@ -2059,7 +2059,7 @@
     "x": 0.2,
     "community": 0.2
    },
-   "lift_vs_game_baseline": 1.361,
+   "lift_vs_game_baseline": 1.357,
    "pv_video_id": "90b2uemZI2k",
    "related_posts": [],
    "x": {
@@ -2106,7 +2106,7 @@
    },
    "absolute_views": null,
    "growth_rate_7d": null,
-   "last_updated": "2026-11-27T04:20:44+09:00",
+   "last_updated": "2026-11-27T07:14:06+09:00",
    "score_raw": 55.22,
    "coverage": 0.3333,
    "provisional": false,
