@@ -17,7 +17,7 @@
      "peak_lift": 4.453,
      "peak_trends": null,
      "recorded_delta_24h": 5200.0,
-     "recorded_delta_7d": 38665.0,
+     "recorded_delta_7d": 37734.0,
      "recorded_delta_30d": null,
      "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
      "alltime_rank": 1
@@ -74,7 +74,7 @@
     "peak_lift": 4.453,
     "peak_trends": null,
     "recorded_delta_24h": 5200.0,
-    "recorded_delta_7d": 38665.0,
+    "recorded_delta_7d": 37734.0,
     "recorded_delta_30d": null,
     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
     "alltime_rank": 1
@@ -435,7 +435,7 @@
      "peak_lift": 3.584,
      "peak_trends": null,
      "recorded_delta_24h": 488.0,
-     "recorded_delta_7d": 3716.0,
+     "recorded_delta_7d": 3635.0,
      "recorded_delta_30d": null,
      "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
      "alltime_rank": 1
@@ -454,7 +454,7 @@
     "peak_lift": 3.584,
     "peak_trends": null,
     "recorded_delta_24h": 488.0,
-    "recorded_delta_7d": 3716.0,
+    "recorded_delta_7d": 3635.0,
     "recorded_delta_30d": null,
     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
     "alltime_rank": 1
@@ -494,7 +494,7 @@
      "peak_lift": 153.378,
      "peak_trends": null,
      "recorded_delta_24h": 0.0,
-     "recorded_delta_7d": 1293.0,
+     "recorded_delta_7d": 1093.0,
      "recorded_delta_30d": null,
      "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
      "alltime_rank": 1
@@ -513,7 +513,7 @@
     "peak_lift": 153.378,
     "peak_trends": null,
     "recorded_delta_24h": 0.0,
-    "recorded_delta_7d": 1293.0,
+    "recorded_delta_7d": 1093.0,
     "recorded_delta_30d": null,
     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
     "alltime_rank": 1
@@ -537,7 +537,7 @@
      "peak_lift": 1.361,
      "peak_trends": null,
      "recorded_delta_24h": 407.0,
-     "recorded_delta_7d": 6881.0,
+     "recorded_delta_7d": 6623.0,
      "recorded_delta_30d": null,
      "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
      "alltime_rank": 1
@@ -557,7 +557,7 @@
     "peak_lift": 1.361,
     "peak_trends": null,
     "recorded_delta_24h": 407.0,
-    "recorded_delta_7d": 6881.0,
+    "recorded_delta_7d": 6623.0,
     "recorded_delta_30d": null,
     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
     "alltime_rank": 1
@@ -745,7 +745,7 @@
      "peak_lift": 14.398,
      "peak_trends": null,
      "recorded_delta_24h": 0.0,
-     "recorded_delta_7d": 184.0,
+     "recorded_delta_7d": 176.0,
      "recorded_delta_30d": null,
      "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
      "alltime_rank": 1
@@ -915,7 +915,7 @@
     "peak_lift": 14.398,
     "peak_trends": null,
     "recorded_delta_24h": 0.0,
-    "recorded_delta_7d": 184.0,
+    "recorded_delta_7d": 176.0,
     "recorded_delta_30d": null,
     "note": "과거 윈도우 값은 당시 스냅샷이 있을 때만. 소급 추정 없음.",
     "alltime_rank": 1
