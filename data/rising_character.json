@@ -1,6 +1,6 @@
 {
  "status": "ok",
- "generated_at": "2026-11-28T04:14:47+09:00",
+ "generated_at": "2026-11-28T07:11:06+09:00",
  "rule": "최근 관심 성장 속도(주로 7일 조회수 증가분) · 복각 제외 · 스냅샷 부족 시 데이터 없음",
  "top": {
   "character_id": "starrail-aha",
@@ -9,13 +9,13 @@
    "en": "Aha"
   },
   "game_id": "starrail",
-  "delta_24h": 5697,
-  "delta_7d": 38341,
-  "growth_metric": 38341,
+  "delta_24h": 4980,
+  "delta_7d": 37132,
+  "growth_metric": 37132,
   "growth_window": "7d",
-  "absolute_views": 529934,
+  "absolute_views": 530314,
   "hold": false,
-  "last_updated": "2026-11-28T04:14:47+09:00",
+  "last_updated": "2026-11-28T07:11:06+09:00",
   "rank": 1
  },
  "ranking": [
@@ -26,13 +26,13 @@
     "en": "Aha"
    },
    "game_id": "starrail",
-   "delta_24h": 5697,
-   "delta_7d": 38341,
-   "growth_metric": 38341,
+   "delta_24h": 4980,
+   "delta_7d": 37132,
+   "growth_metric": 37132,
    "growth_window": "7d",
-   "absolute_views": 529934,
+   "absolute_views": 530314,
    "hold": false,
-   "last_updated": "2026-11-28T04:14:47+09:00",
+   "last_updated": "2026-11-28T07:11:06+09:00",
    "rank": 1
   },
   {
@@ -43,13 +43,13 @@
     "ja": null
    },
    "game_id": "nikke",
-   "delta_24h": 432,
-   "delta_7d": 6253,
-   "growth_metric": 6253,
+   "delta_24h": 445,
+   "delta_7d": 6138,
+   "growth_metric": 6138,
    "growth_window": "7d",
-   "absolute_views": 41750,
+   "absolute_views": 41827,
    "hold": false,
-   "last_updated": "2026-11-28T04:14:47+09:00",
+   "last_updated": "2026-11-28T07:11:06+09:00",
    "rank": 2
   },
   {
@@ -59,13 +59,13 @@
     "en": null
    },
    "game_id": "zzz",
-   "delta_24h": 572,
-   "delta_7d": 3658,
-   "growth_metric": 3658,
+   "delta_24h": 561,
+   "delta_7d": 3573,
+   "growth_metric": 3573,
    "growth_window": "7d",
-   "absolute_views": 151037,
+   "absolute_views": 151100,
    "hold": false,
-   "last_updated": "2026-11-28T04:14:47+09:00",
+   "last_updated": "2026-11-28T07:11:06+09:00",
    "rank": 3
   },
   {
@@ -75,30 +75,14 @@
     "en": "Exe"
    },
    "game_id": "nte",
-   "delta_24h": 2188,
+   "delta_24h": 1613,
    "delta_7d": null,
-   "growth_metric": 2188,
+   "growth_metric": 1613,
    "growth_window": "24h",
-   "absolute_views": 9551,
+   "absolute_views": 9600,
    "hold": false,
-   "last_updated": "2026-11-28T04:14:47+09:00",
+   "last_updated": "2026-11-28T07:11:06+09:00",
    "rank": 4
-  },
-  {
-   "character_id": "wuwa-lily",
-   "name": {
-    "ko": "릴리",
-    "en": "Lily"
-   },
-   "game_id": "wuwa",
-   "delta_24h": 0,
-   "delta_7d": 430,
-   "growth_metric": 430,
-   "growth_window": "7d",
-   "absolute_views": 742304,
-   "hold": false,
-   "last_updated": "2026-11-28T04:14:47+09:00",
-   "rank": 5
   },
   {
    "character_id": "nte-elim",
@@ -108,12 +92,28 @@
    },
    "game_id": "nte",
    "delta_24h": 0,
-   "delta_7d": 161,
-   "growth_metric": 161,
+   "delta_7d": 146,
+   "growth_metric": 146,
    "growth_window": "7d",
    "absolute_views": 6016,
    "hold": false,
-   "last_updated": "2026-11-28T04:14:47+09:00",
+   "last_updated": "2026-11-28T07:11:06+09:00",
+   "rank": 5
+  },
+  {
+   "character_id": "wuwa-lily",
+   "name": {
+    "ko": "릴리",
+    "en": "Lily"
+   },
+   "game_id": "wuwa",
+   "delta_24h": 0,
+   "delta_7d": 40,
+   "growth_metric": 40,
+   "growth_window": "7d",
+   "absolute_views": 742304,
+   "hold": false,
+   "last_updated": "2026-11-28T07:11:06+09:00",
    "rank": 6
   },
   {
@@ -130,7 +130,7 @@
    "growth_window": "7d",
    "absolute_views": 41488,
    "hold": false,
-   "last_updated": "2026-11-28T04:14:47+09:00",
+   "last_updated": "2026-11-28T07:11:06+09:00",
    "rank": 7
   },
   {
@@ -147,7 +147,7 @@
    "growth_window": "7d",
    "absolute_views": 71369,
    "hold": false,
-   "last_updated": "2026-11-28T04:14:47+09:00",
+   "last_updated": "2026-11-28T07:11:06+09:00",
    "rank": 8
   },
   {
@@ -163,7 +163,7 @@
    "growth_window": "7d",
    "absolute_views": 48081,
    "hold": false,
-   "last_updated": "2026-11-28T04:14:47+09:00",
+   "last_updated": "2026-11-28T07:11:06+09:00",
    "rank": 9
   },
   {
@@ -180,7 +180,7 @@
    "growth_window": "24h",
    "absolute_views": 51914,
    "hold": false,
-   "last_updated": "2026-11-28T04:14:47+09:00",
+   "last_updated": "2026-11-28T07:11:06+09:00",
    "rank": 10
   },
   {
@@ -197,7 +197,7 @@
    "growth_window": "24h",
    "absolute_views": 18897,
    "hold": false,
-   "last_updated": "2026-11-28T04:14:47+09:00",
+   "last_updated": "2026-11-28T07:11:06+09:00",
    "rank": 11
   }
  ]
