@@ -10,7 +10,7 @@
  "is_rerun": false,
  "reveal_date": "2026-11-24",
  "first_seen_at": "2026-11-24T19:26:42+09:00",
- "last_seen_at": "2026-11-27T07:14:06+09:00",
+ "last_seen_at": "2026-11-27T10:41:58+09:00",
  "alltime_rank": null,
  "peak_pv_views": null,
  "peak_lift": null,
@@ -48,7 +48,7 @@
  "note": "all-time는 현재 점수에 합산하지 않음. 스냅샷 없는 과거 윈도우는 null.",
  "current": {
   "score": null,
-  "score_raw": 55.22,
+  "score_raw": 55.23,
   "coverage": 0.3333,
   "reliability": 0.3333,
   "provisional": false,
@@ -58,7 +58,7 @@
   "lift_vs_game_baseline": null,
   "growth_rate_7d": null,
   "related_posts": [],
-  "last_updated": "2026-11-27T07:14:06+09:00",
+  "last_updated": "2026-11-27T10:41:58+09:00",
   "note": "current score does not include all-time records"
  }
 }
