@@ -9,14 +9,14 @@
  "is_rerun": false,
  "reveal_date": "2026-10-30",
  "first_seen_at": "2026-11-10T00:24:08+09:00",
- "last_seen_at": "2026-11-28T13:17:41+09:00",
+ "last_seen_at": "2026-11-28T16:34:56+09:00",
  "alltime_rank": 1,
  "peak_pv_views": 531044.0,
  "peak_lift": 4.486,
  "peak_trends": null,
  "recorded_deltas": {
-  "d24h": 5296.0,
-  "d7d": 37024.0,
+  "d24h": 4859.0,
+  "d7d": 35888.0,
   "d30d": null
  },
  "pv_growth_series": [
@@ -814,6 +814,11 @@
    "at": "2026-11-28T13:17:41+09:00",
    "video_id": "T1d3GwCDG8w",
    "views": 531044.0
+  },
+  {
+   "at": "2026-11-28T16:34:56+09:00",
+   "video_id": "T1d3GwCDG8w",
+   "views": 531044.0
   }
  ],
  "pv_series_by_video": [
@@ -1474,6 +1479,10 @@
     {
      "at": "2026-11-28T13:17:41+09:00",
      "views": 531044.0
+    },
+    {
+     "at": "2026-11-28T16:34:56+09:00",
+     "views": 531044.0
     }
    ]
   }
@@ -1521,8 +1530,8 @@
   "hold": false,
   "hold_reason": null,
   "absolute_views": 531044,
-  "lift_vs_game_baseline": 4.486,
-  "growth_rate_7d": 37024,
+  "lift_vs_game_baseline": null,
+  "growth_rate_7d": 35888,
   "related_posts": [
    {
     "title": "원신 라이오슬리 생일 11월 23일 | 스티커 내기랑 차 좋아하는 공작님",
@@ -1530,7 +1539,7 @@
     "published": "Tue, 24 Nov 2026 20:37:36 +0900"
    }
   ],
-  "last_updated": "2026-11-28T13:17:41+09:00",
+  "last_updated": "2026-11-28T16:34:56+09:00",
   "note": "current score does not include all-time records"
  }
 }
